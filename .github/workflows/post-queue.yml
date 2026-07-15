@@ -1,0 +1,43 @@
+# meta-automation cloud poster (same pattern as social-automation post-memes)
+name: Run Meta post queue (IG + comments)
+
+on:
+  schedule:
+    # 03:12 UTC = 09:12 Dhaka — right after the daily 09:10 IG slot
+    - cron: "12 3 * * *"
+    # hourly catch-all at :07 for comments and any late/added queue items
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: posting
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Build accounts.json from secret
+        run: printf '%s' "$ACCOUNTS_JSON" > accounts.json
+        env:
+          ACCOUNTS_JSON: ${{ secrets.ACCOUNTS_JSON }}
+      - name: Run queue
+        run: python meta_cli.py run-queue
+      - name: Commit queue state
+        if: always()
+        run: |
+          rm -f accounts.json
+          git config user.name "auto-poster"
+          git config user.email "actions@github.com"
+          git add queue.json comments.json
+          git diff --cached --quiet || git commit -m "queue: mark posted"
+          git pull --rebase origin main
+          git push

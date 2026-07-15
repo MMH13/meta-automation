@@ -1,0 +1,10 @@
+accounts.json
+queue-run.log
+__pycache__/
+*.pyc
+images/*.html
+images/health_test.png
+images/html_test.png
+images/ai_test.png
+images/style_test_*.png
+images/2026-*.png

@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "photo_id": "1342719314675253",
+      "when": "2026-07-15T14:00:00+06:00",
+      "message": "🎁 ইমেইল রিপ্লাই প্রম্পট (কপি করুন):\n\n\"You are my professional email assistant. I will paste an email I received. Write a reply that is: 1) polite and professional, 2) clear and to the point, 3) in the same language as the original email. If any information is missing from my side, mark it as [FILL IN]. Here is the email: [ইমেইলটা এখানে পেস্ট করুন]\"\n\nব্যস — যেকোনো ইমেইলের রেডি রিপ্লাই! কেমন লাগলো জানাবেন 👇",
+      "account": "mamun-hossain",
+      "status": "posted",
+      "n": 2,
+      "result": {
+        "id": "1342719314675253_1252635327926568"
+      }
+    },
+    {
+      "photo_id": "1342719688008549",
+      "when": "2026-07-16T14:00:00+06:00",
+      "message": "🎁 ক্লায়েন্ট প্রপোজাল প্রম্পট (কপি করুন):\n\n\"You are an expert freelance proposal writer. My skills: [আপনার স্কিল]. My experience: [কত বছর/কী কাজ করেছেন]. Here is the client's job post: [জব পোস্ট পেস্ট করুন]. Write a short, personalized proposal (under 150 words) that: 1) shows I understood their specific problem, 2) mentions one relevant example of my work, 3) ends with a question to start conversation. No generic lines like 'I am hardworking'.\"\n\nকাজ পেলে মিষ্টি খাওয়াবেন 😄👇",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 6
+    },
+    {
+      "photo_id": "1342719994675185",
+      "when": "2026-07-17T14:00:00+06:00",
+      "message": "🎁 হুক জেনারেটর প্রম্পট (কপি করুন):\n\n\"You are a viral content expert for Bengali Facebook audiences. My post topic: [টপিক লিখুন]. Write 10 different hooks (first lines) in Bengali for this topic. Mix these styles: curiosity gap, bold claim, common mistake, personal story opener, surprising fact, direct question. Each hook under 15 words. Rank them from strongest to weakest and explain why #1 works.\"\n\nসবচেয়ে ভালো হুকটা কমেন্টে শেয়ার করেন, দেখি কারটা সেরা 😄",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 10
+    },
+    {
+      "photo_id": "1342720521341799",
+      "when": "2026-07-19T14:00:00+06:00",
+      "message": "🎁 প্রোডাক্ট ডেসক্রিপশন প্রম্পট (কপি করুন):\n\n\"You are a direct-response copywriter for Bangladeshi online shoppers. My product: [প্রোডাক্টের নাম ও বিবরণ]. Target customer: [কারা কেনে]. Price: [দাম]. Write 3 versions of a Facebook product description in Bengali: 1) emotional storytelling version, 2) benefits + bullet points version, 3) urgency/offer version. Each under 100 words with a clear call-to-action.\"\n\nযেটা সবচেয়ে ভালো কাজ করে, জানাবেন 😄",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 18
+    },
+    {
+      "photo_id": "1342720868008431",
+      "when": "2026-07-20T14:00:00+06:00",
+      "message": "🎁 ভিডিও স্ক্রিপ্ট প্রম্পট (কপি করুন):\n\n\"You are a short-form video scriptwriter. My video topic: [টপিক]. My audience: [কারা দেখবে]. Video length: 60 seconds. Write the script in Bengali with this structure: 1) HOOK (first 3 seconds - stop the scroll), 2) MAIN VALUE (3 key points, conversational tone), 3) CTA (follow + comment prompt). Add [camera/text direction] notes in brackets. Keep it natural spoken Bengali, not formal written.\"\n\nপ্রথম ভিডিওটা বানিয়ে ট্যাগ দিয়েন 😄",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 22
+    },
+    {
+      "photo_id": "1342721534675031",
+      "when": "2026-07-22T14:00:00+06:00",
+      "message": "🎁 কনটেন্ট রিপারপাস প্রম্পট (কপি করুন):\n\n\"You are a content repurposing expert. Here is my original content: [ব্লগ/পোস্ট/স্ক্রিপ্ট পেস্ট করুন]. Create from it: 1) 5 short Facebook posts (each with a hook + one idea + question), 2) 3 reels scripts (30 sec each), 3) 1 carousel outline (7 slides), 4) 1 email newsletter draft. Everything in Bengali, keep my tone.\"\n\nএকটা কনটেন্ট = এক সপ্তাহের ফিড 😎",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 30
+    },
+    {
+      "photo_id": "1342722014674983",
+      "when": "2026-07-23T14:00:00+06:00",
+      "message": "🎁 ইংলিশ প্র্যাকটিস প্রম্পট (কপি করুন):\n\n\"You are my personal English speaking partner. My level: beginner/intermediate [আপনারটা রাখুন]. Rules: 1) Talk with me in simple English about daily topics, 2) When I make a mistake, correct it and explain in Bengali why it's wrong, 3) Teach me one new useful phrase every conversation, 4) At the end, give my performance a score out of 10 with one improvement tip. Start by asking about my day.\"\n\nপ্রতিদিন ১৫ মিনিট — ৩ মাসে ম্যাজিক দেখবেন 💪",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 34
+    },
+    {
+      "photo_id": "1342722698008248",
+      "when": "2026-07-25T14:00:00+06:00",
+      "message": "🎁 ক্যাপশন + হ্যাশট্যাগ প্রম্পট (কপি করুন):\n\n\"You are a social media strategist for Bengali content. My post topic: [টপিক]. My page niche: [নিশ]. Target audience: [অডিয়েন্স]. Give me: 1) 3 caption options in Bengali (one short punchy, one storytelling, one list-style), 2) 8 hashtags mixed sizes (niche-specific + medium + broad), 3) best posting time suggestion with reason, 4) one engagement question to add at the end.\"\n\nপরের পোস্টে ইউজ করে দেখুন 😉",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 42
+    },
+    {
+      "photo_id": "1342723394674845",
+      "when": "2026-07-27T14:00:00+06:00",
+      "message": "🎁 মক ইন্টারভিউ প্রম্পট (কপি করুন):\n\n\"You are an experienced hiring manager interviewing me for the position of [পজিশন] at [কোম্পানি টাইপ]. My background: [আপনার শিক্ষা/অভিজ্ঞতা সংক্ষেপে]. Rules: 1) Ask one question at a time and wait for my answer, 2) After each answer give honest feedback in Bengali — what was good, what was weak, and a stronger sample answer, 3) Mix common + tricky + role-specific questions, 4) After 8 questions, give my overall score out of 10 and my top 3 improvement areas.\"\n\nইন্টারভিউর আগের রাতে ২ রাউন্ড করে নিন — কনফিডেন্স অন্য লেভেলে থাকবে 💪",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 50
+    },
+    {
+      "photo_id": "1342724004674784",
+      "when": "2026-07-29T14:00:00+06:00",
+      "message": "🎁 উইকলি প্ল্যানার প্রম্পট (কপি করুন):\n\n\"You are my personal productivity coach. My main goals this week: [৩টা লক্ষ্য লিখুন]. My fixed commitments: [জব/ক্লাস/পরিবারের সময়]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign my goals to specific days and time blocks, 2) keep hard tasks in my peak energy hours, 3) add rest and buffer time, 4) one small daily habit that compounds, 5) keep weekends lighter. Format as a simple day-by-day table.\"\n\nপ্ল্যানটা বানিয়ে স্ক্রিনশট সেভ করে রাখুন 📌",
+      "account": "mamun-hossain",
+      "status": "pending",
+      "n": 58
+    }
+  ]
+}
