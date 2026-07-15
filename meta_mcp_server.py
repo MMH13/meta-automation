@@ -156,17 +156,22 @@ def refresh_accounts() -> str:
 
 @mcp.tool()
 def fb_post(message: str, link: str = "", schedule: str = "",
-            account: str = "") -> str:
+            geo_countries: str = "", account: str = "") -> str:
     """Publish a text or link post to the Facebook Page feed.
     link: optional URL to attach (renders a preview card).
     schedule: optional ISO datetime (e.g. 2026-07-14T09:00 local time) to use Facebook's
-    native scheduling — must be 10 minutes to 75 days in the future."""
+    native scheduling — must be 10 minutes to 75 days in the future.
+    geo_countries: optional comma-separated country codes (e.g. 'US,GB,DE') —
+    gates the post so ONLY those countries can see it."""
     payload = {"message": message}
     if link:
         payload["link"] = link
     if schedule:
         payload["published"] = False
         payload["scheduled_publish_time"] = _to_unix(schedule)
+    if geo_countries:
+        payload["targeting"] = {"geo_locations": {
+            "countries": [x.strip().upper() for x in geo_countries.split(",")]}}
     r = _api("POST", f"{_cfg(account)['page_id']}/feed", account=account,
              payload=payload)
     return _dump(r)
@@ -174,15 +179,21 @@ def fb_post(message: str, link: str = "", schedule: str = "",
 
 @mcp.tool()
 def fb_post_photo(image: str, caption: str = "", schedule: str = "",
-                  account: str = "") -> str:
+                  geo_countries: str = "", account: str = "") -> str:
     """Publish a photo post to the Facebook Page.
     image: either a public https URL or a LOCAL file path (uploaded directly).
-    schedule: optional ISO datetime for Facebook's native scheduling."""
+    schedule: optional ISO datetime for Facebook's native scheduling.
+    geo_countries: optional comma-separated country codes (e.g. 'US,GB,DE') —
+    gates the post so ONLY those countries can see it. NOTE: scheduled photo
+    posts cannot be edited later — set targeting/time correctly at creation."""
     c = _cfg(account)
     data = {"message": caption, "access_token": c["page_token"]}
     if schedule:
         data["published"] = "false"
         data["scheduled_publish_time"] = str(_to_unix(schedule))
+    if geo_countries:
+        data["targeting"] = json.dumps({"geo_locations": {
+            "countries": [x.strip().upper() for x in geo_countries.split(",")]}})
     if image.lower().startswith(("http://", "https://")):
         data["url"] = image
         resp = requests.post(f"{GRAPH}/{c['page_id']}/photos", data=data,
