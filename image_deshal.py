@@ -14,6 +14,15 @@ _FONTS_BN = ('<link href="https://fonts.googleapis.com/css2?'
              'family=Hind+Siliguri:wght@400;500;600;700&family=Baloo+Da+2:wght@600;700;800'
              '&display=swap" rel="stylesheet">')
 
+# === Radio Deshal signature brand (OWN colors — deliberately NOT earki red) ===
+BRAND = {
+    "teal":   "#0e4d5c",   # primary deep teal
+    "teal2":  "#0a3a45",   # darker teal (gradient end)
+    "yellow": "#ffcc29",   # sunny accent
+    "cream":  "#fdfbf3",
+    "ink":    "#0a2a32",
+}
+
 # rotating fun gradients (bright, entertainment vibe)
 THEMES = {
     "sunset":  ("linear-gradient(150deg,#ff6b6b 0%,#ee5a6f 45%,#f0932b 100%)", "#fff3d6"),
@@ -112,3 +121,70 @@ def deshal_versus(top_label, top_text, bottom_label, bottom_text, out_path,
 
 def _bn_lines_plain(text):
     return "<br>".join(escape(x) for x in text.strip().split("\n"))
+
+
+def deshal_headline(headline, out_path, dateline="রেডিও দেশাল ব্যুরো",
+                    kicker="ব্যঙ্গ সংবাদ", emoji=""):
+    """Fake-news 'breaking headline' satire card in Radio Deshal's OWN brand
+    (teal + yellow). For EVERGREEN/safe satire only — no real people/politics."""
+    B = BRAND
+    hero = f'<div class="hero">{emoji}</div>' if emoji else ""
+    html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_BN}
+<style>
+  * {{ margin:0; padding:0; box-sizing:border-box; }}
+  body {{ width:{W}px; height:{H}px; overflow:hidden; position:relative;
+       background:linear-gradient(160deg,{B['teal']} 0%,{B['teal2']} 100%);
+       font-family:'Hind Siliguri',sans-serif; }}
+  .grain {{ position:absolute; inset:0; opacity:.06;
+       background-image:radial-gradient(#fff 1px, transparent 1px);
+       background-size:22px 22px; }}
+  /* top brand bar */
+  .bar {{ position:absolute; top:0; left:0; right:0; height:120px;
+       background:{B['yellow']}; display:flex; align-items:center;
+       padding:0 56px; gap:20px; }}
+  .logo {{ width:70px; height:70px; border-radius:50%; background:{B['teal']};
+       display:flex; align-items:center; justify-content:center; font-size:38px; }}
+  .brandname {{ font-family:'Baloo Da 2',cursive; font-weight:800; font-size:46px;
+       color:{B['teal']}; line-height:1; }}
+  .live {{ margin-left:auto; background:{B['teal']}; color:{B['yellow']};
+       font-family:'Baloo Da 2',cursive; font-weight:800; font-size:28px;
+       padding:12px 24px; border-radius:10px; letter-spacing:1px; }}
+  /* kicker tag */
+  .kick {{ position:absolute; top:180px; left:56px; background:{B['yellow']};
+       color:{B['ink']}; font-family:'Baloo Da 2',cursive; font-weight:800;
+       font-size:32px; padding:10px 26px; border-radius:8px; letter-spacing:1px; }}
+  .wrap {{ position:absolute; left:56px; right:56px; top:270px; bottom:230px;
+       display:flex; flex-direction:column; justify-content:center; gap:30px; }}
+  {hero and '.hero { font-size:130px; }'}
+  .headline {{ font-family:'Baloo Da 2',cursive; font-weight:800;
+       font-size:82px; line-height:1.28; color:#fff; }}
+  .headline .hl {{ color:{B['yellow']}; }}
+  /* bottom ticker */
+  .ticker {{ position:absolute; bottom:0; left:0; right:0; height:150px;
+       background:{B['yellow']}; display:flex; align-items:center; padding:0 56px; }}
+  .tk-tag {{ background:{B['teal']}; color:{B['yellow']}; font-family:'Baloo Da 2',cursive;
+       font-weight:800; font-size:30px; padding:14px 26px; border-radius:8px;
+       margin-right:26px; white-space:nowrap; }}
+  .dateline {{ font-size:34px; font-weight:600; color:{B['ink']}; line-height:1.25; }}
+</style></head><body>
+  <div class="grain"></div>
+  <div class="bar"><div class="logo">📻</div>
+    <div class="brandname">রেডিও দেশাল</div>
+    <div class="live">সংবাদ</div></div>
+  <div class="kick">🎙️ {escape(kicker)}</div>
+  <div class="wrap">{hero}
+    <div class="headline">{_bn_hl(headline, B['yellow'])}</div></div>
+  <div class="ticker"><div class="tk-tag">দেশাল বিশেষ</div>
+    <div class="dateline">— {escape(dateline)}</div></div>
+</body></html>"""
+    return _render_html(html, out_path)
+
+
+def _bn_hl(text, color):
+    import re
+    out = []
+    for ln in text.strip().split("\n"):
+        h = re.sub(r"\*(.+?)\*", lambda m: f'<span class="hl">{m.group(1)}</span>',
+                   escape(ln.strip()))
+        out.append(h)
+    return "<br>".join(out)
