@@ -27,6 +27,7 @@ into Windows Task Scheduler (e.g. every 15 minutes) for hands-off scheduling.
 
 import json
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -84,11 +85,13 @@ def run_queue(dry_run: bool) -> None:
     if not due:
         print("Nothing due.")
         return
-    for item in due:
+    for n, item in enumerate(due):
         label = f"{item['id']} [{item['network']}/{item.get('type')}] -> {item.get('account') or meta.DEFAULT_ACCOUNT}"
         if dry_run:
             print("WOULD POST:", label)
             continue
+        if n:  # pace writes — bursts previously tripped Meta's abuse block
+            time.sleep(8)
         try:
             result = _post(item)
             item["status"] = "posted"
