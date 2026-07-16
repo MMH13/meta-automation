@@ -16,8 +16,11 @@
       "when": "2026-07-16T14:00:00+06:00",
       "message": "🎁 ক্লায়েন্ট প্রপোজাল প্রম্পট (কপি করুন):\n\n\"You are an expert freelance proposal writer. My skills: [আপনার স্কিল]. My experience: [কত বছর/কী কাজ করেছেন]. Here is the client's job post: [জব পোস্ট পেস্ট করুন]. Write a short, personalized proposal (under 150 words) that: 1) shows I understood their specific problem, 2) mentions one relevant example of my work, 3) ends with a question to start conversation. No generic lines like 'I am hardworking'.\"\n\nকাজ পেলে মিষ্টি খাওয়াবেন 😄👇",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 6
+      "status": "posted",
+      "n": 6,
+      "result": {
+        "id": "1342719688008549_1903120460354014"
+      }
     },
     {
       "photo_id": "1342719994675185",
