@@ -49,11 +49,25 @@ def _post(item) -> dict:
     acct = item.get("account", "")
     net, typ = item["network"], item.get("type", "link")
     msg = item.get("message", "")
+    geo = item.get("geo_countries", "")
     if net == "facebook":
         if typ == "photo":
             img = item.get("image") or item["image_url"]  # URL or local path
-            return json.loads(meta.fb_post_photo(img, msg, account=acct))
-        return json.loads(meta.fb_post(msg, item.get("link", ""), account=acct))
+            r = json.loads(meta.fb_post_photo(img, msg, geo_countries=geo,
+                                              account=acct))
+        else:  # "link" / "text"
+            r = json.loads(meta.fb_post(msg, item.get("link", ""),
+                                        geo_countries=geo, account=acct))
+        fc = item.get("first_comment")
+        if fc:
+            post_id = r.get("post_id") or r["id"]
+            try:
+                c = meta._api("POST", f"{post_id}/comments", account=acct,
+                              payload={"message": fc})
+                r["first_comment_id"] = c.get("id")
+            except Exception as e:  # comment failure shouldn't fail the post
+                r["first_comment_error"] = str(e)[:200]
+        return r
     if net == "instagram":
         if typ == "carousel":
             return json.loads(meta.ig_post_carousel(item["image_urls"], msg, account=acct))
