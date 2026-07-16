@@ -160,11 +160,17 @@
       "network": "facebook",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-16T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🚪 One door leads out. One doesn't. You may ask ONE guard ONE question — but you don't know which guard lies.\n\nWhat do you ask? Answer in the first comment — but try first 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r01.png",
-      "first_comment": "🕵️ ANSWER: Ask either guard — \"Which door would the OTHER guard say leads out?\" Then pick the opposite door. The lie and the truth cancel each other. Got it right? 🧠👇"
+      "first_comment": "🕵️ ANSWER: Ask either guard — \"Which door would the OTHER guard say leads out?\" Then pick the opposite door. The lie and the truth cancel each other. Got it right? 🧠👇",
+      "result": {
+        "id": "1465968448888183",
+        "post_id": "2642505565823038_1465968485554846",
+        "first_comment_id": "1465968485554846_1334614621605678"
+      },
+      "posted_at": "2026-07-16T16:37:44+00:00"
     },
     {
       "id": "sa2-02",
