@@ -178,9 +178,13 @@
       "network": "facebook",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-16T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Fill in the blank:\n\nThe scariest sound at 3 AM is ____.\n\n(Wrong answers also accepted 😅)👇\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "Fill in the blank:\n\nThe scariest sound at 3 AM is ____.\n\n(Wrong answers also accepted 😅)👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1466030068882021"
+      },
+      "posted_at": "2026-07-16T18:15:01+00:00"
     },
     {
       "id": "sa2-03",
