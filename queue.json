@@ -1008,22 +1008,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-17T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d1-1",
       "network": "facebook",
       "type": "photo",
       "message": "💧 The '8 glasses' rule has no strong scientific origin — it's a rough guideline, not a prescription.\n\nBetter approach: drink when thirsty, drink more when hot or active, and check the colour.\n\n💬 How do YOU track your water? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_1.png"
+      "image_url": "images/hd8/d1_1.png",
+      "result": {
+        "id": "1693994189282746",
+        "post_id": "152206688762695_1693994225949409"
+      },
+      "posted_at": "2026-07-17T07:25:44+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-17T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d1-1",
       "network": "instagram",
       "type": "image",
       "message": "💧 The '8 glasses' rule has no strong scientific origin — it's a rough guideline, not a prescription.\n\nBetter approach: drink when thirsty, drink more when hot or active, and check the colour.\n\n💬 How do YOU track your water? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_1.png"
+      "image_url": "images/hd8/d1_1.png",
+      "result": {
+        "media_id": "18104142406891480",
+        "permalink": "https://www.instagram.com/p/Da4rM6eH7qx/"
+      },
+      "posted_at": "2026-07-17T07:26:03+00:00"
     },
     {
       "account": "health-daily",
@@ -1907,11 +1917,16 @@
       "id": "x-01",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 ফ্রিজের ভেতরে কি জাদু হয়? না। তবু আমরা আশা ছাড়ি না।\n\n💬 দিনে কতবার ফ্রিজ খোলেন? সৎ উত্তর 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_01.png",
-      "when": "2026-07-17T06:00:00+00:00"
+      "when": "2026-07-17T06:00:00+00:00",
+      "result": {
+        "id": "1337438051839432",
+        "post_id": "1191612787659871_1337438078506096"
+      },
+      "posted_at": "2026-07-17T07:26:16+00:00"
     },
     {
       "id": "x-02",
