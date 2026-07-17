@@ -217,9 +217,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-17T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "The call center where I worked nights had one rule nobody explained: if a caller stays silent, you may hang up after ten seconds — except on line 9. On line 9, you wait.\n\nLine 9 rang maybe once a month. Always 3-4 AM. Always silence — but not empty silence. Breathing. Distant sounds. Once, faint music from a kitchen radio.\n\nI asked my supervisor who it was. She said: \"Someone who needs to know a person is there. You want the job, you wait on line 9.\"\n\nFor two years, I waited. Sometimes twenty minutes. The caller never spoke. But right before hanging up, every time — a whisper: \"Thank you.\"\n\nMy last week, line 9 rang. Silence. Breathing. Then, for the first time, a full sentence:\n\n\"You can stop waiting now. I found everyone I was looking for.\"\n\nThe next morning, corporate emailed: line 9 had been disconnected for non-payment.\n\nIt had been disconnected for six years.\n\n👇 Would you have kept answering? Follow for one story every night.\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "The call center where I worked nights had one rule nobody explained: if a caller stays silent, you may hang up after ten seconds — except on line 9. On line 9, you wait.\n\nLine 9 rang maybe once a month. Always 3-4 AM. Always silence — but not empty silence. Breathing. Distant sounds. Once, faint music from a kitchen radio.\n\nI asked my supervisor who it was. She said: \"Someone who needs to know a person is there. You want the job, you wait on line 9.\"\n\nFor two years, I waited. Sometimes twenty minutes. The caller never spoke. But right before hanging up, every time — a whisper: \"Thank you.\"\n\nMy last week, line 9 rang. Silence. Breathing. Then, for the first time, a full sentence:\n\n\"You can stop waiting now. I found everyone I was looking for.\"\n\nThe next morning, corporate emailed: line 9 had been disconnected for non-payment.\n\nIt had been disconnected for six years.\n\n👇 Would you have kept answering? Follow for one story every night.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1466814985470196"
+      },
+      "posted_at": "2026-07-17T16:22:54+00:00"
     },
     {
       "id": "sa2-06",
@@ -846,8 +850,13 @@
       "type": "photo",
       "message": "🕵️ অনুসন্ধানে যা উঠে এসেছে, তা রীতিমতো ভয়াবহ।\n\nদেশের প্রায় প্রতিটি ঘরে বছরের পর বছর ধরে চলছে এই ঘটনা। ছোটবেলায় জমানো ঈদের সালামি, স্কুলের টিফিনের বেঁচে যাওয়া টাকা, কিংবা প্রথম বেতনের টাকা — মায়ের কাছে \"একটু পরে দিচ্ছি\" শুনে জমা দেওয়ার পর সেই টাকার আর কোনো হদিস মেলেনি।\n\nভুক্তভোগীদের একজন জানান, \"২০০৯ সালে ৫০০ টাকা দিয়েছিলাম। আজও অপেক্ষায় আছি।\"\n\nতবে বিশেষজ্ঞরা বলছেন, এই টাকা আসলে হারায় না — মায়ের হাত ঘুরে সেটা ফেরত আসে নতুন জামা, প্রিয় খাবার আর আরও অনেক কিছু হয়ে। 💚\n\n💬 আপনার কত টাকা আজও \"একটু পরে\"-র অপেক্ষায় আছে? কমেন্টে অ্যামাউন্ট লিখুন 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/sat_01.png",
-      "status": "pending",
-      "when": "2026-07-17T16:00:00+00:00"
+      "status": "posted",
+      "when": "2026-07-17T16:00:00+00:00",
+      "result": {
+        "id": "1337770891806148",
+        "post_id": "1191612787659871_1337770908472813"
+      },
+      "posted_at": "2026-07-17T16:23:06+00:00"
     },
     {
       "id": "sat-02",
@@ -1052,22 +1061,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-17T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d1-4",
       "network": "facebook",
       "type": "photo",
       "message": "🌙 Everyone talks about phone screens, but bright ceiling lights do the same thing: they tell your brain it's still daytime.\n\nTry lamps instead of overheads after 9 PM. It's a small change with a real effect on how fast you fall asleep.\n\n💬 What time do you usually get to sleep? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_4.png"
+      "image_url": "images/hd8/d1_4.png",
+      "result": {
+        "id": "1694377892577709",
+        "post_id": "152206688762695_1694377932577705"
+      },
+      "posted_at": "2026-07-17T16:23:21+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-17T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d1-4",
       "network": "instagram",
       "type": "image",
       "message": "🌙 Everyone talks about phone screens, but bright ceiling lights do the same thing: they tell your brain it's still daytime.\n\nTry lamps instead of overheads after 9 PM. It's a small change with a real effect on how fast you fall asleep.\n\n💬 What time do you usually get to sleep? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_4.png"
+      "image_url": "images/hd8/d1_4.png",
+      "result": {
+        "media_id": "18169451407434667",
+        "permalink": "https://www.instagram.com/p/Da5ouobFnEZ/"
+      },
+      "posted_at": "2026-07-17T16:23:43+00:00"
     },
     {
       "account": "health-daily",
