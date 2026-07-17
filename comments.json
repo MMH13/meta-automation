@@ -27,8 +27,11 @@
       "when": "2026-07-17T14:00:00+06:00",
       "message": "🎁 হুক জেনারেটর প্রম্পট (কপি করুন):\n\n\"You are a viral content expert for Bengali Facebook audiences. My post topic: [টপিক লিখুন]. Write 10 different hooks (first lines) in Bengali for this topic. Mix these styles: curiosity gap, bold claim, common mistake, personal story opener, surprising fact, direct question. Each hook under 15 words. Rank them from strongest to weakest and explain why #1 works.\"\n\nসবচেয়ে ভালো হুকটা কমেন্টে শেয়ার করেন, দেখি কারটা সেরা 😄",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 10
+      "status": "posted",
+      "n": 10,
+      "result": {
+        "id": "1342719994675185_2566667240453842"
+      }
     },
     {
       "photo_id": "1342720521341799",

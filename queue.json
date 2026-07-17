@@ -882,8 +882,13 @@
       "type": "photo",
       "message": "😴 দীর্ঘ গবেষণার পর বিজ্ঞানীরা অবশেষে নিশ্চিত করেছেন — \"আর ৫ মিনিট\" পৃথিবীর সবচেয়ে বড় মিথ্যা।\n\nগবেষণায় দেখা গেছে, অ্যালার্ম বন্ধ করে \"আর ৫ মিনিট\" বলার পর মানুষ গড়ে ২ ঘণ্টা ১৭ মিনিট ঘুমায়। আর ঠিক সেই ঘুমটাই হয় জীবনের সবচেয়ে আরামের ঘুম।\n\nএক ভুক্তভোগী জানান, \"৭টার অ্যালার্ম দিয়েছিলাম। চোখ খুলে দেখি ৯টা ৪০। অফিস তখন অনেক দূরের বিষয়।\"\n\nবিশেষজ্ঞদের পরামর্শ: অ্যালার্ম ঘড়িটা বিছানা থেকে দূরে রাখুন। যদিও তারা স্বীকার করেছেন, মানুষ উঠে গিয়ে অ্যালার্ম বন্ধ করে আবার শুয়ে পড়ে। 🛌\n\n💬 আপনার রেকর্ড কত? \"৫ মিনিট\" বলে সর্বোচ্চ কত ঘণ্টা ঘুমিয়েছেন? কমেন্টে লিখুন 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/sat_00.png",
-      "status": "pending",
-      "when": "2026-07-17T08:00:00+00:00"
+      "status": "posted",
+      "when": "2026-07-17T08:00:00+00:00",
+      "result": {
+        "id": "1337528138497090",
+        "post_id": "1191612787659871_1337528171830420"
+      },
+      "posted_at": "2026-07-17T10:07:59+00:00"
     },
     {
       "id": "sat-01",
@@ -1038,22 +1043,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-17T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d1-2",
       "network": "facebook",
       "type": "photo",
       "message": "🧠 That 3 PM brain fog? Before you reach for more coffee, try a glass of water.\n\nStudies show even 1-2% dehydration measurably affects concentration and mood.\n\n💬 Ever noticed you focus better after drinking water? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_2.png"
+      "image_url": "images/hd8/d1_2.png",
+      "result": {
+        "id": "1694094259272739",
+        "post_id": "152206688762695_1694094285939403"
+      },
+      "posted_at": "2026-07-17T10:08:19+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-17T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d1-2",
       "network": "instagram",
       "type": "image",
       "message": "🧠 That 3 PM brain fog? Before you reach for more coffee, try a glass of water.\n\nStudies show even 1-2% dehydration measurably affects concentration and mood.\n\n💬 Ever noticed you focus better after drinking water? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_2.png"
+      "image_url": "images/hd8/d1_2.png",
+      "result": {
+        "media_id": "18061492442727892",
+        "permalink": "https://www.instagram.com/p/Da49zx4kndb/"
+      },
+      "posted_at": "2026-07-17T10:08:42+00:00"
     },
     {
       "account": "health-daily",
@@ -1932,11 +1947,16 @@
       "id": "x-02",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😩 নেটফ্লিক্স/ইউটিউব যখন জিজ্ঞেস করে \"আপনি কি এখনো দেখছেন?\" — তখন মনে হয় জীবনের প্রশ্নটাই করে ফেলল।\n\n💬 আপনার রেকর্ড কত এপিসোড এক রাতে? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_02.png",
-      "when": "2026-07-17T10:00:00+00:00"
+      "when": "2026-07-17T10:00:00+00:00",
+      "result": {
+        "id": "1337528751830362",
+        "post_id": "1191612787659871_1337528771830360"
+      },
+      "posted_at": "2026-07-17T10:08:55+00:00"
     },
     {
       "id": "x-03",
