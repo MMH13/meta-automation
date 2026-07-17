@@ -206,10 +206,11 @@
       "network": "facebook",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-17T00:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "type": "photo",
       "message": "😨 Two sentences. That's all a story needs.\n\nCan you write a scarier one in two sentences? Best one gets pinned 📌👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_h01.png"
+      "image_url": "images/suspense/b2_h01.png",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "id": "sa2-05",
@@ -968,22 +969,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-17T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d1-0",
       "network": "facebook",
       "type": "photo",
       "message": "☀️ You wake up mildly dehydrated — you just lost water for 7-8 hours through breathing alone.\n\nTea or coffee first thing gives you caffeine on an empty tank. Water first, then tea, and you'll notice steadier energy through the morning.\n\n💬 Tea-first or water-first? Be honest 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_0.png"
+      "image_url": "images/hd8/d1_0.png",
+      "result": {
+        "id": "1693713719310793",
+        "post_id": "152206688762695_1693713755977456"
+      },
+      "posted_at": "2026-07-17T00:08:55+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-17T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d1-0",
       "network": "instagram",
       "type": "image",
       "message": "☀️ You wake up mildly dehydrated — you just lost water for 7-8 hours through breathing alone.\n\nTea or coffee first thing gives you caffeine on an empty tank. Water first, then tea, and you'll notice steadier energy through the morning.\n\n💬 Tea-first or water-first? Be honest 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_0.png"
+      "image_url": "images/hd8/d1_0.png",
+      "result": {
+        "media_id": "18060850760507270",
+        "permalink": "https://www.instagram.com/p/Da35NuyFDCy/"
+      },
+      "posted_at": "2026-07-17T00:09:16+00:00"
     },
     {
       "account": "health-daily",
