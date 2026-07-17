@@ -245,11 +245,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-17T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🪟 A shop owner reports a break-in: \"They smashed the window and took everything.\" The detective looks at the window for five seconds and says: \"No one broke in. You did this.\"\n\nWhat did he see? Answer in the first comment 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r02.png",
-      "first_comment": "🕵️ ANSWER: The broken glass was lying OUTSIDE the shop. A window smashed from outside scatters glass INSIDE. It was broken from within. Did you spot it? 👇"
+      "first_comment": "🕵️ ANSWER: The broken glass was lying OUTSIDE the shop. A window smashed from outside scatters glass INSIDE. It was broken from within. Did you spot it? 👇",
+      "result": {
+        "id": "1467015148783513",
+        "post_id": "2642505565823038_1467015175450177",
+        "first_comment_id": "1467015175450177_1050679864311557"
+      },
+      "posted_at": "2026-07-17T22:02:15+00:00"
     },
     {
       "id": "sa2-08",
@@ -1109,22 +1115,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-17T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d1-6",
       "network": "facebook",
       "type": "photo",
       "message": "🚶 Timing beats duration here. The walk works best while your body is actually processing the meal.\n\nAfter lunch or dinner — around the block, around the house, anywhere.\n\n💬 Team walk or team couch after dinner? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_6.png"
+      "image_url": "images/hd8/d1_6.png",
+      "result": {
+        "id": "1694588882556610",
+        "post_id": "152206688762695_1694588892556609"
+      },
+      "posted_at": "2026-07-17T22:02:31+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-17T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d1-6",
       "network": "instagram",
       "type": "image",
       "message": "🚶 Timing beats duration here. The walk works best while your body is actually processing the meal.\n\nAfter lunch or dinner — around the block, around the house, anywhere.\n\n💬 Team walk or team couch after dinner? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_6.png"
+      "image_url": "images/hd8/d1_6.png",
+      "result": {
+        "media_id": "17976744582113399",
+        "permalink": "https://www.instagram.com/p/Da6PinoE_rI/"
+      },
+      "posted_at": "2026-07-17T22:02:53+00:00"
     },
     {
       "account": "health-daily",
