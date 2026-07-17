@@ -230,10 +230,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-17T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🌘 Rules: no calling anyone, the doors are locked, and you have to decide in 10 seconds.\n\nDo you check the kitchen — or walk straight out the front door?\n\nReact 🚪 for leave, 👀 for check. Explain yourself in the comments 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_w01.png"
+      "image_url": "images/suspense/b2_w01.png",
+      "result": {
+        "id": "1466887285462966",
+        "post_id": "2642505565823038_1466887315462963"
+      },
+      "posted_at": "2026-07-17T18:14:03+00:00"
     },
     {
       "id": "sa2-07",
@@ -1091,11 +1096,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-17T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d1-5",
       "network": "facebook",
       "type": "text",
-      "message": "Quick check-in 👇\n\nHow's your energy today?\n\n⚡ High — feeling great\n😐 Okay — up and down\n😴 Low — running on empty\n\nDrop your emoji below. And if you picked 😴 — when did you last drink water or step outside?\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Quick check-in 👇\n\nHow's your energy today?\n\n⚡ High — feeling great\n😐 Okay — up and down\n😴 Low — running on empty\n\nDrop your emoji below. And if you picked 😴 — when did you last drink water or step outside?\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1694457919236373"
+      },
+      "posted_at": "2026-07-17T18:14:19+00:00"
     },
     {
       "account": "health-daily",
