@@ -1921,11 +1921,16 @@
       "id": "x-03",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🤔 প্রতিটা বাসায় একপাটি মোজার একটা কবরস্থান আছে।\n\n💬 আপনার কয়টা 'একলা মোজা' আছে ঘরে? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_03.png",
-      "when": "2026-07-17T14:00:00+00:00"
+      "when": "2026-07-17T14:00:00+00:00",
+      "result": {
+        "id": "1337708785145692",
+        "post_id": "1191612787659871_1337708798479024"
+      },
+      "posted_at": "2026-07-17T14:50:44+00:00"
     },
     {
       "id": "x-04",
@@ -2185,7 +2190,12 @@
       "message": "🔖 Five thrillers that deserved a much bigger audience:\n\n1️⃣ PRISONERS — Jackman and Gyllenhaal, and a moral question with no clean answer. Two and a half hours that feel like ninety minutes.\n\n2️⃣ NIGHTCRAWLER — Gyllenhaal again, playing something not quite human. LA has never looked more sinister.\n\n3️⃣ WIND RIVER — quiet, cold, devastating. The most underrated of the Sheridan scripts.\n\n4️⃣ THE GUILTY (the Danish original) — one man, one room, one phone. Somehow unbearable.\n\n5️⃣ COHERENCE — made for almost nothing, and it'll wreck your brain for a week.\n\n📌 Save this for your next \"nothing to watch\" night.\n\n💬 Which one have you already seen? And what would YOU add to this list? 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_01.png",
       "when": "2026-07-17T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122197962548787954",
+        "post_id": "628257647029140_122197962566787954"
+      },
+      "posted_at": "2026-07-17T14:50:56+00:00"
     },
     {
       "id": "mv-02",
