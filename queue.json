@@ -728,10 +728,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-17T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 অ্যালার্মের ডাকে ঘুম ভাঙে না, কিন্তু একটা ভিডিও দেখতে বসলে সারারাত পার! কে কে এই দলে? 🙋\n\n💬 নিচে কমেন্টে বলো — তুমি কোন টিমে?\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "image_url": "images/deshal/b1_02.png"
+      "image_url": "images/deshal/b1_02.png",
+      "result": {
+        "id": "1337605781822659",
+        "post_id": "1191612787659871_1337605808489323"
+      },
+      "posted_at": "2026-07-17T12:18:17+00:00"
     },
     {
       "id": "rd1-03",
@@ -1017,22 +1022,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-17T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d1-3",
       "network": "facebook",
       "type": "photo",
       "message": "🍌 The most underrated cheap food there is.\n\nGreat before a walk or workout, and the fiber keeps you full longer than most snacks at the same price.\n\n💬 Banana lover or not a fan? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_3.png"
+      "image_url": "images/hd8/d1_3.png",
+      "result": {
+        "id": "1694183055930526",
+        "post_id": "152206688762695_1694183079263857"
+      },
+      "posted_at": "2026-07-17T12:18:30+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-17T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d1-3",
       "network": "instagram",
       "type": "image",
       "message": "🍌 The most underrated cheap food there is.\n\nGreat before a walk or workout, and the fiber keeps you full longer than most snacks at the same price.\n\n💬 Banana lover or not a fan? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d1_3.png"
+      "image_url": "images/hd8/d1_3.png",
+      "result": {
+        "media_id": "18136762006579777",
+        "permalink": "https://www.instagram.com/p/Da5MtStFpcd/"
+      },
+      "posted_at": "2026-07-17T12:18:50+00:00"
     },
     {
       "account": "health-daily",
