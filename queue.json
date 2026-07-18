@@ -780,10 +780,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-18T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 এই প্ল্যানটা প্রতিদিন হয়, কিন্তু বাস্তবায়ন কোনোদিন হয় না!\n\n💬 Tag করো সেই বন্ধুকে যার সাথে তুমি এই 'প্ল্যান' করো 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "image_url": "images/deshal/b1_04.png"
+      "image_url": "images/deshal/b1_04.png",
+      "result": {
+        "id": "1338372845079286",
+        "post_id": "1191612787659871_1338372865079284"
+      },
+      "posted_at": "2026-07-18T12:00:53+00:00"
     },
     {
       "id": "rd1-05",
@@ -1253,12 +1258,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d2-3",
       "network": "facebook",
       "type": "photo",
       "message": "🥚 Cheap, fast, filling. Two eggs give ~12g of high-quality protein.\n\nAnd the yolk — long unfairly demonised — carries most of the nutrients.\n\n💬 How do you take your eggs? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_3.png"
+      "image_url": "images/hd8/d2_3.png",
+      "result": {
+        "id": "1695057092509789",
+        "post_id": "152206688762695_1695057119176453"
+      },
+      "posted_at": "2026-07-18T12:01:08+00:00"
     },
     {
       "account": "health-daily",
