@@ -280,11 +280,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-18T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "👶 Two children, born on the same day of the same year, to the same mother and father — yet the hospital records say they are NOT twins. The records are correct.\n\nHow is this possible? First comment has the answer 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r03.png",
-      "first_comment": "🕵️ ANSWER: They're two of TRIPLETS. Same birth, three children. The simplest answers hide best. 😏 Too easy or did it get you? 👇"
+      "first_comment": "🕵️ ANSWER: They're two of TRIPLETS. Same birth, three children. The simplest answers hide best. 😏 Too easy or did it get you? 👇",
+      "result": {
+        "id": "1467590545392640",
+        "post_id": "2642505565823038_1467590558725972",
+        "first_comment_id": "1467590558725972_986356184398774"
+      },
+      "posted_at": "2026-07-18T15:06:40+00:00"
     },
     {
       "id": "sa2-10",
@@ -1288,22 +1294,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d2-4",
       "network": "facebook",
       "type": "photo",
       "message": "🌡️ Sleep starts with a small drop in core body temperature. A hot room fights that.\n\nCooler room, lighter blanket — many people fall asleep faster within days.\n\n💬 Fan on all night, or off? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_4.png"
+      "image_url": "images/hd8/d2_4.png",
+      "result": {
+        "id": "1695195535829278",
+        "post_id": "152206688762695_1695195579162607"
+      },
+      "posted_at": "2026-07-18T15:06:54+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-18T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d2-4",
       "network": "instagram",
       "type": "image",
       "message": "🌡️ Sleep starts with a small drop in core body temperature. A hot room fights that.\n\nCooler room, lighter blanket — many people fall asleep faster within days.\n\n💬 Fan on all night, or off? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_4.png"
+      "image_url": "images/hd8/d2_4.png",
+      "result": {
+        "media_id": "18144107035548385",
+        "permalink": "https://www.instagram.com/p/Da8Exc0GhpF/"
+      },
+      "posted_at": "2026-07-18T15:07:15+00:00"
     },
     {
       "account": "health-daily",
@@ -2088,11 +2104,16 @@
       "id": "x-07",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😌 ছোট ছোট আনন্দই আসল আনন্দ। ঢাকায় বাসে সিট পাওয়া তো রীতিমতো লটারি জেতা!\n\n💬 আপনার 'ছোট আনন্দ' কী? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_07.png",
-      "when": "2026-07-18T14:00:00+00:00"
+      "when": "2026-07-18T14:00:00+00:00",
+      "result": {
+        "id": "1338492968400607",
+        "post_id": "1191612787659871_1338493005067270"
+      },
+      "posted_at": "2026-07-18T15:07:28+00:00"
     },
     {
       "id": "x-08",
