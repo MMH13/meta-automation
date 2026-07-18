@@ -23,7 +23,12 @@
       "message": "🚶 Confession: the \"10,000 steps a day\" rule wasn't science. It came from a 1960s Japanese pedometer ad.\n\nHere's what research actually shows:\n\n✅ Health benefits start around 4,000 steps/day\n✅ Most of the longevity benefit arrives by 7,000-8,000 steps\n✅ Beyond that, gains flatten out — more is fine, but not required\n✅ Consistency beats intensity — daily 6,000 beats weekend 15,000\n\nSo if 10K has been discouraging you — stop chasing it. Aim for 7,000. That's roughly an hour of total walking spread across your whole day.\n\n💡 Painless ways to add steps: take calls while walking, park farther, use stairs, walk after meals.\n\n💬 How many steps do you average? Check your phone and tell us below 👇\n\n📌 Share this with the friend who gave up on 10K.\n\n#HealthDaily #Walking #10000Steps #FitnessMyths #HealthTips #StayActive #HealthyLifestyle\n\nFollow @health_daily13 💚",
       "image_url": "images/hd_jul17/day_02.png",
       "when": "2026-07-18T09:10:00+06:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17868095745582716",
+        "permalink": "https://www.instagram.com/p/Da60FkYGh4L/"
+      },
+      "posted_at": "2026-07-18T03:22:11+00:00"
     },
     {
       "id": "hd-ig-03",
@@ -1164,12 +1169,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d2-0",
       "network": "instagram",
       "type": "image",
       "message": "🌅 Morning daylight sets your body clock for the whole day — better alertness now, easier sleep tonight.\n\n10-15 minutes is enough. Have your tea outside if you can.\n\n💬 Do you see daylight before 9 AM most days? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_0.png"
+      "image_url": "images/hd8/d2_0.png",
+      "result": {
+        "media_id": "18098249147580785",
+        "permalink": "https://www.instagram.com/p/Da60H6eGsBQ/"
+      },
+      "posted_at": "2026-07-18T03:22:31+00:00"
     },
     {
       "account": "health-daily",
@@ -1989,11 +1999,16 @@
       "id": "x-04",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 এটাই সার্বজনীন সত্য। গ্রুপ ছবি ভালো হয় তখনই, যখন আপনি ভালো এসেছেন।\n\n💬 Tag করুন সেই বন্ধুকে যে ঠিক এমন 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_04.png",
-      "when": "2026-07-18T02:00:00+00:00"
+      "when": "2026-07-18T02:00:00+00:00",
+      "result": {
+        "id": "1338100958439808",
+        "post_id": "1191612787659871_1338101005106470"
+      },
+      "posted_at": "2026-07-18T03:22:51+00:00"
     },
     {
       "id": "x-05",
