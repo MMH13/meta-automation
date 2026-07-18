@@ -1366,12 +1366,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d2-6",
       "network": "instagram",
       "type": "image",
       "message": "🪑 Long unbroken sitting affects blood sugar and circulation — even in people who exercise daily.\n\nSet a timer. Stand, stretch, walk 2 minutes. That's it.\n\n💬 How long do you sit at a stretch? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_6.png"
+      "image_url": "images/hd8/d2_6.png",
+      "result": {
+        "media_id": "17971880802086778",
+        "permalink": "https://www.instagram.com/p/Da80AzHE4fG/"
+      },
+      "posted_at": "2026-07-18T22:00:03+00:00"
     },
     {
       "account": "health-daily",
