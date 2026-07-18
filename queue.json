@@ -1188,22 +1188,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d2-1",
       "network": "facebook",
       "type": "photo",
       "message": "🌙 Your body doesn't have a 'fat storage' switch that flips at 8 PM.\n\nThat said — if late eating is *extra* eating, or it wrecks your sleep, that's the real problem.\n\n💬 Are you a late-night snacker? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_1.png"
+      "image_url": "images/hd8/d2_1.png",
+      "result": {
+        "id": "1694852999196865",
+        "post_id": "152206688762695_1694853019196863"
+      },
+      "posted_at": "2026-07-18T06:14:16+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-18T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d2-1",
       "network": "instagram",
       "type": "image",
       "message": "🌙 Your body doesn't have a 'fat storage' switch that flips at 8 PM.\n\nThat said — if late eating is *extra* eating, or it wrecks your sleep, that's the real problem.\n\n💬 Are you a late-night snacker? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_1.png"
+      "image_url": "images/hd8/d2_1.png",
+      "result": {
+        "media_id": "17896142124553521",
+        "permalink": "https://www.instagram.com/p/Da7H0UQgBy-/"
+      },
+      "posted_at": "2026-07-18T06:14:32+00:00"
     },
     {
       "account": "health-daily",
@@ -2018,11 +2028,16 @@
       "id": "x-05",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 মস্তিষ্ক ঠিক দোকানের গেট পার হওয়ার ৩ সেকেন্ড পর সব মনে করিয়ে দেয়।\n\n💬 আজ কী ভুলে এসেছেন? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_05.png",
-      "when": "2026-07-18T06:00:00+00:00"
+      "when": "2026-07-18T06:00:00+00:00",
+      "result": {
+        "id": "1338188055097765",
+        "post_id": "1191612787659871_1338188065097764"
+      },
+      "posted_at": "2026-07-18T06:14:44+00:00"
     },
     {
       "id": "x-06",
