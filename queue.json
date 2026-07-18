@@ -1223,22 +1223,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d2-2",
       "network": "facebook",
       "type": "photo",
       "message": "👀 Your eyes rely on blinking to stay moist. Screens make you forget.\n\nThe fix is free: every 20 minutes, look 20 feet away for 20 seconds — and blink fully a few times.\n\n💬 How many hours a day are you on screens? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_2.png"
+      "image_url": "images/hd8/d2_2.png",
+      "result": {
+        "id": "1695001159182049",
+        "post_id": "152206688762695_1695001212515377"
+      },
+      "posted_at": "2026-07-18T10:35:12+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-18T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d2-2",
       "network": "instagram",
       "type": "image",
       "message": "👀 Your eyes rely on blinking to stay moist. Screens make you forget.\n\nThe fix is free: every 20 minutes, look 20 feet away for 20 seconds — and blink fully a few times.\n\n💬 How many hours a day are you on screens? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_2.png"
+      "image_url": "images/hd8/d2_2.png",
+      "result": {
+        "media_id": "18183670141400432",
+        "permalink": "https://www.instagram.com/p/Da7lrixn5jw/"
+      },
+      "posted_at": "2026-07-18T10:35:37+00:00"
     },
     {
       "account": "health-daily",
@@ -2048,11 +2058,16 @@
       "id": "x-06",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😅 সেভিংস প্ল্যান আর অনলাইন সেল — কখনো একসাথে টেকে না।\n\n💬 কার্টে এখন কয়টা জিনিস পড়ে আছে? সৎ উত্তর 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_06.png",
-      "when": "2026-07-18T10:00:00+00:00"
+      "when": "2026-07-18T10:00:00+00:00",
+      "result": {
+        "id": "1338323625084208",
+        "post_id": "1191612787659871_1338323645084206"
+      },
+      "posted_at": "2026-07-18T10:35:52+00:00"
     },
     {
       "id": "x-07",
