@@ -1273,12 +1273,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d2-3",
       "network": "instagram",
       "type": "image",
       "message": "🥚 Cheap, fast, filling. Two eggs give ~12g of high-quality protein.\n\nAnd the yolk — long unfairly demonised — carries most of the nutrients.\n\n💬 How do you take your eggs? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_3.png"
+      "image_url": "images/hd8/d2_3.png",
+      "result": {
+        "media_id": "17863030848644525",
+        "permalink": "https://www.instagram.com/p/Da77BkXmUbR/"
+      },
+      "posted_at": "2026-07-18T13:42:05+00:00"
     },
     {
       "account": "health-daily",
@@ -2352,7 +2357,12 @@
       "message": "🎯 An ending can save a film — or ruin one. These five stick the landing perfectly.\n\n1️⃣ THE PRESTIGE — the answer was on screen the whole time. Rewatch it and feel stupid, happily.\n\n2️⃣ WHIPLASH — no dialogue in the last nine minutes. None needed.\n\n3️⃣ NO COUNTRY FOR OLD MEN — people hated it in 2007. They were wrong.\n\n4️⃣ ARRIVAL — turns the entire film into a different film, retroactively.\n\n5️⃣ THE TRUMAN SHOW — \"Good morning, and in case I don't see ya…\" Still perfect.\n\n💬 What's the best final scene in movie history? One answer only 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_04.png",
       "when": "2026-07-18T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198066876787954",
+        "post_id": "628257647029140_122198066894787954"
+      },
+      "posted_at": "2026-07-18T13:42:19+00:00"
     },
     {
       "id": "mv-05",
