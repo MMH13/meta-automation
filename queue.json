@@ -262,9 +262,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-18T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "My grandmother had a rule: always say \"excuse me\" when you walk through a cold spot in the house.\n\nWe laughed at her. Old superstitions.\n\nAfter she passed, we cleared out the house. Boxes, dust, memories. My brother walked through the hallway and shivered — \"Cold spot,\" he smirked. \"Excuuuse me.\"\n\nFrom the empty bedroom, my grandmother's voice, warm as ever:\n\n\"You're excused, sweetheart.\"\n\nWe finished packing outside. Both of us. In the rain.\n\n👇 Superstition from your family that you secretly still follow?\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "My grandmother had a rule: always say \"excuse me\" when you walk through a cold spot in the house.\n\nWe laughed at her. Old superstitions.\n\nAfter she passed, we cleared out the house. Boxes, dust, memories. My brother walked through the hallway and shivered — \"Cold spot,\" he smirked. \"Excuuuse me.\"\n\nFrom the empty bedroom, my grandmother's voice, warm as ever:\n\n\"You're excused, sweetheart.\"\n\nWe finished packing outside. Both of us. In the rain.\n\n👇 Superstition from your family that you secretly still follow?\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1467082158776812"
+      },
+      "posted_at": "2026-07-18T00:01:42+00:00"
     },
     {
       "id": "sa2-09",
@@ -1145,12 +1149,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-18T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d2-0",
       "network": "facebook",
       "type": "photo",
       "message": "🌅 Morning daylight sets your body clock for the whole day — better alertness now, easier sleep tonight.\n\n10-15 minutes is enough. Have your tea outside if you can.\n\n💬 Do you see daylight before 9 AM most days? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d2_0.png"
+      "image_url": "images/hd8/d2_0.png",
+      "result": {
+        "id": "1694648052550693",
+        "post_id": "152206688762695_1694648079217357"
+      },
+      "posted_at": "2026-07-18T00:01:55+00:00"
     },
     {
       "account": "health-daily",
