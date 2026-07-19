@@ -820,9 +820,13 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-19T04:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "চা ☕ নাকি কফি? ☕\n\nএকটা বেছে নাও — কিন্তু সাবধান, ভুল উত্তর দিলে বন্ধুত্ব শেষ! 😄\n\n☕ = চা টিম\n🖤 = কফি টিম\n\n👇 কমেন্টে তোমার টিম জানাও!\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল"
+      "message": "চা ☕ নাকি কফি? ☕\n\nএকটা বেছে নাও — কিন্তু সাবধান, ভুল উত্তর দিলে বন্ধুত্ব শেষ! 😄\n\n☕ = চা টিম\n🖤 = কফি টিম\n\n👇 কমেন্টে তোমার টিম জানাও!\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
+      "result": {
+        "id": "1191612787659871_1338946291688608"
+      },
+      "posted_at": "2026-07-19T06:06:51+00:00"
     },
     {
       "id": "rd1-06",
@@ -1421,22 +1425,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d3-1",
       "network": "facebook",
       "type": "photo",
       "message": "💦 A hot room makes you sweat. It doesn't make the workout better.\n\nWhat actually matters: intensity, duration, and consistency.\n\n💬 Do you prefer working out in heat or cool? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_1.png"
+      "image_url": "images/hd8/d3_1.png",
+      "result": {
+        "id": "1695732555775576",
+        "post_id": "152206688762695_1695732599108905"
+      },
+      "posted_at": "2026-07-19T06:07:05+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-19T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d3-1",
       "network": "instagram",
       "type": "image",
       "message": "💦 A hot room makes you sweat. It doesn't make the workout better.\n\nWhat actually matters: intensity, duration, and consistency.\n\n💬 Do you prefer working out in heat or cool? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_1.png"
+      "image_url": "images/hd8/d3_1.png",
+      "result": {
+        "media_id": "18157765645421554",
+        "permalink": "https://www.instagram.com/p/Da9ryjJGmA7/"
+      },
+      "posted_at": "2026-07-19T06:07:26+00:00"
     },
     {
       "account": "health-daily",
@@ -2182,11 +2196,16 @@
       "id": "x-09",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😩 মারফির সূত্র বাংলাদেশি সংস্করণ: যে অধ্যায়টা বাদ দিয়েছেন, সেটা থেকেই ২০ নম্বর আসবে।\n\n💬 কার কার সাথে হয়েছে? 🙋 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_09.png",
-      "when": "2026-07-19T06:00:00+00:00"
+      "when": "2026-07-19T06:00:00+00:00",
+      "result": {
+        "id": "1338946751688562",
+        "post_id": "1191612787659871_1338946775021893"
+      },
+      "posted_at": "2026-07-19T06:07:40+00:00"
     },
     {
       "id": "x-10",
