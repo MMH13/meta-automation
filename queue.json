@@ -358,10 +358,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-19T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🏠 Every turn was familiar. Every street was right. But the house at your address… isn't yours. And someone inside just noticed you.\n\nDo you knock, check the street sign, or reverse and drive away without looking back? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_w02.png"
+      "image_url": "images/suspense/b2_w02.png",
+      "result": {
+        "id": "1468493438635684",
+        "post_id": "2642505565823038_1468493475302347"
+      },
+      "posted_at": "2026-07-19T18:03:54+00:00"
     },
     {
       "id": "sa2-15",
@@ -1560,11 +1565,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d3-5",
       "network": "facebook",
       "type": "text",
-      "message": "Quick poll 👇\n\nWhich is hardest for YOU to do consistently?\n\n💧 Drink enough water\n😴 Sleep 7-8 hours\n🚶 Move every day\n🥗 Eat properly\n\nDrop your emoji. You'll be surprised how many people picked the same one.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Quick poll 👇\n\nWhich is hardest for YOU to do consistently?\n\n💧 Drink enough water\n😴 Sleep 7-8 hours\n🚶 Move every day\n🥗 Eat properly\n\nDrop your emoji. You'll be surprised how many people picked the same one.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1696162792399219"
+      },
+      "posted_at": "2026-07-19T18:04:07+00:00"
     },
     {
       "account": "health-daily",
