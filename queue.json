@@ -373,11 +373,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-19T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🛗 A man lives on the 7th floor. On rainy days, he takes the elevator straight to 7. On sunny days, he gets off at 5 and walks two floors up. He isn't exercising.\n\nWhy? Answer in the first comment 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r04.png",
-      "first_comment": "🕵️ ANSWER: He's short. He can only reach the button for 5 — except on rainy days, when he has an umbrella to press 7. 🌂 Be honest — did you know this one? 👇"
+      "first_comment": "🕵️ ANSWER: He's short. He can only reach the button for 5 — except on rainy days, when he has an umbrella to press 7. 🌂 Be honest — did you know this one? 👇",
+      "result": {
+        "id": "1468597298625298",
+        "post_id": "2642505565823038_1468597321958629",
+        "first_comment_id": "1468597321958629_919013837895332"
+      },
+      "posted_at": "2026-07-19T21:03:11+00:00"
     },
     {
       "id": "sa2-16",
@@ -1578,12 +1584,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d3-6",
       "network": "facebook",
       "type": "photo",
       "message": "🍽️ Digestion starts in your mouth. Swallowing half-chewed food makes your stomach do work it wasn't designed for — hello bloating.\n\nSlow down. Put the fork down between bites.\n\n💬 Fast eater or slow eater? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_6.png"
+      "image_url": "images/hd8/d3_6.png",
+      "result": {
+        "id": "1696265162388982",
+        "post_id": "152206688762695_1696265175722314"
+      },
+      "posted_at": "2026-07-19T21:03:25+00:00"
     },
     {
       "account": "health-daily",
