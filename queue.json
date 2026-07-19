@@ -1599,12 +1599,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d3-6",
       "network": "instagram",
       "type": "image",
       "message": "🍽️ Digestion starts in your mouth. Swallowing half-chewed food makes your stomach do work it wasn't designed for — hello bloating.\n\nSlow down. Put the fork down between bites.\n\n💬 Fast eater or slow eater? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_6.png"
+      "image_url": "images/hd8/d3_6.png",
+      "result": {
+        "media_id": "18211442608354094",
+        "permalink": "https://www.instagram.com/p/Da_ZL2NEwmk/"
+      },
+      "posted_at": "2026-07-19T22:03:21+00:00"
     },
     {
       "account": "health-daily",
