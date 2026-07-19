@@ -833,10 +833,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-19T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😩 ফোন বাঁচবে নাকি মেসেজের উত্তর দেব — এই সিদ্ধান্ত নিতে নিতেই ফোন বন্ধ!\n\n💬 তোমার সাথে হয়েছে কখনো? 😂 দাও নিচে!\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "image_url": "images/deshal/b1_06.png"
+      "image_url": "images/deshal/b1_06.png",
+      "result": {
+        "id": "1339170064999564",
+        "post_id": "1191612787659871_1339170114999559"
+      },
+      "posted_at": "2026-07-19T13:46:02+00:00"
     },
     {
       "id": "rd1-07",
@@ -1490,22 +1495,28 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T12:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "id": "hd8-d3-3",
       "network": "facebook",
       "type": "photo",
       "message": "🥬 Plant iron is hard for your body to absorb — but vitamin C dramatically improves it.\n\nSo: lemon on your greens, tomato in your dal. Small trick, real difference.\n\n💬 Did you know this one? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_3.png"
+      "image_url": "images/hd8/d3_3.png",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "account": "health-daily",
       "when": "2026-07-19T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d3-3",
       "network": "instagram",
       "type": "image",
       "message": "🥬 Plant iron is hard for your body to absorb — but vitamin C dramatically improves it.\n\nSo: lemon on your greens, tomato in your dal. Small trick, real difference.\n\n💬 Did you know this one? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_3.png"
+      "image_url": "images/hd8/d3_3.png",
+      "result": {
+        "media_id": "18035309870820241",
+        "permalink": "https://www.instagram.com/p/Da-gWwlGmAQ/"
+      },
+      "posted_at": "2026-07-19T13:46:42+00:00"
     },
     {
       "account": "health-daily",
@@ -2515,7 +2526,12 @@
       "message": "⏱️ Not every great film needs three hours.\n\nSome of the best movies ever made are done before your dinner gets cold:\n\n1️⃣ WHIPLASH — 106 minutes and not one wasted\n2️⃣ RUN LOLA RUN — 81 minutes at a full sprint\n3️⃣ BEFORE SUNRISE — two people, one night, no plot, perfect\n4️⃣ TOY STORY — 81 minutes that changed animation forever\n5️⃣ 12 ANGRY MEN — one room, 96 minutes, still unbeaten\n\nThe modern 3-hour runtime is a choice, not a requirement.\n\n💬 What's the best short film (under 100 min) you've ever seen? 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_07.png",
       "when": "2026-07-19T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198166110787954",
+        "post_id": "628257647029140_122198166188787954"
+      },
+      "posted_at": "2026-07-19T13:46:58+00:00"
     },
     {
       "id": "mv-08",
