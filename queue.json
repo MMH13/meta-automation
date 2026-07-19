@@ -325,10 +325,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-19T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🚪 The oldest two-sentence chiller ever written — and still undefeated.\n\nYour turn: continue the story in ONE sentence. What's on the other side of that door? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_h02.png"
+      "image_url": "images/suspense/b2_h02.png",
+      "result": {
+        "id": "1467874932030868",
+        "post_id": "2642505565823038_1467874945364200"
+      },
+      "posted_at": "2026-07-19T00:02:49+00:00"
     },
     {
       "id": "sa2-13",
@@ -1381,12 +1386,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d3-0",
       "network": "facebook",
       "type": "photo",
       "message": "🍳 A carb-only breakfast spikes blood sugar and leaves you hungry by 11 AM.\n\nEggs, yogurt, dal, leftover chicken — anything with protein steadies the whole morning.\n\n💬 What did you have for breakfast today? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_0.png"
+      "image_url": "images/hd8/d3_0.png",
+      "result": {
+        "id": "1695522052463293",
+        "post_id": "152206688762695_1695522072463291"
+      },
+      "posted_at": "2026-07-19T00:03:01+00:00"
     },
     {
       "account": "health-daily",
