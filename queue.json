@@ -345,9 +345,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-19T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "My carpool app matched me with the same driver three days in a row. Different cities. I was traveling for work — Cleveland, then Columbus, then Cincinnati. Same driver. Same gray sedan. Same air freshener shaped like a lighthouse.\n\nDay three, I joked about it: \"You following me, Dan?\"\n\nHe didn't laugh. He pulled over, calm as anything, and said: \"I drive one city. I've never left Columbus. What are the other rides you're talking about?\"\n\nWe compared apps. His ride history showed only our Columbus trip. Mine showed all three — same name, same face, same license plate. He photographed my screen with shaking hands and asked me to email him the screenshots.\n\nHe canceled the ride. Left me on the shoulder of the interstate.\n\nThat night, a new notification: \"Your driver Dan is arriving.\"\n\nI hadn't booked a ride.\n\nI don't use the app anymore. But every few weeks, in whatever city work sends me to, a gray sedan with a lighthouse air freshener drives past my hotel. Slowly.\n\n👇 Coincidence has a limit. What's yours?\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "My carpool app matched me with the same driver three days in a row. Different cities. I was traveling for work — Cleveland, then Columbus, then Cincinnati. Same driver. Same gray sedan. Same air freshener shaped like a lighthouse.\n\nDay three, I joked about it: \"You following me, Dan?\"\n\nHe didn't laugh. He pulled over, calm as anything, and said: \"I drive one city. I've never left Columbus. What are the other rides you're talking about?\"\n\nWe compared apps. His ride history showed only our Columbus trip. Mine showed all three — same name, same face, same license plate. He photographed my screen with shaking hands and asked me to email him the screenshots.\n\nHe canceled the ride. Left me on the shoulder of the interstate.\n\nThat night, a new notification: \"Your driver Dan is arriving.\"\n\nI hadn't booked a ride.\n\nI don't use the app anymore. But every few weeks, in whatever city work sends me to, a gray sedan with a lighthouse air freshener drives past my hotel. Slowly.\n\n👇 Coincidence has a limit. What's yours?\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1468369405314754"
+      },
+      "posted_at": "2026-07-19T15:07:14+00:00"
     },
     {
       "id": "sa2-14",
@@ -1521,22 +1525,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d3-4",
       "network": "facebook",
       "type": "photo",
       "message": "☕ Caffeine's half-life is around 5-6 hours. That 4 PM cup is still working at bedtime — even if you fall asleep, it lightens your sleep.\n\n💬 What's your caffeine cut-off time? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_4.png"
+      "image_url": "images/hd8/d3_4.png",
+      "result": {
+        "id": "1696036142411884",
+        "post_id": "152206688762695_1696036169078548"
+      },
+      "posted_at": "2026-07-19T15:07:27+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-19T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d3-4",
       "network": "instagram",
       "type": "image",
       "message": "☕ Caffeine's half-life is around 5-6 hours. That 4 PM cup is still working at bedtime — even if you fall asleep, it lightens your sleep.\n\n💬 What's your caffeine cut-off time? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_4.png"
+      "image_url": "images/hd8/d3_4.png",
+      "result": {
+        "media_id": "17946973002248433",
+        "permalink": "https://www.instagram.com/p/Da-poeAjHv6/"
+      },
+      "posted_at": "2026-07-19T15:07:45+00:00"
     },
     {
       "account": "health-daily",
@@ -2252,11 +2266,16 @@
       "id": "x-11",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 ক্লাসের সেই বন্ধুটা — যে বলে কিছুই পড়েনি, আর তারপর সর্বোচ্চ নম্বর পায়।\n\n💬 Tag করুন সেই বন্ধুকে 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_11.png",
-      "when": "2026-07-19T14:00:00+00:00"
+      "when": "2026-07-19T14:00:00+00:00",
+      "result": {
+        "id": "1339218988328005",
+        "post_id": "1191612787659871_1339219021661335"
+      },
+      "posted_at": "2026-07-19T15:07:58+00:00"
     },
     {
       "id": "x-12",
