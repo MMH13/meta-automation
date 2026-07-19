@@ -38,8 +38,11 @@
       "when": "2026-07-19T14:00:00+06:00",
       "message": "🎁 প্রোডাক্ট ডেসক্রিপশন প্রম্পট (কপি করুন):\n\n\"You are a direct-response copywriter for Bangladeshi online shoppers. My product: [প্রোডাক্টের নাম ও বিবরণ]. Target customer: [কারা কেনে]. Price: [দাম]. Write 3 versions of a Facebook product description in Bengali: 1) emotional storytelling version, 2) benefits + bullet points version, 3) urgency/offer version. Each under 100 words with a clear call-to-action.\"\n\nযেটা সবচেয়ে ভালো কাজ করে, জানাবেন 😄",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 18
+      "status": "posted",
+      "n": 18,
+      "result": {
+        "id": "1342720521341799_2440931459721030"
+      }
     },
     {
       "photo_id": "1342720868008431",

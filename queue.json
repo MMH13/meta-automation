@@ -953,8 +953,13 @@
       "type": "photo",
       "message": "📶 দেশব্যাপী জরিপে উঠে এসেছে এক অদ্ভুত সত্য।\n\nজরিপে অংশ নেওয়া ৯৪% মানুষ জানিয়েছেন, তাদের বাসার সবচেয়ে ভালো নেটওয়ার্ক পাওয়া যায় — জানালার ঠিক কোণায়, ছাদের সিঁড়িতে, অথবা বাথরুমের দরজার পাশে দাঁড়িয়ে।\n\nঅর্থাৎ, ঠিক সেসব জায়গায় যেখানে আরাম করে বসার কোনো সুযোগ নেই।\n\nএক শিক্ষার্থী জানান, \"অনলাইন ক্লাসের সময় আমি ৪৫ মিনিট জানালার গ্রিল ধরে দাঁড়িয়ে ছিলাম। ক্লাস শেষে বুঝলাম, মাইক অফ ছিল।\"\n\nবিজ্ঞানীরা একে বলছেন \"নেটওয়ার্কের নিষ্ঠুর রসিকতা\"। 🙃\n\n💬 আপনার বাসার 'নেটওয়ার্ক স্পট' কোথায়? কমেন্টে জানান 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/sat_04.png",
-      "status": "pending",
-      "when": "2026-07-19T08:00:00+00:00"
+      "status": "posted",
+      "when": "2026-07-19T08:00:00+00:00",
+      "result": {
+        "id": "1339012755015295",
+        "post_id": "1191612787659871_1339012771681960"
+      },
+      "posted_at": "2026-07-19T09:11:30+00:00"
     },
     {
       "id": "sat-05",
@@ -1455,22 +1460,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-19T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d3-2",
       "network": "facebook",
       "type": "photo",
       "message": "🦠 It's why stress upsets your stomach, and why gut health affects mood.\n\nFeed it well: fiber, fermented food, and variety.\n\n💬 Do you eat yogurt/dahi regularly? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_2.png"
+      "image_url": "images/hd8/d3_2.png",
+      "result": {
+        "id": "1695807852434713",
+        "post_id": "152206688762695_1695807879101377"
+      },
+      "posted_at": "2026-07-19T09:12:02+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-19T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d3-2",
       "network": "instagram",
       "type": "image",
       "message": "🦠 It's why stress upsets your stomach, and why gut health affects mood.\n\nFeed it well: fiber, fermented food, and variety.\n\n💬 Do you eat yogurt/dahi regularly? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d3_2.png"
+      "image_url": "images/hd8/d3_2.png",
+      "result": {
+        "media_id": "18075361724505742",
+        "permalink": "https://www.instagram.com/p/Da-A9OBltqO/"
+      },
+      "posted_at": "2026-07-19T09:12:22+00:00"
     },
     {
       "account": "health-daily",
