@@ -390,9 +390,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-20T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "The wrong-number text said: \"Stop wearing the blue jacket. It makes you too easy to follow.\"\n\nI typed back: \"Wrong number — and I'm not wearing a blue jacket.\"\n\n\"Of course not. You took it off when you sat down by the window.\"\n\nI looked down at the blue jacket on the back of my café chair.\n\nThree dots appeared. Then: \"Sorry. Wrong number.\"\n\nThe dots never came back. I've never worn the jacket again.\n\n👇 What would your reply have been?\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "The wrong-number text said: \"Stop wearing the blue jacket. It makes you too easy to follow.\"\n\nI typed back: \"Wrong number — and I'm not wearing a blue jacket.\"\n\n\"Of course not. You took it off when you sat down by the window.\"\n\nI looked down at the blue jacket on the back of my café chair.\n\nThree dots appeared. Then: \"Sorry. Wrong number.\"\n\nThe dots never came back. I've never worn the jacket again.\n\n👇 What would your reply have been?\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1468689385282756"
+      },
+      "posted_at": "2026-07-20T00:07:41+00:00"
     },
     {
       "id": "sa2-17",
@@ -1614,22 +1618,28 @@
     {
       "account": "health-daily",
       "when": "2026-07-20T00:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "id": "hd8-d4-0",
       "network": "facebook",
       "type": "photo",
       "message": "🛏️ Starting the day with one completed task is a genuine psychological nudge. Small, but it compounds.\n\nBonus: you're far less likely to crawl back in.\n\n💬 Do you make your bed daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_0.png"
+      "image_url": "images/hd8/d4_0.png",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "account": "health-daily",
       "when": "2026-07-20T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d4-0",
       "network": "instagram",
       "type": "image",
       "message": "🛏️ Starting the day with one completed task is a genuine psychological nudge. Small, but it compounds.\n\nBonus: you're far less likely to crawl back in.\n\n💬 Do you make your bed daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_0.png"
+      "image_url": "images/hd8/d4_0.png",
+      "result": {
+        "media_id": "17996475477002419",
+        "permalink": "https://www.instagram.com/p/Da_ngaFEiRC/"
+      },
+      "posted_at": "2026-07-20T00:08:31+00:00"
     },
     {
       "account": "health-daily",
