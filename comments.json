@@ -49,8 +49,11 @@
       "when": "2026-07-20T14:00:00+06:00",
       "message": "🎁 ভিডিও স্ক্রিপ্ট প্রম্পট (কপি করুন):\n\n\"You are a short-form video scriptwriter. My video topic: [টপিক]. My audience: [কারা দেখবে]. Video length: 60 seconds. Write the script in Bengali with this structure: 1) HOOK (first 3 seconds - stop the scroll), 2) MAIN VALUE (3 key points, conversational tone), 3) CTA (follow + comment prompt). Add [camera/text direction] notes in brackets. Keep it natural spoken Bengali, not formal written.\"\n\nপ্রথম ভিডিওটা বানিয়ে ট্যাগ দিয়েন 😄",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 22
+      "status": "posted",
+      "n": 22,
+      "result": {
+        "id": "1342720868008431_3707518349389112"
+      }
     },
     {
       "photo_id": "1342721534675031",
