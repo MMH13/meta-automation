@@ -425,9 +425,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-20T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Finish the sentence:\n\n\"I stopped going there after ____.\"\n\nTrue stories get pinned 📌👇\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "Finish the sentence:\n\n\"I stopped going there after ____.\"\n\nTrue stories get pinned 📌👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1469378508547177"
+      },
+      "posted_at": "2026-07-20T19:02:22+00:00"
     },
     {
       "id": "sa2-19",
@@ -1794,11 +1798,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-20T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d4-5",
       "network": "facebook",
       "type": "text",
-      "message": "Fill in the blank 👇\n\n\"I know I should ______ , but I never do.\"\n\nHealth edition. Be honest — no judgement here. Sometimes writing it down is the first push.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Fill in the blank 👇\n\n\"I know I should ______ , but I never do.\"\n\nHealth edition. Be honest — no judgement here. Sometimes writing it down is the first push.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1697089322306566"
+      },
+      "posted_at": "2026-07-20T19:02:38+00:00"
     },
     {
       "account": "health-daily",
@@ -2735,7 +2743,12 @@
       "message": "🌍 \"I don't do subtitles\" is the most expensive sentence in film.\n\nYou're not avoiding effort — you're avoiding Parasite. Oldboy. Amélie. Spirited Away. City of God. Pan's Labyrinth. Drive My Car. Society of the Snow.\n\nTen minutes in, your brain stops noticing them. That's it. That's the entire barrier.\n\nBong Joon-ho said it best: \"Once you overcome the one-inch-tall barrier of subtitles, you'll be introduced to so many more amazing films.\"\n\n💬 What's the best non-English film you've ever seen? Recommend one below 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_11.png",
       "when": "2026-07-20T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198307944787954",
+        "post_id": "628257647029140_122198307962787954"
+      },
+      "posted_at": "2026-07-20T19:02:50+00:00"
     },
     {
       "id": "mv-12",
