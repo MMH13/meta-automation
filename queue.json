@@ -408,11 +408,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-20T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🚪 A classic that still fools people: you must pass through one door. Behind door 1 — a raging fire. Door 2 — trained assassins. Door 3 — lions that haven't eaten in three months.\n\nWhich one do you choose, and why? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r05.png",
-      "first_comment": "🕵️ ANSWER: Door 3. Lions that haven't eaten in three months aren't hungry — they're gone. Nothing survives that long without food. 🦁 Did the fear almost trick you? 👇"
+      "first_comment": "🕵️ ANSWER: Door 3. Lions that haven't eaten in three months aren't hungry — they're gone. Nothing survives that long without food. 🦁 Did the fear almost trick you? 👇",
+      "result": {
+        "id": "1469290451889316",
+        "post_id": "2642505565823038_1469290471889314",
+        "first_comment_id": "1469290471889314_1696727284950874"
+      },
+      "posted_at": "2026-07-20T16:41:06+00:00"
     },
     {
       "id": "sa2-18",
@@ -1036,8 +1042,13 @@
       "type": "photo",
       "message": "🔌 দেশের প্রায় প্রতিটি ঘরে চলছে এই নীরব সংকট।\n\nজরিপে দেখা গেছে, ৮২% পরিবারে অন্তত একটি চার্জারের অ্যাডাপ্টার আছে, কিন্তু তার কেবলটি নেই। আবার ৭৬% পরিবারে কেবল আছে, অ্যাডাপ্টার নেই।\n\nসবচেয়ে রহস্যজনক তথ্য — দুটো একসাথে যখন পাওয়া যায়, তখন দেখা যায় কেবলের মাথাটা ভাঙা, আর সেটা কাজ করে শুধু নির্দিষ্ট একটা কোণে ধরে রাখলে।\n\nএক ব্যবহারকারী জানান, \"আমার চার্জারটা কাজ করে শুধু বাঁ দিকে ৩০ ডিগ্রি বাঁকিয়ে, বালিশের নিচে চাপা দিয়ে রাখলে। আমরা এখন এভাবেই থাকি।\"\n\nগবেষকরা বলছেন, ঘরের হারানো চার্জারগুলো একটি সমান্তরাল মহাবিশ্বে চলে যায়, যেখানে হারানো মোজার দ্বিতীয়টিও থাকে। 🧦\n\n💬 আপনার চার্জার কেমন আছে? সুস্থ 😇 নাকি \"বিশেষ কোণে ধরতে হয়\" 😩? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/sat_07.png",
-      "status": "pending",
-      "when": "2026-07-20T16:00:00+00:00"
+      "status": "posted",
+      "when": "2026-07-20T16:00:00+00:00",
+      "result": {
+        "id": "1340057304910840",
+        "post_id": "1191612787659871_1340057334910837"
+      },
+      "posted_at": "2026-07-20T16:41:21+00:00"
     },
     {
       "id": "sat-08",
@@ -1753,22 +1764,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-20T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d4-4",
       "network": "facebook",
       "type": "photo",
       "message": "🚿 Counterintuitive but real: warming your skin sends blood to the surface, and your core temperature drops after — which is the sleep signal.\n\n90 minutes before bed is the sweet spot.\n\n💬 Morning shower or night shower? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_4.png"
+      "image_url": "images/hd8/d4_4.png",
+      "result": {
+        "id": "1696997392315759",
+        "post_id": "152206688762695_1696997425649089"
+      },
+      "posted_at": "2026-07-20T16:41:35+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-20T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d4-4",
       "network": "instagram",
       "type": "image",
       "message": "🚿 Counterintuitive but real: warming your skin sends blood to the surface, and your core temperature drops after — which is the sleep signal.\n\n90 minutes before bed is the sweet spot.\n\n💬 Morning shower or night shower? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_4.png"
+      "image_url": "images/hd8/d4_4.png",
+      "result": {
+        "media_id": "18122235850812966",
+        "permalink": "https://www.instagram.com/p/DbBZM1ejuRL/"
+      },
+      "posted_at": "2026-07-20T16:41:53+00:00"
     },
     {
       "account": "health-daily",
