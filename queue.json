@@ -1653,22 +1653,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-20T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d4-1",
       "network": "facebook",
       "type": "photo",
       "message": "💊 The supplement industry is worth billions because it sells certainty, not health.\n\nTest first. Then supplement what's actually low (vitamin D is a common one).\n\n💬 Do you take any supplements? Which? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_1.png"
+      "image_url": "images/hd8/d4_1.png",
+      "result": {
+        "id": "1696570729025092",
+        "post_id": "152206688762695_1696570759025089"
+      },
+      "posted_at": "2026-07-20T06:24:49+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-20T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d4-1",
       "network": "instagram",
       "type": "image",
       "message": "💊 The supplement industry is worth billions because it sells certainty, not health.\n\nTest first. Then supplement what's actually low (vitamin D is a common one).\n\n💬 Do you take any supplements? Which? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_1.png"
+      "image_url": "images/hd8/d4_1.png",
+      "result": {
+        "media_id": "17889496761664968",
+        "permalink": "https://www.instagram.com/p/DbASnxaHW_J/"
+      },
+      "posted_at": "2026-07-20T06:25:12+00:00"
     },
     {
       "account": "health-daily",
@@ -2345,11 +2355,16 @@
       "id": "x-13",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 বছরের কোনো সময়ই সকালে ওঠা সহজ হয় না। শুধু অজুহাতটা বদলায়।\n\n💬 আপনি কোন ঋতুর মানুষ — শীত ❄️ নাকি গরম ☀️? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_13.png",
-      "when": "2026-07-20T06:00:00+00:00"
+      "when": "2026-07-20T06:00:00+00:00",
+      "result": {
+        "id": "1339691781614059",
+        "post_id": "1191612787659871_1339691814947389"
+      },
+      "posted_at": "2026-07-20T06:25:30+00:00"
     },
     {
       "id": "x-14",
