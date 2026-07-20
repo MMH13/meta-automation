@@ -885,10 +885,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-20T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 সপ্তাহের সবচেয়ে সুন্দর সকাল আর সবচেয়ে কষ্টের সকাল!\n\n💬 তোমার অফিস/ক্লাস কোন দিন থেকে শুরু? নিচে বলো 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "image_url": "images/deshal/b1_08.png"
+      "image_url": "images/deshal/b1_08.png",
+      "result": {
+        "id": "1339971928252711",
+        "post_id": "1191612787659871_1339971964919374"
+      },
+      "posted_at": "2026-07-20T14:28:19+00:00"
     },
     {
       "id": "rd1-09",
@@ -1718,22 +1723,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-20T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d4-3",
       "network": "facebook",
       "type": "photo",
       "message": "🧄 Crushing triggers the enzyme reaction that creates allicin — the compound behind most of garlic's benefits. Cooking immediately destroys it.\n\nCrush first, chop your onions, then cook.\n\n💬 Trying this tonight? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_3.png"
+      "image_url": "images/hd8/d4_3.png",
+      "result": {
+        "id": "1696897785659053",
+        "post_id": "152206688762695_1696897808992384"
+      },
+      "posted_at": "2026-07-20T14:28:33+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-20T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d4-3",
       "network": "instagram",
       "type": "image",
       "message": "🧄 Crushing triggers the enzyme reaction that creates allicin — the compound behind most of garlic's benefits. Cooking immediately destroys it.\n\nCrush first, chop your onions, then cook.\n\n💬 Trying this tonight? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_3.png"
+      "image_url": "images/hd8/d4_3.png",
+      "result": {
+        "media_id": "18098592083524501",
+        "permalink": "https://www.instagram.com/p/DbBJ-R2GnqA/"
+      },
+      "posted_at": "2026-07-20T14:28:54+00:00"
     },
     {
       "account": "health-daily",
@@ -2400,11 +2415,16 @@
       "id": "x-15",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🤳 গবেষকরা জানিয়েছেন, ফোনের ফ্রন্ট ক্যামেরা এখন দেশের সবচেয়ে ব্যবহৃত আয়না।\n\nজরিপে দেখা গেছে, ছবি তোলার আগে মানুষ গড়ে ৩ বার চুল ঠিক করে, ২ বার অ্যাঙ্গেল বদলায়, এবং ১ বার আলো খোঁজে।\n\nএক অংশগ্রহণকারী বলেন, \"আমি ক্যামেরা খুলি চুল দেখতে, ছবি তোলার জন্য না। ছবিটা বোনাস।\"\n\n💬 আপনি কয়টা সেলফি তুলে একটা পছন্দ করেন? সৎ উত্তর 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_15.png",
-      "when": "2026-07-20T14:00:00+00:00"
+      "when": "2026-07-20T14:00:00+00:00",
+      "result": {
+        "id": "1339972528252651",
+        "post_id": "1191612787659871_1339972581585979"
+      },
+      "posted_at": "2026-07-20T14:29:07+00:00"
     },
     {
       "id": "x-16",
@@ -2679,7 +2699,12 @@
       "message": "🚀 Sci-fi doesn't need spaceships. The best of it is about us.\n\n1️⃣ ARRIVAL — language, grief, and time\n2️⃣ EX MACHINA — three characters, one house, deeply unsettling\n3️⃣ HER — the most believable near-future ever filmed, and it's a love story\n4️⃣ CHILDREN OF MEN — that single-take car scene still hasn't been topped\n5️⃣ GATTACA — 1997, and more relevant every single year\n\nNo lasers. Just very good questions.\n\n💬 Which is the best sci-fi film of the last 25 years? Fight it out 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_10.png",
       "when": "2026-07-20T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198285156787954",
+        "post_id": "628257647029140_122198285180787954"
+      },
+      "posted_at": "2026-07-20T14:29:24+00:00"
     },
     {
       "id": "mv-11",
