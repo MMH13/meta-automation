@@ -1688,22 +1688,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-20T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d4-2",
       "network": "facebook",
       "type": "photo",
       "message": "😮 Saliva starts digestion, protects your teeth, and fights bacteria.\n\nDry mouth all the time? That's often dehydration — or a medication side effect worth asking your doctor about.\n\n💬 Did this one surprise you? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_2.png"
+      "image_url": "images/hd8/d4_2.png",
+      "result": {
+        "id": "1696788059003359",
+        "post_id": "152206688762695_1696788105670021"
+      },
+      "posted_at": "2026-07-20T11:54:09+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-20T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d4-2",
       "network": "instagram",
       "type": "image",
       "message": "😮 Saliva starts digestion, protects your teeth, and fights bacteria.\n\nDry mouth all the time? That's often dehydration — or a medication side effect worth asking your doctor about.\n\n💬 Did this one surprise you? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_2.png"
+      "image_url": "images/hd8/d4_2.png",
+      "result": {
+        "media_id": "17949597636230222",
+        "permalink": "https://www.instagram.com/p/DbA4TnFmjN1/"
+      },
+      "posted_at": "2026-07-20T11:54:32+00:00"
     },
     {
       "account": "health-daily",
@@ -2375,11 +2385,16 @@
       "id": "x-14",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🥲 ছোটবেলায় মনে হতো বড় হলেই স্বাধীনতা। বড় হয়ে বুঝলাম — স্বাধীনতার আরেক নাম দায়িত্ব।\n\n💬 ছোটবেলার কোন জিনিসটা সবচেয়ে বেশি মিস করেন? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_14.png",
-      "when": "2026-07-20T10:00:00+00:00"
+      "when": "2026-07-20T10:00:00+00:00",
+      "result": {
+        "id": "1339872991595938",
+        "post_id": "1191612787659871_1339873014929269"
+      },
+      "posted_at": "2026-07-20T11:54:46+00:00"
     },
     {
       "id": "x-15",
