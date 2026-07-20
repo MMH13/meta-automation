@@ -438,10 +438,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-20T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🏖️ Adelaide, Australia, 1948. A well-dressed man found on Somerton Beach. Every label cut from his clothing. No wallet, no ID.\n\nIn a hidden pocket: a torn scrap reading \"Tamám Shud\" — Persian for \"it is ended\" — ripped from a rare book of poetry.\n\nWhen police found THE book, the back page held a phone number… and an uncrackable cipher.\n\nThe number belonged to a nurse living minutes from the beach. She denied knowing him. Witnesses said she nearly fainted when shown his photo.\n\nDNA finally gave him a name in 2022 — but not a reason. The cipher remains unsolved. The nurse took whatever she knew to her grave.\n\n👇 Spy? Rejected lover? Something else? Give us your theory.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_t02.png"
+      "image_url": "images/suspense/b2_t02.png",
+      "result": {
+        "id": "1469474271870934",
+        "post_id": "2642505565823038_1469474288537599"
+      },
+      "posted_at": "2026-07-20T22:09:33+00:00"
     },
     {
       "id": "sa2-20",
@@ -1811,22 +1816,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-20T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d4-6",
       "network": "facebook",
       "type": "photo",
       "message": "🥶 It's usually normal circulation doing its job.\n\nBut if hands turn white or blue, go numb, or it happens with pain — that's worth a doctor's opinion.\n\n💬 Always-cold hands? Comment 🙋\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_6.png"
+      "image_url": "images/hd8/d4_6.png",
+      "result": {
+        "id": "1697191295629702",
+        "post_id": "152206688762695_1697191312296367"
+      },
+      "posted_at": "2026-07-20T22:09:46+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-20T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d4-6",
       "network": "instagram",
       "type": "image",
       "message": "🥶 It's usually normal circulation doing its job.\n\nBut if hands turn white or blue, go numb, or it happens with pain — that's worth a doctor's opinion.\n\n💬 Always-cold hands? Comment 🙋\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d4_6.png"
+      "image_url": "images/hd8/d4_6.png",
+      "result": {
+        "media_id": "17915826042423127",
+        "permalink": "https://www.instagram.com/p/DbB-waEk27G/"
+      },
+      "posted_at": "2026-07-20T22:10:09+00:00"
     },
     {
       "account": "health-daily",
