@@ -2972,6 +2972,211 @@
       "image_url": "images/movie/m_20.png",
       "when": "2026-07-23T19:00:00+00:00",
       "status": "pending"
+    },
+    {
+      "id": "mb-00",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🤖 এই বছরের সবচেয়ে বড় পরিবর্তন — AI এখন শুধু চ্যাট করে না, নিজে কাজ করে ফেলে।\n\nআগে: \"কীভাবে ইমেইল লিখব?\" জিজ্ঞেস করতেন, ও বলে দিত, আপনি লিখতেন।\nএখন: AI Agent নিজেই খুঁজে বের করে, লেখে, পাঠিয়েও দেয়।\n\nGartner বলছে — 2026 সালেই 40% অফিস Software-এ এই Agent ঢুকে যাচ্ছে।\n\nযে কাজ বারবার করেন, সেটা AI-কে একবার শিখিয়ে দিলেই হবে। রুটিন কাজ থেকে মুক্তি।\n\n💬 আপনার কোন কাজটা AI দিয়ে Automate করতে চান? কমেন্টে লিখুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p00.png",
+      "when": "2026-07-22T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-01",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "📚 স্টুডেন্ট আর যারা পড়ে শিখতে চান — এই মুহূর্তের সেরা ফ্রি Tool: Google NotebookLM.\n\n→ PDF, নোট, বই, এমনকি YouTube লিংক আপলোড করুন\n→ শুধু সেই ডকুমেন্ট থেকে উত্তর — বাইরের ভুল তথ্য না\n→ Summary, টাইমলাইন, Study Guide বানিয়ে দেয়\n→ এমনকি আপনার নোট থেকে Podcast বানায় — দুইজন হোস্ট আলোচনা করছে এমন Audio! 🎧\n\nপরীক্ষার আগে 200 পেজের বই? আপলোড → স্টাডি গাইড → রেডি।\n\nnotebooklm.google.com — ফ্রি, শুধু Gmail লাগবে।\n\n💬 পরিচিত কোনো Student কে ট্যাগ করুন — যার এটা দরকার 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p01.png",
+      "when": "2026-07-22T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-02",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "📅 কনটেন্ট বানাতে বসে \"আজ কী পোস্ট করব?\" — এই চিন্তায় আর সময় নষ্ট না।\n\nএকটা Prompt দিয়ে দিলাম, যেটা আপনার Niche অনুযায়ী পুরো 30 দিনের কনটেন্ট Idea বানিয়ে দেবে — এক ক্লিকে। Hook, Format, Engagement question — সব সাজিয়ে।\n\n🎁 Prompt টা প্রথম কমেন্টে। কপি করে ChatGPT বা Claude-এ পেস্ট করুন।\n\n💬 আপনি কী নিয়ে কনটেন্ট বানান? কমেন্টে জানান 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p02.png",
+      "when": "2026-07-23T07:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🎁 30-Day Content Plan Prompt (কপি করুন):\n\n\"You are my content strategist. My niche: [আপনার নিশ]. My audience: [কারা]. Platform: Facebook. Create a 30-day content plan. For each day give: 1) topic, 2) hook (first line in Bengali), 3) format (list/story/tips/prompt), 4) one engagement question, 5) 3 hashtags. Friendly conversational Bengali, not corporate.\"\n\n[ব্র্যাকেটের] জায়গায় নিজের তথ্য বসান — পুরো মাসের প্ল্যান রেডি! কাজে লাগলে জানাবেন 👇"
+    },
+    {
+      "id": "mb-03",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🔍 এখনো Research এর জন্য শুধু Google ব্যবহার করেন? তাহলে সময় নষ্ট করছেন।\n\nGoogle: 10টা লিংক দেয়, একটা একটা খুলে পড়েন, 30 মিনিট শেষ।\nPerplexity: সরাসরি উত্তর + কোন Source থেকে নিলো তার লিংকসহ। ভুল তথ্যের ভয় কম।\n\nStudent, Content Creator, Freelancer — যাদের প্রতিদিন তথ্য খুঁজতে হয়, তাদের জন্য Game Changer।\n\nফ্রি, App আর Website দুটোই — perplexity.ai\n\n💬 এখনো Google, নাকি AI-তে Shift করেছেন? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p03.png",
+      "when": "2026-07-23T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-04",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "💼 পরিষ্কার করে বলি — AI Freelancer দের Replace করছে না। AI-জানা Freelancer রা AI-না-জানাদের Replace করছে।\n\nভাবুন:\n→ যে Designer AI দিয়ে 3 গুণ দ্রুত কাজ দেয়, Client কাকে নেবে?\n→ যে Writer AI দিয়ে 1 দিনে Draft দেয়, নাকি যে 4 দিন নেয়?\n\nনতুন Skill পুরনো Skill কে বাতিল করে না — দাম বাড়িয়ে দেয়।\nআপনার এখনকার Skill + AI = আপনার নতুন Rate।\n\n💬 আপনি কোন Skill এ Freelancing করেন/করতে চান? কমেন্টে লিখুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p04.png",
+      "when": "2026-07-24T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-05",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🎙️ ভিডিও বানান কিন্তু নিজের কণ্ঠ রেকর্ড করতে চান না? ElevenLabs আপনার জন্য।\n\nশুধু লেখা টাইপ করুন — একদম মানুষের মতো Voiceover বানিয়ে দেবে। Tone, আবেগ, গতি — সব Control করা যায়।\n\nকাজে লাগান: Faceless YouTube/Reels, Product Promo, Audiobook, Podcast।\nইংরেজি দুর্বল? নিখুঁত উচ্চারণে Voiceover পাবেন।\n\nFree Plan এই মাসে অনেকটা কাজ হয়ে যায়।\n\n💬 নিজের কণ্ঠে বানান, নাকি AI Voice ব্যবহার করবেন? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p05.png",
+      "when": "2026-07-24T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-06",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "💼 Freelancer দের সবচেয়ে বড় সমস্যা — Client কে প্রথম মেসেজে কী লিখব?\n\nপ্রথম Proposal-টাই ঠিক করে কাজ পাবেন কি না। Copy-paste জেনেরিক মেসেজে কেউ Reply করে না।\n\nএই Prompt টা আপনার Skill আর Client-এর Job Post অনুযায়ী Custom Proposal লিখে দেবে।\n\n🎁 Prompt প্রথম কমেন্টে।\n\n💬 কোন Marketplace-এ কাজ করেন? Fiverr / Upwork / সরাসরি? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p06.png",
+      "when": "2026-07-25T07:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🎁 Client Proposal Prompt (কপি করুন):\n\n\"You are an expert freelance proposal writer. My skills: [আপনার স্কিল]. My experience: [কত বছর]. Client's job post: [পেস্ট করুন]. Write a short personalized proposal (under 150 words) that: 1) shows I understood their specific problem, 2) mentions one relevant example, 3) ends with a question. No generic lines like 'I am hardworking'.\"\n\nকাজ পেলে জানাবেন 😄👇"
+    },
+    {
+      "id": "mb-07",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🎬 ক্যামেরা নেই? Editing জানেন না? সমস্যা নেই — এখন Text থেকেই ভিডিও।\n\n2026-এর নতুন AI Video Tool (Veo, Kling) শুধু একটা লেখা থেকে বাস্তবসম্মত ভিডিও Clip বানিয়ে দেয় — মানুষ, দৃশ্য, Movement সব।\n\n→ Faceless ভিডিও পেজ চালানো এখন সহজ\n→ Reels/Shorts-এর জন্য B-roll সেকেন্ডে\n→ বিজ্ঞাপন, Intro — বাজেট ছাড়াই\n\nFaceless Content = 2026-এর অন্যতম বড় ইনকামের সুযোগ।\n\n💬 Faceless ভিডিও নিয়ে ফুল গাইড চান? \"চাই\" লিখুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p07.png",
+      "when": "2026-07-25T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-08",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "⏳ কোনো টাকা লাগবে না। আমি প্রতিদিন এই 5টা ব্যবহার করি:\n\n1️⃣ ChatGPT — কনটেন্ট, ক্যাপশন, ইমেইল ড্রাফট\n2️⃣ Perplexity — Source সহ Instant Research\n3️⃣ Canva — Designer ছাড়াই Design\n4️⃣ CapCut — মোবাইলেই Pro Video Editing\n5️⃣ Claude — লম্বা লেখা, Document Analysis\n\nএই 5টা শিখলে একা একজন মানুষ একটা ছোট Team-এর কাজ করতে পারে।\n\n💬 এই 5টার মধ্যে কোনটা এখনো ব্যবহার করেননি? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p08.png",
+      "when": "2026-07-26T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-09",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "💻 2026-এ Coding সম্পূর্ণ বদলে গেছে।\n\nআগে AI শুধু Autocomplete করত। এখন Cursor, Claude Code পুরো Feature নিজে লিখে দেয় — শুরু থেকে শেষ।\n\nCursor এখন 2 Billion ডলারের Business — শুধু AI দিয়ে কোড লেখার Tool।\n\nএর মানে: নন-টেকনিক্যাল মানুষও এখন ছোটখাটো App, Automation বানাতে পারে — শুধু ভাষায় বলে দিলেই।\n\n💬 App/Automation বানাতে চান কিন্তু Coding জানেন না? কমেন্টে \"হ্যাঁ\" লিখুন — এটা নিয়ে বিস্তারিত পোস্ট দেবো 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p09.png",
+      "when": "2026-07-26T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-10",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "📧 Client বা অফিসের Email-এর Reply লিখতে সময় নষ্ট?\n\nএকটা Prompt ব্যবহার করি — যেকোনো Email-এর পারফেক্ট Reply 30 সেকেন্ডে। Tone, ভাষা, Format — সব ঠিক।\n\n🎁 Prompt প্রথম কমেন্টে। কপি করে ব্যবহার করুন।\n\n💬 কাজে লাগলে একটা 👍 দিয়ে জানাবেন — এরকম আরো Prompt শেয়ার করবো 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p10.png",
+      "when": "2026-07-27T07:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🎁 Email Reply Prompt (কপি করুন):\n\n\"You are my professional email assistant. I'll paste an email I received. Write a reply that is: 1) polite and professional, 2) clear and to the point, 3) in the same language as the original. If any info is missing from my side, mark it [FILL IN]. Here is the email: [পেস্ট করুন]\"\n\nযেকোনো Email-এর রেডি Reply! কেমন লাগলো জানাবেন 👇"
+    },
+    {
+      "id": "mb-11",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🎨 Canva শুধু Template না — ভেতরে 5টা ফ্রি AI Feature লুকিয়ে আছে:\n\n1️⃣ Magic Write — ক্যাপশন, Idea লিখে দেয়\n2️⃣ Background Remover — এক ক্লিকে ব্যাকগ্রাউন্ড গায়েব\n3️⃣ Magic Eraser — অপ্রয়োজনীয় জিনিস মুছে দিন\n4️⃣ Magic Resize — এক ডিজাইন থেকে সব সাইজ\n5️⃣ Text to Image — লিখে দিন, ছবি বানিয়ে দেবে\n\nFree Account এই বেশিরভাগ কাজ চলে।\n\n💬 Canva ব্যবহার করেন? কোন Feature টা প্রিয়? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p11.png",
+      "when": "2026-07-27T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-12",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "📚 একটা কঠিন সত্য: AI যুগে সবচেয়ে বড় ঝুঁকি চাকরি হারানো না — শেখা বন্ধ করে দেওয়া।\n\nদুনিয়া এখন দুই ভাগ:\n→ যারা বলে \"এই বয়সে আর এসব শিখব না\" — ধীরে ধীরে অপ্রাসঙ্গিক হচ্ছে\n→ যারা বলে \"দেখি এটা কীভাবে কাজ করে\" — অপরিহার্য হচ্ছে\n\nপার্থক্যটা বয়সের না, Mindset-এর।\n\nদিনে 20 মিনিট। একটা Tool, একটা Prompt। 95% মানুষ এটুকুও করে না।\n\n💬 আজ/এই সপ্তাহে নতুন কী শিখলেন? ছোট হোক, কমেন্টে শেয়ার করুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p12.png",
+      "when": "2026-07-28T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-13",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🎬 Reels/Shorts বানান? CapCut-এর এই 3টা Feature জানলে ভিডিও অন্য Level-এ যাবে:\n\n1️⃣ Auto Captions — এক ক্লিকে কথা Text হয়ে যায়। বাংলাও সাপোর্ট করে! Silent scroller-রাও বুঝবে।\n2️⃣ Keyframe Animation — ছবি/টেক্সট জুম-প্যান করে Cinematic ইফেক্ট = বেশি Watch time।\n3️⃣ Trending Templates — ভাইরাল Format-এ নিজের ক্লিপ বসান, 30 সেকেন্ডে রেডি।\n\nসব Free Version-এই আছে।\n\n💬 ভিডিও Editing-এ কোন সমস্যায় বেশি পড়েন? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p13.png",
+      "when": "2026-07-28T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-14",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "✍️ ভাইরাল পোস্ট আর মরা পোস্টের পার্থক্য 80% থাকে প্রথম লাইনে — Hook-এ।\n\nএকটা Prompt ব্যবহার করি যেটা যেকোনো Topic-এ 10টা Hook লিখে দেয় — Psychology মেনে: কৌতূহল, ভয়, উপকার, গল্প।\n\n🎁 Prompt প্রথম কমেন্টে। কপি করে নিজের Topic বসান।\n\n💬 আপনি কনটেন্ট বানান? কোন Platform-এ? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p14.png",
+      "when": "2026-07-29T07:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🎁 Hook Generator Prompt (কপি করুন):\n\n\"You are a viral content expert for Bengali Facebook audiences. My post topic: [টপিক]. Write 10 different hooks (first lines) in Bengali. Mix these styles: curiosity gap, bold claim, common mistake, personal story, surprising fact, direct question. Each under 15 words. Rank strongest to weakest and explain why #1 works.\"\n\nসবচেয়ে ভালো Hook টা কমেন্টে শেয়ার করেন 😄👇"
+    },
+    {
+      "id": "mb-15",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "✍️ ইংরেজি লেখার ভুলে Client-এর কাছে খারাপ ইম্প্রেশন? Grammarly আপনার জন্য।\n\nGmail, Facebook, যেকোনো Website — যেখানেই ইংরেজি লিখবেন, রিয়েল-টাইমে ভুল ধরবে, ঠিক করে দেবে।\n\nFreelancer দের জন্য এটা প্রায় বাধ্যতামূলক — একটা প্রফেশনাল ইমেজ তৈরি করে।\n\nBrowser Extension টা Free, একবার Install করলেই সব জায়গায় কাজ করে।\n\n💬 ইংরেজি নিয়ে আপনার সবচেয়ে বড় ভয় কী — বলা, লেখা, নাকি বোঝা? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p15.png",
+      "when": "2026-07-29T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-16",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🧠 লক্ষ্য করেছেন — নতুন AI (GPT-5, Claude Opus, Gemini) আগের চেয়ে অনেক ভালো উত্তর দেয়?\n\nকারণ 2026-এ Reasoning এখন Default। আগে AI সাথে সাথে উত্তর দিত। এখন এরা প্রশ্নটা নিয়ে আগে \"চিন্তা\" করে, ধাপে ধাপে ভাবে, তারপর উত্তর দেয় — অনেকটা মানুষের মতো।\n\nএর মানে জটিল কাজে (অঙ্ক, Coding, Analysis, Planning) এদের ভুল অনেক কমে গেছে।\n\n💬 আপনি কোন AI বেশি ব্যবহার করেন? ChatGPT / Gemini / Claude? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p16.png",
+      "when": "2026-07-30T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-17",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "📅 রবিবার রাতে 10 মিনিট Plan = পুরো সপ্তাহ ক্লিয়ার মাথায় কাজ।\n\nকিন্তু Plan করাটাই ঝামেলা লাগে, তাই না?\n\nএই Prompt টা আপনার Goal, সময় আর Energy অনুযায়ী পুরো সপ্তাহের Realistic Plan বানিয়ে দেয় — বিশ্রামের সময়সহ। Robot-এর মতো না, মানুষের মতো।\n\n🎁 Prompt প্রথম কমেন্টে।\n\n💬 আপনি Plan করে চলেন, নাকি যা আসে তাই সামলান? 😄👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p17.png",
+      "when": "2026-07-30T15:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🎁 Weekly Planner Prompt (কপি করুন):\n\n\"You are my productivity coach. My main goals this week: [3টা লক্ষ্য]. My fixed commitments: [জব/ক্লাস/পরিবার]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign goals to specific days and time blocks, 2) keep hard tasks in peak energy hours, 3) add rest/buffer time, 4) one small daily habit. Format as a day-by-day table.\"\n\nপ্ল্যানটা বানিয়ে Screenshot সেভ করে রাখুন 📌👇"
+    },
+    {
+      "id": "mb-18",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🚀 AI দিয়ে ইনকামের রাস্তা এখন অনেক — কিন্তু শুরু করতে হবে একটা দিয়ে:\n\n→ Faceless Content (AI Voice + AI Video)\n→ AI দিয়ে দ্রুত Freelancing (Writing, Design, VA)\n→ ছোট Business-এর জন্য AI Automation সেটআপ করে দেওয়া\n→ Prompt বিক্রি / AI Consulting\n\nসবগুলোর ভিত্তি একটাই — AI-কে ভালোভাবে ব্যবহার করতে শেখা।\n\nদিনে 20 মিনিট শিখুন। 3 মাস পরে নিজের পার্থক্য নিজেই দেখবেন।\n\n💬 কোন রাস্তাটা আপনার জন্য সবচেয়ে বেশি Interesting? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
+      "image_url": "images/mamun_block/p18.png",
+      "when": "2026-07-31T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "mb-19",
+      "account": "mamun-hossain",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🎁 নতুন যারা এসেছেন — পরিচিত হয়ে যাই।\n\nআমি মামুন। এই পেজে শেয়ার করি:\n→ Free AI Tool-এর খোঁজ — যেগুলো আসলেই কাজের\n→ Copy-paste রেডি Prompt — প্রথম কমেন্টে পাবেন\n→ Skill আর ইনকামের Practical Idea — Hype ছাড়া\n→ Productivity System — যা নিজে ব্যবহার করি\n\nলক্ষ্য একটাই: AI-কে ভয় না পেয়ে কাজে লাগানো শিখি, একসাথে।\n\n💬 আপনি কী নিয়ে সবচেয়ে বেশি জানতে চান? কমেন্টে বলুন — কনটেন্ট প্ল্যানে ঢুকিয়ে নেবো 👇\n\nআর ভালো লাগলে পেজটা Follow করে রাখুন 👊",
+      "image_url": "images/mamun_block/p19.png",
+      "when": "2026-07-31T15:00:00+00:00",
+      "status": "pending"
     }
   ]
 }
