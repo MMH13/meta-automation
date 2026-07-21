@@ -28,6 +28,7 @@ THEMES = {
     "blue":   ("#0077b6", "#ffffff", "#ffd60a"),
     "white":  ("#f5f5f5", "#0b0b0b", "#e63946"),
     "sky":    ("#6cc4e8", "#0b1e2d", "#ffffff"),   # Argentina-ish
+    "green":  ("#0b7a3b", "#ffffff", "#ffe14d"),
 }
 
 _TAG = "রেডিও দেশাল"
