@@ -473,9 +473,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-21T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "My grandfather was a lighthouse keeper for 41 years. When he retired, they gave him a plaque and the old logbook — decades of his own tidy handwriting.\n\nGoing through his things last spring, I read it. Mostly weather. Ship names. Repairs.\n\nBut every year, on March 9th, the same entry. No weather. No ships. Just one line:\n\n1961: \"Answered the bell. Told them: not yet.\"\n1974: \"Answered the bell. Not yet.\"\n1988: \"Bell again. NOT YET.\"\n2003, his last year, in shakier writing: \"Answered the bell. Told them: soon.\"\n\nThere is no bell at that lighthouse. I checked the maritime records, the blueprints, everything. No bell, no buoy, nothing that rings.\n\nGrandfather passed away peacefully last March. The 9th.\n\nThe new keeper posts updates on the lighthouse's little Facebook page. Two weeks ago: \"Weird one tonight — anyone else near the point hear a bell?\"\n\nI haven't told him. I'm not sure 'not yet' is mine to say.\n\n👇 Would you tell him? One story every night — follow so you don't miss tomorrow's.\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "My grandfather was a lighthouse keeper for 41 years. When he retired, they gave him a plaque and the old logbook — decades of his own tidy handwriting.\n\nGoing through his things last spring, I read it. Mostly weather. Ship names. Repairs.\n\nBut every year, on March 9th, the same entry. No weather. No ships. Just one line:\n\n1961: \"Answered the bell. Told them: not yet.\"\n1974: \"Answered the bell. Not yet.\"\n1988: \"Bell again. NOT YET.\"\n2003, his last year, in shakier writing: \"Answered the bell. Told them: soon.\"\n\nThere is no bell at that lighthouse. I checked the maritime records, the blueprints, everything. No bell, no buoy, nothing that rings.\n\nGrandfather passed away peacefully last March. The 9th.\n\nThe new keeper posts updates on the lighthouse's little Facebook page. Two weeks ago: \"Weird one tonight — anyone else near the point hear a bell?\"\n\nI haven't told him. I'm not sure 'not yet' is mine to say.\n\n👇 Would you tell him? One story every night — follow so you don't miss tomorrow's.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1470133371805024"
+      },
+      "posted_at": "2026-07-21T16:37:54+00:00"
     },
     {
       "id": "sa2-22",
@@ -1100,8 +1104,13 @@
       "type": "photo",
       "message": "🚦 জ্যাম নিয়ে করা নতুন এক জরিপে উঠে এসেছে মজার তথ্য।\n\nদেখা গেছে, দীর্ঘ জ্যামে বসে থাকা অবস্থায় মানুষ গড়ে ১২টি বড় সিদ্ধান্ত নেন। যেমন:\n— কাল থেকে সকালে উঠব\n— জিমে ভর্তি হব\n— এই চাকরিটা ছেড়ে দেব\n— একটা বাইক কিনব\n— ফোন কম চালাব\n\nজরিপ আরও বলছে, জ্যাম ছাড়ার ঠিক ৭ মিনিটের মধ্যে এই সবগুলো সিদ্ধান্ত স্বয়ংক্রিয়ভাবে বাতিল হয়ে যায়।\n\nএক যাত্রী বলেন, \"জ্যামে বসে আমি জীবন বদলে ফেলার প্ল্যান করেছিলাম। বাসায় পৌঁছে ভাত খেয়ে ঘুমিয়ে পড়লাম।\"\n\nগবেষকরা একে বলছেন — \"ট্রাফিক মোটিভেশন\", যার আয়ু গড়ে ৭ মিনিট। ⏱️\n\n💬 জ্যামে বসে আপনি সবচেয়ে বড় কোন প্ল্যানটা করেছেন যা আজও হয়নি? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/sat_09.png",
-      "status": "pending",
-      "when": "2026-07-21T16:00:00+00:00"
+      "status": "posted",
+      "when": "2026-07-21T16:00:00+00:00",
+      "result": {
+        "id": "1340841784832392",
+        "post_id": "1191612787659871_1340841878165716"
+      },
+      "posted_at": "2026-07-21T16:38:15+00:00"
     },
     {
       "account": "health-daily",
@@ -1990,22 +1999,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d5-4",
       "network": "facebook",
       "type": "photo",
       "message": "📝 Lying awake with a spinning mind is often just your brain refusing to forget tomorrow's list.\n\nWrite it down. You're telling your brain it's safe to stop holding it.\n\n💬 Does your mind race at bedtime? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_4.png"
+      "image_url": "images/hd8/d5_4.png",
+      "result": {
+        "id": "1697895448892620",
+        "post_id": "152206688762695_1697895475559284"
+      },
+      "posted_at": "2026-07-21T16:38:29+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-21T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d5-4",
       "network": "instagram",
       "type": "image",
       "message": "📝 Lying awake with a spinning mind is often just your brain refusing to forget tomorrow's list.\n\nWrite it down. You're telling your brain it's safe to stop holding it.\n\n💬 Does your mind race at bedtime? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_4.png"
+      "image_url": "images/hd8/d5_4.png",
+      "result": {
+        "media_id": "18327551785272823",
+        "permalink": "https://www.instagram.com/p/DbD9o7YFtAM/"
+      },
+      "posted_at": "2026-07-21T16:38:50+00:00"
     },
     {
       "account": "health-daily",
