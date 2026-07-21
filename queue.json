@@ -1081,8 +1081,13 @@
       "type": "photo",
       "message": "🤝 বহু বছরের পর্যবেক্ষণ শেষে গবেষকরা গ্রুপ স্টাডির প্রকৃত রূপ উন্মোচন করেছেন।\n\nগড়ে ৪ ঘণ্টার একটি গ্রুপ স্টাডি সেশনের বিশ্লেষণে দেখা গেছে:\n— ৪৫ মিনিট: কে কোথায় বসবে, তা নিয়ে আলোচনা\n— ৯০ মিনিট: গল্প ও হাসাহাসি\n— ৬০ মিনিট: নাস্তার পরিকল্পনা ও নাস্তা\n— ৩০ মিনিট: \"আচ্ছা কাল থেকে সত্যিই সিরিয়াস\" — এই প্রতিজ্ঞা\n— ১৫ মিনিট: প্রকৃত পড়াশোনা\n\nএক অংশগ্রহণকারী বলেন, \"আমরা ৬ ঘণ্টা একসাথে ছিলাম। বইটা খোলাই হয়নি, কিন্তু সম্পর্কটা আরও গভীর হয়েছে।\"\n\nবিশেষজ্ঞরা বলছেন, গ্রুপ স্টাডি আসলে পড়াশোনার জন্য নয় — এটি বন্ধুত্বের একটি অজুহাত মাত্র। এবং সেটাই এর আসল সৌন্দর্য। 💚\n\n💬 Tag করুন সেই বন্ধুকে যার সাথে আপনার 'গ্রুপ স্টাডি' কখনো পড়াশোনায় পৌঁছায়নি 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/sat_08.png",
-      "status": "pending",
-      "when": "2026-07-21T08:00:00+00:00"
+      "status": "posted",
+      "when": "2026-07-21T08:00:00+00:00",
+      "result": {
+        "id": "1340573481525889",
+        "post_id": "1191612787659871_1340573528192551"
+      },
+      "posted_at": "2026-07-21T09:33:56+00:00"
     },
     {
       "id": "sat-09",
@@ -1921,22 +1926,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d5-2",
       "network": "facebook",
       "type": "photo",
       "message": "😂 It works your diaphragm, abs, and even lowers stress hormones.\n\nNot a replacement for exercise — but a genuinely good reason to call the friend who makes you laugh.\n\n💬 Tag the person who makes you laugh most 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_2.png"
+      "image_url": "images/hd8/d5_2.png",
+      "result": {
+        "id": "1697584915590340",
+        "post_id": "152206688762695_1697584955590336"
+      },
+      "posted_at": "2026-07-21T09:34:11+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-21T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d5-2",
       "network": "instagram",
       "type": "image",
       "message": "😂 It works your diaphragm, abs, and even lowers stress hormones.\n\nNot a replacement for exercise — but a genuinely good reason to call the friend who makes you laugh.\n\n💬 Tag the person who makes you laugh most 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_2.png"
+      "image_url": "images/hd8/d5_2.png",
+      "result": {
+        "media_id": "18077947610689615",
+        "permalink": "https://www.instagram.com/p/DbDNFYbFkmp/"
+      },
+      "posted_at": "2026-07-21T09:34:32+00:00"
     },
     {
       "account": "health-daily",
