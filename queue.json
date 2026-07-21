@@ -501,11 +501,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-21T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "📦 A man is found in the middle of an empty field. No footprints lead to him. Beside him lies an unopened package. Investigators took one look at the package and closed the case.\n\nWhat was in it? First comment 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r06.png",
-      "first_comment": "🕵️ ANSWER: A parachute. It never opened. The 'package' told the whole story — sky, not field. 🪂 How fast did you get it? 👇"
+      "first_comment": "🕵️ ANSWER: A parachute. It never opened. The 'package' told the whole story — sky, not field. 🪂 How fast did you get it? 👇",
+      "result": {
+        "id": "1470320241786337",
+        "post_id": "2642505565823038_1470320285119666",
+        "first_comment_id": "1470320285119666_976799725418442"
+      },
+      "posted_at": "2026-07-21T22:09:52+00:00"
     },
     {
       "id": "sa2-24",
@@ -2047,22 +2053,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d5-6",
       "network": "facebook",
       "type": "photo",
       "message": "👵 If you have elderly parents or grandparents — they often simply don't feel thirsty, even when they need water.\n\nA glass offered is better than waiting to be asked.\n\n📌 Share this with someone who has older parents at home.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_6.png"
+      "image_url": "images/hd8/d5_6.png",
+      "result": {
+        "id": "1698108905537941",
+        "post_id": "152206688762695_1698108975537934"
+      },
+      "posted_at": "2026-07-21T22:10:16+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-21T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d5-6",
       "network": "instagram",
       "type": "image",
       "message": "👵 If you have elderly parents or grandparents — they often simply don't feel thirsty, even when they need water.\n\nA glass offered is better than waiting to be asked.\n\n📌 Share this with someone who has older parents at home.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_6.png"
+      "image_url": "images/hd8/d5_6.png",
+      "result": {
+        "media_id": "18601278394038647",
+        "permalink": "https://www.instagram.com/p/DbEjm-CDy3a/"
+      },
+      "posted_at": "2026-07-21T22:10:38+00:00"
     },
     {
       "account": "health-daily",
