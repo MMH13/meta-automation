@@ -453,10 +453,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-21T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🪞 Quick — look at your phone's black screen right now.\n\nStill just you? Good. Keep it that way.\n\nTwo-sentence horror night: drop yours below. The best one gets pinned 📌👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_h03.png"
+      "image_url": "images/suspense/b2_h03.png",
+      "result": {
+        "id": "1469531465198548",
+        "post_id": "2642505565823038_1469531501865211"
+      },
+      "posted_at": "2026-07-21T00:05:27+00:00"
     },
     {
       "id": "sa2-21",
@@ -1846,22 +1851,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d5-0",
       "network": "facebook",
       "type": "photo",
       "message": "🙆 Your body has been still for 8 hours. Two minutes of gentle stretching wakes up your spine and shoulders before you hunch over a screen.\n\nNeck rolls, shoulder rolls, reach up, touch toes. Done.\n\n💬 Do you stretch in the morning? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_0.png"
+      "image_url": "images/hd8/d5_0.png",
+      "result": {
+        "id": "1697250692290429",
+        "post_id": "152206688762695_1697250708957094"
+      },
+      "posted_at": "2026-07-21T00:05:40+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-21T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d5-0",
       "network": "instagram",
       "type": "image",
       "message": "🙆 Your body has been still for 8 hours. Two minutes of gentle stretching wakes up your spine and shoulders before you hunch over a screen.\n\nNeck rolls, shoulder rolls, reach up, touch toes. Done.\n\n💬 Do you stretch in the morning? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_0.png"
+      "image_url": "images/hd8/d5_0.png",
+      "result": {
+        "media_id": "17932127118347843",
+        "permalink": "https://www.instagram.com/p/DbCMBm2icf8/"
+      },
+      "posted_at": "2026-07-21T00:06:01+00:00"
     },
     {
       "account": "health-daily",
@@ -2773,7 +2788,12 @@
       "message": "🎬 THE PRESTIGE (2006) — 4.5/5\n\n\"Are you watching closely?\"\n\nThe film opens by telling you it's going to fool you. Then it does it anyway. That's the flex.\n\nTwo magicians destroy each other's lives over an obsession — and Nolan structures the whole thing like the magic trick it describes: pledge, turn, prestige. The film IS the trick.\n\nThe reason it's endlessly rewatchable: every single clue is on screen. The answer is in the first five minutes. You just weren't watching closely.\n\nBale and Jackman are both excellent, but the film's real trick is that it's about the cost of obsession — and it makes you complicit in it.\n\n💬 Did you catch it on the first watch? Nobody will believe you 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_12.png",
       "when": "2026-07-20T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198326502787954",
+        "post_id": "628257647029140_122198326526787954"
+      },
+      "posted_at": "2026-07-21T00:06:20+00:00"
     },
     {
       "id": "mv-13",
