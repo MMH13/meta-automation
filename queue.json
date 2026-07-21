@@ -68,7 +68,12 @@
       "message": "☀️ If you're always tired, moody, or getting sick often — check your vitamin D.\n\nIt's one of the most common deficiencies in the world, especially for people who work indoors. South Asia included — sunshine outside, deficiency inside.\n\nWhy it matters:\n• Vitamin D powers your immune system\n• Low levels are linked to fatigue, low mood, and body aches\n• Your bones need it to absorb calcium — deficiency now = weak bones later\n\n💚 What helps:\n✅ 15-20 minutes of direct sun on skin (arms/face), ideally before 10 AM\n✅ Foods: fatty fish, egg yolks, fortified milk\n✅ If levels are low, doctors often suggest a supplement — but test first, don't guess\n\n⚠️ Get the simple blood test (Vitamin D 25-OH) before starting high-dose supplements — more is not better.\n\n💬 When did you last spend 15+ minutes in the sun? Today, this week, or can't remember? 👇\n\n📌 Save & share — someone you love is probably deficient.\n\n#HealthDaily #VitaminD #Sunshine #Immunity #HealthTips #Fatigue #Wellness\n\nFollow @health_daily13 💚",
       "image_url": "images/hd_jul17/day_05.png",
       "when": "2026-07-21T09:10:00+06:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18037277267810473",
+        "permalink": "https://www.instagram.com/p/DbCkVWhlmrj/"
+      },
+      "posted_at": "2026-07-21T03:38:27+00:00"
     },
     {
       "id": "hd-ig-06",
@@ -2489,11 +2494,12 @@
       "id": "x-16",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "failed",
       "type": "photo",
       "message": "⏰ অনুসন্ধানে ভয়াবহ তথ্য উঠে এসেছে।\n\nদেখা গেছে, \"৫ মিনিটে আসছি\" বলার মুহূর্তে ৮৯% মানুষ এখনো গোসলই করেনি। ৬২% জামা খুঁজছে। আর ৪১% ফোন হাতে বসে আছে।\n\nএক ভুক্তভোগী বন্ধু জানান, \"ও ৫ মিনিট বলেছিল। আমি ক্যাফেতে ৩টা কফি খেয়ে ফেলেছি।\"\n\nবিশেষজ্ঞদের পরামর্শ: কেউ '৫ মিনিট' বললে ধরে নিন ৪৫ মিনিট, এবং সেই অনুযায়ী পরিকল্পনা করুন।\n\n💬 আপনার বন্ধুদের মধ্যে সবচেয়ে বড় 'লেট লতিফ' কে? Tag করুন 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_16.png",
-      "when": "2026-07-21T02:00:00+00:00"
+      "when": "2026-07-21T02:00:00+00:00",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "id": "x-17",
