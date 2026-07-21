@@ -925,10 +925,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-21T04:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🤤 বৃষ্টি নামলেই মনটা খিচুড়ি খিচুড়ি করে! সাথে যদি একটু ইলিশ বা ডিম ভাজা হয় — তাহলে তো কথাই নেই!\n\n💬 বৃষ্টির দিনে তোমার প্রিয় খাবার কী? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "image_url": "images/deshal/b1_09.png"
+      "image_url": "images/deshal/b1_09.png",
+      "result": {
+        "id": "1340461778203726",
+        "post_id": "1191612787659871_1340461801537057"
+      },
+      "posted_at": "2026-07-21T06:04:53+00:00"
     },
     {
       "id": "rd1-10",
@@ -1886,12 +1891,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d5-1",
       "network": "facebook",
       "type": "photo",
       "message": "🍚 Half the world eats rice daily and doesn't share one body type.\n\nThe real issue: refined, processed carbs eaten in excess without protein or fiber alongside.\n\n💬 Could you give up rice? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_1.png"
+      "image_url": "images/hd8/d5_1.png",
+      "result": {
+        "id": "1697459622269536",
+        "post_id": "152206688762695_1697459662269532"
+      },
+      "posted_at": "2026-07-21T06:05:12+00:00"
     },
     {
       "account": "health-daily",
@@ -2505,11 +2515,16 @@
       "id": "x-17",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🚿 বিজ্ঞানীরা অবশেষে ব্যাখ্যা করলেন — কেন সেরা আইডিয়াগুলো গোসলের সময়ই আসে।\n\nগবেষণায় দেখা গেছে, শাওয়ারের নিচে দাঁড়িয়ে মানুষ গড়ে ৩টি গভীর জীবনদর্শন, ২টি ব্যবসার আইডিয়া এবং ১টি নিখুঁত জবাব আবিষ্কার করে — যেটা আসলে গতকালের ঝগড়ায় দেওয়া উচিত ছিল।\n\nদুঃখজনক তথ্য: গোসল শেষ হওয়ার ৪ মিনিটের মধ্যে এর ৯৮% ভুলে যায়।\n\n💬 গোসলে আপনার সেরা আবিষ্কারটা কী ছিল? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_17.png",
-      "when": "2026-07-21T06:00:00+00:00"
+      "when": "2026-07-21T06:00:00+00:00",
+      "result": {
+        "id": "1340462051537032",
+        "post_id": "1191612787659871_1340462068203697"
+      },
+      "posted_at": "2026-07-21T06:05:25+00:00"
     },
     {
       "id": "x-18",
