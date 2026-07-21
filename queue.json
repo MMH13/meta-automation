@@ -940,9 +940,13 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-21T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Tag করো সেই বন্ধুকে 👇\n\nযে ছবি তোলার সময় বলে 'একটাই তুলবি'...\n\nআর তারপর ৫০টা ছবি তুলেও বলে 'ভালো আসেনি, আরেকটা!' 📸😄\n\n(আমরা সবাই একজনকে চিনি! 😂)\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল"
+      "message": "Tag করো সেই বন্ধুকে 👇\n\nযে ছবি তোলার সময় বলে 'একটাই তুলবি'...\n\nআর তারপর ৫০টা ছবি তুলেও বলে 'ভালো আসেনি, আরেকটা!' 📸😄\n\n(আমরা সবাই একজনকে চিনি! 😂)\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
+      "result": {
+        "id": "1191612787659871_1340751114841459"
+      },
+      "posted_at": "2026-07-21T14:16:20+00:00"
     },
     {
       "id": "rd1-11",
@@ -1956,22 +1960,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d5-3",
       "network": "facebook",
       "type": "photo",
       "message": "🍫 The catch: milk chocolate is mostly sugar. 70%+ cocoa is where the benefits live.\n\nA square or two in the evening — genuinely fine.\n\n💬 Dark chocolate: love it or too bitter? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_3.png"
+      "image_url": "images/hd8/d5_3.png",
+      "result": {
+        "id": "1697778422237656",
+        "post_id": "152206688762695_1697778438904321"
+      },
+      "posted_at": "2026-07-21T14:16:35+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-21T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d5-3",
       "network": "instagram",
       "type": "image",
       "message": "🍫 The catch: milk chocolate is mostly sugar. 70%+ cocoa is where the benefits live.\n\nA square or two in the evening — genuinely fine.\n\n💬 Dark chocolate: love it or too bitter? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_3.png"
+      "image_url": "images/hd8/d5_3.png",
+      "result": {
+        "media_id": "18385510303167490",
+        "permalink": "https://www.instagram.com/p/DbDtZxQmXoP/"
+      },
+      "posted_at": "2026-07-21T14:16:56+00:00"
     },
     {
       "account": "health-daily",
@@ -2565,11 +2579,16 @@
       "id": "x-19",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😴 বিজ্ঞানীরা এই রহস্যের সমাধান খুঁজছেন বহু বছর ধরে।\n\nগবেষণায় দেখা গেছে, রাত ২টায় যে মানুষটি বিছানায় শুয়ে ছাদের দিকে তাকিয়ে জীবনের হিসাব মেলাচ্ছিল, সেই একই মানুষ সকাল ৯টার ক্লাসে বসে ৩ মিনিটের মধ্যে ঘুমিয়ে পড়ে।\n\nএক শিক্ষার্থী বলেন, \"আমার জীবনের সবচেয়ে আরামের ঘুম ক্লাসের বেঞ্চে হয়েছে।\"\n\n💬 ক্লাসে/অফিসে ঘুমিয়ে পড়ার সবচেয়ে বাজে অভিজ্ঞতা কী? 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
       "image_url": "images/deshal/x_19.png",
-      "when": "2026-07-21T14:00:00+00:00"
+      "when": "2026-07-21T14:00:00+00:00",
+      "result": {
+        "id": "1340751711508066",
+        "post_id": "1191612787659871_1340751774841393"
+      },
+      "posted_at": "2026-07-21T14:17:18+00:00"
     },
     {
       "id": "x-20",
@@ -2849,7 +2868,12 @@
       "message": "🔁 Some films are built to be watched twice. These five reward it most:\n\n1️⃣ THE PRESTIGE — the answer is in the opening line\n2️⃣ ARRIVAL — becomes a completely different story\n3️⃣ FIGHT CLUB — Tyler is in the background before you meet him\n4️⃣ SHUTTER ISLAND — every single character is performing\n5️⃣ MEMENTO — good luck ever seeing it \"properly\" once\n\nThe first watch is the plot. The second watch is the film.\n\n💬 Which movie hit you HARDER the second time? 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_13.png",
       "when": "2026-07-21T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198389184787954",
+        "post_id": "628257647029140_122198389202787954"
+      },
+      "posted_at": "2026-07-21T14:17:34+00:00"
     },
     {
       "id": "mv-14",
