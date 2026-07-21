@@ -486,10 +486,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-21T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🚶 You never told anyone your route. You take the same shortcut every single day.\n\nToday — do you take it anyway, or go the long way and never find out what they meant?\n\nBe honest about what you'd ACTUALLY do 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_w03.png"
+      "image_url": "images/suspense/b2_w03.png",
+      "result": {
+        "id": "1470207541797607",
+        "post_id": "2642505565823038_1470207565130938"
+      },
+      "posted_at": "2026-07-21T18:22:37+00:00"
     },
     {
       "id": "sa2-23",
@@ -2029,11 +2034,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d5-5",
       "network": "facebook",
       "type": "text",
-      "message": "Two-word check-in 👇\n\nDescribe how your body feels right now — in exactly two words.\n\nWe'll start: \"Tired. Hopeful.\"\n\nYour turn.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Two-word check-in 👇\n\nDescribe how your body feels right now — in exactly two words.\n\nWe'll start: \"Tired. Hopeful.\"\n\nYour turn.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1697967172218781"
+      },
+      "posted_at": "2026-07-21T18:22:51+00:00"
     },
     {
       "account": "health-daily",
