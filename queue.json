@@ -1906,12 +1906,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-21T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d5-1",
       "network": "instagram",
       "type": "image",
       "message": "🍚 Half the world eats rice daily and doesn't share one body type.\n\nThe real issue: refined, processed carbs eaten in excess without protein or fiber alongside.\n\n💬 Could you give up rice? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d5_1.png"
+      "image_url": "images/hd8/d5_1.png",
+      "result": {
+        "media_id": "18019035032704559",
+        "permalink": "https://www.instagram.com/p/DbC45NXGkaS/"
+      },
+      "posted_at": "2026-07-21T06:38:10+00:00"
     },
     {
       "account": "health-daily",
