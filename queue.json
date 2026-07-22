@@ -566,10 +566,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-22T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "📦 The signature is yours. The door is open. You're 40 minutes away.\n\nDo you: call a neighbor, call the police, or drive home and open that package?\n\nAnd the question nobody's asking — what's IN the box you never ordered? Theories below 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_s02.png"
+      "image_url": "images/suspense/b2_s02.png",
+      "result": {
+        "id": "1471185431699818",
+        "post_id": "2642505565823038_1471185448366483"
+      },
+      "posted_at": "2026-07-22T22:13:23+00:00"
     },
     {
       "id": "sa2-28",
@@ -2270,22 +2275,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d6-6",
       "network": "facebook",
       "type": "photo",
       "message": "💚 Human connection isn't a luxury — it's a health input, like sleep and food.\n\nOne call. One message. Today.\n\n💬 Tag someone you've been meaning to check on 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_6.png"
+      "image_url": "images/hd8/d6_6.png",
+      "result": {
+        "id": "1699011248781040",
+        "post_id": "152206688762695_1699011268781038"
+      },
+      "posted_at": "2026-07-22T22:13:38+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-22T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d6-6",
       "network": "instagram",
       "type": "image",
       "message": "💚 Human connection isn't a luxury — it's a health input, like sleep and food.\n\nOne call. One message. Today.\n\n💬 Tag someone you've been meaning to check on 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_6.png"
+      "image_url": "images/hd8/d6_6.png",
+      "result": {
+        "media_id": "18238455670312130",
+        "permalink": "https://www.instagram.com/p/DbHIybtINOu/"
+      },
+      "posted_at": "2026-07-22T22:13:58+00:00"
     },
     {
       "account": "health-daily",
