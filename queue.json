@@ -2187,22 +2187,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d6-3",
       "network": "facebook",
       "type": "photo",
       "message": "🥛 Plain, unsweetened is best — flavoured versions can carry as much sugar as dessert.\n\nOne small bowl daily is a genuinely good habit for your gut.\n\n💬 Do you eat dahi daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_3.png"
+      "image_url": "images/hd8/d6_3.png",
+      "result": {
+        "id": "1698703588811806",
+        "post_id": "152206688762695_1698703615478470"
+      },
+      "posted_at": "2026-07-22T14:18:02+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-22T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d6-3",
       "network": "instagram",
       "type": "image",
       "message": "🥛 Plain, unsweetened is best — flavoured versions can carry as much sugar as dessert.\n\nOne small bowl daily is a genuinely good habit for your gut.\n\n💬 Do you eat dahi daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_3.png"
+      "image_url": "images/hd8/d6_3.png",
+      "result": {
+        "media_id": "17974470330172356",
+        "permalink": "https://www.instagram.com/p/DbGSXMNH-Hr/"
+      },
+      "posted_at": "2026-07-22T14:18:28+00:00"
     },
     {
       "account": "health-daily",
@@ -2734,19 +2744,27 @@
       "id": "x-24",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
       "message": "ফাঁকা জায়গা পূরণ করুন 👇\n\n\"আমি ছোটবেলায় ভাবতাম বড় হয়ে ______ হব।\"\n\nএখন কী হয়েছেন, সেটাও বলুন — মিলেছে কি? 😄\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "when": "2026-07-22T12:00:00+00:00"
+      "when": "2026-07-22T12:00:00+00:00",
+      "result": {
+        "id": "1191612787659871_1341512934765277"
+      },
+      "posted_at": "2026-07-22T14:18:40+00:00"
     },
     {
       "id": "x-25",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
       "message": "রাত ১১টার প্রশ্ন 🌙\n\nএখন যদি কেউ আপনাকে ১ লাখ টাকা দেয় — কিন্তু শর্ত: আজ রাতে ঘুমাতে পারবেন না।\n\n✅ রাজি\n❌ না, ঘুম আগে\n\nকমেন্টে জানান 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "when": "2026-07-22T14:00:00+00:00"
+      "when": "2026-07-22T14:00:00+00:00",
+      "result": {
+        "id": "1191612787659871_1341513144765256"
+      },
+      "posted_at": "2026-07-22T14:18:52+00:00"
     },
     {
       "id": "x-26",
@@ -3017,7 +3035,12 @@
       "message": "🚪 No budget? No problem. These films trap you in one place and never let go.\n\n1️⃣ 12 ANGRY MEN — one jury room, twelve men, zero weak scenes\n2️⃣ REAR WINDOW — Hitchcock builds a thriller out of a man who can't move\n3️⃣ THE GUILTY — a call centre. That's it. That's the movie.\n4️⃣ BURIED — Ryan Reynolds in a coffin for 95 minutes. Genuinely.\n5️⃣ ROPE — Hitchcock again, faking a single unbroken take in 1948\n\nConstraint makes better films than money does.\n\n💬 Which of these have you seen? And what did we miss? 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_16.png",
       "when": "2026-07-22T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198494160787954",
+        "post_id": "628257647029140_122198494178787954"
+      },
+      "posted_at": "2026-07-22T14:19:06+00:00"
     },
     {
       "id": "mv-17",
