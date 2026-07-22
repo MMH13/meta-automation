@@ -2142,12 +2142,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d6-1",
       "network": "instagram",
       "type": "image",
       "message": "🤧 Your grandmother meant well. The science just doesn't back this one.\n\nBeing cold may stress the body slightly, but without a virus, there's nothing to catch.\n\n💬 Who else grew up hearing this? 🙋\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_1.png"
+      "image_url": "images/hd8/d6_1.png",
+      "result": {
+        "media_id": "18144765601531284",
+        "permalink": "https://www.instagram.com/p/DbFd5E_DvBY/"
+      },
+      "posted_at": "2026-07-22T06:39:55+00:00"
     },
     {
       "account": "health-daily",
