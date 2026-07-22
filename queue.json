@@ -977,10 +977,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-22T04:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 এই আফসোসটা প্রতি পরীক্ষার পরেই হয়, তবু আমরা শিখি না!\n\n💬 কে কে এই ঘটনার ভুক্তভোগী? 🙋 নিচে কমেন্ট করো!\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "image_url": "images/deshal/b1_11.png"
+      "image_url": "images/deshal/b1_11.png",
+      "result": {
+        "id": "1341236054792965",
+        "post_id": "1191612787659871_1341236071459630"
+      },
+      "posted_at": "2026-07-22T06:03:27+00:00"
     },
     {
       "id": "sat-00",
@@ -2122,12 +2127,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d6-1",
       "network": "facebook",
       "type": "photo",
       "message": "🤧 Your grandmother meant well. The science just doesn't back this one.\n\nBeing cold may stress the body slightly, but without a virus, there's nothing to catch.\n\n💬 Who else grew up hearing this? 🙋\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_1.png"
+      "image_url": "images/hd8/d6_1.png",
+      "result": {
+        "id": "1698367442178754",
+        "post_id": "152206688762695_1698367492178749"
+      },
+      "posted_at": "2026-07-22T06:03:49+00:00"
     },
     {
       "account": "health-daily",
@@ -2670,10 +2680,14 @@
       "id": "x-21",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
       "message": "একটা শব্দে বলুন 👇\n\nআপনার ছোটবেলার প্রিয় খাবার কী ছিল?\n\nশুধু একটা শব্দ। বাকিটা স্মৃতি নিজেই বলবে ❤️\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "when": "2026-07-22T06:00:00+00:00"
+      "when": "2026-07-22T06:00:00+00:00",
+      "result": {
+        "id": "1191612787659871_1341236401459597"
+      },
+      "posted_at": "2026-07-22T06:04:00+00:00"
     },
     {
       "id": "x-22",
