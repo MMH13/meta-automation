@@ -536,11 +536,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-22T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🧊 Two glasses. Same pitcher, same iced drink. The guest, thirsty, finished hers in a minute — perfectly fine. The host sipped hers slowly over an hour — and ended the evening in the hospital.\n\nWhat was different? Answer below in the first comment 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r07.png",
-      "first_comment": "🕵️ ANSWER: It was in the ICE. Drunk fast, the ice hadn't melted yet. Sipped slowly, it dissolved into the drink. ❄️ Clever or cruel? 👇"
+      "first_comment": "🕵️ ANSWER: It was in the ICE. Drunk fast, the ice hadn't melted yet. Sipped slowly, it dissolved into the drink. ❄️ Clever or cruel? 👇",
+      "result": {
+        "id": "1470998738385154",
+        "post_id": "2642505565823038_1470998758385152",
+        "first_comment_id": "1470998758385152_1459468919278766"
+      },
+      "posted_at": "2026-07-22T16:39:18+00:00"
     },
     {
       "id": "sa2-26",
@@ -2217,22 +2223,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d6-4",
       "network": "facebook",
       "type": "photo",
       "message": "📵 If it's within reach, you'll check it — at bedtime, at 2 AM, and the moment you wake.\n\nAcross the room = it doubles as an alarm you have to stand up for.\n\n💬 Where does your phone sleep? Honest 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_4.png"
+      "image_url": "images/hd8/d6_4.png",
+      "result": {
+        "id": "1698803802135118",
+        "post_id": "152206688762695_1698803818801783"
+      },
+      "posted_at": "2026-07-22T16:39:30+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-22T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d6-4",
       "network": "instagram",
       "type": "image",
       "message": "📵 If it's within reach, you'll check it — at bedtime, at 2 AM, and the moment you wake.\n\nAcross the room = it doubles as an alarm you have to stand up for.\n\n💬 Where does your phone sleep? Honest 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_4.png"
+      "image_url": "images/hd8/d6_4.png",
+      "result": {
+        "media_id": "18435749068124203",
+        "permalink": "https://www.instagram.com/p/DbGijVUk9BA/"
+      },
+      "posted_at": "2026-07-22T16:39:52+00:00"
     },
     {
       "account": "health-daily",
@@ -2770,10 +2786,14 @@
       "id": "x-26",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
       "message": "সবচেয়ে বড় মিথ্যা কোনটা? 😄\n\n১️⃣ \"৫ মিনিটে আসছি\"\n২️⃣ \"কাল থেকে ডায়েট\"\n৩️⃣ \"শেষ একটা এপিসোড\"\n৪️⃣ \"আমি রাগ করিনি\"\n\nনম্বর দিন কমেন্টে 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "when": "2026-07-22T16:00:00+00:00"
+      "when": "2026-07-22T16:00:00+00:00",
+      "result": {
+        "id": "1191612787659871_1341602228089681"
+      },
+      "posted_at": "2026-07-22T16:40:05+00:00"
     },
     {
       "id": "x-27",
@@ -3105,7 +3125,12 @@
       "message": "📚 স্টুডেন্ট আর যারা পড়ে শিখতে চান — এই মুহূর্তের সেরা ফ্রি Tool: Google NotebookLM.\n\n→ PDF, নোট, বই, এমনকি YouTube লিংক আপলোড করুন\n→ শুধু সেই ডকুমেন্ট থেকে উত্তর — বাইরের ভুল তথ্য না\n→ Summary, টাইমলাইন, Study Guide বানিয়ে দেয়\n→ এমনকি আপনার নোট থেকে Podcast বানায় — দুইজন হোস্ট আলোচনা করছে এমন Audio! 🎧\n\nপরীক্ষার আগে 200 পেজের বই? আপলোড → স্টাডি গাইড → রেডি।\n\nnotebooklm.google.com — ফ্রি, শুধু Gmail লাগবে।\n\n💬 পরিচিত কোনো Student কে ট্যাগ করুন — যার এটা দরকার 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p01.png",
       "when": "2026-07-22T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349752523971932",
+        "post_id": "102695371717364_1349752560638595"
+      },
+      "posted_at": "2026-07-22T16:40:19+00:00"
     },
     {
       "id": "mb-02",
