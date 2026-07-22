@@ -518,9 +518,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-22T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Hotel review, 1 star:\n\n\"Room was clean, staff polite. BUT at 3 AM someone kept sliding papers under my door. Blank pages, over and over. When I finally opened the door, the hallway was empty — and my missing luggage tag was taped to the outside of my door. I checked out immediately.\"\n\nHotel's reply, posted publicly:\n\n\"Dear guest — we apologize. However, our records show your room was our only occupied room that night, and Room 4 has no door gap. We do not have a Room 4.\"\n\nThe review was for Room 4.\n\n👇 Which detail bothers you most?\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "Hotel review, 1 star:\n\n\"Room was clean, staff polite. BUT at 3 AM someone kept sliding papers under my door. Blank pages, over and over. When I finally opened the door, the hallway was empty — and my missing luggage tag was taped to the outside of my door. I checked out immediately.\"\n\nHotel's reply, posted publicly:\n\n\"Dear guest — we apologize. However, our records show your room was our only occupied room that night, and Room 4 has no door gap. We do not have a Room 4.\"\n\nThe review was for Room 4.\n\n👇 Which detail bothers you most?\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1470369838448044"
+      },
+      "posted_at": "2026-07-22T00:02:03+00:00"
     },
     {
       "id": "sa2-25",
@@ -2083,12 +2087,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d6-0",
       "network": "facebook",
       "type": "photo",
       "message": "☀️ Most of us check a phone before we've seen daylight. Your body clock reads screens as noise and sunlight as the real signal.\n\nBalcony, window, rooftop — 5 minutes counts.\n\n💬 What's the FIRST thing you do after waking? Honest answers 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_0.png"
+      "image_url": "images/hd8/d6_0.png",
+      "result": {
+        "id": "1698161942199304",
+        "post_id": "152206688762695_1698161958865969"
+      },
+      "posted_at": "2026-07-22T00:02:18+00:00"
     },
     {
       "account": "health-daily",
@@ -2942,7 +2951,12 @@
       "message": "🎬 BLADE RUNNER 2049 (2017) — 4.5/5\n\nA 35-years-later sequel to an untouchable classic. It should have been a disaster.\n\nInstead Villeneuve made something patient and enormous — a film confident enough to sit in silence, and beautiful enough to earn it. Deakins finally got his Oscar for this, and it wasn't a consolation prize.\n\nGosling plays K as a man slowly discovering he might matter. The film's cruellest, best decision is what it does with that hope.\n\nFair warning: it's slow. Deliberately. If you want action, this isn't it. If you want to feel something enormous and sad — clear an evening.\n\nThat snow scene. That's all I'll say.\n\n💬 Better or worse than the 1982 original? Dangerous question 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_15.png",
       "when": "2026-07-21T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198429810787954",
+        "post_id": "628257647029140_122198429834787954"
+      },
+      "posted_at": "2026-07-22T00:02:31+00:00"
     },
     {
       "id": "mv-16",
