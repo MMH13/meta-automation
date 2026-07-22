@@ -2157,22 +2157,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d6-2",
       "network": "facebook",
       "type": "photo",
       "message": "🦴 Your skeleton is constantly rebuilding itself. Which means what you eat and how you move now literally builds the bones you'll have later.\n\nCalcium, vitamin D, and weight-bearing movement.\n\n💬 Did you know this? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_2.png"
+      "image_url": "images/hd8/d6_2.png",
+      "result": {
+        "id": "1698507112164787",
+        "post_id": "152206688762695_1698507135498118"
+      },
+      "posted_at": "2026-07-22T09:34:05+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-22T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d6-2",
       "network": "instagram",
       "type": "image",
       "message": "🦴 Your skeleton is constantly rebuilding itself. Which means what you eat and how you move now literally builds the bones you'll have later.\n\nCalcium, vitamin D, and weight-bearing movement.\n\n💬 Did you know this? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d6_2.png"
+      "image_url": "images/hd8/d6_2.png",
+      "result": {
+        "media_id": "18024330035849589",
+        "permalink": "https://www.instagram.com/p/DbFx3SQGlsN/"
+      },
+      "posted_at": "2026-07-22T09:34:26+00:00"
     },
     {
       "account": "health-daily",
@@ -2698,10 +2708,14 @@
       "id": "x-22",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
       "message": "কোনটা বেছে নেবেন? 🤔\n\n🌧️ সারাজীবন বৃষ্টির দিন, কিন্তু কোনো ছাতা নেই\n☀️ সারাজীবন রোদ, কিন্তু কোনো ছায়া নেই\n\nকমেন্টে ইমোজি দিন — আর কেন, সেটাও বলুন 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "when": "2026-07-22T08:00:00+00:00"
+      "when": "2026-07-22T08:00:00+00:00",
+      "result": {
+        "id": "1191612787659871_1341341254782445"
+      },
+      "posted_at": "2026-07-22T09:34:39+00:00"
     },
     {
       "id": "x-23",
@@ -3049,7 +3063,12 @@
       "message": "🤖 এই বছরের সবচেয়ে বড় পরিবর্তন — AI এখন শুধু চ্যাট করে না, নিজে কাজ করে ফেলে।\n\nআগে: \"কীভাবে ইমেইল লিখব?\" জিজ্ঞেস করতেন, ও বলে দিত, আপনি লিখতেন।\nএখন: AI Agent নিজেই খুঁজে বের করে, লেখে, পাঠিয়েও দেয়।\n\nGartner বলছে — 2026 সালেই 40% অফিস Software-এ এই Agent ঢুকে যাচ্ছে।\n\nযে কাজ বারবার করেন, সেটা AI-কে একবার শিখিয়ে দিলেই হবে। রুটিন কাজ থেকে মুক্তি।\n\n💬 আপনার কোন কাজটা AI দিয়ে Automate করতে চান? কমেন্টে লিখুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p00.png",
       "when": "2026-07-22T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349493950664456",
+        "post_id": "102695371717364_1349493973997787"
+      },
+      "posted_at": "2026-07-22T09:34:52+00:00"
     },
     {
       "id": "mb-01",

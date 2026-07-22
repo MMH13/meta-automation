@@ -60,8 +60,11 @@
       "when": "2026-07-22T14:00:00+06:00",
       "message": "🎁 কনটেন্ট রিপারপাস প্রম্পট (কপি করুন):\n\n\"You are a content repurposing expert. Here is my original content: [ব্লগ/পোস্ট/স্ক্রিপ্ট পেস্ট করুন]. Create from it: 1) 5 short Facebook posts (each with a hook + one idea + question), 2) 3 reels scripts (30 sec each), 3) 1 carousel outline (7 slides), 4) 1 email newsletter draft. Everything in Bengali, keep my tone.\"\n\nএকটা কনটেন্ট = এক সপ্তাহের ফিড 😎",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 30
+      "status": "posted",
+      "n": 30,
+      "result": {
+        "id": "1342721534675031_2050381252516274"
+      }
     },
     {
       "photo_id": "1342722014674983",
