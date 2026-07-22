@@ -553,9 +553,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-22T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "You're a character in a horror movie.\n\nThe last emoji you used is now your role in the film. 💀\n\nPost it below — no cheating, no scrolling back 👇\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "You're a character in a horror movie.\n\nThe last emoji you used is now your role in the film. 💀\n\nPost it below — no cheating, no scrolling back 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1471060525045642"
+      },
+      "posted_at": "2026-07-22T18:17:55+00:00"
     },
     {
       "id": "sa2-27",
@@ -2253,11 +2257,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-22T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d6-5",
       "network": "facebook",
       "type": "text",
-      "message": "One healthy thing you did today 👇\n\nSmall counts. Drank water. Took the stairs. Went to bed early. Said no to the second cup.\n\nType it below — someone reading might need the idea.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "One healthy thing you did today 👇\n\nSmall counts. Drank water. Took the stairs. Went to bed early. Said no to the second cup.\n\nType it below — someone reading might need the idea.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1698872122128286"
+      },
+      "posted_at": "2026-07-22T18:18:08+00:00"
     },
     {
       "account": "health-daily",
