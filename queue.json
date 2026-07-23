@@ -601,9 +601,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-23T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "The apartment was perfect and $400 under market. The landlord's only quirk: \"Rent includes the hall closet staying locked. It's grandfathered storage. Never opened, never a problem.\"\n\nFine by me. For a year, no problem — until the building's pipes burst and every unit had to be drained and inspected. Management sent a locksmith for the closet.\n\nI stayed home to watch. Nosy? Absolutely.\n\nThe locksmith opened it in thirty seconds. Inside: nothing. Empty shelf paper, a bare bulb, dust.\n\nAnd on the inside of the door — dozens of tally marks scratched into the paint, grouped in fives. Under them, in old pencil, a child's handwriting:\n\n\"Days since it knocked back: \"\n\nThe count after it was scratched out. Rewritten. Scratched out again. The last number I could make out was 3.\n\nThe locksmith looked at it for a while. Then he re-locked the door, no charge, and told me: \"Tell management it's rusted shut, yeah?\"\n\nWe both got quieter after that. The rent's still cheap. The closet stays locked.\n\nSome discounts explain themselves eventually.\n\n👇 Would you have knocked? Be honest.\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "The apartment was perfect and $400 under market. The landlord's only quirk: \"Rent includes the hall closet staying locked. It's grandfathered storage. Never opened, never a problem.\"\n\nFine by me. For a year, no problem — until the building's pipes burst and every unit had to be drained and inspected. Management sent a locksmith for the closet.\n\nI stayed home to watch. Nosy? Absolutely.\n\nThe locksmith opened it in thirty seconds. Inside: nothing. Empty shelf paper, a bare bulb, dust.\n\nAnd on the inside of the door — dozens of tally marks scratched into the paint, grouped in fives. Under them, in old pencil, a child's handwriting:\n\n\"Days since it knocked back: \"\n\nThe count after it was scratched out. Rewritten. Scratched out again. The last number I could make out was 3.\n\nThe locksmith looked at it for a while. Then he re-locked the door, no charge, and told me: \"Tell management it's rusted shut, yeah?\"\n\nWe both got quieter after that. The rent's still cheap. The closet stays locked.\n\nSome discounts explain themselves eventually.\n\n👇 Would you have knocked? Be honest.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1471769334974761"
+      },
+      "posted_at": "2026-07-23T15:20:09+00:00"
     },
     {
       "id": "sa2-30",
@@ -2435,22 +2439,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-23T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d7-4",
       "network": "facebook",
       "type": "photo",
       "message": "⏰ Sleeping till noon on Friday and 6 AM on Monday is jet lag without the holiday. Your body clock can't keep up.\n\nConsistency > catching up.\n\n💬 Same bedtime daily, or all over the place? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_4.png"
+      "image_url": "images/hd8/d7_4.png",
+      "result": {
+        "id": "1699640955384736",
+        "post_id": "152206688762695_1699640972051401"
+      },
+      "posted_at": "2026-07-23T15:20:22+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-23T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d7-4",
       "network": "instagram",
       "type": "image",
       "message": "⏰ Sleeping till noon on Friday and 6 AM on Monday is jet lag without the holiday. Your body clock can't keep up.\n\nConsistency > catching up.\n\n💬 Same bedtime daily, or all over the place? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_4.png"
+      "image_url": "images/hd8/d7_4.png",
+      "result": {
+        "media_id": "18099393167244671",
+        "permalink": "https://www.instagram.com/p/DbI-SYpkmq-/"
+      },
+      "posted_at": "2026-07-23T15:20:42+00:00"
     },
     {
       "account": "health-daily",
@@ -3181,7 +3195,12 @@
       "message": "🌍 Start here. Ten minutes in, you'll forget you're reading.\n\n1️⃣ PARASITE — the easiest entry point ever made. Funny, then not.\n2️⃣ OLDBOY — one corridor. One hammer. You'll never forget it.\n3️⃣ CITY OF GOD — kinetic, brutal, alive. Opens at a sprint.\n4️⃣ PAN'S LABYRINTH — a fairy tale that isn't for children\n5️⃣ SOCIETY OF THE SNOW — recent, devastating, unbelievably well made\n\nPick one. That's all it takes.\n\n📌 Save this list.\n\n💬 Which one are you watching first? 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_19.png",
       "when": "2026-07-23T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198606408787954",
+        "post_id": "628257647029140_122198606474787954"
+      },
+      "posted_at": "2026-07-23T15:20:55+00:00"
     },
     {
       "id": "mv-20",
@@ -3248,7 +3267,12 @@
       "message": "🔍 এখনো Research এর জন্য শুধু Google ব্যবহার করেন? তাহলে সময় নষ্ট করছেন।\n\nGoogle: 10টা লিংক দেয়, একটা একটা খুলে পড়েন, 30 মিনিট শেষ।\nPerplexity: সরাসরি উত্তর + কোন Source থেকে নিলো তার লিংকসহ। ভুল তথ্যের ভয় কম।\n\nStudent, Content Creator, Freelancer — যাদের প্রতিদিন তথ্য খুঁজতে হয়, তাদের জন্য Game Changer।\n\nফ্রি, App আর Website দুটোই — perplexity.ai\n\n💬 এখনো Google, নাকি AI-তে Shift করেছেন? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p03.png",
       "when": "2026-07-23T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350470260566825",
+        "post_id": "102695371717364_1350470280566823"
+      },
+      "posted_at": "2026-07-23T15:21:07+00:00"
     },
     {
       "id": "mb-04",
