@@ -614,10 +614,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-23T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "📱 You lived alone three years ago.\n\nThe photo is real — it's in your camera roll's cloud backup, original metadata, your old bedroom.\n\nDo you show anyone? Delete it? Or scroll to see if there are more?\n\n(Important: would you even WANT to know if there are more?) 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_w04.png"
+      "image_url": "images/suspense/b2_w04.png",
+      "result": {
+        "id": "1471935968291431",
+        "post_id": "2642505565823038_1471935991624762"
+      },
+      "posted_at": "2026-07-23T19:39:36+00:00"
     },
     {
       "id": "sa2-31",
@@ -2469,11 +2474,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-23T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d7-5",
       "network": "facebook",
       "type": "text",
-      "message": "This week's honest question 👇\n\nWhich ONE habit would change your health the most if you actually stuck to it?\n\nNot all of them. Just one.\n\nComment it — then do it tomorrow. We'll ask again next week 😉\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "This week's honest question 👇\n\nWhich ONE habit would change your health the most if you actually stuck to it?\n\nNot all of them. Just one.\n\nComment it — then do it tomorrow. We'll ask again next week 😉\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1699814162034082"
+      },
+      "posted_at": "2026-07-23T19:39:48+00:00"
     },
     {
       "account": "health-daily",
@@ -3210,7 +3219,12 @@
       "message": "🍿 Everyone has one. The film you've seen so many times you don't even watch it anymore — you just need it in the room.\n\nIt doesn't have to be good. That's not the job. The job is that it feels like a blanket.\n\nOurs changes weekly. Some nights it's The Truman Show. Some nights it's a Studio Ghibli. Some nights it's a film we'd never publicly rate above 3/5 — and that's the point.\n\nNo judgement in this comment section. None.\n\n💬 What's YOUR comfort movie? 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_20.png",
       "when": "2026-07-23T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198624930787954",
+        "post_id": "628257647029140_122198624948787954"
+      },
+      "posted_at": "2026-07-23T19:40:03+00:00"
     },
     {
       "id": "mb-00",
