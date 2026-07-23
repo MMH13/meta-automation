@@ -581,10 +581,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-23T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🐈 Pet owners know: when they stare at nothing… it's never nothing.\n\nWhat does YOUR pet stare at? Tell us the spot in your house 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_h04.png"
+      "image_url": "images/suspense/b2_h04.png",
+      "result": {
+        "id": "1471237128361315",
+        "post_id": "2642505565823038_1471237141694647"
+      },
+      "posted_at": "2026-07-23T00:10:38+00:00"
     },
     {
       "id": "sa2-29",
@@ -2305,22 +2310,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-23T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d7-0",
       "network": "facebook",
       "type": "photo",
       "message": "📧 Starting your day inside someone else's priorities puts you in reaction mode before you've even had tea.\n\nGive yourself 30 minutes that belong to you.\n\n💬 Do you check your phone before getting out of bed? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_0.png"
+      "image_url": "images/hd8/d7_0.png",
+      "result": {
+        "id": "1699067225442109",
+        "post_id": "152206688762695_1699067242108774"
+      },
+      "posted_at": "2026-07-23T00:10:51+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-23T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d7-0",
       "network": "instagram",
       "type": "image",
       "message": "📧 Starting your day inside someone else's priorities puts you in reaction mode before you've even had tea.\n\nGive yourself 30 minutes that belong to you.\n\n💬 Do you check your phone before getting out of bed? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_0.png"
+      "image_url": "images/hd8/d7_0.png",
+      "result": {
+        "media_id": "18022791755853929",
+        "permalink": "https://www.instagram.com/p/DbHWNRElSl1/"
+      },
+      "posted_at": "2026-07-23T00:11:16+00:00"
     },
     {
       "account": "health-daily",
@@ -3108,7 +3123,8 @@
       "message": "🎬 PRISONERS (2013) — 4/5\n\nA child goes missing. The police have no evidence. The father takes matters into his own hands.\n\nThat's the setup, and the film spends 153 minutes refusing to let you feel good about any of it. Hugh Jackman is terrifying — not as a villain, as a father. Gyllenhaal's detective is the only one behaving reasonably, and he's losing.\n\nDeakins shooting rain and grey Pennsylvania. Villeneuve's patience. A film that trusts you to sit with discomfort instead of resolving it.\n\nDocked half a point for a final act that leans a bit convenient. The rest is close to perfect.\n\n💬 Would you have done what Jackman's character did? Honest answer 👇\n\n🎬 Follow Top Movie Reviews — an honest verdict every day.",
       "image_url": "images/movie/m_18.png",
       "when": "2026-07-22T23:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 500: An unknown error occurred"
     },
     {
       "id": "mv-19",
