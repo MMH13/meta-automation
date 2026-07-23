@@ -2345,22 +2345,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-23T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d7-1",
       "network": "facebook",
       "type": "photo",
       "message": "🏋️ There's a difference between effort and damage.\n\nBurn = fine. Sharp pain, joint pain, or pain that lingers days = stop and get it checked.\n\n💬 Ever pushed through and regretted it? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_1.png"
+      "image_url": "images/hd8/d7_1.png",
+      "result": {
+        "id": "1699262085422623",
+        "post_id": "152206688762695_1699262098755955"
+      },
+      "posted_at": "2026-07-23T06:08:38+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-23T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d7-1",
       "network": "instagram",
       "type": "image",
       "message": "🏋️ There's a difference between effort and damage.\n\nBurn = fine. Sharp pain, joint pain, or pain that lingers days = stop and get it checked.\n\n💬 Ever pushed through and regretted it? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_1.png"
+      "image_url": "images/hd8/d7_1.png",
+      "result": {
+        "media_id": "18372905263231277",
+        "permalink": "https://www.instagram.com/p/DbH_JnjEokV/"
+      },
+      "posted_at": "2026-07-23T06:09:06+00:00"
     },
     {
       "account": "health-daily",
@@ -2868,10 +2878,14 @@
       "id": "x-29",
       "account": "radio-deshal",
       "network": "facebook",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
       "message": "শেষ প্রশ্ন আজকের 🌙\n\nআপনার জীবনের সবচেয়ে অদ্ভুত অভ্যাসটা কী?\n\nআমরা শুরু করি: রাতে ঘুমানোর আগে ফোনের চার্জ ১০০% না হলে শান্তি লাগে না 😅\n\nআপনারটা বলুন 👇\n\n😂 আরও মজার পোস্টের জন্য ফলো করুন 👉 রেডিও দেশাল",
-      "when": "2026-07-23T06:00:00+00:00"
+      "when": "2026-07-23T06:00:00+00:00",
+      "result": {
+        "id": "1191612787659871_1342008888049015"
+      },
+      "posted_at": "2026-07-23T06:09:17+00:00"
     },
     {
       "id": "mv-01",
