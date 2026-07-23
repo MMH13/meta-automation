@@ -3211,8 +3211,14 @@
       "message": "📅 কনটেন্ট বানাতে বসে \"আজ কী পোস্ট করব?\" — এই চিন্তায় আর সময় নষ্ট না।\n\nএকটা Prompt দিয়ে দিলাম, যেটা আপনার Niche অনুযায়ী পুরো 30 দিনের কনটেন্ট Idea বানিয়ে দেবে — এক ক্লিকে। Hook, Format, Engagement question — সব সাজিয়ে।\n\n🎁 Prompt টা প্রথম কমেন্টে। কপি করে ChatGPT বা Claude-এ পেস্ট করুন।\n\n💬 আপনি কী নিয়ে কনটেন্ট বানান? কমেন্টে জানান 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p02.png",
       "when": "2026-07-23T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 30-Day Content Plan Prompt (কপি করুন):\n\n\"You are my content strategist. My niche: [আপনার নিশ]. My audience: [কারা]. Platform: Facebook. Create a 30-day content plan. For each day give: 1) topic, 2) hook (first line in Bengali), 3) format (list/story/tips/prompt), 4) one engagement question, 5) 3 hashtags. Friendly conversational Bengali, not corporate.\"\n\n[ব্র্যাকেটের] জায়গায় নিজের তথ্য বসান — পুরো মাসের প্ল্যান রেডি! কাজে লাগলে জানাবেন 👇"
+      "status": "posted",
+      "first_comment": "🎁 30-Day Content Plan Prompt (কপি করুন):\n\n\"You are my content strategist. My niche: [আপনার নিশ]. My audience: [কারা]. Platform: Facebook. Create a 30-day content plan. For each day give: 1) topic, 2) hook (first line in Bengali), 3) format (list/story/tips/prompt), 4) one engagement question, 5) 3 hashtags. Friendly conversational Bengali, not corporate.\"\n\n[ব্র্যাকেটের] জায়গায় নিজের তথ্য বসান — পুরো মাসের প্ল্যান রেডি! কাজে লাগলে জানাবেন 👇",
+      "result": {
+        "id": "1350201193927065",
+        "post_id": "102695371717364_1350201210593730",
+        "first_comment_id": "1350201210593730_1675212500202092"
+      },
+      "posted_at": "2026-07-23T07:41:38+00:00"
     },
     {
       "id": "mb-03",
