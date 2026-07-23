@@ -2375,22 +2375,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-23T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d7-2",
       "network": "facebook",
       "type": "photo",
       "message": "🔬 Otherwise your own stomach acid would digest it. Your body is quietly rebuilding you all the time.\n\nWorth feeding it decently.\n\n💬 Surprised by this one? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_2.png"
+      "image_url": "images/hd8/d7_2.png",
+      "result": {
+        "id": "1699425465406285",
+        "post_id": "152206688762695_1699425502072948"
+      },
+      "posted_at": "2026-07-23T10:33:11+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-23T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d7-2",
       "network": "instagram",
       "type": "image",
       "message": "🔬 Otherwise your own stomach acid would digest it. Your body is quietly rebuilding you all the time.\n\nWorth feeding it decently.\n\n💬 Surprised by this one? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_2.png"
+      "image_url": "images/hd8/d7_2.png",
+      "result": {
+        "media_id": "18128418697650353",
+        "permalink": "https://www.instagram.com/p/DbIdbIRlg3P/"
+      },
+      "posted_at": "2026-07-23T10:33:30+00:00"
     },
     {
       "account": "health-daily",
