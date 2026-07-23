@@ -2405,22 +2405,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-23T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8-d7-3",
       "network": "facebook",
       "type": "photo",
       "message": "🫘 One of the most complete, affordable foods on earth — and it's already in most of our kitchens.\n\nProtein, fiber, iron, and it keeps you full for hours.\n\n💬 How often do you eat dal? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_3.png"
+      "image_url": "images/hd8/d7_3.png",
+      "result": {
+        "id": "1699521865396645",
+        "post_id": "152206688762695_1699521885396643"
+      },
+      "posted_at": "2026-07-23T12:45:53+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-23T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hd8ig-d7-3",
       "network": "instagram",
       "type": "image",
       "message": "🫘 One of the most complete, affordable foods on earth — and it's already in most of our kitchens.\n\nProtein, fiber, iron, and it keeps you full for hours.\n\n💬 How often do you eat dal? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd8/d7_3.png"
+      "image_url": "images/hd8/d7_3.png",
+      "result": {
+        "media_id": "18111520651767973",
+        "permalink": "https://www.instagram.com/p/DbIsm_DDWTh/"
+      },
+      "posted_at": "2026-07-23T12:46:10+00:00"
     },
     {
       "account": "health-daily",
