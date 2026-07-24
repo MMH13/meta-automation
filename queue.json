@@ -3512,10 +3512,11 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-24T06:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "type": "photo",
       "message": "😄 কালকের 'আমি' আজও অপেক্ষায়। কে কে relate করলেন? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r02.png"
+      "image_url": "images/deshal_rf/r02.png",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "id": "rr-03",
@@ -4089,12 +4090,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-24T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-0-1",
       "network": "facebook",
       "type": "photo",
       "message": "🥑 Your body needs fat for hormones, brain function and absorbing vitamins. The enemy is excess calories and processed food — not the food group.\n\n💬 Did you grow up fearing all fats? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_1.png"
+      "image_url": "images/hd_rf/d0_1.png",
+      "result": {
+        "id": "1700160801999418",
+        "post_id": "152206688762695_1700160845332747"
+      },
+      "posted_at": "2026-07-24T06:03:24+00:00"
     },
     {
       "account": "health-daily",
