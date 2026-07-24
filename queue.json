@@ -3528,20 +3528,30 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-24T08:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 বাংলাদেশের 90% IT সমস্যার সমাধান: রাউটার রিস্টার্ট 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r03.png"
+      "image_url": "images/deshal_rf/r03.png",
+      "result": {
+        "id": "1342927077957196",
+        "post_id": "1191612787659871_1342927187957185"
+      },
+      "posted_at": "2026-07-24T10:27:26+00:00"
     },
     {
       "id": "rr-04",
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-24T10:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🛍️ কার্টে জিনিস জমাই, কিন্তু কিনি না — মানসিক শান্তি 😄 আপনার কার্টে কয়টা? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r04.png"
+      "image_url": "images/deshal_rf/r04.png",
+      "result": {
+        "id": "1342927384623832",
+        "post_id": "1191612787659871_1342927601290477"
+      },
+      "posted_at": "2026-07-24T10:27:44+00:00"
     },
     {
       "id": "rr-05",
@@ -4125,22 +4135,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-24T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-0-2",
       "network": "facebook",
       "type": "photo",
       "message": "❤️ That's roughly 35 million beats a year. Be kind to it: move daily, watch the salt, manage stress, sleep well.\n\n💬 When did you last check your blood pressure? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_2.png"
+      "image_url": "images/hd_rf/d0_2.png",
+      "result": {
+        "id": "1700318171983681",
+        "post_id": "152206688762695_1700318191983679"
+      },
+      "posted_at": "2026-07-24T10:27:56+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-24T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-0-2",
       "network": "instagram",
       "type": "image",
       "message": "❤️ That's roughly 35 million beats a year. Be kind to it: move daily, watch the salt, manage stress, sleep well.\n\n💬 When did you last check your blood pressure? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_2.png"
+      "image_url": "images/hd_rf/d0_2.png",
+      "result": {
+        "media_id": "18109775953804376",
+        "permalink": "https://www.instagram.com/p/DbLBnc0Eqst/"
+      },
+      "posted_at": "2026-07-24T10:28:18+00:00"
     },
     {
       "account": "health-daily",
