@@ -694,9 +694,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-24T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "🚢 In 1955, the MV Joyita was found drifting in the South Pacific — listing, engines dead, radio tuned to the distress channel.\n\nAll 25 people aboard: gone.\n\nHere's what makes it impossible to explain:\n— The ship was practically unsinkable (cork-lined hull).\n— The lifeboats were missing — but no distress call was ever received.\n— A doctor's bag sat open on deck, bloodied bandages beside it.\n— Every clock aboard had stopped at 10:25.\n— 4 tons of cargo had vanished with the people.\n\nThe official inquiry called the crew's fate \"inexplicable.\" Seventy years later, it still is. Twenty-five people left an unsinkable ship in the middle of the night — for nowhere.\n\n👇 Pirates? Mutiny? Something in the water? What empties an unsinkable ship?\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "🚢 In 1955, the MV Joyita was found drifting in the South Pacific — listing, engines dead, radio tuned to the distress channel.\n\nAll 25 people aboard: gone.\n\nHere's what makes it impossible to explain:\n— The ship was practically unsinkable (cork-lined hull).\n— The lifeboats were missing — but no distress call was ever received.\n— A doctor's bag sat open on deck, bloodied bandages beside it.\n— Every clock aboard had stopped at 10:25.\n— 4 tons of cargo had vanished with the people.\n\nThe official inquiry called the crew's fate \"inexplicable.\" Seventy years later, it still is. Twenty-five people left an unsinkable ship in the middle of the night — for nowhere.\n\n👇 Pirates? Mutiny? Something in the water? What empties an unsinkable ship?\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1472849331533428"
+      },
+      "posted_at": "2026-07-24T22:14:35+00:00"
     },
     {
       "id": "sa2-36",
@@ -4268,22 +4272,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-24T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-0-6",
       "network": "facebook",
       "type": "photo",
       "message": "😮‍💨 Breathe in for 4 seconds, out for 6. The long exhale flips your body from stress mode to rest mode. Works in minutes, costs nothing.\n\n💬 Try 5 rounds now — feel calmer? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_6.png"
+      "image_url": "images/hd_rf/d0_6.png",
+      "result": {
+        "id": "1700822318599933",
+        "post_id": "152206688762695_1700822331933265"
+      },
+      "posted_at": "2026-07-24T22:14:47+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-24T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-0-6",
       "network": "instagram",
       "type": "image",
       "message": "😮‍💨 Breathe in for 4 seconds, out for 6. The long exhale flips your body from stress mode to rest mode. Works in minutes, costs nothing.\n\n💬 Try 5 rounds now — feel calmer? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_6.png"
+      "image_url": "images/hd_rf/d0_6.png",
+      "result": {
+        "media_id": "17856507264696876",
+        "permalink": "https://www.instagram.com/p/DbMSgovAZgT/"
+      },
+      "posted_at": "2026-07-24T22:15:08+00:00"
     },
     {
       "account": "health-daily",
