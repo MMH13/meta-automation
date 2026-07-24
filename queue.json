@@ -3599,10 +3599,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-24T16:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🤤 বৃষ্টি + খিচুড়ি + ডিম ভাজা = শান্তি। সাথে কী চাই? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r07.png"
+      "image_url": "images/deshal_rf/r07.png",
+      "result": {
+        "id": "1343176931265544",
+        "post_id": "1191612787659871_1343176964598874"
+      },
+      "posted_at": "2026-07-24T16:51:57+00:00"
     },
     {
       "id": "rr-08",
@@ -4231,12 +4236,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-24T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-0-4",
       "network": "instagram",
       "type": "image",
       "message": "📖 Swapping late-night scrolling for even one page of a book calms the mind and protects your sleep. The goal isn't volume — it's the habit.\n\n💬 What are you reading right now? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_4.png"
+      "image_url": "images/hd_rf/d0_4.png",
+      "result": {
+        "media_id": "18114422782936691",
+        "permalink": "https://www.instagram.com/p/DbLtkg_DUnK/"
+      },
+      "posted_at": "2026-07-24T16:52:23+00:00"
     },
     {
       "account": "health-daily",
