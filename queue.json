@@ -681,9 +681,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-24T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Unpopular horror opinion. Drop yours.\n\nWe'll start: jump scares are the laziest form of fear. Fight us 👇\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "Unpopular horror opinion. Drop yours.\n\nWe'll start: jump scares are the laziest form of fear. Fight us 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1472728578212170"
+      },
+      "posted_at": "2026-07-24T18:40:03+00:00"
     },
     {
       "id": "sa2-35",
@@ -4251,11 +4255,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-24T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-0-5",
       "network": "facebook",
       "type": "text",
-      "message": "Quick check-in 👇\n\nHow many hours did you sleep last night?\n\n😴 7-8\n😐 5-6\n😩 under 5\n\nDrop your number. And if it was under 5 — what kept you up?\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Quick check-in 👇\n\nHow many hours did you sleep last night?\n\n😴 7-8\n😐 5-6\n😩 under 5\n\nDrop your number. And if it was under 5 — what kept you up?\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1700698195279012"
+      },
+      "posted_at": "2026-07-24T18:40:15+00:00"
     },
     {
       "account": "health-daily",
