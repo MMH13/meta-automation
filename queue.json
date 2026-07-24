@@ -3321,7 +3321,12 @@
       "message": "💼 পরিষ্কার করে বলি — AI Freelancer দের Replace করছে না। AI-জানা Freelancer রা AI-না-জানাদের Replace করছে।\n\nভাবুন:\n→ যে Designer AI দিয়ে 3 গুণ দ্রুত কাজ দেয়, Client কাকে নেবে?\n→ যে Writer AI দিয়ে 1 দিনে Draft দেয়, নাকি যে 4 দিন নেয়?\n\nনতুন Skill পুরনো Skill কে বাতিল করে না — দাম বাড়িয়ে দেয়।\nআপনার এখনকার Skill + AI = আপনার নতুন Rate।\n\n💬 আপনি কোন Skill এ Freelancing করেন/করতে চান? কমেন্টে লিখুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p04.png",
       "when": "2026-07-24T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350977130516138",
+        "post_id": "102695371717364_1350977207182797"
+      },
+      "posted_at": "2026-07-24T07:39:18+00:00"
     },
     {
       "id": "mb-05",
@@ -4105,12 +4110,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-24T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-0-1",
       "network": "instagram",
       "type": "image",
       "message": "🥑 Your body needs fat for hormones, brain function and absorbing vitamins. The enemy is excess calories and processed food — not the food group.\n\n💬 Did you grow up fearing all fats? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_1.png"
+      "image_url": "images/hd_rf/d0_1.png",
+      "result": {
+        "media_id": "17904961299463687",
+        "permalink": "https://www.instagram.com/p/DbKuUeOGr02/"
+      },
+      "posted_at": "2026-07-24T07:39:39+00:00"
     },
     {
       "account": "health-daily",
