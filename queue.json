@@ -664,11 +664,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-24T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "⚓ A rope ladder hangs off a ship, its lowest rung exactly at the water. Rungs are a foot apart. The tide rises one foot per hour. After six hours, how many rungs are underwater?\n\nThink carefully — first comment has it 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r09.png",
-      "first_comment": "🕵️ ANSWER: Zero. The ship FLOATS — it rises with the tide, ladder and all. 🚢 Did the math trap get you? 👇"
+      "first_comment": "🕵️ ANSWER: Zero. The ship FLOATS — it rises with the tide, ladder and all. 🚢 Did the math trap get you? 👇",
+      "result": {
+        "id": "1472591054892589",
+        "post_id": "2642505565823038_1472591101559251",
+        "first_comment_id": "1472591101559251_1739128613791869"
+      },
+      "posted_at": "2026-07-24T15:03:17+00:00"
     },
     {
       "id": "sa2-34",
@@ -3336,7 +3342,12 @@
       "message": "🎙️ ভিডিও বানান কিন্তু নিজের কণ্ঠ রেকর্ড করতে চান না? ElevenLabs আপনার জন্য।\n\nশুধু লেখা টাইপ করুন — একদম মানুষের মতো Voiceover বানিয়ে দেবে। Tone, আবেগ, গতি — সব Control করা যায়।\n\nকাজে লাগান: Faceless YouTube/Reels, Product Promo, Audiobook, Podcast।\nইংরেজি দুর্বল? নিখুঁত উচ্চারণে Voiceover পাবেন।\n\nFree Plan এই মাসে অনেকটা কাজ হয়ে যায়।\n\n💬 নিজের কণ্ঠে বানান, নাকি AI Voice ব্যবহার করবেন? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p05.png",
       "when": "2026-07-24T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351248263822358",
+        "post_id": "102695371717364_1351248280489023"
+      },
+      "posted_at": "2026-07-24T15:03:30+00:00"
     },
     {
       "id": "mb-06",
@@ -3573,10 +3584,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-24T14:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🧦 প্রতি বাসায় একলা মোজার একটা কালেকশন আছে 😄 আপনার কয়টা? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r06.png"
+      "image_url": "images/deshal_rf/r06.png",
+      "result": {
+        "id": "1343107264605844",
+        "post_id": "1191612787659871_1343107324605838"
+      },
+      "posted_at": "2026-07-24T15:03:50+00:00"
     },
     {
       "id": "rr-07",
@@ -4200,12 +4216,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-24T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-0-4",
       "network": "facebook",
       "type": "photo",
       "message": "📖 Swapping late-night scrolling for even one page of a book calms the mind and protects your sleep. The goal isn't volume — it's the habit.\n\n💬 What are you reading right now? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d0_4.png"
+      "image_url": "images/hd_rf/d0_4.png",
+      "result": {
+        "id": "1700528145296017",
+        "post_id": "152206688762695_1700528175296014"
+      },
+      "posted_at": "2026-07-24T15:04:02+00:00"
     },
     {
       "account": "health-daily",
@@ -5029,7 +5050,12 @@
       "image_url": "images/movie_rf/m00.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-24T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198706302787954",
+        "post_id": "628257647029140_122198706320787954"
+      },
+      "posted_at": "2026-07-24T15:04:19+00:00"
     },
     {
       "id": "mr-01",
