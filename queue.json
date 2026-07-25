@@ -4548,12 +4548,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-25T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-1-6",
       "network": "instagram",
       "type": "image",
       "message": "🍳 Whenever you eat first, make sure there's protein in it — it steadies blood sugar and cuts cravings for hours. Eggs, yogurt, dal, nuts.\n\n💬 What's your usual first meal? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_6.png"
+      "image_url": "images/hd_rf/d1_6.png",
+      "result": {
+        "media_id": "17937705345325273",
+        "permalink": "https://www.instagram.com/p/DbO2Lebmgf2/"
+      },
+      "posted_at": "2026-07-25T22:05:15+00:00"
     },
     {
       "account": "health-daily",
