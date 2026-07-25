@@ -723,9 +723,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-25T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Every small town has a house kids dare each other to touch. Ours was the Merrin place — empty since before anyone could remember, taxes somehow always paid.\n\nThe dare was simple: knock three times, count to ten, run.\n\nNobody ever finished counting. You'd knock, and before you hit 'four' or 'five,' you'd hear footsteps inside walking TOWARD the door — unhurried, heavy, certain. Every kid in town knew those footsteps. Forty years of kids.\n\nHere's what I never told anyone. The summer I was twelve, I didn't run. I froze. The count in my head reached ten.\n\nThe footsteps stopped on the other side of the door. A letter slot I'd never noticed creaked open, and a voice — patient, pleasant, like a shopkeeper's — said:\n\n\"Ten. Finally. Come back when you remember this house, and I'll tell you what you win.\"\n\nI'm 43 now. I moved away, married, built a life. Last month my mother mentioned, offhand: \"They finally sold the Merrin place. New owner's been asking around about a boy who finished counting.\"\n\nI remember the house. I have not gone back.\n\n👇 Finish the count or run? One story every night at 8 — follow Suspense Ahead.\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "Every small town has a house kids dare each other to touch. Ours was the Merrin place — empty since before anyone could remember, taxes somehow always paid.\n\nThe dare was simple: knock three times, count to ten, run.\n\nNobody ever finished counting. You'd knock, and before you hit 'four' or 'five,' you'd hear footsteps inside walking TOWARD the door — unhurried, heavy, certain. Every kid in town knew those footsteps. Forty years of kids.\n\nHere's what I never told anyone. The summer I was twelve, I didn't run. I froze. The count in my head reached ten.\n\nThe footsteps stopped on the other side of the door. A letter slot I'd never noticed creaked open, and a voice — patient, pleasant, like a shopkeeper's — said:\n\n\"Ten. Finally. Come back when you remember this house, and I'll tell you what you win.\"\n\nI'm 43 now. I moved away, married, built a life. Last month my mother mentioned, offhand: \"They finally sold the Merrin place. New owner's been asking around about a boy who finished counting.\"\n\nI remember the house. I have not gone back.\n\n👇 Finish the count or run? One story every night at 8 — follow Suspense Ahead.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1473433301475031"
+      },
+      "posted_at": "2026-07-25T15:14:11+00:00"
     },
     {
       "id": "sa2-38",
@@ -3388,7 +3392,12 @@
       "message": "🎬 ক্যামেরা নেই? Editing জানেন না? সমস্যা নেই — এখন Text থেকেই ভিডিও।\n\n2026-এর নতুন AI Video Tool (Veo, Kling) শুধু একটা লেখা থেকে বাস্তবসম্মত ভিডিও Clip বানিয়ে দেয় — মানুষ, দৃশ্য, Movement সব।\n\n→ Faceless ভিডিও পেজ চালানো এখন সহজ\n→ Reels/Shorts-এর জন্য B-roll সেকেন্ডে\n→ বিজ্ঞাপন, Intro — বাজেট ছাড়াই\n\nFaceless Content = 2026-এর অন্যতম বড় ইনকামের সুযোগ।\n\n💬 Faceless ভিডিও নিয়ে ফুল গাইড চান? \"চাই\" লিখুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p07.png",
       "when": "2026-07-25T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352051420408709",
+        "post_id": "102695371717364_1352051450408706"
+      },
+      "posted_at": "2026-07-25T15:14:25+00:00"
     },
     {
       "id": "mb-08",
@@ -3724,10 +3733,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-25T14:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🎵 এমন একটা গান বলুন যেটা শুনলেই ছোটবেলায় ফিরে যান 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r14.png"
+      "image_url": "images/deshal_rf/r14.png",
+      "result": {
+        "id": "1343914994525071",
+        "post_id": "1191612787659871_1343915031191734"
+      },
+      "posted_at": "2026-07-25T15:14:40+00:00"
     },
     {
       "id": "rr-15",
@@ -4460,22 +4474,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-25T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-1-4",
       "network": "facebook",
       "type": "photo",
       "message": "🌙 Bright screens tell your brain it's daytime, delaying the sleep hormone. Swap the scroll for a book, a stretch, or quiet.\n\n💬 Where does your phone sleep? Honest 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_4.png"
+      "image_url": "images/hd_rf/d1_4.png",
+      "result": {
+        "id": "1701447931870705",
+        "post_id": "152206688762695_1701447945204037"
+      },
+      "posted_at": "2026-07-25T15:14:54+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-25T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-1-4",
       "network": "instagram",
       "type": "image",
       "message": "🌙 Bright screens tell your brain it's daytime, delaying the sleep hormone. Swap the scroll for a book, a stretch, or quiet.\n\n💬 Where does your phone sleep? Honest 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_4.png"
+      "image_url": "images/hd_rf/d1_4.png",
+      "result": {
+        "media_id": "18073286828362620",
+        "permalink": "https://www.instagram.com/p/DbOHQOPDrQp/"
+      },
+      "posted_at": "2026-07-25T15:15:16+00:00"
     },
     {
       "account": "health-daily",
