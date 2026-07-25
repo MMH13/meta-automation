@@ -751,11 +751,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-25T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🕯️ A man's study was searched after a robbery next door. His alibi: \"I was home reading by candlelight all evening. When the power went out around 9, I lost my page in the dark and went to bed.\"\n\nThe detective arrested him on the spot. What was the mistake? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r10.png",
-      "first_comment": "🕵️ ANSWER: He said he was reading by CANDLELIGHT — a power cut wouldn't affect a candle. His 'dark' never happened. 🔍 Would you have caught the slip? 👇"
+      "first_comment": "🕵️ ANSWER: He said he was reading by CANDLELIGHT — a power cut wouldn't affect a candle. His 'dark' never happened. 🔍 Would you have caught the slip? 👇",
+      "result": {
+        "id": "1473644414787253",
+        "post_id": "2642505565823038_1473644448120583",
+        "first_comment_id": "1473644448120583_1013836948201989"
+      },
+      "posted_at": "2026-07-25T21:04:39+00:00"
     },
     {
       "id": "sa2-40",
@@ -4527,12 +4533,17 @@
     {
       "account": "health-daily",
       "when": "2026-07-25T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-1-6",
       "network": "facebook",
       "type": "photo",
       "message": "🍳 Whenever you eat first, make sure there's protein in it — it steadies blood sugar and cuts cravings for hours. Eggs, yogurt, dal, nuts.\n\n💬 What's your usual first meal? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_6.png"
+      "image_url": "images/hd_rf/d1_6.png",
+      "result": {
+        "id": "1701686488513516",
+        "post_id": "152206688762695_1701686508513514"
+      },
+      "posted_at": "2026-07-25T21:04:53+00:00"
     },
     {
       "account": "health-daily",
