@@ -707,10 +707,11 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-25T00:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "type": "photo",
       "message": "😰 Every parent just felt that one.\n\nRate the chill 1-10, and drop a two-sentence story of your own below 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_h05.png"
+      "image_url": "images/suspense/b2_h05.png",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "id": "sa2-37",
@@ -4302,22 +4303,28 @@
     {
       "account": "health-daily",
       "when": "2026-07-25T00:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "id": "hr-1-0",
       "network": "facebook",
       "type": "photo",
       "message": "🌅 Morning light sets your body clock — better energy today, easier sleep tonight. 10 minutes on the balcony with your tea counts.\n\n💬 Do you see daylight before 9 AM? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_0.png"
+      "image_url": "images/hd_rf/d1_0.png",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "account": "health-daily",
       "when": "2026-07-25T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-1-0",
       "network": "instagram",
       "type": "image",
       "message": "🌅 Morning light sets your body clock — better energy today, easier sleep tonight. 10 minutes on the balcony with your tea counts.\n\n💬 Do you see daylight before 9 AM? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_0.png"
+      "image_url": "images/hd_rf/d1_0.png",
+      "result": {
+        "media_id": "18021960650905366",
+        "permalink": "https://www.instagram.com/p/DbMgCPREtc1/"
+      },
+      "posted_at": "2026-07-25T00:13:20+00:00"
     },
     {
       "account": "health-daily",
@@ -5114,7 +5121,12 @@
       "image_url": "images/movie_rf/m02.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-24T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198741822787954",
+        "post_id": "628257647029140_122198741840787954"
+      },
+      "posted_at": "2026-07-25T00:13:35+00:00"
     },
     {
       "id": "mr-03",
