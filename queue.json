@@ -3679,10 +3679,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-25T08:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 মস্তিষ্ক ঠিক টাইমিং জানে। আজ কী ভুলে এসেছেন? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r11.png"
+      "image_url": "images/deshal_rf/r11.png",
+      "result": {
+        "id": "1343714777878426",
+        "post_id": "1191612787659871_1343714791211758"
+      },
+      "posted_at": "2026-07-25T09:57:42+00:00"
     },
     {
       "id": "rr-12",
@@ -4385,22 +4390,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-25T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-1-2",
       "network": "facebook",
       "type": "photo",
       "message": "💪 Muscle isn't just for looks — it protects your joints, bones and metabolism as you age. Use it or slowly lose it.\n\n💬 What's your go-to movement? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_2.png"
+      "image_url": "images/hd_rf/d1_2.png",
+      "result": {
+        "id": "1701226491892849",
+        "post_id": "152206688762695_1701226518559513"
+      },
+      "posted_at": "2026-07-25T09:57:56+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-25T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-1-2",
       "network": "instagram",
       "type": "image",
       "message": "💪 Muscle isn't just for looks — it protects your joints, bones and metabolism as you age. Use it or slowly lose it.\n\n💬 What's your go-to movement? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_2.png"
+      "image_url": "images/hd_rf/d1_2.png",
+      "result": {
+        "media_id": "17898930099513270",
+        "permalink": "https://www.instagram.com/p/DbNi-q4FoR0/"
+      },
+      "posted_at": "2026-07-25T09:58:16+00:00"
     },
     {
       "account": "health-daily",

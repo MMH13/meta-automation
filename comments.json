@@ -82,8 +82,11 @@
       "when": "2026-07-25T14:00:00+06:00",
       "message": "🎁 ক্যাপশন + হ্যাশট্যাগ প্রম্পট (কপি করুন):\n\n\"You are a social media strategist for Bengali content. My post topic: [টপিক]. My page niche: [নিশ]. Target audience: [অডিয়েন্স]. Give me: 1) 3 caption options in Bengali (one short punchy, one storytelling, one list-style), 2) 8 hashtags mixed sizes (niche-specific + medium + broad), 3) best posting time suggestion with reason, 4) one engagement question to add at the end.\"\n\nপরের পোস্টে ইউজ করে দেখুন 😉",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 42
+      "status": "posted",
+      "n": 42,
+      "result": {
+        "id": "1342722698008248_1730743768262376"
+      }
     },
     {
       "photo_id": "1342723394674845",
