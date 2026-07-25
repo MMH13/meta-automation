@@ -3371,8 +3371,14 @@
       "message": "💼 Freelancer দের সবচেয়ে বড় সমস্যা — Client কে প্রথম মেসেজে কী লিখব?\n\nপ্রথম Proposal-টাই ঠিক করে কাজ পাবেন কি না। Copy-paste জেনেরিক মেসেজে কেউ Reply করে না।\n\nএই Prompt টা আপনার Skill আর Client-এর Job Post অনুযায়ী Custom Proposal লিখে দেবে।\n\n🎁 Prompt প্রথম কমেন্টে।\n\n💬 কোন Marketplace-এ কাজ করেন? Fiverr / Upwork / সরাসরি? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p06.png",
       "when": "2026-07-25T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Client Proposal Prompt (কপি করুন):\n\n\"You are an expert freelance proposal writer. My skills: [আপনার স্কিল]. My experience: [কত বছর]. Client's job post: [পেস্ট করুন]. Write a short personalized proposal (under 150 words) that: 1) shows I understood their specific problem, 2) mentions one relevant example, 3) ends with a question. No generic lines like 'I am hardworking'.\"\n\nকাজ পেলে জানাবেন 😄👇"
+      "status": "posted",
+      "first_comment": "🎁 Client Proposal Prompt (কপি করুন):\n\n\"You are an expert freelance proposal writer. My skills: [আপনার স্কিল]. My experience: [কত বছর]. Client's job post: [পেস্ট করুন]. Write a short personalized proposal (under 150 words) that: 1) shows I understood their specific problem, 2) mentions one relevant example, 3) ends with a question. No generic lines like 'I am hardworking'.\"\n\nকাজ পেলে জানাবেন 😄👇",
+      "result": {
+        "id": "1351770240436827",
+        "post_id": "102695371717364_1351770253770159",
+        "first_comment_id": "1351770253770159_38603850715881035"
+      },
+      "posted_at": "2026-07-25T07:25:11+00:00"
     },
     {
       "id": "mb-07",
@@ -3658,10 +3664,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-25T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🚿 গোসলের সেরা আইডিয়াগুলো কোথায় হারায়? 😄 আপনার সেরা shower-idea কী ছিল? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r10.png"
+      "image_url": "images/deshal_rf/r10.png",
+      "result": {
+        "id": "1343632674553303",
+        "post_id": "1191612787659871_1343632711219966"
+      },
+      "posted_at": "2026-07-25T07:25:30+00:00"
     },
     {
       "id": "rr-11",
@@ -4344,22 +4355,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-25T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-1-1",
       "network": "facebook",
       "type": "photo",
       "message": "🍯 'Natural' and 'brown' on a label doesn't mean healthy. Sugar is sugar. The fix is less of it, not a fancier version.\n\n💬 What's your biggest sugar weakness? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_1.png"
+      "image_url": "images/hd_rf/d1_1.png",
+      "result": {
+        "id": "1701129418569223",
+        "post_id": "152206688762695_1701129431902555"
+      },
+      "posted_at": "2026-07-25T07:25:42+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-25T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-1-1",
       "network": "instagram",
       "type": "image",
       "message": "🍯 'Natural' and 'brown' on a label doesn't mean healthy. Sugar is sugar. The fix is less of it, not a fancier version.\n\n💬 What's your biggest sugar weakness? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d1_1.png"
+      "image_url": "images/hd_rf/d1_1.png",
+      "result": {
+        "media_id": "18139134739577115",
+        "permalink": "https://www.instagram.com/p/DbNRjyfj6au/"
+      },
+      "posted_at": "2026-07-25T07:26:02+00:00"
     },
     {
       "account": "health-daily",
