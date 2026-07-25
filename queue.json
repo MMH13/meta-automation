@@ -3694,10 +3694,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-25T10:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "📸 ট্যাগ করো সেই বন্ধুকে যে '১টাই তুলবি' বলে ৫০টা তোলে 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r12.png"
+      "image_url": "images/deshal_rf/r12.png",
+      "result": {
+        "id": "1343761901207047",
+        "post_id": "1191612787659871_1343761931207044"
+      },
+      "posted_at": "2026-07-25T11:21:23+00:00"
     },
     {
       "id": "rr-13",
