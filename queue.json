@@ -3748,10 +3748,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-25T16:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 এই অভিনয়টা আমরা সবাই করি। স্বীকার করেন 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r15.png"
+      "image_url": "images/deshal_rf/r15.png",
+      "result": {
+        "id": "1343990997850804",
+        "post_id": "1191612787659871_1343991017850802"
+      },
+      "posted_at": "2026-07-25T17:10:55+00:00"
     },
     {
       "id": "rr-16",
