@@ -736,10 +736,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-25T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🎈 Exactly how you pictured them at age six — but grown up, like they aged alongside you.\n\nThey're walking toward you, smiling like an old friend at a reunion.\n\nDo you wave back? Run? Ask them their name to test it?\n\nWhat's your move? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_w05.png"
+      "image_url": "images/suspense/b2_w05.png",
+      "result": {
+        "id": "1473594091458952",
+        "post_id": "2642505565823038_1473594118125616"
+      },
+      "posted_at": "2026-07-25T19:22:25+00:00"
     },
     {
       "id": "sa2-39",
@@ -4509,11 +4514,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-25T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-1-5",
       "network": "facebook",
       "type": "text",
-      "message": "Fill in the blank 👇\n\n\"I feel my healthiest when I ______.\"\n\nSometimes naming it is the reminder you needed. Comment yours.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Fill in the blank 👇\n\n\"I feel my healthiest when I ______.\"\n\nSometimes naming it is the reminder you needed. Comment yours.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1701628721852626"
+      },
+      "posted_at": "2026-07-25T19:22:38+00:00"
     },
     {
       "account": "health-daily",
@@ -5253,7 +5262,12 @@
       "image_url": "images/movie_rf/m04.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-25T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198825294787954",
+        "post_id": "628257647029140_122198825318787954"
+      },
+      "posted_at": "2026-07-25T19:22:51+00:00"
     },
     {
       "id": "mr-05",
