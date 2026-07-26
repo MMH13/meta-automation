@@ -3813,10 +3813,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-26T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😨 এই এক লাইনে হার্টবিট মিস হয়ে যায় 😄 কে কে relate? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r18.png"
+      "image_url": "images/deshal_rf/r18.png",
+      "result": {
+        "id": "1344377521145485",
+        "post_id": "1191612787659871_1344377551145482"
+      },
+      "posted_at": "2026-07-26T06:13:04+00:00"
     },
     {
       "id": "rr-19",
@@ -4612,22 +4617,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-26T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-2-1",
       "network": "facebook",
       "type": "photo",
       "message": "🖐️ A myth that has scared people for generations. Crack away — though maybe not in a quiet meeting.\n\n💬 Guilty knuckle-cracker? 🙋 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_1.png"
+      "image_url": "images/hd_rf/d2_1.png",
+      "result": {
+        "id": "1701996085149223",
+        "post_id": "152206688762695_1701996125149219"
+      },
+      "posted_at": "2026-07-26T06:13:21+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-26T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-2-1",
       "network": "instagram",
       "type": "image",
       "message": "🖐️ A myth that has scared people for generations. Crack away — though maybe not in a quiet meeting.\n\n💬 Guilty knuckle-cracker? 🙋 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_1.png"
+      "image_url": "images/hd_rf/d2_1.png",
+      "result": {
+        "media_id": "18012574136923548",
+        "permalink": "https://www.instagram.com/p/DbPuEsqls_P/"
+      },
+      "posted_at": "2026-07-26T06:13:41+00:00"
     },
     {
       "account": "health-daily",
