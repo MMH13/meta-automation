@@ -803,9 +803,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-26T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Rate your fear 1-10:\n\n🌊 Deep, open ocean at night.\n\n(If you said 1, you've never actually thought about it.) 👇\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "Rate your fear 1-10:\n\n🌊 Deep, open ocean at night.\n\n(If you said 1, you've never actually thought about it.) 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1474400858044942"
+      },
+      "posted_at": "2026-07-26T18:09:22+00:00"
     },
     {
       "id": "sa2-43",
@@ -4778,11 +4782,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-26T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-2-5",
       "network": "facebook",
       "type": "text",
-      "message": "Two-word check-in 👇\n\nHow does your body feel right now — in exactly two words?\n\nWe'll start: \"Tired. Determined.\" Your turn.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Two-word check-in 👇\n\nHow does your body feel right now — in exactly two words?\n\nWe'll start: \"Tired. Determined.\" Your turn.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1702474551768043"
+      },
+      "posted_at": "2026-07-26T18:09:34+00:00"
     },
     {
       "account": "health-daily",
