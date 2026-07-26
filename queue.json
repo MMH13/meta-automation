@@ -786,11 +786,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-26T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😴 A woman went eight full days without sleeping — no coffee, no medical tricks, no harm done. Doctors found nothing unusual.\n\nHow did she do it? (The answer will annoy you.) First comment 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r11.png",
-      "first_comment": "🕵️ ANSWER: She slept at NIGHT. Eight DAYS without sleep — the days were never the problem. 😅 Annoyed? Tag someone this would fool 👇"
+      "first_comment": "🕵️ ANSWER: She slept at NIGHT. Eight DAYS without sleep — the days were never the problem. 😅 Annoyed? Tag someone this would fool 👇",
+      "result": {
+        "id": "1474320381386323",
+        "post_id": "2642505565823038_1474320394719655",
+        "first_comment_id": "1474320394719655_1786980525990048"
+      },
+      "posted_at": "2026-07-26T16:11:12+00:00"
     },
     {
       "id": "sa2-42",
@@ -3442,7 +3448,12 @@
       "message": "💻 2026-এ Coding সম্পূর্ণ বদলে গেছে।\n\nআগে AI শুধু Autocomplete করত। এখন Cursor, Claude Code পুরো Feature নিজে লিখে দেয় — শুরু থেকে শেষ।\n\nCursor এখন 2 Billion ডলারের Business — শুধু AI দিয়ে কোড লেখার Tool।\n\nএর মানে: নন-টেকনিক্যাল মানুষও এখন ছোটখাটো App, Automation বানাতে পারে — শুধু ভাষায় বলে দিলেই।\n\n💬 App/Automation বানাতে চান কিন্তু Coding জানেন না? কমেন্টে \"হ্যাঁ\" লিখুন — এটা নিয়ে বিস্তারিত পোস্ট দেবো 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p09.png",
       "when": "2026-07-26T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352883733658811",
+        "post_id": "102695371717364_1352883766992141"
+      },
+      "posted_at": "2026-07-26T16:11:24+00:00"
     },
     {
       "id": "mb-10",
@@ -3893,10 +3904,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-26T16:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 দুপুরের মিটিং = ঘুমের সাথে যুদ্ধ 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r23.png"
+      "image_url": "images/deshal_rf/r23.png",
+      "result": {
+        "id": "1344732441109993",
+        "post_id": "1191612787659871_1344732461109991"
+      },
+      "posted_at": "2026-07-26T16:11:37+00:00"
     },
     {
       "id": "rr-24",
@@ -4732,22 +4748,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-26T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-2-4",
       "network": "facebook",
       "type": "photo",
       "message": "👕 Decision fatigue is real. Removing tiny morning choices leaves more energy for the ones that matter. Small systems, calmer mornings.\n\n💬 Morning planner or wing-it? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_4.png"
+      "image_url": "images/hd_rf/d2_4.png",
+      "result": {
+        "id": "1702395898442575",
+        "post_id": "152206688762695_1702395918442573"
+      },
+      "posted_at": "2026-07-26T16:11:52+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-26T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-2-4",
       "network": "instagram",
       "type": "image",
       "message": "👕 Decision fatigue is real. Removing tiny morning choices leaves more energy for the ones that matter. Small systems, calmer mornings.\n\n💬 Morning planner or wing-it? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_4.png"
+      "image_url": "images/hd_rf/d2_4.png",
+      "result": {
+        "media_id": "17943551124056481",
+        "permalink": "https://www.instagram.com/p/DbQykROFsm8/"
+      },
+      "posted_at": "2026-07-26T16:12:14+00:00"
     },
     {
       "account": "health-daily",
