@@ -3833,20 +3833,30 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-26T08:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 Active দেখানোর এই শিল্প আমরা সবাই জানি 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r19.png"
+      "image_url": "images/deshal_rf/r19.png",
+      "result": {
+        "id": "1344505824465988",
+        "post_id": "1191612787659871_1344505837799320"
+      },
+      "posted_at": "2026-07-26T10:08:56+00:00"
     },
     {
       "id": "rr-20",
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-26T10:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😩 অফিস জীবনের সবচেয়ে বড় সত্য। কে কে একমত? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r20.png"
+      "image_url": "images/deshal_rf/r20.png",
+      "result": {
+        "id": "1344505921132645",
+        "post_id": "1191612787659871_1344505954465975"
+      },
+      "posted_at": "2026-07-26T10:09:09+00:00"
     },
     {
       "id": "rr-21",
@@ -4652,22 +4662,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-26T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-2-2",
       "network": "facebook",
       "type": "photo",
       "message": "✨ Glowing skin isn't just creams. Water, sleep, and less sugar do more than most products. Your face reflects your habits.\n\n💬 Skincare or lifestyle — what changed your skin most? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_2.png"
+      "image_url": "images/hd_rf/d2_2.png",
+      "result": {
+        "id": "1702141448468020",
+        "post_id": "152206688762695_1702141511801347"
+      },
+      "posted_at": "2026-07-26T10:09:26+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-26T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-2-2",
       "network": "instagram",
       "type": "image",
       "message": "✨ Glowing skin isn't just creams. Water, sleep, and less sugar do more than most products. Your face reflects your habits.\n\n💬 Skincare or lifestyle — what changed your skin most? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_2.png"
+      "image_url": "images/hd_rf/d2_2.png",
+      "result": {
+        "media_id": "17981270901020826",
+        "permalink": "https://www.instagram.com/p/DbQJF4VDJq8/"
+      },
+      "posted_at": "2026-07-26T10:09:43+00:00"
     },
     {
       "account": "health-daily",
