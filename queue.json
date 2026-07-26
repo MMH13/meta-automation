@@ -816,10 +816,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-26T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🍽️ Read the timestamps again. Both messages. Same contact.\n\nThe kitchen light is on. Something smells amazing. Your mom's car is just pulling into the driveway.\n\nDo you go downstairs? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_s03.png"
+      "image_url": "images/suspense/b2_s03.png",
+      "result": {
+        "id": "1474529244698770",
+        "post_id": "2642505565823038_1474529261365435"
+      },
+      "posted_at": "2026-07-26T22:08:13+00:00"
     },
     {
       "id": "sa2-44",
@@ -4795,22 +4800,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-26T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-2-6",
       "network": "facebook",
       "type": "photo",
       "message": "🚶 Ten easy minutes after eating flattens the blood sugar spike and eases that heavy, sleepy feeling. Around the block is enough.\n\n💬 Team walk or team couch after dinner? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_6.png"
+      "image_url": "images/hd_rf/d2_6.png",
+      "result": {
+        "id": "1702604378421727",
+        "post_id": "152206688762695_1702604398421725"
+      },
+      "posted_at": "2026-07-26T22:08:26+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-26T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-2-6",
       "network": "instagram",
       "type": "image",
       "message": "🚶 Ten easy minutes after eating flattens the blood sugar spike and eases that heavy, sleepy feeling. Around the block is enough.\n\n💬 Team walk or team couch after dinner? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_6.png"
+      "image_url": "images/hd_rf/d2_6.png",
+      "result": {
+        "media_id": "18128333569646567",
+        "permalink": "https://www.instagram.com/p/DbRbYGKCS0T/"
+      },
+      "posted_at": "2026-07-26T22:08:48+00:00"
     },
     {
       "account": "health-daily",
