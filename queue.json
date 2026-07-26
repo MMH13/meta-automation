@@ -768,9 +768,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-26T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "The radio station's final broadcast, 1974, ended like every night: \"Goodnight, listeners. See you tomorrow.\"\n\nThe station closed that night. License expired. Tower dismantled two years later.\n\nIn 2009, a trucker on Route 9 caught a signal on the old frequency. Static, then a warm voice: \"Goodnight, listeners. See you tomorrow.\"\n\nHe reported it as a prank. The FCC found nothing broadcasting within 400 miles.\n\nHe drives a different route now. Not because of the voice, he says.\n\nBecause it knew his name.\n\n👇 Late-night drivers: what have you heard on empty roads?\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "The radio station's final broadcast, 1974, ended like every night: \"Goodnight, listeners. See you tomorrow.\"\n\nThe station closed that night. License expired. Tower dismantled two years later.\n\nIn 2009, a trucker on Route 9 caught a signal on the old frequency. Static, then a warm voice: \"Goodnight, listeners. See you tomorrow.\"\n\nHe reported it as a prank. The FCC found nothing broadcasting within 400 miles.\n\nHe drives a different route now. Not because of the voice, he says.\n\nBecause it knew his name.\n\n👇 Late-night drivers: what have you heard on empty roads?\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1473734011444960"
+      },
+      "posted_at": "2026-07-26T00:10:32+00:00"
     },
     {
       "id": "sa2-41",
@@ -4563,22 +4567,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-26T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-2-0",
       "network": "facebook",
       "type": "photo",
       "message": "💧 By the time you're thirsty, you're already mildly dehydrated — which shows up as fatigue and brain fog, not just a dry mouth. Start the day with a glass.\n\n💬 How many glasses so far today? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_0.png"
+      "image_url": "images/hd_rf/d2_0.png",
+      "result": {
+        "id": "1701782895170542",
+        "post_id": "152206688762695_1701782915170540"
+      },
+      "posted_at": "2026-07-26T00:10:47+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-26T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-2-0",
       "network": "instagram",
       "type": "image",
       "message": "💧 By the time you're thirsty, you're already mildly dehydrated — which shows up as fatigue and brain fog, not just a dry mouth. Start the day with a glass.\n\n💬 How many glasses so far today? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d2_0.png"
+      "image_url": "images/hd_rf/d2_0.png",
+      "result": {
+        "media_id": "18088732427646420",
+        "permalink": "https://www.instagram.com/p/DbPElL6GVhc/"
+      },
+      "posted_at": "2026-07-26T00:11:12+00:00"
     },
     {
       "account": "health-daily",
