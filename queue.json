@@ -3878,10 +3878,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-26T14:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "💀 অফিসের সবচেয়ে ভয়ংকর ভুল। কার কার হয়েছে? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r22.png"
+      "image_url": "images/deshal_rf/r22.png",
+      "result": {
+        "id": "1344673764449194",
+        "post_id": "1191612787659871_1344673811115856"
+      },
+      "posted_at": "2026-07-26T14:43:00+00:00"
     },
     {
       "id": "rr-23",
@@ -5394,7 +5399,12 @@
       "image_url": "images/movie_rf/m06.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-26T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122198896328787954",
+        "post_id": "628257647029140_122198896346787954"
+      },
+      "posted_at": "2026-07-26T14:43:18+00:00"
     },
     {
       "id": "mr-07",
