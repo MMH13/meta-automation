@@ -25,7 +25,7 @@ WHAT: A South Korean dark comedy that quietly becomes a thriller. A poor family 
 
 WHO: Directed by Bong Joon-ho, who co-wrote it with Han Jin-won. Song Kang-ho leads as the father, with Choi Woo-shik and Park So-dam as the son and daughter, Jang Hye-jin as the mother, and Lee Sun-kyun, Cho Yeo-jeong, Park Myung-hoon and Lee Jung-eun on the other side of the story. Shot by Hong Kyung-pyo, cut by Yang Jin-mo, scored by Jung Jae-il.
 
-WHEN: Premiered at Cannes on 21 May 2019, where it became the first Korean film ever to win the Palme d'Or. Runtime is 132 minutes.
+WHEN: Premiered at Cannes on 21 May 2019, where it became the first Korean film ever to win the Palme d'Or. Runtime is about 2 hours 12 minutes.
 
 HOW MUCH: Made for roughly $11.4 million. Earned about $257.6 million worldwide — more than twenty times its cost.
 
@@ -129,7 +129,7 @@ WHAT: A war rig goes one way across the desert, then turns around and comes back
 
 WHO: Directed and co-written by George Miller, who made the original Mad Max in 1979. Tom Hardy plays Max, Charlize Theron plays Furiosa, Nicholas Hoult plays Nux, and Hugh Keays-Byrne plays Immortan Joe — the same actor who played the villain Toecutter in the 1979 original. Shot by John Seale, who came out of retirement to do it. Cut by Margaret Sixel. Scored by Junkie XL.
 
-WHEN: Released in 2015, roughly thirty years after the previous Mad Max film. Runtime is 120 minutes.
+WHEN: Released in 2015, roughly thirty years after the previous Mad Max film. Runtime is about 2 hours.
 
 HOW MUCH: Budget reported between $154 million and $185 million. Earned about $380 million worldwide.
 
