@@ -851,9 +851,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-27T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "I proofread audiobooks for a living. Publishers send me the narrator's raw audio; I flag mistakes against the manuscript. Mispronunciations, skipped lines. Routine.\n\nLast October, a thriller novel, chapter 14. The narrator read a paragraph that wasn't in my manuscript:\n\n\"She checks the peephole twice now. Good habit. The chain, though — she forgets the chain on Tuesdays, when the laundry makes her rush.\"\n\nI flagged it: 'Not in text — please cut.' The studio replied: \"Our file has no such line. Timestamp?\"\n\nI sent the timestamp. They sent back that section of their master recording. The paragraph wasn't in it. Same session, same file size, one paragraph difference — only on my copy.\n\nI'd have called it a glitch and moved on. Except I do my laundry on Tuesdays. And that night, for the first time, I noticed how often I'd been leaving the chain off.\n\nI use the chain every day now. I also quit thrillers — I only proof cookbooks and biographies.\n\nLast week, a biography's narrator paused mid-sentence, off-script, and said quietly: \"Better. The chain suits you.\"\n\n👇 The scariest part isn't being watched. It's being COACHED. Follow for tomorrow night's story.\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "I proofread audiobooks for a living. Publishers send me the narrator's raw audio; I flag mistakes against the manuscript. Mispronunciations, skipped lines. Routine.\n\nLast October, a thriller novel, chapter 14. The narrator read a paragraph that wasn't in my manuscript:\n\n\"She checks the peephole twice now. Good habit. The chain, though — she forgets the chain on Tuesdays, when the laundry makes her rush.\"\n\nI flagged it: 'Not in text — please cut.' The studio replied: \"Our file has no such line. Timestamp?\"\n\nI sent the timestamp. They sent back that section of their master recording. The paragraph wasn't in it. Same session, same file size, one paragraph difference — only on my copy.\n\nI'd have called it a glitch and moved on. Except I do my laundry on Tuesdays. And that night, for the first time, I noticed how often I'd been leaving the chain off.\n\nI use the chain every day now. I also quit thrillers — I only proof cookbooks and biographies.\n\nLast week, a biography's narrator paused mid-sentence, off-script, and said quietly: \"Better. The chain suits you.\"\n\n👇 The scariest part isn't being watched. It's being COACHED. Follow for tomorrow night's story.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1475186111299750"
+      },
+      "posted_at": "2026-07-27T15:49:23+00:00"
     },
     {
       "id": "sa2-46",
@@ -3499,7 +3503,12 @@
       "message": "🎨 Canva শুধু Template না — ভেতরে 5টা ফ্রি AI Feature লুকিয়ে আছে:\n\n1️⃣ Magic Write — ক্যাপশন, Idea লিখে দেয়\n2️⃣ Background Remover — এক ক্লিকে ব্যাকগ্রাউন্ড গায়েব\n3️⃣ Magic Eraser — অপ্রয়োজনীয় জিনিস মুছে দিন\n4️⃣ Magic Resize — এক ডিজাইন থেকে সব সাইজ\n5️⃣ Text to Image — লিখে দিন, ছবি বানিয়ে দেবে\n\nFree Account এই বেশিরভাগ কাজ চলে।\n\n💬 Canva ব্যবহার করেন? কোন Feature টা প্রিয়? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p11.png",
       "when": "2026-07-27T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353694116911106",
+        "post_id": "102695371717364_1353694146911103"
+      },
+      "posted_at": "2026-07-27T15:49:36+00:00"
     },
     {
       "id": "mb-12",
@@ -4034,10 +4043,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-27T14:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😴 শপিংমলের চেয়ারগুলো স্বামীদের জন্যই বানানো 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r30.png"
+      "image_url": "images/deshal_rf/r30.png",
+      "result": {
+        "id": "1345525024364068",
+        "post_id": "1191612787659871_1345525051030732"
+      },
+      "posted_at": "2026-07-27T15:49:48+00:00"
     },
     {
       "id": "rr-31",
@@ -4996,22 +5010,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-27T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-3-4",
       "network": "facebook",
       "type": "photo",
       "message": "📝 The mind clings to what went wrong. Naming three small wins before bed genuinely shifts mood and sleep over time.\n\n💬 Name one good thing from today 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_4.png"
+      "image_url": "images/hd_rf/d3_4.png",
+      "result": {
+        "id": "1703281245020707",
+        "post_id": "152206688762695_1703281278354037"
+      },
+      "posted_at": "2026-07-27T15:50:01+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-27T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-3-4",
       "network": "instagram",
       "type": "image",
       "message": "📝 The mind clings to what went wrong. Naming three small wins before bed genuinely shifts mood and sleep over time.\n\n💬 Name one good thing from today 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_4.png"
+      "image_url": "images/hd_rf/d3_4.png",
+      "result": {
+        "media_id": "17956988502170703",
+        "permalink": "https://www.instagram.com/p/DbTU3M-lo74/"
+      },
+      "posted_at": "2026-07-27T15:50:23+00:00"
     },
     {
       "account": "health-daily",
@@ -5582,7 +5606,12 @@
       "image_url": "images/movie_rf/m09.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-27T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199007766787954",
+        "post_id": "628257647029140_122199007784787954"
+      },
+      "posted_at": "2026-07-27T15:50:36+00:00"
     },
     {
       "id": "mr-10",
