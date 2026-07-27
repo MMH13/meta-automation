@@ -4004,20 +4004,30 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-27T10:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 ঘরে ঘরে এই Remote যুদ্ধ। কে জেতে আপনার বাসায়? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r28.png"
+      "image_url": "images/deshal_rf/r28.png",
+      "result": {
+        "id": "1345391427710761",
+        "post_id": "1191612787659871_1345391467710757"
+      },
+      "posted_at": "2026-07-27T12:35:11+00:00"
     },
     {
       "id": "rr-29",
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-27T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 এটা একটা ফাঁদ 😂 কে কে পড়েছেন? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r29.png"
+      "image_url": "images/deshal_rf/r29.png",
+      "result": {
+        "id": "1345391581044079",
+        "post_id": "1191612787659871_1345391607710743"
+      },
+      "posted_at": "2026-07-27T12:35:24+00:00"
     },
     {
       "id": "rr-30",
@@ -4926,42 +4936,62 @@
     {
       "account": "health-daily",
       "when": "2026-07-27T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-3-2",
       "network": "facebook",
       "type": "photo",
       "message": "🧠 The gut sends more signals to the brain than it receives. Feed it well (fiber, fermented food) and your mood often follows.\n\n💬 Does stress hit your stomach first? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_2.png"
+      "image_url": "images/hd_rf/d3_2.png",
+      "result": {
+        "id": "1703130315035800",
+        "post_id": "152206688762695_1703130365035795"
+      },
+      "posted_at": "2026-07-27T12:35:39+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-27T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-3-2",
       "network": "instagram",
       "type": "image",
       "message": "🧠 The gut sends more signals to the brain than it receives. Feed it well (fiber, fermented food) and your mood often follows.\n\n💬 Does stress hit your stomach first? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_2.png"
+      "image_url": "images/hd_rf/d3_2.png",
+      "result": {
+        "media_id": "18123195208697157",
+        "permalink": "https://www.instagram.com/p/DbS-nsZlq_F/"
+      },
+      "posted_at": "2026-07-27T12:36:00+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-27T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-3-3",
       "network": "facebook",
       "type": "photo",
       "message": "🫘 One of the most complete, affordable foods on earth — and already in most kitchens. Protein, fiber, iron, hours of fullness.\n\n💬 How often do you eat dal? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_3.png"
+      "image_url": "images/hd_rf/d3_3.png",
+      "result": {
+        "id": "1703130828369082",
+        "post_id": "152206688762695_1703130861702412"
+      },
+      "posted_at": "2026-07-27T12:36:16+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-27T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-3-3",
       "network": "instagram",
       "type": "image",
       "message": "🫘 One of the most complete, affordable foods on earth — and already in most kitchens. Protein, fiber, iron, hours of fullness.\n\n💬 How often do you eat dal? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_3.png"
+      "image_url": "images/hd_rf/d3_3.png",
+      "result": {
+        "media_id": "18123270481721274",
+        "permalink": "https://www.instagram.com/p/DbS-sG7AIvI/"
+      },
+      "posted_at": "2026-07-27T12:36:36+00:00"
     },
     {
       "account": "health-daily",
