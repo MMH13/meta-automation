@@ -4058,10 +4058,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-27T16:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😩 প্রতি পরীক্ষায় একই আবিষ্কার। কে কে আগের রাতের যোদ্ধা? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r31.png"
+      "image_url": "images/deshal_rf/r31.png",
+      "result": {
+        "id": "1345603904356180",
+        "post_id": "1191612787659871_1345603934356177"
+      },
+      "posted_at": "2026-07-27T17:50:46+00:00"
     },
     {
       "id": "rr-32",
