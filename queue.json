@@ -864,10 +864,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-27T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🛗 You're alone in the elevator. The doors close. And the panel now shows a floor you never pressed: the basement.\n\nDo you press your floor again, hit the emergency button, or ride it down to see what's there?\n\nReact 🔴 = emergency button, ⬇️ = ride it down. Comments: what happens next? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_w06.png"
+      "image_url": "images/suspense/b2_w06.png",
+      "result": {
+        "id": "1475340257951002",
+        "post_id": "2642505565823038_1475340294617665"
+      },
+      "posted_at": "2026-07-27T19:48:09+00:00"
     },
     {
       "id": "sa2-47",
@@ -5045,11 +5050,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-27T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-3-5",
       "network": "facebook",
       "type": "text",
-      "message": "Honest question 👇\n\nWhich ONE habit would improve your health the most if you actually stuck to it?\n\nNot all of them. Just one. Comment it — then start tomorrow.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Honest question 👇\n\nWhich ONE habit would improve your health the most if you actually stuck to it?\n\nNot all of them. Just one. Comment it — then start tomorrow.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1703458518336313"
+      },
+      "posted_at": "2026-07-27T19:48:22+00:00"
     },
     {
       "account": "health-daily",
@@ -5627,7 +5636,12 @@
       "image_url": "images/movie_rf/m10.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-27T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199026324787954",
+        "post_id": "628257647029140_122199026342787954"
+      },
+      "posted_at": "2026-07-27T19:48:37+00:00"
     },
     {
       "id": "mr-11",
