@@ -3968,10 +3968,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-27T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 'কিছু হয়নি' মানেই অনেক কিছু হয়েছে 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r26.png"
+      "image_url": "images/deshal_rf/r26.png",
+      "result": {
+        "id": "1345172404399330",
+        "post_id": "1191612787659871_1345172421065995"
+      },
+      "posted_at": "2026-07-27T06:38:20+00:00"
     },
     {
       "id": "rr-27",
@@ -4880,22 +4885,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-27T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-3-1",
       "network": "facebook",
       "type": "photo",
       "message": "💧 The '8 glasses' rule isn't science, it's a rough guide. Drink when thirsty, more when hot or active, and check the colour.\n\n💬 How do you track water? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_1.png"
+      "image_url": "images/hd_rf/d3_1.png",
+      "result": {
+        "id": "1702887348393430",
+        "post_id": "152206688762695_1702887365060095"
+      },
+      "posted_at": "2026-07-27T06:38:33+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-27T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-3-1",
       "network": "instagram",
       "type": "image",
       "message": "💧 The '8 glasses' rule isn't science, it's a rough guide. Drink when thirsty, more when hot or active, and check the colour.\n\n💬 How do you track water? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_1.png"
+      "image_url": "images/hd_rf/d3_1.png",
+      "result": {
+        "media_id": "18124434934805424",
+        "permalink": "https://www.instagram.com/p/DbSVwO6EjNS/"
+      },
+      "posted_at": "2026-07-27T06:38:58+00:00"
     },
     {
       "account": "health-daily",
