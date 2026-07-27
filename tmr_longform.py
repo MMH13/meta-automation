@@ -117,6 +117,112 @@ The rare film that swept everything AND deserved it. Not a difficult watch, not 
 🎬 Top Movie Reviews — one honest verdict a day."""
 
 
+FURY_ROAD = """🎬 MAD MAX: FURY ROAD (2015) — the greatest action film of the century, and it's barely close
+
+A studio spent over $150 million on a two-hour car chase with almost no dialogue, directed by a 70-year-old man who also made Happy Feet. It should have been a disaster. Instead it won six Academy Awards.
+
+━━━━━━━━━━━━━━━━━━━━
+
+📌 THE BASICS
+
+WHAT: A war rig goes one way across the desert, then turns around and comes back. That is genuinely the entire plot — and it's one of the most acclaimed films of the last twenty years.
+
+WHO: Directed and co-written by George Miller, who made the original Mad Max in 1979. Tom Hardy plays Max, Charlize Theron plays Furiosa, Nicholas Hoult plays Nux, and Hugh Keays-Byrne plays Immortan Joe — the same actor who played the villain Toecutter in the 1979 original. Shot by John Seale, who came out of retirement to do it. Cut by Margaret Sixel. Scored by Junkie XL.
+
+WHEN: Released in 2015, roughly thirty years after the previous Mad Max film. Runtime is 120 minutes.
+
+HOW MUCH: Budget reported between $154 million and $185 million. Earned about $380 million worldwide.
+
+THE RECORD: Six Academy Awards — Film Editing, Costume Design, Production Design, Makeup and Hairstyling, Sound Editing and Sound Mixing. It was also nominated for Best Picture, Best Director and Best Cinematography, and lost all three. Ten nominations, six wins, and an argument that's still running about the three it didn't get.
+
+━━━━━━━━━━━━━━━━━━━━
+
+📖 THE STORY (no spoilers)
+
+In a desert wasteland, one man controls the water and therefore controls everyone. Furiosa, his most trusted driver, takes a war rig out on a supply run and quietly goes off-route with something he desperately wants back. Max, captured and being used as a human blood supply, ends up strapped to the front of a pursuing car.
+
+That's the setup. The rest is the chase.
+
+What's remarkable is how much story fits inside it. Furiosa gets a complete character arc with maybe forty lines of dialogue. Nux — a minor henchman — has a more convincing redemption than most protagonists get in three films. And Max barely speaks at all.
+
+Miller told the story visually because he had to: he storyboarded the film before writing a script, and the film reads like something drawn rather than written. You always know exactly where every vehicle is in relation to every other one, which sounds basic until you watch almost any other modern action film and realise you have no idea.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎭 THE ACTING
+
+Charlize Theron is the lead of this film. Not Tom Hardy — Theron. Furiosa carries the entire emotional weight, and Theron plays her with a kind of exhausted fury that never tips into speechmaking. The moment in the desert, on her knees, is one of the great wordless performances of the decade.
+
+Tom Hardy makes an interesting choice: he plays Max as barely verbal, closer to an animal than a hero, and lets the film be someone else's story. It takes confidence to be the title character and step back.
+
+Nicholas Hoult is the surprise. Nux starts as a disposable fanatic and becomes the most human person on screen, and Hoult does it without a single scene of explanation.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎥 THE CAMERA
+
+John Seale came out of retirement for this and shot it like nothing else in the genre.
+
+The key decision: the point of interest sits in the centre of the frame, almost always. Sounds trivial. It means that in a film cut this fast, your eye never has to hunt for what matters — so you can cut quickly without confusing anyone. Most modern action is incoherent precisely because it ignores this.
+
+Then there's the crucial fact: the vehicles are real. Real cars, real desert, real stunt performers on poles swinging over moving trucks. There is CGI in the film, but it's mostly removing wires and extending backgrounds. When something crashes, something crashed. That physical weight is why it still looks better than films made a decade later.
+
+Note the colour too — deep orange days and cold blue nights, pushed far past realism, which is why a single frame of this film is instantly recognisable.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎵 THE MUSIC
+
+Junkie XL's score is essentially a drum and guitar assault, and the film puts the guitar on screen — a blind man on a truck of speakers with a flamethrowing instrument. The score has a character playing it inside the world of the film.
+
+It's relentless by design. There are almost no quiet moments, and the few there are land harder because of the noise around them.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎬 THE DIRECTION
+
+Miller was 70 when this was released and he out-directed everyone half his age.
+
+The editing deserves its own note. Margaret Sixel — who had never cut an action film — assembled around 480 hours of footage into 120 minutes. Miller's reasoning for hiring her was that if a man cut it, it would look like every other action film. She won the Oscar, and became the first South African-born editor to do so.
+
+━━━━━━━━━━━━━━━━━━━━
+
+✅ STRENGTHS
+
+• Practical stunt work that CGI still hasn't matched
+• Charlize Theron's Furiosa — a genuinely new kind of action lead
+• Visual storytelling so clear you could follow it with the sound off
+• Editing that's fast without ever being confusing
+• World-building done entirely through design, never exposition
+
+⚠️ WEAKNESSES
+
+• If you need plot complexity, there isn't any — it's a straight line
+• Character backstory is almost entirely withheld; some viewers find that cold
+• The relentlessness is exhausting by design, and not everyone wants that
+• Max himself is arguably the least interesting person in his own film
+
+━━━━━━━━━━━━━━━━━━━━
+
+⭐ FINAL VERDICT: 9.5 / 10
+
+The best action film since the turn of the century, and the clearest proof that spectacle and craft aren't opposites. Every action director since has been trying to copy it, and almost none have understood that the secret isn't the crashes — it's the clarity.
+
+👥 WATCH IT IF: you like action with actual craft, you're tired of CGI weightlessness, or you want to see what a director does when a studio finally lets him build the thing for real.
+
+🚫 MAYBE SKIP IF: you want a dialogue-driven story, or a quiet night in.
+
+━━━━━━━━━━━━━━━━━━━━
+
+👇 COMMENT: Is this the best action film ever made — or is there something you'd put above it? Name it and defend it.
+
+🔁 SHARE this with the friend who still hasn't seen it. They've had ten years.
+
+#MovieReview #MadMax #FuryRoad #GeorgeMiller #FilmTwitter #Cinephile #MustWatch #ActionMovies #CharlizeTheron #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic
+
+🎬 Top Movie Reviews — one honest verdict a day."""
+
+
 def apply():
     p = "queue.json"
     q = json.load(open(p, encoding="utf-8"))
@@ -125,8 +231,12 @@ def apply():
         if i.get("id") == "tmr-w1-d1-2":
             i["message"] = PARASITE
             n += 1
+        elif i.get("id") == "tmr-w1-d4-2":
+            i["message"] = FURY_ROAD
+            n += 1
     json.dump(q, open(p, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
-    print(f"updated {n} item(s); caption length = {len(PARASITE)} chars")
+    print(f"updated {n} item(s); Parasite={len(PARASITE)} chars, "
+          f"FuryRoad={len(FURY_ROAD)} chars")
 
 
 if __name__ == "__main__":

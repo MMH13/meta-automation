@@ -68,6 +68,67 @@ def _stars(rating):
     return s
 
 
+def movie_review_poster(title, year, rating, verdict, line, out_path, genre="",
+                        poster_url="", credit="Poster © respective studio · used for review"):
+    """Review card with the official poster set inside our branded frame.
+
+    poster_url may be a remote URL (e.g. a TMDB image URL) or a local file path.
+    Editorial use for genuine criticism — the poster sits as one panel inside
+    original layout and original written commentary, never reposted alone.
+    Always keep the `credit` line visible.
+    """
+    src = poster_url
+    if src and not src.startswith(("http://", "https://", "file:")):
+        from pathlib import Path
+        src = Path(src).resolve().as_uri()
+    art = (f'<img class="poster" src="{src}">' if src
+           else '<div class="poster ph">POSTER</div>')
+    html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_MV}
+<style>
+  {_CSS}
+  .wrap {{ position:absolute; left:100px; right:100px; top:170px; bottom:150px;
+       display:flex; gap:46px; align-items:center; }}
+  .poster {{ width:430px; height:645px; object-fit:cover; border-radius:14px;
+       box-shadow:0 26px 60px rgba(0,0,0,.62); flex:none;
+       border:1px solid rgba(255,255,255,.14); }}
+  .ph {{ display:flex; align-items:center; justify-content:center;
+       background:linear-gradient(160deg,#2a2145,#15102a); color:{B['mute']};
+       font-family:'Bebas Neue',sans-serif; font-size:38px; letter-spacing:6px; }}
+  .side {{ flex:1; padding-top:6px; }}
+  .kick {{ font-size:22px; letter-spacing:5px; color:{B['rose']}; font-weight:600;
+       margin-bottom:14px; }}
+  .ttl {{ font-family:'Bebas Neue',sans-serif; font-size:82px; line-height:.94;
+       letter-spacing:1px; margin-bottom:14px; }}
+  .meta {{ font-size:25px; letter-spacing:2px; color:{B['mute']};
+       margin-bottom:26px; }}
+  .stars {{ font-size:52px; color:{B['amber']}; letter-spacing:3px; }}
+  .num {{ font-size:30px; font-weight:700; margin-left:12px; }}
+  .line {{ font-size:30px; line-height:1.5; color:{B['cream']}; opacity:.94;
+       margin:26px 0 30px; }}
+  .badge {{ display:inline-block; background:{B['amber']}; color:#151020;
+       font-family:'Bebas Neue',sans-serif; font-size:33px; letter-spacing:3px;
+       padding:13px 30px; border-radius:7px; }}
+  .credit {{ position:absolute; bottom:104px; left:0; right:0; text-align:center;
+       font-size:17px; color:{B['mute']}; opacity:.6; letter-spacing:1px; }}
+</style></head><body>
+  {_hdr()}
+  <div class="wrap">
+    {art}
+    <div class="side">
+      <div class="kick">THE REVIEW</div>
+      <div class="ttl">{escape(str(title)).upper()}</div>
+      <div class="meta">{year}{' · ' + escape(genre) if genre else ''}</div>
+      <div class="stars">{_stars(rating)}<span class="num">{rating}/5</span></div>
+      <div class="line">{escape(line)}</div>
+      <div class="badge">{escape(verdict)}</div>
+    </div>
+  </div>
+  <div class="credit">{escape(credit)}</div>
+  <div class="foot">FOLLOW FOR DAILY REVIEWS</div>
+</body></html>"""
+    return _render_html(html, out_path)
+
+
 def movie_review(title, year, rating, verdict, line, out_path, genre=""):
     """rating: float out of 5. verdict: short tag e.g. 'WORTH IT'. line: 1-2 sentences."""
     html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_MV}
