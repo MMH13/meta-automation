@@ -3482,8 +3482,14 @@
       "message": "📧 Client বা অফিসের Email-এর Reply লিখতে সময় নষ্ট?\n\nএকটা Prompt ব্যবহার করি — যেকোনো Email-এর পারফেক্ট Reply 30 সেকেন্ডে। Tone, ভাষা, Format — সব ঠিক।\n\n🎁 Prompt প্রথম কমেন্টে। কপি করে ব্যবহার করুন।\n\n💬 কাজে লাগলে একটা 👍 দিয়ে জানাবেন — এরকম আরো Prompt শেয়ার করবো 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p10.png",
       "when": "2026-07-27T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Email Reply Prompt (কপি করুন):\n\n\"You are my professional email assistant. I'll paste an email I received. Write a reply that is: 1) polite and professional, 2) clear and to the point, 3) in the same language as the original. If any info is missing from my side, mark it [FILL IN]. Here is the email: [পেস্ট করুন]\"\n\nযেকোনো Email-এর রেডি Reply! কেমন লাগলো জানাবেন 👇"
+      "status": "posted",
+      "first_comment": "🎁 Email Reply Prompt (কপি করুন):\n\n\"You are my professional email assistant. I'll paste an email I received. Write a reply that is: 1) polite and professional, 2) clear and to the point, 3) in the same language as the original. If any info is missing from my side, mark it [FILL IN]. Here is the email: [পেস্ট করুন]\"\n\nযেকোনো Email-এর রেডি Reply! কেমন লাগলো জানাবেন 👇",
+      "result": {
+        "id": "1353404503606734",
+        "post_id": "102695371717364_1353404523606732",
+        "first_comment_id": "1353404523606732_1510675343696323"
+      },
+      "posted_at": "2026-07-27T08:41:26+00:00"
     },
     {
       "id": "mb-11",
@@ -3983,10 +3989,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-27T08:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 বসেই আগে বোরহানি নিশ্চিত করুন 😌 আপনার first target কী? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r27.png"
+      "image_url": "images/deshal_rf/r27.png",
+      "result": {
+        "id": "1345242034392367",
+        "post_id": "1191612787659871_1345242047725699"
+      },
+      "posted_at": "2026-07-27T08:41:40+00:00"
     },
     {
       "id": "rr-28",

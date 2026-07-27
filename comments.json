@@ -93,8 +93,11 @@
       "when": "2026-07-27T14:00:00+06:00",
       "message": "🎁 মক ইন্টারভিউ প্রম্পট (কপি করুন):\n\n\"You are an experienced hiring manager interviewing me for the position of [পজিশন] at [কোম্পানি টাইপ]. My background: [আপনার শিক্ষা/অভিজ্ঞতা সংক্ষেপে]. Rules: 1) Ask one question at a time and wait for my answer, 2) After each answer give honest feedback in Bengali — what was good, what was weak, and a stronger sample answer, 3) Mix common + tricky + role-specific questions, 4) After 8 questions, give my overall score out of 10 and my top 3 improvement areas.\"\n\nইন্টারভিউর আগের রাতে ২ রাউন্ড করে নিন — কনফিডেন্স অন্য লেভেলে থাকবে 💪",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 50
+      "status": "posted",
+      "n": 50,
+      "result": {
+        "id": "1342723394674845_1624077816012362"
+      }
     },
     {
       "photo_id": "1342724004674784",
