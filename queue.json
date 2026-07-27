@@ -879,11 +879,17 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-27T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "👛 Her wallet vanished at the café. An hour later, a helpful stranger appeared at her door holding it: \"Found this on the street — everything should be there.\" It was: cards, cash, ID, untouched.\n\nShe smiled, thanked him… and dialed the police the moment he left. Why? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
       "image_url": "images/suspense/b2_r12.png",
-      "first_comment": "🕵️ ANSWER: She never told him where she lived — and her address isn't on anything… except the home address on her ID means he read through it, fine — but how did he know she'd LOST it rather than left it with a friend? He watched her. And the cash untouched means the wallet was never the point. 🚨 What was YOUR theory? 👇"
+      "first_comment": "🕵️ ANSWER: She never told him where she lived — and her address isn't on anything… except the home address on her ID means he read through it, fine — but how did he know she'd LOST it rather than left it with a friend? He watched her. And the cash untouched means the wallet was never the point. 🚨 What was YOUR theory? 👇",
+      "result": {
+        "id": "1475389494612745",
+        "post_id": "2642505565823038_1475389514612743",
+        "first_comment_id": "1475389514612743_27728140280170150"
+      },
+      "posted_at": "2026-07-27T21:20:48+00:00"
     },
     {
       "id": "sa2-48",
@@ -5063,22 +5069,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-27T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-3-6",
       "network": "facebook",
       "type": "photo",
       "message": "💚 Connection is a health input, like food and sleep. One call, one message, today. It counts more than you think.\n\n💬 Tag someone you've been meaning to check on 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_6.png"
+      "image_url": "images/hd_rf/d3_6.png",
+      "result": {
+        "id": "1703512844997547",
+        "post_id": "152206688762695_1703512868330878"
+      },
+      "posted_at": "2026-07-27T21:20:59+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-27T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-3-6",
       "network": "instagram",
       "type": "image",
       "message": "💚 Connection is a health input, like food and sleep. One call, one message, today. It counts more than you think.\n\n💬 Tag someone you've been meaning to check on 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d3_6.png"
+      "image_url": "images/hd_rf/d3_6.png",
+      "result": {
+        "media_id": "18608611966039891",
+        "permalink": "https://www.instagram.com/p/DbT6vMeHTQn/"
+      },
+      "posted_at": "2026-07-27T21:21:16+00:00"
     },
     {
       "account": "health-daily",
