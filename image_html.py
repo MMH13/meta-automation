@@ -317,7 +317,10 @@ TEMPLATES = {
 }
 
 
-def _render_html(html: str, out_path: str) -> str:
+def _render_html(html: str, out_path: str, size=None) -> str:
+    """size: optional (width, height); defaults to the 4:5 post canvas.
+    Pass (1080, 1920) for 9:16 reel frames."""
+    rw, rh = size if size else (W, H)
     out = Path(out_path)
     if not out.is_absolute():
         out = _HERE / out
@@ -328,7 +331,7 @@ def _render_html(html: str, out_path: str) -> str:
     tmp.write_text(html, encoding="utf-8")
     subprocess.run([
         EDGE, "--headless=new", "--disable-gpu", "--hide-scrollbars",
-        f"--window-size={W},{H}", "--virtual-time-budget=15000",
+        f"--window-size={rw},{rh}", "--virtual-time-budget=15000",
         f"--screenshot={out}", tmp.as_uri(),
     ], check=True, capture_output=True, timeout=120)
     # --headless=new flushes the screenshot asynchronously AFTER the process
