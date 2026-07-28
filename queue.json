@@ -4158,20 +4158,30 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-28T10:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 ছোটবেলার এই অসুখ সবার হতো 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r36.png"
+      "image_url": "images/deshal_rf/r36.png",
+      "result": {
+        "id": "1346212760961961",
+        "post_id": "1191612787659871_1346212780961959"
+      },
+      "posted_at": "2026-07-28T12:05:37+00:00"
     },
     {
       "id": "rr-37",
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-28T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😤 পল্লী বিদ্যুৎ, টাইমিংটা একটু দেখো 🙏 কে কে ভুক্তভোগী? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r37.png"
+      "image_url": "images/deshal_rf/r37.png",
+      "result": {
+        "id": "1346212937628610",
+        "post_id": "1191612787659871_1346212954295275"
+      },
+      "posted_at": "2026-07-28T12:05:48+00:00"
     },
     {
       "id": "rr-38",
@@ -5219,22 +5229,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-28T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-4-3",
       "network": "facebook",
       "type": "photo",
       "message": "🥬 Plant iron is hard to absorb — but vitamin C dramatically boosts it. Squeeze lemon on greens, add tomato to dal.\n\n💬 Did you know this trick? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d4_3.png"
+      "image_url": "images/hd_rf/d4_3.png",
+      "result": {
+        "id": "1704057884943043",
+        "post_id": "152206688762695_1704057901609708"
+      },
+      "posted_at": "2026-07-28T12:06:01+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-28T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-4-3",
       "network": "instagram",
       "type": "image",
       "message": "🥬 Plant iron is hard to absorb — but vitamin C dramatically boosts it. Squeeze lemon on greens, add tomato to dal.\n\n💬 Did you know this trick? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d4_3.png"
+      "image_url": "images/hd_rf/d4_3.png",
+      "result": {
+        "media_id": "17878523598619470",
+        "permalink": "https://www.instagram.com/p/DbVgBVSnQ7S/"
+      },
+      "posted_at": "2026-07-28T12:06:22+00:00"
     },
     {
       "account": "health-daily",
