@@ -54,7 +54,10 @@ def _post(url, data=None, headers=None, raw=None, timeout=300):
         raise RuntimeError(f"HTTP {e.code}: {detail}") from None
 
 
-def publish(account, video_path, caption, dry_run=False):
+def publish(account, video_path, caption, dry_run=False, schedule_ts=None):
+    """schedule_ts: unix seconds. When set, the reel is uploaded now and
+    published by Facebook later (video_state=SCHEDULED) — so scheduled reels
+    do not need this machine to be on at post time."""
     pid, tok = _creds(account)
     vid_file = (_HERE / video_path) if not Path(video_path).is_absolute() else Path(video_path)
     if not vid_file.is_file():
@@ -82,15 +85,26 @@ def publish(account, video_path, caption, dry_run=False):
     })
     print("2/3 upload OK")
 
-    # --- phase 3: finish + publish ------------------------------------
-    fin = _post(f"{GRAPH}/{pid}/video_reels", {
+    # --- phase 3: finish + publish (or schedule) -----------------------
+    fields = {
         "upload_phase": "finish",
         "video_id": video_id,
-        "video_state": "PUBLISHED",
         "description": caption,
         "access_token": tok,
-    })
+    }
+    if schedule_ts:
+        fields["video_state"] = "SCHEDULED"
+        fields["scheduled_publish_time"] = str(int(schedule_ts))
+    else:
+        fields["video_state"] = "PUBLISHED"
+    fin = _post(f"{GRAPH}/{pid}/video_reels", fields)
     print(f"3/3 finish OK — {fin}")
+
+    if schedule_ts:
+        import datetime as _dt
+        when = _dt.datetime.utcfromtimestamp(int(schedule_ts))
+        return {"video_id": video_id, "status": "scheduled",
+                "publish_at_utc": when.isoformat() + "Z"}
 
     # Encoding is async; poll until it's actually live.
     for attempt in range(20):
