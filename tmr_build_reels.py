@@ -156,6 +156,11 @@ def main():
     ap.add_argument("--start-index", type=int, default=0)
     args = ap.parse_args()
 
+    # Fail fast and loudly rather than burning through the library writing
+    # error records, and hold the backend open for the whole batch.
+    from voicebox_client import require_alive
+    require_alive()
+
     state = _load_state()
     todo = REELS[args.start_index:]
     if args.limit:

@@ -38,6 +38,25 @@ def alive():
         return False
 
 
+def disable_watchdog():
+    """Voicebox shuts its backend down when no client is holding it open — which
+    killed a long unattended reel build mid-run (connection refused from r08 on).
+    Call this once before a batch."""
+    try:
+        _req("POST", "/watchdog/disable", {}, timeout=10)
+        return True
+    except Exception:
+        return False
+
+
+def require_alive():
+    if not alive():
+        raise RuntimeError(
+            "Voicebox backend is not responding on 127.0.0.1:17493 — open the "
+            "Voicebox app (the GUI can be running while its server has exited).")
+    disable_watchdog()
+
+
 def list_profiles():
     # /profiles returns a bare JSON array, not a wrapped object
     out = _req("GET", "/profiles")
