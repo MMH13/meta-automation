@@ -173,7 +173,12 @@
       "message": "🌅 The cheapest health upgrade on earth: get sunlight in your eyes within an hour of waking.\n\n(No, not staring at the sun — just being outside facing daylight.)\n\nWhat 10-15 minutes of morning light does:\n\n✅ Anchors your body clock — your brain marks \"daytime started now\"\n✅ Better sleep tonight — melatonin release gets scheduled ~14-16 hours later\n✅ Natural alertness — morning light triggers a healthy cortisol pulse (this is the GOOD cortisol timing)\n✅ Better mood — light exposure is a core tool for low mood\n\n☕ Best combo: morning tea/coffee on the balcony or rooftop instead of indoors. Same drink, free health upgrade.\n\n📱 The reverse also matters: bright screens at midnight tell your brain \"it's daytime\" — that's why sleep gets wrecked.\n\n💬 Do you see the sky before 9 AM most days, or does your morning start under a roof? 👇\n\n📌 Share with the friend who can't sleep at night but never sees the morning.\n\n#HealthDaily #MorningRoutine #Sunlight #CircadianRhythm #SleepBetter #HealthTips #Wellness\n\nFollow @health_daily13 💚",
       "image_url": "images/hd_jul17/day_12.png",
       "when": "2026-07-28T09:10:00+06:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18134679574526072",
+        "permalink": "https://www.instagram.com/p/DbUku6ZDUa7/"
+      },
+      "posted_at": "2026-07-28T03:28:15+00:00"
     },
     {
       "id": "hd-ig-13",
@@ -896,9 +901,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-28T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "Estate sale listing: \"Antique mirror, mahogany frame, 1890s. $40. Sold as-is. Please do not ask about the tape.\"\n\nEvery inch of the glass was covered in old masking tape, layer over layer, brittle with age.\n\nThe seller — the family's granddaughter — would only say: \"Grandmother taped it the night grandfather passed. She said he kept being late.\"\n\n\"Late for what?\"\n\n\"For his reflection. It kept arriving a few seconds after him.\"\n\nThe mirror sold in an hour. The buyer left a review last month: five stars.\n\n\"Removed the tape. He's very punctual now.\"\n\n👇 Would you buy it? $40 is $40.\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "Estate sale listing: \"Antique mirror, mahogany frame, 1890s. $40. Sold as-is. Please do not ask about the tape.\"\n\nEvery inch of the glass was covered in old masking tape, layer over layer, brittle with age.\n\nThe seller — the family's granddaughter — would only say: \"Grandmother taped it the night grandfather passed. She said he kept being late.\"\n\n\"Late for what?\"\n\n\"For his reflection. It kept arriving a few seconds after him.\"\n\nThe mirror sold in an hour. The buyer left a review last month: five stars.\n\n\"Removed the tape. He's very punctual now.\"\n\n👇 Would you buy it? $40 is $40.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1475588857926142"
+      },
+      "posted_at": "2026-07-28T03:28:37+00:00"
     },
     {
       "id": "sa2-49",
@@ -4084,10 +4093,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-28T02:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 ট্যাগ করো তোমার group study-র বন্ধুদের 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r32.png"
+      "image_url": "images/deshal_rf/r32.png",
+      "result": {
+        "id": "1345898334326737",
+        "post_id": "1191612787659871_1345898404326730"
+      },
+      "posted_at": "2026-07-28T03:29:03+00:00"
     },
     {
       "id": "rr-33",
@@ -5099,22 +5113,28 @@
     {
       "account": "health-daily",
       "when": "2026-07-28T00:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "id": "hr-4-0",
       "network": "facebook",
       "type": "photo",
       "message": "🛏️ Starting the day with one finished task is a small psychological nudge that compounds. Bonus: you won't crawl back in.\n\n💬 Do you make your bed daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d4_0.png"
+      "image_url": "images/hd_rf/d4_0.png",
+      "error": "Graph API 500: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "account": "health-daily",
       "when": "2026-07-28T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-4-0",
       "network": "instagram",
       "type": "image",
       "message": "🛏️ Starting the day with one finished task is a small psychological nudge that compounds. Bonus: you won't crawl back in.\n\n💬 Do you make your bed daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d4_0.png"
+      "image_url": "images/hd_rf/d4_0.png",
+      "result": {
+        "media_id": "18132318373713020",
+        "permalink": "https://www.instagram.com/p/DbUk66oDSyx/"
+      },
+      "posted_at": "2026-07-28T03:29:56+00:00"
     },
     {
       "account": "health-daily",
