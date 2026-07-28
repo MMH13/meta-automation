@@ -3538,7 +3538,12 @@
       "message": "📚 একটা কঠিন সত্য: AI যুগে সবচেয়ে বড় ঝুঁকি চাকরি হারানো না — শেখা বন্ধ করে দেওয়া।\n\nদুনিয়া এখন দুই ভাগ:\n→ যারা বলে \"এই বয়সে আর এসব শিখব না\" — ধীরে ধীরে অপ্রাসঙ্গিক হচ্ছে\n→ যারা বলে \"দেখি এটা কীভাবে কাজ করে\" — অপরিহার্য হচ্ছে\n\nপার্থক্যটা বয়সের না, Mindset-এর।\n\nদিনে 20 মিনিট। একটা Tool, একটা Prompt। 95% মানুষ এটুকুও করে না।\n\n💬 আজ/এই সপ্তাহে নতুন কী শিখলেন? ছোট হোক, কমেন্টে শেয়ার করুন 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p12.png",
       "when": "2026-07-28T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354282563518928",
+        "post_id": "102695371717364_1354282586852259"
+      },
+      "posted_at": "2026-07-28T09:42:22+00:00"
     },
     {
       "id": "mb-13",
@@ -4138,10 +4143,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-28T08:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 চাওয়া বদলাতে সময় লাগে না। আপনি কোন দলে? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r35.png"
+      "image_url": "images/deshal_rf/r35.png",
+      "result": {
+        "id": "1346120004304570",
+        "post_id": "1191612787659871_1346120024304568"
+      },
+      "posted_at": "2026-07-28T09:42:34+00:00"
     },
     {
       "id": "rr-36",
@@ -5179,22 +5189,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-28T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-4-2",
       "network": "facebook",
       "type": "photo",
       "message": "🦴 Calcium, vitamin D and weight-bearing movement now = stronger bones later. Your skeleton is a work in progress.\n\n💬 Did you know this? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d4_2.png"
+      "image_url": "images/hd_rf/d4_2.png",
+      "result": {
+        "id": "1703954731620025",
+        "post_id": "152206688762695_1703954744953357"
+      },
+      "posted_at": "2026-07-28T09:42:45+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-28T09:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-4-2",
       "network": "instagram",
       "type": "image",
       "message": "🦴 Calcium, vitamin D and weight-bearing movement now = stronger bones later. Your skeleton is a work in progress.\n\n💬 Did you know this? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d4_2.png"
+      "image_url": "images/hd_rf/d4_2.png",
+      "result": {
+        "media_id": "18098885777258293",
+        "permalink": "https://www.instagram.com/p/DbVPoD2j-Ic/"
+      },
+      "posted_at": "2026-07-28T09:43:02+00:00"
     },
     {
       "account": "health-daily",
