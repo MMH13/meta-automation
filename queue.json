@@ -986,10 +986,15 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-29T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "💻 The call \"froze\" — frozen face, frozen voice. Except the curtain behind them is still swaying. The door behind them is now open; it was closed a second ago.\n\nDo you say something? Hang up? Screenshot it?\n\nAnd the real question: do you tell THEM what you saw? 👇\n\nFollow Suspense Ahead — one mystery every 3 hours.",
-      "image_url": "images/suspense/b2_w07.png"
+      "image_url": "images/suspense/b2_w07.png",
+      "result": {
+        "id": "1477197561098605",
+        "post_id": "2642505565823038_1477197594431935"
+      },
+      "posted_at": "2026-07-29T19:38:53+00:00"
     },
     {
       "id": "sa2-55",
@@ -5574,11 +5579,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-29T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-5-5",
       "network": "facebook",
       "type": "text",
-      "message": "This week's honest question 👇\n\nWhat's one health habit you dropped that you want to restart?\n\nWriting it down is the first step back. Comment it.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "This week's honest question 👇\n\nWhat's one health habit you dropped that you want to restart?\n\nWriting it down is the first step back. Comment it.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1705409161474582"
+      },
+      "posted_at": "2026-07-29T19:39:17+00:00"
     },
     {
       "account": "health-daily",
@@ -5994,7 +6003,12 @@
       "image_url": "images/movie_rf/m16.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-29T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199248120787954",
+        "post_id": "628257647029140_122199248150787954"
+      },
+      "posted_at": "2026-07-29T19:39:38+00:00"
     },
     {
       "id": "mr-17",
