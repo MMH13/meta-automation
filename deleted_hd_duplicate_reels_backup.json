@@ -1,0 +1,179 @@
+{
+  "captured_at": "2026-07-30T01:42:37.565122",
+  "reason": "duplicate uploads from a race condition (two concurrent build processes), removed before publish",
+  "videos": [
+    {
+      "video_id": "1343024091349232",
+      "intended_slot": "2026-08-02T14:00:00Z",
+      "status": {
+        "video_status": "ready",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 2492645
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "complete",
+          "publish_status": "scheduled",
+          "publish_time": "2026-08-02T14:00:00+0000"
+        },
+        "copyright_check_status": {
+          "status": "complete",
+          "matches_found": false
+        }
+      }
+    },
+    {
+      "video_id": "2071226843782128",
+      "intended_slot": "2026-08-02T20:00:00Z",
+      "status": {
+        "video_status": "error",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 3265175
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "not_started"
+        },
+        "copyright_check_status": {
+          "status": "complete",
+          "matches_found": false
+        }
+      }
+    },
+    {
+      "video_id": "1068123512350727",
+      "intended_slot": "2026-08-03T08:00:00Z",
+      "status": {
+        "video_status": "ready",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 3116850
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "complete",
+          "publish_status": "scheduled",
+          "publish_time": "2026-08-03T08:00:00+0000"
+        },
+        "copyright_check_status": {
+          "status": "complete",
+          "matches_found": false
+        }
+      }
+    },
+    {
+      "video_id": "1411269414248549",
+      "intended_slot": "2026-08-04T08:00:00Z",
+      "status": {
+        "video_status": "ready",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 3303666
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "complete",
+          "publish_status": "scheduled",
+          "publish_time": "2026-08-04T08:00:00+0000"
+        },
+        "copyright_check_status": {
+          "status": "complete",
+          "matches_found": false
+        }
+      }
+    },
+    {
+      "video_id": "1513736493332133",
+      "intended_slot": "2026-08-04T14:00:00Z",
+      "status": {
+        "video_status": "error",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 2718040
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "not_started"
+        },
+        "copyright_check_status": {
+          "status": "complete",
+          "matches_found": false
+        }
+      }
+    },
+    {
+      "video_id": "1038456932268579",
+      "intended_slot": "2026-08-04T20:00:00Z",
+      "status": {
+        "video_status": "error",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 3176058
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "not_started"
+        },
+        "copyright_check_status": {
+          "status": "complete",
+          "matches_found": false
+        }
+      }
+    },
+    {
+      "video_id": "1668127467586406",
+      "intended_slot": "2026-08-05T08:00:00Z",
+      "status": {
+        "video_status": "error",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 3007292
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "not_started"
+        },
+        "copyright_check_status": {
+          "status": "complete",
+          "matches_found": false
+        }
+      }
+    },
+    {
+      "video_id": "917337594106425",
+      "intended_slot": "2026-08-05T14:00:00Z",
+      "status": {
+        "video_status": "error",
+        "uploading_phase": {
+          "status": "complete",
+          "bytes_transferred": 3256823
+        },
+        "processing_phase": {
+          "status": "complete"
+        },
+        "publishing_phase": {
+          "status": "not_started"
+        },
+        "copyright_check_status": {
+          "status": "in_progress"
+        }
+      }
+    }
+  ]
+}

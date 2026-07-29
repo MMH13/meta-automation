@@ -1,0 +1,138 @@
+{
+  "hdw1-2026073108": {
+    "duration": 28.4,
+    "mp4": "images/hd_w1/reels/hdw1-2026073108.mp4",
+    "scheduled_for": "2026-07-31T08:00:00+00:00",
+    "video_id": "1183725977295093",
+    "status": "scheduled",
+    "publish_at_utc": "2026-07-31T08:00:00Z"
+  },
+  "hdw1-2026073114": {
+    "duration": 27.1,
+    "mp4": "images/hd_w1/reels/hdw1-2026073114.mp4",
+    "scheduled_for": "2026-07-31T14:00:00+00:00",
+    "video_id": "1459171959300837",
+    "status": "scheduled",
+    "publish_at_utc": "2026-07-31T14:00:00Z"
+  },
+  "hdw1-2026073120": {
+    "duration": 27.2,
+    "mp4": "images/hd_w1/reels/hdw1-2026073120.mp4",
+    "scheduled_for": "2026-07-31T20:00:00+00:00",
+    "video_id": "1016627807939701",
+    "status": "scheduled",
+    "publish_at_utc": "2026-07-31T20:00:00Z"
+  },
+  "hdw1-2026080108": {
+    "duration": 32.3,
+    "mp4": "images/hd_w1/reels/hdw1-2026080108.mp4",
+    "scheduled_for": "2026-08-01T08:00:00+00:00",
+    "video_id": "847710444939794",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-01T08:00:00Z"
+  },
+  "hdw1-2026080114": {
+    "duration": 25.7,
+    "mp4": "images/hd_w1/reels/hdw1-2026080114.mp4",
+    "scheduled_for": "2026-08-01T14:00:00+00:00",
+    "video_id": "1343415657898928",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-01T14:00:00Z"
+  },
+  "hdw1-2026080120": {
+    "duration": 29.2,
+    "mp4": "images/hd_w1/reels/hdw1-2026080120.mp4",
+    "scheduled_for": "2026-08-01T20:00:00+00:00",
+    "video_id": "1585801413205639",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-01T20:00:00Z"
+  },
+  "hdw1-2026080208": {
+    "duration": 21.9,
+    "mp4": "images/hd_w1/reels/hdw1-2026080208.mp4",
+    "scheduled_for": "2026-08-02T08:00:00+00:00",
+    "video_id": "1674261920321413",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-02T08:00:00Z"
+  },
+  "hdw1-2026080214": {
+    "duration": 19.2,
+    "mp4": "images/hd_w1/reels/hdw1-2026080214.mp4",
+    "scheduled_for": "2026-08-02T14:00:00+00:00",
+    "video_id": "906697028581512",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-02T14:00:00Z"
+  },
+  "hdw1-2026080220": {
+    "duration": 24.8,
+    "mp4": "images/hd_w1/reels/hdw1-2026080220.mp4",
+    "scheduled_for": "2026-08-02T20:00:00+00:00",
+    "video_id": "4487157751560030",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-02T20:00:00Z"
+  },
+  "hdw1-2026080308": {
+    "duration": 24.4,
+    "mp4": "images/hd_w1/reels/hdw1-2026080308.mp4",
+    "scheduled_for": "2026-08-03T08:00:00+00:00",
+    "video_id": "947775428352521",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-03T08:00:00Z"
+  },
+  "hdw1-2026080314": {
+    "duration": 24.1,
+    "mp4": "images/hd_w1/reels/hdw1-2026080314.mp4",
+    "scheduled_for": "2026-08-03T14:00:00+00:00",
+    "video_id": "2013313219306098",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-03T14:00:00Z"
+  },
+  "hdw1-2026080320": {
+    "duration": 24.4,
+    "mp4": "images/hd_w1/reels/hdw1-2026080320.mp4",
+    "scheduled_for": "2026-08-03T20:00:00+00:00",
+    "video_id": "1038914772093324",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-03T20:00:00Z"
+  },
+  "hdw1-2026080408": {
+    "duration": 24.9,
+    "mp4": "images/hd_w1/reels/hdw1-2026080408.mp4",
+    "scheduled_for": "2026-08-04T08:00:00+00:00",
+    "video_id": "1207870259082187",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-04T08:00:00Z"
+  },
+  "hdw1-2026080414": {
+    "duration": 21.8,
+    "mp4": "images/hd_w1/reels/hdw1-2026080414.mp4",
+    "scheduled_for": "2026-08-04T14:00:00+00:00",
+    "video_id": "2863126407419319",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-04T14:00:00Z"
+  },
+  "hdw1-2026080420": {
+    "duration": 24.1,
+    "mp4": "images/hd_w1/reels/hdw1-2026080420.mp4",
+    "scheduled_for": "2026-08-04T20:00:00+00:00",
+    "video_id": "1508440077276932",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-04T20:00:00Z"
+  },
+  "hdw1-2026080508": {
+    "duration": 24.6,
+    "mp4": "images/hd_w1/reels/hdw1-2026080508.mp4",
+    "scheduled_for": "2026-08-05T08:00:00+00:00",
+    "video_id": "1050703870978267",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-05T08:00:00Z"
+  },
+  "hdw1-2026080514": {
+    "duration": 24.7,
+    "mp4": "images/hd_w1/reels/hdw1-2026080514.mp4",
+    "scheduled_for": "2026-08-05T14:00:00+00:00",
+    "video_id": "1024474527027605",
+    "status": "scheduled",
+    "publish_at_utc": "2026-08-05T14:00:00Z"
+  }
+}

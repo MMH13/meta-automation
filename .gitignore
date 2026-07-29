@@ -10,3 +10,5 @@ images/style_test_*.png
 images/2026-*.png
 deleted_reels_backup.json
 deleted_hd_reels_backup.json
+deleted_hd_duplicate_reels_backup.json
+hd_build_week1.lock

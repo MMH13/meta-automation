@@ -32,6 +32,34 @@ IMG_DIR = mkdir("images/hd_w1")
 REEL_DIR = mkdir("images/hd_w1/reels")
 STATE = _HERE / "hd_reels_state.json"
 PLAN = _HERE / "hd_os_week1.json"
+LOCK = _HERE / "hd_build_week1.lock"
+
+
+def _acquire_lock():
+    """Refuse to start if another instance is already running.
+
+    A prior run got launched twice by accident (once via a backgrounded tool
+    call that looked dead but wasn't, once manually) and both instances built
+    and PUBLISHED the same reels independently -> 8 duplicate scheduled posts
+    on the real page, caught and cleaned up by hand afterward. Each process
+    only reads state.json once at startup, so two live processes can't see
+    each other's progress and will both think a slot is unclaimed."""
+    import os
+    if LOCK.is_file():
+        try:
+            other_pid = int(LOCK.read_text().strip())
+            os.kill(other_pid, 0)  # raises OSError if that pid is gone
+            raise SystemExit(
+                f"hd_build_week1 is already running (pid {other_pid}). "
+                "Refusing to start a second instance — it would race the "
+                "first one and can create duplicate scheduled posts.")
+        except (ValueError, ProcessLookupError, OSError):
+            pass  # stale lock (process gone or unreadable) — safe to take over
+    LOCK.write_text(str(os.getpid()))
+
+
+def _release_lock():
+    LOCK.unlink(missing_ok=True)
 
 FPS, W, H = 30, 1080, 1920
 FADE, TAIL = 0.28, 0.45
@@ -184,7 +212,17 @@ def build_reels(plan, upload=False):
         rec["scheduled_for"] = it["date"]
         print(f"  reel {rid}: {rec.get('duration')}s")
 
-        if upload and not rec.get("video_id"):
+        # Re-read the on-disk state right before upload (not just the in-memory
+        # copy loaded at startup) — the defense-in-depth half of the fix. Even
+        # if the lock is ever bypassed, this stops a second process from
+        # uploading a slot the first one already claimed since this process began.
+        disk_state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.is_file() else {}
+        if disk_state.get(rid, {}).get("video_id"):
+            rec["video_id"] = disk_state[rid]["video_id"]
+            rec["status"] = disk_state[rid].get("status")
+            rec["publish_at_utc"] = disk_state[rid].get("publish_at_utc")
+            print(f"    already scheduled by another run ({rec['video_id']}) — skipping")
+        elif upload and not rec.get("video_id"):
             when = datetime.fromisoformat(it["date"])
             if when <= datetime.now(timezone.utc):
                 print(f"    slot already passed — skipping upload")
@@ -211,8 +249,12 @@ if __name__ == "__main__":
     ap.add_argument("--reels", action="store_true")
     ap.add_argument("--upload", action="store_true")
     a = ap.parse_args()
-    plan = json.loads(PLAN.read_text(encoding="utf-8"))
-    if a.images or not (a.images or a.reels):
-        build_images(plan)
-    if a.reels:
-        build_reels(plan, upload=a.upload)
+    _acquire_lock()
+    try:
+        plan = json.loads(PLAN.read_text(encoding="utf-8"))
+        if a.images or not (a.images or a.reels):
+            build_images(plan)
+        if a.reels:
+            build_reels(plan, upload=a.upload)
+    finally:
+        _release_lock()
