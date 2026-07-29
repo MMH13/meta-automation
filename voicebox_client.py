@@ -14,13 +14,39 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-BASE = "http://127.0.0.1:17493"
+# Voicebox doesn't bind a fixed port: the GUI launches its backend on a random
+# high port (seen: 17493), while a bare `voicebox-server.exe` defaults to 8000.
+# Hardcoding one meant the client broke whenever the backend was restarted a
+# different way, so probe instead.
+_PORTS = [17493, 8000, 8080, 5000]
+BASE = None
+
+
+def _discover(force=False):
+    """Find the live backend and cache its base URL."""
+    global BASE
+    if BASE and not force:
+        return BASE
+    for port in _PORTS:
+        url = f"http://127.0.0.1:{port}"
+        try:
+            r = urllib.request.Request(f"{url}/health")
+            with urllib.request.urlopen(r, timeout=4) as resp:
+                if resp.status == 200:
+                    BASE = url
+                    return BASE
+        except Exception:
+            continue
+    raise RuntimeError(
+        "No Voicebox backend found on " + ", ".join(str(p) for p in _PORTS) +
+        ". Start it with: 'C:\\Program Files\\Voicebox\\voicebox-server.exe'")
 
 
 def _req(method, path, payload=None, timeout=180):
+    base = _discover()
     data = json.dumps(payload).encode() if payload is not None else None
     r = urllib.request.Request(
-        f"{BASE}{path}", data=data, method=method,
+        f"{base}{path}", data=data, method=method,
         headers={"Content-Type": "application/json"} if data else {})
     with urllib.request.urlopen(r, timeout=timeout) as resp:
         raw = resp.read()
@@ -32,7 +58,7 @@ def _req(method, path, payload=None, timeout=180):
 
 def alive():
     try:
-        _req("GET", "/health", timeout=6)
+        _discover(force=True)
         return True
     except Exception:
         return False
