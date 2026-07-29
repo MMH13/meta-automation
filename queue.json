@@ -4311,20 +4311,30 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-29T10:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 রাতের মশার যুদ্ধে কে জেতে? আপনি না মশা? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r44.png"
+      "image_url": "images/deshal_rf/r44.png",
+      "result": {
+        "id": "1347080047541899",
+        "post_id": "1191612787659871_1347080077541896"
+      },
+      "posted_at": "2026-07-29T12:11:29+00:00"
     },
     {
       "id": "rr-45",
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-29T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😩 MB সবসময় ভুল টাইমে শেষ হয়। কোন operator চালান? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r45.png"
+      "image_url": "images/deshal_rf/r45.png",
+      "result": {
+        "id": "1347080197541884",
+        "post_id": "1191612787659871_1347080217541882"
+      },
+      "posted_at": "2026-07-29T12:11:41+00:00"
     },
     {
       "id": "rr-46",
@@ -5485,22 +5495,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-29T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-5-3",
       "network": "facebook",
       "type": "photo",
       "message": "🥛 Plain, unsweetened is best — flavoured tubs can carry dessert-level sugar. One small bowl daily is a genuinely good gut habit.\n\n💬 Do you eat dahi daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d5_3.png"
+      "image_url": "images/hd_rf/d5_3.png",
+      "result": {
+        "id": "1705045271510971",
+        "post_id": "152206688762695_1705045301510968"
+      },
+      "posted_at": "2026-07-29T12:11:54+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-29T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-5-3",
       "network": "instagram",
       "type": "image",
       "message": "🥛 Plain, unsweetened is best — flavoured tubs can carry dessert-level sugar. One small bowl daily is a genuinely good gut habit.\n\n💬 Do you eat dahi daily? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d5_3.png"
+      "image_url": "images/hd_rf/d5_3.png",
+      "result": {
+        "media_id": "18106365053029559",
+        "permalink": "https://www.instagram.com/p/DbYFfeBGlPR/"
+      },
+      "posted_at": "2026-07-29T12:12:16+00:00"
     },
     {
       "account": "health-daily",
