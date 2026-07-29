@@ -104,8 +104,11 @@
       "when": "2026-07-29T14:00:00+06:00",
       "message": "🎁 উইকলি প্ল্যানার প্রম্পট (কপি করুন):\n\n\"You are my personal productivity coach. My main goals this week: [৩টা লক্ষ্য লিখুন]. My fixed commitments: [জব/ক্লাস/পরিবারের সময়]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign my goals to specific days and time blocks, 2) keep hard tasks in my peak energy hours, 3) add rest and buffer time, 4) one small daily habit that compounds, 5) keep weekends lighter. Format as a simple day-by-day table.\"\n\nপ্ল্যানটা বানিয়ে স্ক্রিনশট সেভ করে রাখুন 📌",
       "account": "mamun-hossain",
-      "status": "pending",
-      "n": 58
+      "status": "posted",
+      "n": 58,
+      "result": {
+        "id": "1342724004674784_1737181690741693"
+      }
     }
   ]
 }
