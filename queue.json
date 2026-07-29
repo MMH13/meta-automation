@@ -973,9 +973,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-29T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "The overnight stocker at our grocery store, Marcus, swore the intercom sometimes paged names of people who weren't there. We ribbed him about it for years.\n\n\"Attention: Daniel, please come to register three.\" No Daniel on shift. No Daniel on the schedule. Store empty except us.\n\nIt happened maybe twice a year. Always a different name. Always register three — a register we stopped using after remodeling in 2015, but never removed.\n\nMarcus kept a list taped inside his locker. Eleven names over nine years. He called it his \"roll call.\"\n\nHere's where I stop being able to explain things. Marcus started noticing the names in the local paper — weeks or months after each page. Small stories. A retirement. An award. An obituary. Every name, eventually, passed through that paper. A town of 40,000 people; maybe it's odds.\n\nThe last page came in June, clear as a morning announcement:\n\n\"Attention: Marcus, please come to register three.\"\n\nMarcus didn't go. Marcus put in his notice, moved to his brother's in Arizona, and blocked us all \"just for a while.\"\n\nThe store's quiet now. Nobody's been paged since.\n\nRegister three's light turns on by itself some nights. We unplugged it in July.\n\nIt's on right now.\n\n👇 Would you have answered the page? Follow — a new story every night at 8.\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "The overnight stocker at our grocery store, Marcus, swore the intercom sometimes paged names of people who weren't there. We ribbed him about it for years.\n\n\"Attention: Daniel, please come to register three.\" No Daniel on shift. No Daniel on the schedule. Store empty except us.\n\nIt happened maybe twice a year. Always a different name. Always register three — a register we stopped using after remodeling in 2015, but never removed.\n\nMarcus kept a list taped inside his locker. Eleven names over nine years. He called it his \"roll call.\"\n\nHere's where I stop being able to explain things. Marcus started noticing the names in the local paper — weeks or months after each page. Small stories. A retirement. An award. An obituary. Every name, eventually, passed through that paper. A town of 40,000 people; maybe it's odds.\n\nThe last page came in June, clear as a morning announcement:\n\n\"Attention: Marcus, please come to register three.\"\n\nMarcus didn't go. Marcus put in his notice, moved to his brother's in Arizona, and blocked us all \"just for a while.\"\n\nThe store's quiet now. Nobody's been paged since.\n\nRegister three's light turns on by itself some nights. We unplugged it in July.\n\nIt's on right now.\n\n👇 Would you have answered the page? Follow — a new story every night at 8.\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1477023784449316"
+      },
+      "posted_at": "2026-07-29T15:17:26+00:00"
     },
     {
       "id": "sa2-54",
@@ -3607,7 +3611,12 @@
       "message": "✍️ ইংরেজি লেখার ভুলে Client-এর কাছে খারাপ ইম্প্রেশন? Grammarly আপনার জন্য।\n\nGmail, Facebook, যেকোনো Website — যেখানেই ইংরেজি লিখবেন, রিয়েল-টাইমে ভুল ধরবে, ঠিক করে দেবে।\n\nFreelancer দের জন্য এটা প্রায় বাধ্যতামূলক — একটা প্রফেশনাল ইমেজ তৈরি করে।\n\nBrowser Extension টা Free, একবার Install করলেই সব জায়গায় কাজ করে।\n\n💬 ইংরেজি নিয়ে আপনার সবচেয়ে বড় ভয় কী — বলা, লেখা, নাকি বোঝা? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p15.png",
       "when": "2026-07-29T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1355375290076322",
+        "post_id": "102695371717364_1355375323409652"
+      },
+      "posted_at": "2026-07-29T15:17:40+00:00"
     },
     {
       "id": "mb-16",
@@ -4341,10 +4350,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-29T14:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 ঈদ শপিং = ভিড়ের সাথে যুদ্ধ। কে কে avoid করেন? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r46.png"
+      "image_url": "images/deshal_rf/r46.png",
+      "result": {
+        "id": "1347210470862190",
+        "post_id": "1191612787659871_1347210484195522"
+      },
+      "posted_at": "2026-07-29T15:17:52+00:00"
     },
     {
       "id": "rr-47",
@@ -5525,22 +5539,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-29T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-5-4",
       "network": "facebook",
       "type": "photo",
       "message": "⏰ Sleeping till noon Saturday and 6 AM Monday is jet lag without the trip. Consistency beats catching up.\n\n💬 Fixed bedtime or all over the place? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d5_4.png"
+      "image_url": "images/hd_rf/d5_4.png",
+      "result": {
+        "id": "1705200041495494",
+        "post_id": "152206688762695_1705200054828826"
+      },
+      "posted_at": "2026-07-29T15:18:04+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-29T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-5-4",
       "network": "instagram",
       "type": "image",
       "message": "⏰ Sleeping till noon Saturday and 6 AM Monday is jet lag without the trip. Consistency beats catching up.\n\n💬 Fixed bedtime or all over the place? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d5_4.png"
+      "image_url": "images/hd_rf/d5_4.png",
+      "result": {
+        "media_id": "17927678433142828",
+        "permalink": "https://www.instagram.com/p/DbYay3unWyQ/"
+      },
+      "posted_at": "2026-07-29T15:18:26+00:00"
     },
     {
       "account": "health-daily",
@@ -5949,7 +5973,12 @@
       "image_url": "images/movie_rf/m15.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-29T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199218576787954",
+        "post_id": "628257647029140_122199218600787954"
+      },
+      "posted_at": "2026-07-29T15:18:39+00:00"
     },
     {
       "id": "mr-16",
