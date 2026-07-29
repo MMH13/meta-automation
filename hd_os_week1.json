@@ -337,195 +337,195 @@
   {
     "date": "2026-08-02T08:00:00+00:00",
     "post_type": "Reel",
-    "category": "Mental Health",
-    "title": "The 2-minute breathing reset",
-    "hook": "Two minutes of slow breathing calms your body faster than almost anything free.",
-    "caption": "Two minutes of slow breathing calms your body faster than almost anything free.\n\nSlow breathing with a longer exhale activates the parasympathetic nervous system — the branch that calms you down. It's used in clinical stress-management guidance because it's simple, free and works quickly. It isn't a treatment for anxiety disorders, but it's a genuinely useful tool in a stressful moment.\n\nTry five rounds — did you feel any calmer?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Immunity",
+    "title": "Sleep is an immune function",
+    "hook": "Short sleep makes you more likely to catch what's going around.",
+    "caption": "Short sleep makes you more likely to catch what's going around.\n\nSleep and immunity are directly connected. During sleep your body produces and redistributes immune cells, and consistently short sleep is associated with greater susceptibility to infection. If you're run down and sleeping five hours, the sleep is the more useful fix than another supplement.\n\nHow many hours did you sleep last night?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: TWO MINUTES OF / *SLOW BREATHING*\n    VO: Two minutes of slow breathing calms your body faster than almost anything else that's free.\n[2] ON-SCREEN: BREATHE IN FOR *4*. / OUT FOR *6*.\n    VO: Breathe in for four seconds. Out for six.\n[3] ON-SCREEN: THE *LONG EXHALE* / IS THE KEY\n    VO: The long exhale is the part that matters.\n[4] ON-SCREEN: IT SHIFTS YOU TOWARD / *REST* MODE\n    VO: It shifts your nervous system toward its rest-and-recover state. Heart rate settles, shoulders drop.\n[5] ON-SCREEN: FIVE ROUNDS. / *RIGHT NOW.*\n    VO: Try five rounds right now, before you scroll on. It costs nothing and works within minutes.",
-    "voiceover": "Two minutes of slow breathing calms your body faster than almost anything else that's free. Breathe in for four seconds. Out for six. The long exhale is the part that matters. It shifts your nervous system toward its rest-and-recover state. Heart rate settles, shoulders drop. Try five rounds right now, before you scroll on. It costs nothing and works within minutes.",
-    "onscreen_text": "TWO MINUTES OF *SLOW BREATHING* | BREATHE IN FOR *4*. OUT FOR *6*. | THE *LONG EXHALE* IS THE KEY | IT SHIFTS YOU TOWARD *REST* MODE | FIVE ROUNDS. *RIGHT NOW.*",
+    "reel_script": "[1] ON-SCREEN: SHORT SLEEP MAKES YOU / MORE LIKELY TO / *GET SICK*\n    VO: Short sleep makes you more likely to catch what's going around.\n[2] ON-SCREEN: YOUR IMMUNE SYSTEM / DOES REPAIR WORK / *WHILE YOU SLEEP*\n    VO: Your immune system does a lot of its work while you sleep.\n[3] ON-SCREEN: STUDIES LINK SHORT SLEEP / WITH HIGHER RATES / OF *INFECTION*\n    VO: Research links regularly short sleep with higher rates of infection after exposure.\n[4] ON-SCREEN: SLEEP ISN'T *LAZY*. / IT'S MAINTENANCE.\n    VO: Sleep isn't laziness. It's maintenance. Most adults need seven to nine hours.",
+    "voiceover": "Short sleep makes you more likely to catch what's going around. Your immune system does a lot of its work while you sleep. Research links regularly short sleep with higher rates of infection after exposure. Sleep isn't laziness. It's maintenance. Most adults need seven to nine hours.",
+    "onscreen_text": "SHORT SLEEP MAKES YOU MORE LIKELY TO *GET SICK* | YOUR IMMUNE SYSTEM DOES REPAIR WORK *WHILE YOU SLEEP* | STUDIES LINK SHORT SLEEP WITH HIGHER RATES OF *INFECTION* | SLEEP ISN'T *LAZY*. IT'S MAINTENANCE.",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#mentalhealth",
-      "#stressrelief",
-      "#breathing",
+      "#immunity",
+      "#sleep",
+      "#immunesystem",
       "#wellness",
       "#dailyhealthtips",
-      "#mindfulness",
-      "#selfcare"
+      "#healthylifestyle",
+      "#sleephealth"
     ],
     "sources": [
-      "Harvard Health — Relaxation techniques: Breath control helps quell errant stress response",
-      "NHS — Breathing exercises for stress"
+      "CDC — Sleep and Health",
+      "NIH News in Health — Sleep On It"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-02T11:00:00+00:00",
     "post_type": "Image",
-    "category": "Bone Health",
-    "framework": "Science Simplified",
-    "title": "Your bones are living tissue",
-    "hook": "Your skeleton is rebuilding itself right now.",
-    "headline": "YOUR BONES ARE\nLIVING TISSUE",
-    "caption": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. An older adult and a younger adult walking together outdoors in bright morning light, both smiling, active and healthy. Fresh green and white palette, airy and optimistic. Large uncluttered sky area at the top for a text headline. Diverse ages and ethnicities. No text rendered in image. Photorealistic, warm natural lighting.",
+    "category": "Medical Myth vs Fact",
+    "framework": "Myth → Truth",
+    "title": "Cracking knuckles causes arthritis",
+    "hook": "\"Cracking your knuckles causes arthritis\" — it doesn't.",
+    "headline": "MYTH: Knuckle cracking\ncauses arthritis",
+    "caption": "\"Cracking your knuckles causes arthritis\" — it doesn't.\n\nStudies have not found a link between knuckle cracking and arthritis. The sound comes from gas bubbles in the fluid that cushions your joints. It may annoy people around you, but it isn't damaging your hands. If cracking is painful or accompanied by swelling, that's different — see a doctor.\n\nAre you a knuckle cracker?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. Split composition: red-tinted MYTH panel above, green-tinted FACT panel below. Close-up of relaxed healthy hands on a white surface, bright even studio lighting, soft shadows, diverse skin tone. Large clean areas for text overlay top and bottom. White, soft blue and green palette. No text rendered in image. Photorealistic.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "YOUR BONES ARE LIVING TISSUE",
+    "onscreen_text": "MYTH: Knuckle cracking causes arthritis",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#bonehealth",
-      "#healthyaging",
-      "#calcium",
-      "#vitamind",
+      "#myths",
+      "#jointhealth",
+      "#arthritis",
       "#dailyhealthtips",
       "#wellness",
-      "#strengthtraining"
+      "#healthfacts",
+      "#mythbusting"
     ],
     "sources": [
-      "NIH Osteoporosis and Related Bone Diseases National Resource Center — Bone Health for Life",
-      "Cleveland Clinic — Bone Health"
+      "Harvard Health — Knuckle cracking and arthritis",
+      "Cleveland Clinic — Is cracking your knuckles bad?"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-02T14:00:00+00:00",
     "post_type": "Reel",
-    "category": "Hydration",
-    "title": "You're drinking water at the wrong time",
-    "hook": "You're drinking water — just at the wrong time.",
-    "caption": "You're drinking water — just at the wrong time.\n\nThirst is your body's late warning, not its first one. Mild dehydration is linked to reduced concentration and increased tiredness — so if your afternoon energy dips, water is worth trying before another coffee. Most adults get enough from drinks and food combined; pale-yellow urine is a reasonable everyday guide.\n\nDo you drink water regularly, or only when you're thirsty?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Diabetes",
+    "title": "Why the order you eat matters",
+    "hook": "Eating the same meal in a different order changes your blood sugar.",
+    "caption": "Eating the same meal in a different order changes your blood sugar.\n\nThis is a small, low-effort change with reasonable evidence behind it: eating vegetables and protein before carbohydrates is associated with a lower post-meal glucose rise. It doesn't replace medical treatment for diabetes, but it's a sensible habit for most people. Evidence is still developing, so treat it as a helpful tweak rather than a rule.\n\nWould you try changing the order of your next meal?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: YOU'RE DRINKING WATER / AT THE *WRONG TIME*\n    VO: You're drinking water. You're just doing it at the wrong time.\n[2] ON-SCREEN: MOST PEOPLE WAIT / UNTIL THEY'RE *THIRSTY*\n    VO: Most people wait until they feel thirsty.\n[3] ON-SCREEN: THIRST SHOWS UP / *LATE*\n    VO: But thirst is a late signal. By the time you feel it, you're already mildly dehydrated.\n[4] ON-SCREEN: IT SHOWS UP AS / *TIREDNESS* AND / POOR CONCENTRATION\n    VO: And mild dehydration usually shows up as tiredness and poor concentration, not a dry mouth.\n[5] ON-SCREEN: SIP *THROUGHOUT* / THE DAY\n    VO: So sip steadily through the day instead of drinking a lot at once. Keep a bottle where you can see it.",
-    "voiceover": "You're drinking water. You're just doing it at the wrong time. Most people wait until they feel thirsty. But thirst is a late signal. By the time you feel it, you're already mildly dehydrated. And mild dehydration usually shows up as tiredness and poor concentration, not a dry mouth. So sip steadily through the day instead of drinking a lot at once. Keep a bottle where you can see it.",
-    "onscreen_text": "YOU'RE DRINKING WATER AT THE *WRONG TIME* | MOST PEOPLE WAIT UNTIL THEY'RE *THIRSTY* | THIRST SHOWS UP *LATE* | IT SHOWS UP AS *TIREDNESS* AND POOR CONCENTRATION | SIP *THROUGHOUT* THE DAY",
+    "reel_script": "[1] ON-SCREEN: THE *ORDER* YOU EAT / CHANGES YOUR / BLOOD SUGAR\n    VO: Eating the same meal in a different order can change your blood sugar response.\n[2] ON-SCREEN: VEGETABLES AND PROTEIN / *FIRST*\n    VO: Try vegetables and protein first.\n[3] ON-SCREEN: STARCHY CARBS / *LAST*\n    VO: Then the starchy carbohydrates last.\n[4] ON-SCREEN: SMALLER SPIKE. / SAME *MEAL*.\n    VO: Studies suggest this produces a smaller rise in blood glucose after eating — from the same food.",
+    "voiceover": "Eating the same meal in a different order can change your blood sugar response. Try vegetables and protein first. Then the starchy carbohydrates last. Studies suggest this produces a smaller rise in blood glucose after eating — from the same food.",
+    "onscreen_text": "THE *ORDER* YOU EAT CHANGES YOUR BLOOD SUGAR | VEGETABLES AND PROTEIN *FIRST* | STARCHY CARBS *LAST* | SMALLER SPIKE. SAME *MEAL*.",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#hydration",
-      "#healthyhabits",
+      "#diabetes",
+      "#bloodsugar",
+      "#nutrition",
+      "#healthyeating",
       "#dailyhealthtips",
       "#wellness",
-      "#healthylifestyle",
-      "#drinkwater",
-      "#healthed"
+      "#preventivecare"
     ],
     "sources": [
-      "NHS — Water, drinks and your health",
-      "Harvard T.H. Chan School of Public Health — The Nutrition Source: Water"
+      "Cleveland Clinic — Food order and blood sugar",
+      "Harvard Health — Carbohydrates and blood sugar"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-02T17:00:00+00:00",
     "post_type": "Image",
-    "category": "Medical Myth vs Fact",
-    "framework": "Myth → Truth",
-    "title": "Eating fat makes you fat",
-    "hook": "\"Eating fat makes you fat\" — one of the most persistent food myths.",
-    "headline": "MYTH: Eating fat\nmakes you fat",
-    "caption": "\"Eating fat makes you fat\" — one of the most persistent food myths.\n\nFat is essential. Your body needs it for hormones, brain function and to absorb vitamins A, D, E and K. Weight gain comes from consistently taking in more energy than you use — not from one nutrient. Unsaturated fats from nuts, olive oil, oily fish and avocado are actively linked with better heart health.\n\nDid you grow up avoiding all fats?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. Split composition: top half a red-tinted panel labelled MYTH, bottom half a green-tinted panel labelled FACT. Flat-lay of almonds, olive oil, avocado and salmon on a white marble surface, bright even studio lighting, soft shadows. Generous clean white space at top and bottom for large text overlay. Trustworthy palette: white, soft blue, fresh green. No text rendered in image. Photorealistic, high detail.",
+    "category": "Nutrition",
+    "framework": "Do This Instead",
+    "title": "Swap the sugary drink",
+    "hook": "One daily sugary drink adds up faster than almost anything else.",
+    "headline": "SWAP THIS →\nFOR THIS",
+    "caption": "One daily sugary drink adds up faster than almost anything else.\n\nA single sugar-sweetened drink a day is one of the easiest sources of excess calories to remove, and regular consumption is associated with higher risk of type 2 diabetes and weight gain. Water, sparkling water with lemon, or unsweetened tea all work. If you drink one daily, swapping even half of them is progress.\n\nWhat's your usual drink with meals?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern nutrition infographic, 4:5 vertical. Side-by-side comparison on a white background: a glass of cola on the left, a glass of water with fresh lemon and mint on the right, equal framing. Bright studio lighting, crisp condensation, fresh and appealing. Clean empty band across the top for a text headline. White, blue and green palette. No text rendered in image. Photorealistic.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "MYTH: Eating fat makes you fat",
+    "onscreen_text": "SWAP THIS → FOR THIS",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#myths",
       "#nutrition",
-      "#healthyeating",
-      "#healthyfats",
+      "#sugar",
+      "#healthyswaps",
+      "#diabetes",
       "#dailyhealthtips",
-      "#wellness",
-      "#healthylifestyle"
+      "#healthyeating",
+      "#wellness"
     ],
     "sources": [
-      "Harvard T.H. Chan — The Nutrition Source: Fats and Cholesterol",
-      "NHS — Fat: the facts"
+      "WHO — Reducing free sugars intake",
+      "Harvard T.H. Chan — The Nutrition Source: Sugary Drinks"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-02T20:00:00+00:00",
     "post_type": "Reel",
-    "category": "Exercise",
-    "title": "Why a walk after dinner beats lying down",
-    "hook": "Ten minutes after dinner changes how your body handles the meal.",
-    "caption": "Ten minutes after dinner changes how your body handles the meal.\n\nYou don't need a gym for this one. Muscles use glucose when they move, so a gentle walk after eating helps blunt the post-meal rise in blood sugar. It's one of the simplest habits with real evidence behind it — especially useful if you sit a lot in the evening.\n\nAre you team walk-after-dinner, or team sofa?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Kidney Health",
+    "title": "Your kidneys filter your blood 30+ times a day",
+    "hook": "Your kidneys clean your entire blood supply many times every single day.",
+    "caption": "Your kidneys clean your entire blood supply many times every single day.\n\nKidneys quietly do enormous work — filtering waste, balancing fluid, and helping regulate blood pressure. Chronic kidney disease usually develops without symptoms until it's advanced, and the leading causes are diabetes and high blood pressure. If you have either, regular check-ups matter more than any single food or drink.\n\nHave you ever had your kidney function checked?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: A *10-MINUTE WALK* / AFTER DINNER\n    VO: A ten minute walk after dinner does more than you'd think.\n[2] ON-SCREEN: YOUR BLOOD SUGAR / RISES AFTER *EVERY* MEAL\n    VO: Your blood sugar rises after every meal. That's completely normal.\n[3] ON-SCREEN: LIGHT WALKING HELPS / MUSCLES USE / SOME OF THAT *GLUCOSE*\n    VO: But light walking helps your muscles take up some of that glucose from the blood.\n[4] ON-SCREEN: STUDIES LINK IT TO / SMALLER POST-MEAL / *SPIKES*\n    VO: Research links short post-meal walks with smaller spikes after eating.\n[5] ON-SCREEN: AROUND THE BLOCK / IS *ENOUGH*\n    VO: You don't need a workout. Around the block is enough. And it helps digestion and sleep too.",
-    "voiceover": "A ten minute walk after dinner does more than you'd think. Your blood sugar rises after every meal. That's completely normal. But light walking helps your muscles take up some of that glucose from the blood. Research links short post-meal walks with smaller spikes after eating. You don't need a workout. Around the block is enough. And it helps digestion and sleep too.",
-    "onscreen_text": "A *10-MINUTE WALK* AFTER DINNER | YOUR BLOOD SUGAR RISES AFTER *EVERY* MEAL | LIGHT WALKING HELPS MUSCLES USE SOME OF THAT *GLUCOSE* | STUDIES LINK IT TO SMALLER POST-MEAL *SPIKES* | AROUND THE BLOCK IS *ENOUGH*",
+    "reel_script": "[1] ON-SCREEN: YOUR KIDNEYS FILTER / YOUR BLOOD *ALL DAY*\n    VO: Your kidneys filter your entire blood supply many times a day, every day.\n[2] ON-SCREEN: THEY REMOVE WASTE / AND EXTRA *FLUID*\n    VO: They remove waste and extra fluid, and help control blood pressure.\n[3] ON-SCREEN: KIDNEY DISEASE OFTEN / HAS *NO EARLY SIGNS*\n    VO: Early kidney disease often has no symptoms at all, which is why it's frequently missed.\n[4] ON-SCREEN: THE BIGGEST RISKS: / *DIABETES* AND / HIGH BLOOD PRESSURE\n    VO: The two biggest causes are diabetes and high blood pressure. Managing those protects your kidneys.",
+    "voiceover": "Your kidneys filter your entire blood supply many times a day, every day. They remove waste and extra fluid, and help control blood pressure. Early kidney disease often has no symptoms at all, which is why it's frequently missed. The two biggest causes are diabetes and high blood pressure. Managing those protects your kidneys.",
+    "onscreen_text": "YOUR KIDNEYS FILTER YOUR BLOOD *ALL DAY* | THEY REMOVE WASTE AND EXTRA *FLUID* | KIDNEY DISEASE OFTEN HAS *NO EARLY SIGNS* | THE BIGGEST RISKS: *DIABETES* AND HIGH BLOOD PRESSURE",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#walking",
-      "#exercise",
-      "#bloodsugar",
-      "#healthyhabits",
+      "#kidneyhealth",
+      "#preventivecare",
+      "#diabetes",
+      "#bloodpressure",
       "#dailyhealthtips",
       "#wellness",
-      "#healthylifestyle"
+      "#healthawareness"
     ],
     "sources": [
-      "Diabetes UK — Physical activity and blood glucose",
-      "Mayo Clinic — Walking: Trim your waistline, improve your health"
+      "National Kidney Foundation — How your kidneys work",
+      "CDC — Chronic Kidney Disease Basics"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-02T23:00:00+00:00",
     "post_type": "Image",
-    "category": "Healthy Habits",
-    "framework": "Daily Habit",
-    "title": "The 30-minute sitting rule",
-    "hook": "Sitting for hours affects your health even if you exercise daily.",
-    "headline": "Stand up every\n30 MINUTES",
-    "caption": "Sitting for hours affects your health even if you exercise daily.\n\nLong unbroken sitting is associated with health risks that regular exercise doesn't fully cancel out. The fix is small and repeatable: stand, stretch or walk for a couple of minutes every half hour. Set a timer if you work at a desk — the point is breaking up the sitting, not the intensity.\n\nHow long do you usually sit without a break?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. A bright airy home office, a person of ambiguous age standing to stretch beside a desk, natural window light, soft blue and white palette. Wide empty space in the upper third for a large text headline. Warm, encouraging, non-clinical mood. Diverse, realistic body type. No text rendered in image. Photorealistic.",
+    "category": "Mental Health",
+    "framework": "Problem → Solution",
+    "title": "Write down tomorrow's three tasks",
+    "hook": "A racing mind at bedtime is often just your brain afraid it'll forget.",
+    "headline": "3 TASKS.\nBEFORE BED.",
+    "caption": "A racing mind at bedtime is often just your brain afraid it'll forget.\n\nIf you lie awake mentally rehearsing tomorrow, writing it down helps. Research on bedtime writing suggests that noting down upcoming tasks can help people fall asleep faster than journaling about the day. Keep it to three items — the goal is emptying your head, not planning your year.\n\nDoes your mind race when you lie down?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. A simple notebook and pen on a bedside table beside a warm dim lamp, calm evening mood, soft warm lighting with cool blue shadows. Uncluttered, peaceful, generous empty space in the upper third for a text headline. Soft blue and white palette. No text rendered in image. Photorealistic, cosy.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "Stand up every 30 MINUTES",
+    "onscreen_text": "3 TASKS. BEFORE BED.",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
+      "#mentalhealth",
+      "#sleep",
+      "#stressrelief",
       "#healthyhabits",
-      "#deskjob",
-      "#movement",
-      "#wellness",
       "#dailyhealthtips",
-      "#healthylifestyle",
-      "#officehealth"
+      "#wellness",
+      "#bettersleep"
     ],
     "sources": [
-      "WHO — Physical activity guidelines",
-      "Mayo Clinic — Sitting risks: How harmful is too much sitting?"
+      "NIH News in Health — Sleep On It",
+      "Harvard Health — Blue light has a dark side"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-03T08:00:00+00:00",
     "post_type": "Reel",
-    "category": "Sleep",
-    "title": "The bedroom temperature mistake",
-    "hook": "Your bedroom is probably too warm to sleep well.",
-    "caption": "Your bedroom is probably too warm to sleep well.\n\nFalling asleep depends on a small drop in your core body temperature. A room that's too warm delays that process. Sleep guidance generally recommends a cool, dark, quiet bedroom — and it's one of the easiest changes to make tonight.\n\nIs your bedroom cool enough at night?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Healthy Aging",
+    "title": "Grip strength predicts healthy aging",
+    "hook": "How firmly you can grip says a lot about how you're aging.",
+    "caption": "How firmly you can grip says a lot about how you're aging.\n\nGrip strength is used in research as a simple marker of overall muscular strength, and lower grip strength is associated with poorer health outcomes as people age. The practical takeaway isn't to squeeze a ball — it's that maintaining muscle through regular resistance activity supports independence later.\n\nDo you do any strength training in a normal week?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: YOUR BEDROOM IS / PROBABLY *TOO WARM*\n    VO: Your bedroom is probably too warm.\n[2] ON-SCREEN: TO FALL ASLEEP, YOUR / BODY MUST *COOL DOWN*\n    VO: To fall asleep, your body has to drop its core temperature slightly.\n[3] ON-SCREEN: A HOT ROOM / *FIGHTS* THAT\n    VO: A hot room works against that, which is why you lie there awake.\n[4] ON-SCREEN: A COOLER ROOM HELPS / YOU FALL ASLEEP / *FASTER*\n    VO: A cooler room helps most people fall asleep faster and wake less during the night.\n[5] ON-SCREEN: COOLER ROOM. / LIGHTER BLANKET. / *BETTER SLEEP.*\n    VO: Cooler room, lighter blanket. A warm shower an hour before bed helps too — it cools you afterwards.",
-    "voiceover": "Your bedroom is probably too warm. To fall asleep, your body has to drop its core temperature slightly. A hot room works against that, which is why you lie there awake. A cooler room helps most people fall asleep faster and wake less during the night. Cooler room, lighter blanket. A warm shower an hour before bed helps too — it cools you afterwards.",
-    "onscreen_text": "YOUR BEDROOM IS PROBABLY *TOO WARM* | TO FALL ASLEEP, YOUR BODY MUST *COOL DOWN* | A HOT ROOM *FIGHTS* THAT | A COOLER ROOM HELPS YOU FALL ASLEEP *FASTER* | COOLER ROOM. LIGHTER BLANKET. *BETTER SLEEP.*",
+    "reel_script": "[1] ON-SCREEN: *GRIP STRENGTH* / PREDICTS HOW / YOU'RE AGEING\n    VO: How firmly you can grip says a surprising amount about how you're ageing.\n[2] ON-SCREEN: IT REFLECTS *OVERALL* / MUSCLE STRENGTH\n    VO: It reflects overall muscle strength, not just your hands.\n[3] ON-SCREEN: MUSCLE PROTECTS BONES, / JOINTS AND *BALANCE*\n    VO: Muscle protects your bones and joints, and supports balance, which prevents falls later in life.\n[4] ON-SCREEN: CARRY THINGS. / LIFT THINGS. / *USE IT.*\n    VO: Carry your own shopping. Lift things. Strength training works at any age, including in your seventies.",
+    "voiceover": "How firmly you can grip says a surprising amount about how you're ageing. It reflects overall muscle strength, not just your hands. Muscle protects your bones and joints, and supports balance, which prevents falls later in life. Carry your own shopping. Lift things. Strength training works at any age, including in your seventies.",
+    "onscreen_text": "*GRIP STRENGTH* PREDICTS HOW YOU'RE AGEING | IT REFLECTS *OVERALL* MUSCLE STRENGTH | MUSCLE PROTECTS BONES, JOINTS AND *BALANCE* | CARRY THINGS. LIFT THINGS. *USE IT.*",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#sleep",
-      "#sleephealth",
-      "#healthyhabits",
+      "#healthyaging",
+      "#strengthtraining",
+      "#muscle",
       "#wellness",
       "#dailyhealthtips",
-      "#healthylifestyle",
-      "#bettersleep"
+      "#fitness",
+      "#healthylifestyle"
     ],
     "sources": [
-      "CDC — Tips for Better Sleep",
-      "NHS — How to get to sleep"
+      "Harvard Health — Grip strength and health",
+      "WHO — Physical activity guidelines for older adults"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
@@ -534,572 +534,237 @@
     "post_type": "Image",
     "category": "Health Riddles",
     "framework": "Riddle",
-    "title": "Riddle: the silent number",
-    "hook": "I have no mouth, but I can tell your health.",
-    "headline": "I HAVE NO MOUTH\nBUT I CAN TELL\nYOUR HEALTH.\n\nDoctors check me\nevery visit.\n\nWhat am I?",
-    "caption": "I have no mouth, but I can tell your health.\n\nTake a guess before you scroll. It's something almost every check-up includes, it's completely painless, and it can flag a serious problem years before you'd ever feel symptoms.\n\nWhat's your answer? Comment below — I'll reveal it tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean minimal health infographic, 4:5 vertical. Soft blue gradient background, a simple elegant line-art illustration of a blood pressure cuff in white, centred small. Large clear empty area for text overlay. Calm, curious, puzzle-like mood. Bright trustworthy palette of white and soft blue. No text rendered in image. High-quality vector infographic style.",
+    "title": "Riddle: the organ that regrows",
+    "hook": "I'm the only organ in your body that can regrow itself.",
+    "headline": "I'M THE ONLY ORGAN\nTHAT CAN REGROW\nITSELF.\n\nI do over 500 jobs.\nAlcohol is my enemy.\n\nWhat am I?",
+    "caption": "I'm the only organ in your body that can regrow itself.\n\nA clue: it filters your blood, stores energy, and does the detox work that expensive teas claim to do. Take a guess before you scroll past.\n\nWhat's your answer? Comment below — reveal tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean minimal health infographic, 4:5 vertical. Soft blue gradient background with an elegant white line-art illustration of a liver, centred and small, non-graphic and stylised. Large empty area for text overlay. Calm, curious, puzzle mood. White and soft blue palette. No text rendered in image. High-quality vector infographic style.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "I HAVE NO MOUTH BUT I CAN TELL YOUR HEALTH.  Doctors check me every visit.  What am I?",
+    "onscreen_text": "I'M THE ONLY ORGAN THAT CAN REGROW ITSELF.  I do over 500 jobs. Alcohol is my enemy.  What am I?",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
       "#healthriddle",
       "#healthquiz",
-      "#guessit",
+      "#liverhealth",
       "#dailyhealthtips",
       "#wellness",
-      "#healthawareness",
-      "#bloodpressure"
+      "#guessit",
+      "#healthawareness"
     ],
     "sources": [
-      "CDC — High Blood Pressure Symptoms and Causes"
+      "Johns Hopkins Medicine — Liver: Anatomy and Functions"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-03T14:00:00+00:00",
     "post_type": "Reel",
-    "category": "Heart Health",
-    "title": "The salt you can't see",
-    "hook": "Most of your salt isn't coming from the salt shaker.",
-    "caption": "Most of your salt isn't coming from the salt shaker.\n\nThe World Health Organization recommends adults consume less than 5g of salt per day — about one teaspoon — and most people worldwide eat more than that. The bigger lever isn't your salt shaker, it's packaged food. Reducing gradually works better than going bland overnight, because your taste genuinely adapts.\n\nDo you check the salt content on food labels?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Women's Health",
+    "title": "Iron: why it's absorbed better with vitamin C",
+    "hook": "Plant iron is hard to absorb — unless you pair it correctly.",
+    "caption": "Plant iron is hard to absorb — unless you pair it correctly.\n\nIron deficiency is one of the most common nutritional deficiencies worldwide, and it disproportionately affects women of reproductive age. Pairing plant iron sources with vitamin C meaningfully improves absorption, while tea and coffee taken with the meal reduce it. If you're persistently tired, ask your doctor for a blood test rather than self-supplementing.\n\nDid you know about the vitamin C trick?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: MOST OF YOUR SALT / ISN'T FROM THE / *SALT SHAKER*\n    VO: Most of the salt you eat doesn't come from the salt shaker.\n[2] ON-SCREEN: IT'S ALREADY IN / *PACKAGED FOOD*\n    VO: It's already in packaged and processed food before it reaches you.\n[3] ON-SCREEN: BREAD. SAUCES. / SOUP. *SNACKS*.\n    VO: Bread, sauces, soups, ready meals and snacks are the usual sources.\n[4] ON-SCREEN: TOO MUCH SALT RAISES / *BLOOD PRESSURE*\n    VO: Eating too much salt over time raises blood pressure, which is a major risk factor for heart disease and stroke.\n[5] ON-SCREEN: CHECK *LABELS*. / COOK MORE AT HOME.\n    VO: Check labels, cook more at home, and lean on herbs, garlic and lemon for flavour. Your taste adjusts in a couple of weeks.",
-    "voiceover": "Most of the salt you eat doesn't come from the salt shaker. It's already in packaged and processed food before it reaches you. Bread, sauces, soups, ready meals and snacks are the usual sources. Eating too much salt over time raises blood pressure, which is a major risk factor for heart disease and stroke. Check labels, cook more at home, and lean on herbs, garlic and lemon for flavour. Your taste adjusts in a couple of weeks.",
-    "onscreen_text": "MOST OF YOUR SALT ISN'T FROM THE *SALT SHAKER* | IT'S ALREADY IN *PACKAGED FOOD* | BREAD. SAUCES. SOUP. *SNACKS*. | TOO MUCH SALT RAISES *BLOOD PRESSURE* | CHECK *LABELS*. COOK MORE AT HOME.",
+    "reel_script": "[1] ON-SCREEN: PLANT IRON IS *HARD* / TO ABSORB\n    VO: Iron from plant foods is much harder for your body to absorb than iron from meat.\n[2] ON-SCREEN: *VITAMIN C* UNLOCKS IT\n    VO: Vitamin C significantly improves how much of it you actually absorb.\n[3] ON-SCREEN: LEMON ON SPINACH. / TOMATO IN LENTILS.\n    VO: So squeeze lemon over greens, or add tomato to lentils and beans.\n[4] ON-SCREEN: AND SKIP TEA OR COFFEE / *WITH* THE MEAL\n    VO: And avoid tea or coffee right with the meal — compounds in them reduce iron absorption.",
+    "voiceover": "Iron from plant foods is much harder for your body to absorb than iron from meat. Vitamin C significantly improves how much of it you actually absorb. So squeeze lemon over greens, or add tomato to lentils and beans. And avoid tea or coffee right with the meal — compounds in them reduce iron absorption.",
+    "onscreen_text": "PLANT IRON IS *HARD* TO ABSORB | *VITAMIN C* UNLOCKS IT | LEMON ON SPINACH. TOMATO IN LENTILS. | AND SKIP TEA OR COFFEE *WITH* THE MEAL",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#hearthealth",
-      "#bloodpressure",
+      "#womenshealth",
+      "#iron",
       "#nutrition",
-      "#healthyeating",
+      "#anemia",
       "#dailyhealthtips",
       "#wellness",
-      "#preventivecare"
+      "#healthyeating"
     ],
     "sources": [
-      "WHO — Salt reduction fact sheet",
-      "American Heart Association — How much sodium should I eat per day?"
+      "WHO — Anaemia fact sheet",
+      "NIH Office of Dietary Supplements — Iron Fact Sheet"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-03T17:00:00+00:00",
     "post_type": "Image",
-    "category": "Nutrition",
+    "category": "Exercise",
     "framework": "Top 5 Tips",
-    "title": "5 foods with more potassium than a banana",
-    "hook": "Bananas get the credit — but these have more potassium.",
-    "headline": "MORE POTASSIUM\nTHAN A BANANA",
-    "caption": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern nutrition infographic, 4:5 vertical. Overhead flat-lay on a white surface showing a baked potato, white beans, fresh spinach, lentils and a bowl of plain yoghurt arranged with even spacing. Bright natural studio lighting, crisp shadows, fresh green and white palette. Large empty band across the top third for a text headline. No text rendered in image. Photorealistic, high detail, appetising.",
+    "title": "Movement snacks beat one long workout you skip",
+    "hook": "You don't need an hour. You need to stop sitting for eight.",
+    "headline": "MOVEMENT\nSNACKS",
+    "caption": "You don't need an hour. You need to stop sitting for eight.\n\nShort bursts of activity spread across the day count toward your weekly total. Guidelines now recognise that any movement is better than none, and activity accumulated in short bouts still provides benefit. Take the stairs, walk during calls, stretch between tasks. The best workout is the one you'll actually repeat.\n\nWhat's one movement snack you could add today?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. A person taking the stairs in a bright airy building, mid-step, natural daylight from a large window, energetic but calm mood. Diverse, realistic, everyday clothing. Generous clean space at the top for a large text headline. Fresh green, white and soft blue palette. No text rendered in image. Photorealistic.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "MORE POTASSIUM THAN A BANANA",
+    "onscreen_text": "MOVEMENT SNACKS",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#nutrition",
-      "#potassium",
-      "#hearthealth",
-      "#healthyeating",
+      "#exercise",
+      "#movement",
+      "#healthyhabits",
+      "#fitness",
       "#dailyhealthtips",
-      "#bloodpressure",
-      "#wellness"
+      "#wellness",
+      "#activelifestyle"
     ],
     "sources": [
-      "NIH Office of Dietary Supplements — Potassium Fact Sheet",
-      "Harvard T.H. Chan — The Nutrition Source: Potassium"
+      "WHO — Physical activity fact sheet",
+      "CDC — Adding physical activity to your life"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-03T20:00:00+00:00",
     "post_type": "Reel",
-    "category": "Brain Health",
-    "title": "Morning light sets your whole day",
-    "hook": "Ten minutes of morning light changes how you sleep tonight.",
-    "caption": "Ten minutes of morning light changes how you sleep tonight.\n\nLight is the strongest signal for your circadian rhythm — the internal clock that controls sleep, alertness and hormone timing. Outdoor light in the morning is dramatically brighter than indoor light, even under cloud. It's free, takes ten minutes, and tends to improve both daytime energy and night-time sleep.\n\nDo you get outside before 9am?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Preventive Care",
+    "title": "The health checks worth doing",
+    "hook": "Most serious conditions are silent long before you feel them.",
+    "caption": "Most serious conditions are silent long before you feel them.\n\nPrevention works because these conditions develop silently over years. Blood pressure, blood glucose and cholesterol checks are quick, widely available, and give you a chance to act early. What's recommended varies by age, family history and risk factors — so this is a conversation with your doctor, not a fixed checklist.\n\nWhen did you last have a general health check?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: MORNING LIGHT CHANGES / HOW YOU SLEEP / *TONIGHT*\n    VO: Ten minutes of morning light changes how you sleep tonight.\n[2] ON-SCREEN: YOUR BODY CLOCK RUNS / ON *LIGHT*\n    VO: Your body clock is set mainly by light, not by the time on your phone.\n[3] ON-SCREEN: MORNING LIGHT SAYS: / *THE DAY HAS STARTED*\n    VO: Getting daylight early tells your brain the day has started.\n[4] ON-SCREEN: THAT HELPS MELATONIN / ARRIVE ON TIME / *AT NIGHT*\n    VO: That helps your sleep hormone arrive at the right time in the evening.\n[5] ON-SCREEN: 10 MINUTES OUTSIDE. / EVEN ON A *CLOUDY* DAY.\n    VO: Ten minutes outside in the morning is enough. Even a cloudy day is far brighter than indoor lighting.",
-    "voiceover": "Ten minutes of morning light changes how you sleep tonight. Your body clock is set mainly by light, not by the time on your phone. Getting daylight early tells your brain the day has started. That helps your sleep hormone arrive at the right time in the evening. Ten minutes outside in the morning is enough. Even a cloudy day is far brighter than indoor lighting.",
-    "onscreen_text": "MORNING LIGHT CHANGES HOW YOU SLEEP *TONIGHT* | YOUR BODY CLOCK RUNS ON *LIGHT* | MORNING LIGHT SAYS: *THE DAY HAS STARTED* | THAT HELPS MELATONIN ARRIVE ON TIME *AT NIGHT* | 10 MINUTES OUTSIDE. EVEN ON A *CLOUDY* DAY.",
+    "reel_script": "[1] ON-SCREEN: MOST SERIOUS CONDITIONS / ARE *SILENT* AT FIRST\n    VO: Most serious conditions are completely silent long before you feel anything.\n[2] ON-SCREEN: BLOOD PRESSURE. / BLOOD SUGAR. / *CHOLESTEROL*.\n    VO: Blood pressure, blood sugar and cholesterol are the three that quietly cause the most damage.\n[3] ON-SCREEN: ALL THREE ARE / *SIMPLE* TO CHECK\n    VO: All three are simple to check, and often free at a pharmacy or clinic.\n[4] ON-SCREEN: CHECKING IS *CHEAP*. / FINDING OUT LATE / ISN'T.\n    VO: Checking is cheap. Finding out late is not. Ask your doctor what's appropriate for your age.",
+    "voiceover": "Most serious conditions are completely silent long before you feel anything. Blood pressure, blood sugar and cholesterol are the three that quietly cause the most damage. All three are simple to check, and often free at a pharmacy or clinic. Checking is cheap. Finding out late is not. Ask your doctor what's appropriate for your age.",
+    "onscreen_text": "MOST SERIOUS CONDITIONS ARE *SILENT* AT FIRST | BLOOD PRESSURE. BLOOD SUGAR. *CHOLESTEROL*. | ALL THREE ARE *SIMPLE* TO CHECK | CHECKING IS *CHEAP*. FINDING OUT LATE ISN'T.",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#brainhealth",
-      "#sleep",
-      "#circadianrhythm",
-      "#healthyhabits",
-      "#wellness",
+      "#preventivecare",
+      "#healthcheck",
+      "#hearthealth",
+      "#bloodpressure",
       "#dailyhealthtips",
-      "#mentalhealth"
+      "#wellness",
+      "#healthawareness"
     ],
     "sources": [
-      "NIH News in Health — The Power of Light",
-      "Cleveland Clinic — Circadian Rhythm"
+      "CDC — Preventive Health Care",
+      "NHS — NHS Health Check"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-03T23:00:00+00:00",
     "post_type": "Image",
-    "category": "Lifestyle Mistakes",
+    "category": "Sleep",
     "framework": "Mistakes People Make",
-    "title": "The 20-20-20 rule for screen eyes",
-    "hook": "Your eyes burn by evening because you blink far less at a screen.",
-    "headline": "THE 20-20-20 RULE",
-    "caption": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. A person at a bright desk looking away from their laptop toward a window, relaxed posture, soft natural daylight, calm blue and white palette. Uncluttered composition with generous empty space in the top third for a large text overlay. Diverse, realistic, friendly mood. No text rendered in image. Photorealistic.",
+    "title": "Catching up on sleep at weekends",
+    "hook": "Sleeping in on Saturday doesn't cancel a short week.",
+    "headline": "SLEEP DEBT DOESN'T\nWORK LIKE THAT",
+    "caption": "Sleeping in on Saturday doesn't cancel a short week.\n\nSleeping until noon on Saturday after five short nights shifts your body clock, a bit like flying across time zones every weekend. You can recover some function, but it isn't a clean reset. A consistent sleep and wake time — even at weekends — works better than trying to catch up.\n\nIs your weekend sleep very different from weekdays?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. A tidy sunlit bedroom with an alarm clock on a bedside table, crisp white bedding, soft morning light through curtains. Calm and uncluttered with a large empty area at the top for a text headline. White and soft blue palette. No text rendered in image. Photorealistic.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "THE 20-20-20 RULE",
+    "onscreen_text": "SLEEP DEBT DOESN'T WORK LIKE THAT",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#eyehealth",
-      "#screentime",
-      "#digitaleyestrain",
+      "#sleep",
+      "#sleephealth",
+      "#circadianrhythm",
       "#healthyhabits",
       "#dailyhealthtips",
       "#wellness",
-      "#worklife"
+      "#bettersleep"
     ],
     "sources": [
-      "American Academy of Ophthalmology — Computers, Digital Devices and Eye Strain",
-      "NHS — Eye health tips"
+      "CDC — Sleep and Sleep Disorders",
+      "NHS — Why lack of sleep is bad for your health"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-04T08:00:00+00:00",
     "post_type": "Reel",
-    "category": "Gut Health",
-    "title": "Fibre is the nutrient nobody talks about",
-    "hook": "Everyone talks protein. Almost nobody talks fibre.",
-    "caption": "Everyone talks protein. Almost nobody talks fibre.\n\nFibre does a lot of quiet work: it feeds gut bacteria, supports regular digestion, and higher intakes are associated with lower risk of heart disease and type 2 diabetes. Most people fall short of recommended intakes. Increase gradually — a sudden jump can cause bloating.\n\nHow much fibre do you think you get in a day?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Liver Health",
+    "title": "Your liver does over 500 jobs",
+    "hook": "Your liver quietly runs hundreds of processes right now.",
+    "caption": "Your liver quietly runs hundreds of processes right now.\n\nThe liver handles an enormous range of tasks — filtering blood, storing glucose, producing proteins, processing medication, and producing bile for digesting fats. It also performs the detoxification that 'detox' products claim to provide. Non-alcoholic fatty liver disease is increasingly common and is closely tied to weight and metabolic health.\n\nHave you ever fallen for a 'detox' product?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: EVERYONE TALKS *PROTEIN*. / NOBODY TALKS *FIBRE*.\n    VO: Everyone talks about protein. Almost nobody talks about fibre.\n[2] ON-SCREEN: MOST ADULTS DON'T GET / *ENOUGH*\n    VO: And most adults don't get enough of it.\n[3] ON-SCREEN: FIBRE FEEDS YOUR / *GUT BACTERIA*\n    VO: Fibre feeds the bacteria in your gut, and helps keep digestion regular.\n[4] ON-SCREEN: IT'S LINKED TO LOWER / *HEART DISEASE* RISK\n    VO: Higher fibre intake is linked with lower risk of heart disease and type 2 diabetes.\n[5] ON-SCREEN: BEANS. OATS. FRUIT. / VEG. *WHOLE GRAINS*.\n    VO: Beans, lentils, oats, fruit, vegetables and whole grains. Increase it slowly and drink water alongside.",
-    "voiceover": "Everyone talks about protein. Almost nobody talks about fibre. And most adults don't get enough of it. Fibre feeds the bacteria in your gut, and helps keep digestion regular. Higher fibre intake is linked with lower risk of heart disease and type 2 diabetes. Beans, lentils, oats, fruit, vegetables and whole grains. Increase it slowly and drink water alongside.",
-    "onscreen_text": "EVERYONE TALKS *PROTEIN*. NOBODY TALKS *FIBRE*. | MOST ADULTS DON'T GET *ENOUGH* | FIBRE FEEDS YOUR *GUT BACTERIA* | IT'S LINKED TO LOWER *HEART DISEASE* RISK | BEANS. OATS. FRUIT. VEG. *WHOLE GRAINS*.",
+    "reel_script": "[1] ON-SCREEN: YOUR LIVER DOES / *HUNDREDS* OF JOBS\n    VO: Your liver performs hundreds of separate functions in your body.\n[2] ON-SCREEN: IT FILTERS BLOOD, / STORES ENERGY, / MAKES *PROTEINS*\n    VO: It filters blood, stores energy, makes proteins and helps you digest fat.\n[3] ON-SCREEN: IT ALSO *DETOXES* YOU — / FOR FREE, 24/7\n    VO: It also detoxifies your body around the clock, for free. No tea or juice does this.\n[4] ON-SCREEN: PROTECT IT: LIMIT ALCOHOL, / KEEP A HEALTHY WEIGHT\n    VO: Protect it by limiting alcohol and keeping a healthy weight. Fatty liver disease is now very common.",
+    "voiceover": "Your liver performs hundreds of separate functions in your body. It filters blood, stores energy, makes proteins and helps you digest fat. It also detoxifies your body around the clock, for free. No tea or juice does this. Protect it by limiting alcohol and keeping a healthy weight. Fatty liver disease is now very common.",
+    "onscreen_text": "YOUR LIVER DOES *HUNDREDS* OF JOBS | IT FILTERS BLOOD, STORES ENERGY, MAKES *PROTEINS* | IT ALSO *DETOXES* YOU — FOR FREE, 24/7 | PROTECT IT: LIMIT ALCOHOL, KEEP A HEALTHY WEIGHT",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#guthealth",
-      "#fibre",
+      "#liverhealth",
+      "#detoxmyth",
       "#nutrition",
-      "#healthyeating",
+      "#healthylifestyle",
       "#dailyhealthtips",
       "#wellness",
-      "#digestivehealth"
+      "#preventivecare"
     ],
     "sources": [
-      "Harvard T.H. Chan — The Nutrition Source: Fiber",
-      "Mayo Clinic — Dietary fiber: Essential for a healthy diet"
+      "Johns Hopkins Medicine — Liver: Anatomy and Functions",
+      "NHS — Non-alcoholic fatty liver disease"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-04T11:00:00+00:00",
     "post_type": "Image",
-    "category": "Early Disease Symptoms",
-    "framework": "Hidden Fact",
-    "title": "High blood pressure has no symptoms",
-    "hook": "High blood pressure usually has no symptoms at all.",
-    "headline": "HIGH BLOOD PRESSURE\nUSUALLY HAS\nNO SYMPTOMS",
-    "caption": "High blood pressure usually has no symptoms at all.\n\nThis is why it's often called a silent condition. Many people with high blood pressure feel completely normal, which is exactly what makes it dangerous — it can quietly raise the risk of heart attack, stroke and kidney damage over years. The only reliable way to know is to measure it. Most pharmacies will check it free.\n\nWhen did you last have your blood pressure checked?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. A calm clinical scene: a person's upper arm with a blood pressure cuff, a friendly healthcare worker's hands, bright white and soft blue palette, even diffuse lighting, reassuring and non-frightening. Generous clean space at the top for a large text headline. Diverse skin tone. No graphic medical imagery. No text rendered in image. Photorealistic.",
+    "category": "Immunity",
+    "framework": "Myth → Truth",
+    "title": "Vitamin C doesn't stop colds",
+    "hook": "Vitamin C won't stop you catching a cold.",
+    "headline": "MYTH: Vitamin C\nprevents colds",
+    "caption": "Vitamin C won't stop you catching a cold.\n\nFor most people, regular vitamin C supplements don't prevent colds. Reviews of the evidence suggest they may slightly shorten how long a cold lasts, but the prevention effect is small and mainly seen in people under extreme physical stress. Sleep, hand hygiene and vaccination do more.\n\nDo you take vitamin C when you feel a cold coming?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. Split red MYTH panel above, green FACT panel below. Fresh oranges and lemons on a white surface, bright natural studio lighting, crisp and fresh. Generous empty areas for text overlay. White, green and soft blue palette. No text rendered in image. Photorealistic, high detail.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "HIGH BLOOD PRESSURE USUALLY HAS NO SYMPTOMS",
+    "onscreen_text": "MYTH: Vitamin C prevents colds",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#bloodpressure",
-      "#hearthealth",
-      "#preventivecare",
-      "#healthawareness",
+      "#immunity",
+      "#vitaminc",
+      "#myths",
+      "#coldandflu",
       "#dailyhealthtips",
       "#wellness",
-      "#checkup"
+      "#mythbusting"
     ],
     "sources": [
-      "WHO — Hypertension fact sheet",
-      "CDC — High Blood Pressure Symptoms and Causes"
+      "NIH Office of Dietary Supplements — Vitamin C Fact Sheet",
+      "Cochrane — Vitamin C for preventing and treating the common cold"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-04T14:00:00+00:00",
     "post_type": "Reel",
-    "category": "Mental Health",
-    "title": "The 2-minute breathing reset",
-    "hook": "Two minutes of slow breathing calms your body faster than almost anything free.",
-    "caption": "Two minutes of slow breathing calms your body faster than almost anything free.\n\nSlow breathing with a longer exhale activates the parasympathetic nervous system — the branch that calms you down. It's used in clinical stress-management guidance because it's simple, free and works quickly. It isn't a treatment for anxiety disorders, but it's a genuinely useful tool in a stressful moment.\n\nTry five rounds — did you feel any calmer?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "category": "Weight Loss",
+    "title": "Why crash diets fail",
+    "hook": "The diet that works is the one you can still do in a year.",
+    "caption": "The diet that works is the one you can still do in a year.\n\nRapid weight loss from highly restrictive diets is usually followed by regain, because the approach can't be maintained. Guidance from major health bodies consistently favours gradual, sustainable change — modest calorie reduction, more fibre and protein, and regular activity. Slower is genuinely more effective long-term.\n\nWhat's one small change you could actually keep?\n\nFollow for daily health education. Save this post. Share it with family.",
     "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: TWO MINUTES OF / *SLOW BREATHING*\n    VO: Two minutes of slow breathing calms your body faster than almost anything else that's free.\n[2] ON-SCREEN: BREATHE IN FOR *4*. / OUT FOR *6*.\n    VO: Breathe in for four seconds. Out for six.\n[3] ON-SCREEN: THE *LONG EXHALE* / IS THE KEY\n    VO: The long exhale is the part that matters.\n[4] ON-SCREEN: IT SHIFTS YOU TOWARD / *REST* MODE\n    VO: It shifts your nervous system toward its rest-and-recover state. Heart rate settles, shoulders drop.\n[5] ON-SCREEN: FIVE ROUNDS. / *RIGHT NOW.*\n    VO: Try five rounds right now, before you scroll on. It costs nothing and works within minutes.",
-    "voiceover": "Two minutes of slow breathing calms your body faster than almost anything else that's free. Breathe in for four seconds. Out for six. The long exhale is the part that matters. It shifts your nervous system toward its rest-and-recover state. Heart rate settles, shoulders drop. Try five rounds right now, before you scroll on. It costs nothing and works within minutes.",
-    "onscreen_text": "TWO MINUTES OF *SLOW BREATHING* | BREATHE IN FOR *4*. OUT FOR *6*. | THE *LONG EXHALE* IS THE KEY | IT SHIFTS YOU TOWARD *REST* MODE | FIVE ROUNDS. *RIGHT NOW.*",
+    "reel_script": "[1] ON-SCREEN: THE DIET THAT *WORKS* / IS THE ONE YOU CAN / STILL DO IN A *YEAR*\n    VO: The diet that works is the one you can still be doing in a year.\n[2] ON-SCREEN: VERY RESTRICTIVE PLANS / WORK — *BRIEFLY*\n    VO: Very restrictive plans do produce fast results, briefly.\n[3] ON-SCREEN: THEN MOST PEOPLE / *REGAIN* IT\n    VO: Then most people regain the weight, because the plan was never sustainable.\n[4] ON-SCREEN: SMALLER CHANGES. / *KEPT LONGER.*\n    VO: Smaller changes kept for longer beat dramatic changes abandoned in three weeks.",
+    "voiceover": "The diet that works is the one you can still be doing in a year. Very restrictive plans do produce fast results, briefly. Then most people regain the weight, because the plan was never sustainable. Smaller changes kept for longer beat dramatic changes abandoned in three weeks.",
+    "onscreen_text": "THE DIET THAT *WORKS* IS THE ONE YOU CAN STILL DO IN A *YEAR* | VERY RESTRICTIVE PLANS WORK — *BRIEFLY* | THEN MOST PEOPLE *REGAIN* IT | SMALLER CHANGES. *KEPT LONGER.*",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
-      "#mentalhealth",
-      "#stressrelief",
-      "#breathing",
-      "#wellness",
+      "#weightloss",
+      "#healthyeating",
+      "#sustainablehabits",
+      "#nutrition",
       "#dailyhealthtips",
-      "#mindfulness",
-      "#selfcare"
+      "#wellness",
+      "#healthylifestyle"
     ],
     "sources": [
-      "Harvard Health — Relaxation techniques: Breath control helps quell errant stress response",
-      "NHS — Breathing exercises for stress"
+      "NHS — Start losing weight",
+      "Mayo Clinic — Weight loss: 6 strategies for success"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
     "date": "2026-08-04T17:00:00+00:00",
     "post_type": "Image",
-    "category": "Bone Health",
+    "category": "Blood Pressure",
     "framework": "Science Simplified",
-    "title": "Your bones are living tissue",
-    "hook": "Your skeleton is rebuilding itself right now.",
-    "headline": "YOUR BONES ARE\nLIVING TISSUE",
-    "caption": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. An older adult and a younger adult walking together outdoors in bright morning light, both smiling, active and healthy. Fresh green and white palette, airy and optimistic. Large uncluttered sky area at the top for a text headline. Diverse ages and ethnicities. No text rendered in image. Photorealistic, warm natural lighting.",
+    "title": "What the two numbers mean",
+    "hook": "Most people have no idea what their blood pressure numbers mean.",
+    "headline": "120 / 80\nWHAT IT MEANS",
+    "caption": "Most people have no idea what their blood pressure numbers mean.\n\nThe top number is the pressure when your heart beats. The bottom is the pressure when it rests between beats. Both matter. Readings are generally considered elevated above roughly 130/80, but thresholds vary by guideline and by person — your doctor interprets it alongside your age and risk factors, not as a single number in isolation.\n\nDo you know your numbers?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. A digital blood pressure monitor on a white surface, screen blank, soft even studio lighting, minimal and clinical but reassuring. Large clean empty space for text overlay. White, soft blue and green palette. Non-frightening. No text rendered in image. Photorealistic.",
     "reel_script": "",
     "voiceover": "",
-    "onscreen_text": "YOUR BONES ARE LIVING TISSUE",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#bonehealth",
-      "#healthyaging",
-      "#calcium",
-      "#vitamind",
-      "#dailyhealthtips",
-      "#wellness",
-      "#strengthtraining"
-    ],
-    "sources": [
-      "NIH Osteoporosis and Related Bone Diseases National Resource Center — Bone Health for Life",
-      "Cleveland Clinic — Bone Health"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-04T20:00:00+00:00",
-    "post_type": "Reel",
-    "category": "Hydration",
-    "title": "You're drinking water at the wrong time",
-    "hook": "You're drinking water — just at the wrong time.",
-    "caption": "You're drinking water — just at the wrong time.\n\nThirst is your body's late warning, not its first one. Mild dehydration is linked to reduced concentration and increased tiredness — so if your afternoon energy dips, water is worth trying before another coffee. Most adults get enough from drinks and food combined; pale-yellow urine is a reasonable everyday guide.\n\nDo you drink water regularly, or only when you're thirsty?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: YOU'RE DRINKING WATER / AT THE *WRONG TIME*\n    VO: You're drinking water. You're just doing it at the wrong time.\n[2] ON-SCREEN: MOST PEOPLE WAIT / UNTIL THEY'RE *THIRSTY*\n    VO: Most people wait until they feel thirsty.\n[3] ON-SCREEN: THIRST SHOWS UP / *LATE*\n    VO: But thirst is a late signal. By the time you feel it, you're already mildly dehydrated.\n[4] ON-SCREEN: IT SHOWS UP AS / *TIREDNESS* AND / POOR CONCENTRATION\n    VO: And mild dehydration usually shows up as tiredness and poor concentration, not a dry mouth.\n[5] ON-SCREEN: SIP *THROUGHOUT* / THE DAY\n    VO: So sip steadily through the day instead of drinking a lot at once. Keep a bottle where you can see it.",
-    "voiceover": "You're drinking water. You're just doing it at the wrong time. Most people wait until they feel thirsty. But thirst is a late signal. By the time you feel it, you're already mildly dehydrated. And mild dehydration usually shows up as tiredness and poor concentration, not a dry mouth. So sip steadily through the day instead of drinking a lot at once. Keep a bottle where you can see it.",
-    "onscreen_text": "YOU'RE DRINKING WATER AT THE *WRONG TIME* | MOST PEOPLE WAIT UNTIL THEY'RE *THIRSTY* | THIRST SHOWS UP *LATE* | IT SHOWS UP AS *TIREDNESS* AND POOR CONCENTRATION | SIP *THROUGHOUT* THE DAY",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#hydration",
-      "#healthyhabits",
-      "#dailyhealthtips",
-      "#wellness",
-      "#healthylifestyle",
-      "#drinkwater",
-      "#healthed"
-    ],
-    "sources": [
-      "NHS — Water, drinks and your health",
-      "Harvard T.H. Chan School of Public Health — The Nutrition Source: Water"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-04T23:00:00+00:00",
-    "post_type": "Image",
-    "category": "Medical Myth vs Fact",
-    "framework": "Myth → Truth",
-    "title": "Eating fat makes you fat",
-    "hook": "\"Eating fat makes you fat\" — one of the most persistent food myths.",
-    "headline": "MYTH: Eating fat\nmakes you fat",
-    "caption": "\"Eating fat makes you fat\" — one of the most persistent food myths.\n\nFat is essential. Your body needs it for hormones, brain function and to absorb vitamins A, D, E and K. Weight gain comes from consistently taking in more energy than you use — not from one nutrient. Unsaturated fats from nuts, olive oil, oily fish and avocado are actively linked with better heart health.\n\nDid you grow up avoiding all fats?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. Split composition: top half a red-tinted panel labelled MYTH, bottom half a green-tinted panel labelled FACT. Flat-lay of almonds, olive oil, avocado and salmon on a white marble surface, bright even studio lighting, soft shadows. Generous clean white space at top and bottom for large text overlay. Trustworthy palette: white, soft blue, fresh green. No text rendered in image. Photorealistic, high detail.",
-    "reel_script": "",
-    "voiceover": "",
-    "onscreen_text": "MYTH: Eating fat makes you fat",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#myths",
-      "#nutrition",
-      "#healthyeating",
-      "#healthyfats",
-      "#dailyhealthtips",
-      "#wellness",
-      "#healthylifestyle"
-    ],
-    "sources": [
-      "Harvard T.H. Chan — The Nutrition Source: Fats and Cholesterol",
-      "NHS — Fat: the facts"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-05T08:00:00+00:00",
-    "post_type": "Reel",
-    "category": "Exercise",
-    "title": "Why a walk after dinner beats lying down",
-    "hook": "Ten minutes after dinner changes how your body handles the meal.",
-    "caption": "Ten minutes after dinner changes how your body handles the meal.\n\nYou don't need a gym for this one. Muscles use glucose when they move, so a gentle walk after eating helps blunt the post-meal rise in blood sugar. It's one of the simplest habits with real evidence behind it — especially useful if you sit a lot in the evening.\n\nAre you team walk-after-dinner, or team sofa?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: A *10-MINUTE WALK* / AFTER DINNER\n    VO: A ten minute walk after dinner does more than you'd think.\n[2] ON-SCREEN: YOUR BLOOD SUGAR / RISES AFTER *EVERY* MEAL\n    VO: Your blood sugar rises after every meal. That's completely normal.\n[3] ON-SCREEN: LIGHT WALKING HELPS / MUSCLES USE / SOME OF THAT *GLUCOSE*\n    VO: But light walking helps your muscles take up some of that glucose from the blood.\n[4] ON-SCREEN: STUDIES LINK IT TO / SMALLER POST-MEAL / *SPIKES*\n    VO: Research links short post-meal walks with smaller spikes after eating.\n[5] ON-SCREEN: AROUND THE BLOCK / IS *ENOUGH*\n    VO: You don't need a workout. Around the block is enough. And it helps digestion and sleep too.",
-    "voiceover": "A ten minute walk after dinner does more than you'd think. Your blood sugar rises after every meal. That's completely normal. But light walking helps your muscles take up some of that glucose from the blood. Research links short post-meal walks with smaller spikes after eating. You don't need a workout. Around the block is enough. And it helps digestion and sleep too.",
-    "onscreen_text": "A *10-MINUTE WALK* AFTER DINNER | YOUR BLOOD SUGAR RISES AFTER *EVERY* MEAL | LIGHT WALKING HELPS MUSCLES USE SOME OF THAT *GLUCOSE* | STUDIES LINK IT TO SMALLER POST-MEAL *SPIKES* | AROUND THE BLOCK IS *ENOUGH*",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#walking",
-      "#exercise",
-      "#bloodsugar",
-      "#healthyhabits",
-      "#dailyhealthtips",
-      "#wellness",
-      "#healthylifestyle"
-    ],
-    "sources": [
-      "Diabetes UK — Physical activity and blood glucose",
-      "Mayo Clinic — Walking: Trim your waistline, improve your health"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-05T11:00:00+00:00",
-    "post_type": "Image",
-    "category": "Healthy Habits",
-    "framework": "Daily Habit",
-    "title": "The 30-minute sitting rule",
-    "hook": "Sitting for hours affects your health even if you exercise daily.",
-    "headline": "Stand up every\n30 MINUTES",
-    "caption": "Sitting for hours affects your health even if you exercise daily.\n\nLong unbroken sitting is associated with health risks that regular exercise doesn't fully cancel out. The fix is small and repeatable: stand, stretch or walk for a couple of minutes every half hour. Set a timer if you work at a desk — the point is breaking up the sitting, not the intensity.\n\nHow long do you usually sit without a break?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. A bright airy home office, a person of ambiguous age standing to stretch beside a desk, natural window light, soft blue and white palette. Wide empty space in the upper third for a large text headline. Warm, encouraging, non-clinical mood. Diverse, realistic body type. No text rendered in image. Photorealistic.",
-    "reel_script": "",
-    "voiceover": "",
-    "onscreen_text": "Stand up every 30 MINUTES",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#healthyhabits",
-      "#deskjob",
-      "#movement",
-      "#wellness",
-      "#dailyhealthtips",
-      "#healthylifestyle",
-      "#officehealth"
-    ],
-    "sources": [
-      "WHO — Physical activity guidelines",
-      "Mayo Clinic — Sitting risks: How harmful is too much sitting?"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-05T14:00:00+00:00",
-    "post_type": "Reel",
-    "category": "Sleep",
-    "title": "The bedroom temperature mistake",
-    "hook": "Your bedroom is probably too warm to sleep well.",
-    "caption": "Your bedroom is probably too warm to sleep well.\n\nFalling asleep depends on a small drop in your core body temperature. A room that's too warm delays that process. Sleep guidance generally recommends a cool, dark, quiet bedroom — and it's one of the easiest changes to make tonight.\n\nIs your bedroom cool enough at night?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: YOUR BEDROOM IS / PROBABLY *TOO WARM*\n    VO: Your bedroom is probably too warm.\n[2] ON-SCREEN: TO FALL ASLEEP, YOUR / BODY MUST *COOL DOWN*\n    VO: To fall asleep, your body has to drop its core temperature slightly.\n[3] ON-SCREEN: A HOT ROOM / *FIGHTS* THAT\n    VO: A hot room works against that, which is why you lie there awake.\n[4] ON-SCREEN: A COOLER ROOM HELPS / YOU FALL ASLEEP / *FASTER*\n    VO: A cooler room helps most people fall asleep faster and wake less during the night.\n[5] ON-SCREEN: COOLER ROOM. / LIGHTER BLANKET. / *BETTER SLEEP.*\n    VO: Cooler room, lighter blanket. A warm shower an hour before bed helps too — it cools you afterwards.",
-    "voiceover": "Your bedroom is probably too warm. To fall asleep, your body has to drop its core temperature slightly. A hot room works against that, which is why you lie there awake. A cooler room helps most people fall asleep faster and wake less during the night. Cooler room, lighter blanket. A warm shower an hour before bed helps too — it cools you afterwards.",
-    "onscreen_text": "YOUR BEDROOM IS PROBABLY *TOO WARM* | TO FALL ASLEEP, YOUR BODY MUST *COOL DOWN* | A HOT ROOM *FIGHTS* THAT | A COOLER ROOM HELPS YOU FALL ASLEEP *FASTER* | COOLER ROOM. LIGHTER BLANKET. *BETTER SLEEP.*",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#sleep",
-      "#sleephealth",
-      "#healthyhabits",
-      "#wellness",
-      "#dailyhealthtips",
-      "#healthylifestyle",
-      "#bettersleep"
-    ],
-    "sources": [
-      "CDC — Tips for Better Sleep",
-      "NHS — How to get to sleep"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-05T17:00:00+00:00",
-    "post_type": "Image",
-    "category": "Health Riddles",
-    "framework": "Riddle",
-    "title": "Riddle: the silent number",
-    "hook": "I have no mouth, but I can tell your health.",
-    "headline": "I HAVE NO MOUTH\nBUT I CAN TELL\nYOUR HEALTH.\n\nDoctors check me\nevery visit.\n\nWhat am I?",
-    "caption": "I have no mouth, but I can tell your health.\n\nTake a guess before you scroll. It's something almost every check-up includes, it's completely painless, and it can flag a serious problem years before you'd ever feel symptoms.\n\nWhat's your answer? Comment below — I'll reveal it tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean minimal health infographic, 4:5 vertical. Soft blue gradient background, a simple elegant line-art illustration of a blood pressure cuff in white, centred small. Large clear empty area for text overlay. Calm, curious, puzzle-like mood. Bright trustworthy palette of white and soft blue. No text rendered in image. High-quality vector infographic style.",
-    "reel_script": "",
-    "voiceover": "",
-    "onscreen_text": "I HAVE NO MOUTH BUT I CAN TELL YOUR HEALTH.  Doctors check me every visit.  What am I?",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#healthriddle",
-      "#healthquiz",
-      "#guessit",
-      "#dailyhealthtips",
-      "#wellness",
-      "#healthawareness",
-      "#bloodpressure"
-    ],
-    "sources": [
-      "CDC — High Blood Pressure Symptoms and Causes"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-05T20:00:00+00:00",
-    "post_type": "Reel",
-    "category": "Heart Health",
-    "title": "The salt you can't see",
-    "hook": "Most of your salt isn't coming from the salt shaker.",
-    "caption": "Most of your salt isn't coming from the salt shaker.\n\nThe World Health Organization recommends adults consume less than 5g of salt per day — about one teaspoon — and most people worldwide eat more than that. The bigger lever isn't your salt shaker, it's packaged food. Reducing gradually works better than going bland overnight, because your taste genuinely adapts.\n\nDo you check the salt content on food labels?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: MOST OF YOUR SALT / ISN'T FROM THE / *SALT SHAKER*\n    VO: Most of the salt you eat doesn't come from the salt shaker.\n[2] ON-SCREEN: IT'S ALREADY IN / *PACKAGED FOOD*\n    VO: It's already in packaged and processed food before it reaches you.\n[3] ON-SCREEN: BREAD. SAUCES. / SOUP. *SNACKS*.\n    VO: Bread, sauces, soups, ready meals and snacks are the usual sources.\n[4] ON-SCREEN: TOO MUCH SALT RAISES / *BLOOD PRESSURE*\n    VO: Eating too much salt over time raises blood pressure, which is a major risk factor for heart disease and stroke.\n[5] ON-SCREEN: CHECK *LABELS*. / COOK MORE AT HOME.\n    VO: Check labels, cook more at home, and lean on herbs, garlic and lemon for flavour. Your taste adjusts in a couple of weeks.",
-    "voiceover": "Most of the salt you eat doesn't come from the salt shaker. It's already in packaged and processed food before it reaches you. Bread, sauces, soups, ready meals and snacks are the usual sources. Eating too much salt over time raises blood pressure, which is a major risk factor for heart disease and stroke. Check labels, cook more at home, and lean on herbs, garlic and lemon for flavour. Your taste adjusts in a couple of weeks.",
-    "onscreen_text": "MOST OF YOUR SALT ISN'T FROM THE *SALT SHAKER* | IT'S ALREADY IN *PACKAGED FOOD* | BREAD. SAUCES. SOUP. *SNACKS*. | TOO MUCH SALT RAISES *BLOOD PRESSURE* | CHECK *LABELS*. COOK MORE AT HOME.",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#hearthealth",
-      "#bloodpressure",
-      "#nutrition",
-      "#healthyeating",
-      "#dailyhealthtips",
-      "#wellness",
-      "#preventivecare"
-    ],
-    "sources": [
-      "WHO — Salt reduction fact sheet",
-      "American Heart Association — How much sodium should I eat per day?"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-05T23:00:00+00:00",
-    "post_type": "Image",
-    "category": "Nutrition",
-    "framework": "Top 5 Tips",
-    "title": "5 foods with more potassium than a banana",
-    "hook": "Bananas get the credit — but these have more potassium.",
-    "headline": "MORE POTASSIUM\nTHAN A BANANA",
-    "caption": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern nutrition infographic, 4:5 vertical. Overhead flat-lay on a white surface showing a baked potato, white beans, fresh spinach, lentils and a bowl of plain yoghurt arranged with even spacing. Bright natural studio lighting, crisp shadows, fresh green and white palette. Large empty band across the top third for a text headline. No text rendered in image. Photorealistic, high detail, appetising.",
-    "reel_script": "",
-    "voiceover": "",
-    "onscreen_text": "MORE POTASSIUM THAN A BANANA",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#nutrition",
-      "#potassium",
-      "#hearthealth",
-      "#healthyeating",
-      "#dailyhealthtips",
-      "#bloodpressure",
-      "#wellness"
-    ],
-    "sources": [
-      "NIH Office of Dietary Supplements — Potassium Fact Sheet",
-      "Harvard T.H. Chan — The Nutrition Source: Potassium"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-06T08:00:00+00:00",
-    "post_type": "Reel",
-    "category": "Brain Health",
-    "title": "Morning light sets your whole day",
-    "hook": "Ten minutes of morning light changes how you sleep tonight.",
-    "caption": "Ten minutes of morning light changes how you sleep tonight.\n\nLight is the strongest signal for your circadian rhythm — the internal clock that controls sleep, alertness and hormone timing. Outdoor light in the morning is dramatically brighter than indoor light, even under cloud. It's free, takes ten minutes, and tends to improve both daytime energy and night-time sleep.\n\nDo you get outside before 9am?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: MORNING LIGHT CHANGES / HOW YOU SLEEP / *TONIGHT*\n    VO: Ten minutes of morning light changes how you sleep tonight.\n[2] ON-SCREEN: YOUR BODY CLOCK RUNS / ON *LIGHT*\n    VO: Your body clock is set mainly by light, not by the time on your phone.\n[3] ON-SCREEN: MORNING LIGHT SAYS: / *THE DAY HAS STARTED*\n    VO: Getting daylight early tells your brain the day has started.\n[4] ON-SCREEN: THAT HELPS MELATONIN / ARRIVE ON TIME / *AT NIGHT*\n    VO: That helps your sleep hormone arrive at the right time in the evening.\n[5] ON-SCREEN: 10 MINUTES OUTSIDE. / EVEN ON A *CLOUDY* DAY.\n    VO: Ten minutes outside in the morning is enough. Even a cloudy day is far brighter than indoor lighting.",
-    "voiceover": "Ten minutes of morning light changes how you sleep tonight. Your body clock is set mainly by light, not by the time on your phone. Getting daylight early tells your brain the day has started. That helps your sleep hormone arrive at the right time in the evening. Ten minutes outside in the morning is enough. Even a cloudy day is far brighter than indoor lighting.",
-    "onscreen_text": "MORNING LIGHT CHANGES HOW YOU SLEEP *TONIGHT* | YOUR BODY CLOCK RUNS ON *LIGHT* | MORNING LIGHT SAYS: *THE DAY HAS STARTED* | THAT HELPS MELATONIN ARRIVE ON TIME *AT NIGHT* | 10 MINUTES OUTSIDE. EVEN ON A *CLOUDY* DAY.",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#brainhealth",
-      "#sleep",
-      "#circadianrhythm",
-      "#healthyhabits",
-      "#wellness",
-      "#dailyhealthtips",
-      "#mentalhealth"
-    ],
-    "sources": [
-      "NIH News in Health — The Power of Light",
-      "Cleveland Clinic — Circadian Rhythm"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-06T11:00:00+00:00",
-    "post_type": "Image",
-    "category": "Lifestyle Mistakes",
-    "framework": "Mistakes People Make",
-    "title": "The 20-20-20 rule for screen eyes",
-    "hook": "Your eyes burn by evening because you blink far less at a screen.",
-    "headline": "THE 20-20-20 RULE",
-    "caption": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. A person at a bright desk looking away from their laptop toward a window, relaxed posture, soft natural daylight, calm blue and white palette. Uncluttered composition with generous empty space in the top third for a large text overlay. Diverse, realistic, friendly mood. No text rendered in image. Photorealistic.",
-    "reel_script": "",
-    "voiceover": "",
-    "onscreen_text": "THE 20-20-20 RULE",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#eyehealth",
-      "#screentime",
-      "#digitaleyestrain",
-      "#healthyhabits",
-      "#dailyhealthtips",
-      "#wellness",
-      "#worklife"
-    ],
-    "sources": [
-      "American Academy of Ophthalmology — Computers, Digital Devices and Eye Strain",
-      "NHS — Eye health tips"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-06T14:00:00+00:00",
-    "post_type": "Reel",
-    "category": "Gut Health",
-    "title": "Fibre is the nutrient nobody talks about",
-    "hook": "Everyone talks protein. Almost nobody talks fibre.",
-    "caption": "Everyone talks protein. Almost nobody talks fibre.\n\nFibre does a lot of quiet work: it feeds gut bacteria, supports regular digestion, and higher intakes are associated with lower risk of heart disease and type 2 diabetes. Most people fall short of recommended intakes. Increase gradually — a sudden jump can cause bloating.\n\nHow much fibre do you think you get in a day?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "",
-    "reel_script": "[1] ON-SCREEN: EVERYONE TALKS *PROTEIN*. / NOBODY TALKS *FIBRE*.\n    VO: Everyone talks about protein. Almost nobody talks about fibre.\n[2] ON-SCREEN: MOST ADULTS DON'T GET / *ENOUGH*\n    VO: And most adults don't get enough of it.\n[3] ON-SCREEN: FIBRE FEEDS YOUR / *GUT BACTERIA*\n    VO: Fibre feeds the bacteria in your gut, and helps keep digestion regular.\n[4] ON-SCREEN: IT'S LINKED TO LOWER / *HEART DISEASE* RISK\n    VO: Higher fibre intake is linked with lower risk of heart disease and type 2 diabetes.\n[5] ON-SCREEN: BEANS. OATS. FRUIT. / VEG. *WHOLE GRAINS*.\n    VO: Beans, lentils, oats, fruit, vegetables and whole grains. Increase it slowly and drink water alongside.",
-    "voiceover": "Everyone talks about protein. Almost nobody talks about fibre. And most adults don't get enough of it. Fibre feeds the bacteria in your gut, and helps keep digestion regular. Higher fibre intake is linked with lower risk of heart disease and type 2 diabetes. Beans, lentils, oats, fruit, vegetables and whole grains. Increase it slowly and drink water alongside.",
-    "onscreen_text": "EVERYONE TALKS *PROTEIN*. NOBODY TALKS *FIBRE*. | MOST ADULTS DON'T GET *ENOUGH* | FIBRE FEEDS YOUR *GUT BACTERIA* | IT'S LINKED TO LOWER *HEART DISEASE* RISK | BEANS. OATS. FRUIT. VEG. *WHOLE GRAINS*.",
-    "cta": "Follow for daily health education. Save this post. Share it with family.",
-    "hashtags": [
-      "#guthealth",
-      "#fibre",
-      "#nutrition",
-      "#healthyeating",
-      "#dailyhealthtips",
-      "#wellness",
-      "#digestivehealth"
-    ],
-    "sources": [
-      "Harvard T.H. Chan — The Nutrition Source: Fiber",
-      "Mayo Clinic — Dietary fiber: Essential for a healthy diet"
-    ],
-    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
-  },
-  {
-    "date": "2026-08-06T17:00:00+00:00",
-    "post_type": "Image",
-    "category": "Early Disease Symptoms",
-    "framework": "Hidden Fact",
-    "title": "High blood pressure has no symptoms",
-    "hook": "High blood pressure usually has no symptoms at all.",
-    "headline": "HIGH BLOOD PRESSURE\nUSUALLY HAS\nNO SYMPTOMS",
-    "caption": "High blood pressure usually has no symptoms at all.\n\nThis is why it's often called a silent condition. Many people with high blood pressure feel completely normal, which is exactly what makes it dangerous — it can quietly raise the risk of heart attack, stroke and kidney damage over years. The only reliable way to know is to measure it. Most pharmacies will check it free.\n\nWhen did you last have your blood pressure checked?\n\nFollow for daily health education. Save this post. Share it with family.",
-    "image_prompt": "Clean modern health infographic, 4:5 vertical. A calm clinical scene: a person's upper arm with a blood pressure cuff, a friendly healthcare worker's hands, bright white and soft blue palette, even diffuse lighting, reassuring and non-frightening. Generous clean space at the top for a large text headline. Diverse skin tone. No graphic medical imagery. No text rendered in image. Photorealistic.",
-    "reel_script": "",
-    "voiceover": "",
-    "onscreen_text": "HIGH BLOOD PRESSURE USUALLY HAS NO SYMPTOMS",
+    "onscreen_text": "120 / 80 WHAT IT MEANS",
     "cta": "Follow for daily health education. Save this post. Share it with family.",
     "hashtags": [
       "#bloodpressure",
@@ -1108,16 +773,296 @@
       "#healthawareness",
       "#dailyhealthtips",
       "#wellness",
-      "#checkup"
+      "#healthfacts"
     ],
     "sources": [
-      "WHO — Hypertension fact sheet",
-      "CDC — High Blood Pressure Symptoms and Causes"
+      "American Heart Association — Understanding Blood Pressure Readings",
+      "WHO — Hypertension fact sheet"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
   {
-    "date": "2026-08-06T20:00:00+00:00",
+    "date": "2026-08-04T20:00:00+00:00",
+    "post_type": "Reel",
+    "category": "Men's Health",
+    "title": "The symptom men most often ignore",
+    "hook": "Men are statistically less likely to see a doctor early.",
+    "caption": "Men are statistically less likely to see a doctor early.\n\nResearch consistently shows men are less likely than women to seek medical help early, and later presentation is associated with worse outcomes across many conditions. This isn't about anxiety — it's that a persistent change (in energy, weight, bowel habits, a lump, or a mole) is worth a conversation with a doctor rather than a wait-and-see.\n\nTag someone who's been putting off an appointment.\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "",
+    "reel_script": "[1] ON-SCREEN: MEN ARE LESS LIKELY / TO SEE A DOCTOR / *EARLY*\n    VO: Men are statistically less likely to see a doctor when something first changes.\n[2] ON-SCREEN: \"IT'LL PROBABLY / SORT ITSELF OUT\"\n    VO: It'll probably sort itself out is the most expensive sentence in men's health.\n[3] ON-SCREEN: EARLY DETECTION CHANGES / OUTCOMES FOR MOST / *SERIOUS* CONDITIONS\n    VO: For most serious conditions, early detection genuinely changes the outcome.\n[4] ON-SCREEN: BOOK THE APPOINTMENT. / *THAT'S IT.*\n    VO: If something has changed and stayed changed, book the appointment. That's the whole message.",
+    "voiceover": "Men are statistically less likely to see a doctor when something first changes. It'll probably sort itself out is the most expensive sentence in men's health. For most serious conditions, early detection genuinely changes the outcome. If something has changed and stayed changed, book the appointment. That's the whole message.",
+    "onscreen_text": "MEN ARE LESS LIKELY TO SEE A DOCTOR *EARLY* | \"IT'LL PROBABLY SORT ITSELF OUT\" | EARLY DETECTION CHANGES OUTCOMES FOR MOST *SERIOUS* CONDITIONS | BOOK THE APPOINTMENT. *THAT'S IT.*",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#menshealth",
+      "#preventivecare",
+      "#healthawareness",
+      "#earlydetection",
+      "#dailyhealthtips",
+      "#wellness",
+      "#checkup"
+    ],
+    "sources": [
+      "NHS — Why men should see a GP",
+      "Cleveland Clinic — Men's health screenings by age"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-04T23:00:00+00:00",
+    "post_type": "Image",
+    "category": "Gut Health",
+    "framework": "Do This Instead",
+    "title": "Fermented foods for your gut",
+    "hook": "Your gut bacteria respond to what you feed them within days.",
+    "headline": "FEED YOUR\nGUT BACTERIA",
+    "caption": "Your gut bacteria respond to what you feed them within days.\n\nFermented foods like plain yoghurt, kefir, kimchi and sauerkraut contain live cultures, and research suggests regular intake can increase gut microbial diversity. Pair them with fibre — the bacteria need it to thrive. Start small if you're not used to them, and choose unsweetened versions.\n\nDo you eat any fermented foods regularly?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern nutrition infographic, 4:5 vertical. Overhead flat-lay of plain yoghurt, kimchi, sauerkraut and kefir in simple white bowls on a light wooden surface, bright natural lighting, fresh and appetising. Clean empty band across the top for a text headline. White, green and soft blue palette. No text rendered in image. Photorealistic, high detail.",
+    "reel_script": "",
+    "voiceover": "",
+    "onscreen_text": "FEED YOUR GUT BACTERIA",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#guthealth",
+      "#fermentedfoods",
+      "#probiotics",
+      "#nutrition",
+      "#dailyhealthtips",
+      "#healthyeating",
+      "#wellness"
+    ],
+    "sources": [
+      "Harvard T.H. Chan — The Nutrition Source: Fermented Foods",
+      "Cleveland Clinic — Probiotics"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-05T08:00:00+00:00",
+    "post_type": "Reel",
+    "category": "Healthy Recipes",
+    "title": "A breakfast that keeps you full till lunch",
+    "hook": "If you're starving by 11am, your breakfast is the problem.",
+    "caption": "If you're starving by 11am, your breakfast is the problem.\n\nA breakfast built only from refined carbohydrates causes a faster rise and fall in blood glucose, which many people experience as mid-morning hunger. Pairing carbohydrates with protein and fibre slows digestion and improves fullness. This works whether you eat at 7am or midday — the composition matters more than the clock.\n\nWhat's your usual breakfast?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "",
+    "reel_script": "[1] ON-SCREEN: STARVING BY *11AM*? / IT'S YOUR BREAKFAST.\n    VO: If you're starving by eleven in the morning, your breakfast is usually the reason.\n[2] ON-SCREEN: CARBS *ALONE* SPIKE / THEN DROP YOU\n    VO: A carbohydrate-only breakfast raises blood sugar quickly, then drops it, and the crash feels like hunger.\n[3] ON-SCREEN: ADD *PROTEIN* / AND *FIBRE*\n    VO: Adding protein and fibre flattens that curve.\n[4] ON-SCREEN: OATS + YOGHURT + NUTS. / *OR* EGGS + VEG.\n    VO: Oats with yoghurt and nuts. Or eggs with vegetables. Either keeps most people full for hours.",
+    "voiceover": "If you're starving by eleven in the morning, your breakfast is usually the reason. A carbohydrate-only breakfast raises blood sugar quickly, then drops it, and the crash feels like hunger. Adding protein and fibre flattens that curve. Oats with yoghurt and nuts. Or eggs with vegetables. Either keeps most people full for hours.",
+    "onscreen_text": "STARVING BY *11AM*? IT'S YOUR BREAKFAST. | CARBS *ALONE* SPIKE THEN DROP YOU | ADD *PROTEIN* AND *FIBRE* | OATS + YOGHURT + NUTS. *OR* EGGS + VEG.",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#healthyrecipes",
+      "#breakfast",
+      "#nutrition",
+      "#protein",
+      "#dailyhealthtips",
+      "#healthyeating",
+      "#wellness"
+    ],
+    "sources": [
+      "Harvard T.H. Chan — The Nutrition Source: Protein",
+      "Mayo Clinic — Healthy breakfast: Quick, flexible options"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-05T11:00:00+00:00",
+    "post_type": "Image",
+    "category": "Healthy Aging",
+    "framework": "Hidden Fact",
+    "title": "Loneliness affects physical health",
+    "hook": "Loneliness affects your body, not just your mood.",
+    "headline": "CONNECTION IS\nA HEALTH INPUT",
+    "caption": "Loneliness affects your body, not just your mood.\n\nSocial connection is increasingly recognised as a genuine health factor. Long-term loneliness and social isolation are associated with higher risks of heart disease, stroke and dementia. It sits alongside diet, sleep and movement as something worth deliberately maintaining — one call or one visit counts more than people assume.\n\nWho could you message today?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. Two people of different generations sitting together talking over tea in a bright warm room, natural window light, genuine warmth and connection. Diverse ages and ethnicities. Generous clean space in the upper third for a text headline. Warm white, soft blue and green palette. No text rendered in image. Photorealistic.",
+    "reel_script": "",
+    "voiceover": "",
+    "onscreen_text": "CONNECTION IS A HEALTH INPUT",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#healthyaging",
+      "#mentalhealth",
+      "#loneliness",
+      "#connection",
+      "#dailyhealthtips",
+      "#wellness",
+      "#wellbeing"
+    ],
+    "sources": [
+      "CDC — Loneliness and Social Isolation",
+      "WHO — Social isolation and loneliness"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-05T14:00:00+00:00",
+    "post_type": "Reel",
+    "category": "Daily Wellness",
+    "title": "Chew slowly — digestion starts in your mouth",
+    "hook": "Digestion starts in your mouth, not your stomach.",
+    "caption": "Digestion starts in your mouth, not your stomach.\n\nChewing thoroughly is the first mechanical and chemical step of digestion. Eating quickly is associated with greater discomfort and with eating more before fullness signals register — those hormonal signals take roughly 20 minutes. Slowing down is free and helps both digestion and portion control.\n\nAre you a fast eater or a slow eater?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "",
+    "reel_script": "[1] ON-SCREEN: DIGESTION STARTS IN / YOUR *MOUTH*\n    VO: Digestion starts in your mouth, not your stomach.\n[2] ON-SCREEN: CHEWING BREAKS FOOD DOWN / AND MIXES IN *ENZYMES*\n    VO: Chewing physically breaks food down and mixes in enzymes that begin the process.\n[3] ON-SCREEN: SWALLOWING HALF-CHEWED / FOOD MAKES YOUR STOMACH / WORK *HARDER*\n    VO: Swallowing half-chewed food leaves your stomach doing extra work, which is where a lot of bloating comes from.\n[4] ON-SCREEN: SLOW DOWN. / PUT THE FORK *DOWN*.\n    VO: Slow down and put the fork down between bites. Fullness signals also need about twenty minutes to arrive.",
+    "voiceover": "Digestion starts in your mouth, not your stomach. Chewing physically breaks food down and mixes in enzymes that begin the process. Swallowing half-chewed food leaves your stomach doing extra work, which is where a lot of bloating comes from. Slow down and put the fork down between bites. Fullness signals also need about twenty minutes to arrive.",
+    "onscreen_text": "DIGESTION STARTS IN YOUR *MOUTH* | CHEWING BREAKS FOOD DOWN AND MIXES IN *ENZYMES* | SWALLOWING HALF-CHEWED FOOD MAKES YOUR STOMACH WORK *HARDER* | SLOW DOWN. PUT THE FORK *DOWN*.",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#dailywellness",
+      "#digestion",
+      "#guthealth",
+      "#mindfuleating",
+      "#dailyhealthtips",
+      "#wellness",
+      "#healthyhabits"
+    ],
+    "sources": [
+      "Cleveland Clinic — Digestive system: How it works",
+      "NHS — Digestion and bloating"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-05T17:00:00+00:00",
+    "post_type": "Image",
+    "category": "Healthy Habits",
+    "framework": "Before → After",
+    "title": "Two minutes of stretching before bed",
+    "hook": "A day of sitting follows you into the night.",
+    "headline": "2 MINUTES\nBEFORE BED",
+    "caption": "A day of sitting follows you into the night.\n\nHours at a desk leave hips, back and shoulders tight, and that tension can make it harder to settle at night. A short, gentle stretch signals wind-down and eases stiffness. Keep it slow and never force a position — the goal is release, not flexibility training.\n\nDo you stretch before bed?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. A person stretching gently on a mat beside a bed in warm low evening light, calm and unhurried, comfortable clothing. Diverse and realistic body type. Uncluttered with generous empty space at the top for a text headline. Warm white and soft blue palette. No text rendered in image. Photorealistic, peaceful.",
+    "reel_script": "",
+    "voiceover": "",
+    "onscreen_text": "2 MINUTES BEFORE BED",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#healthyhabits",
+      "#stretching",
+      "#sleep",
+      "#mobility",
+      "#dailyhealthtips",
+      "#wellness",
+      "#eveningroutine"
+    ],
+    "sources": [
+      "NHS — Flexibility exercises",
+      "Mayo Clinic — Stretching: Focus on flexibility"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-05T20:00:00+00:00",
+    "post_type": "Reel",
+    "category": "Vitamin Deficiencies",
+    "title": "Vitamin D: the one most people are short on",
+    "hook": "Vitamin D is the deficiency most people don't know they have.",
+    "caption": "Vitamin D is the deficiency most people don't know they have.\n\nVitamin D supports calcium absorption and bone health, and deficiency is common — particularly in people with limited sun exposure, darker skin, or who live far from the equator. Several national health bodies recommend supplementation during autumn and winter. Don't megadose: more is not better, and it's worth checking with your doctor.\n\nDo you take vitamin D in the winter?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "",
+    "reel_script": "[1] ON-SCREEN: VITAMIN D IS THE ONE / MOST PEOPLE ARE / *SHORT ON*\n    VO: Vitamin D is the deficiency most people don't realise they have.\n[2] ON-SCREEN: YOUR SKIN MAKES IT / FROM *SUNLIGHT*\n    VO: Your skin makes it from sunlight, so people who spend most of the day indoors are more at risk.\n[3] ON-SCREEN: IT HELPS YOUR BODY / ABSORB *CALCIUM*\n    VO: It helps your body absorb calcium, which is why it matters for bones and muscles.\n[4] ON-SCREEN: SUNLIGHT, OILY FISH, / EGGS — OR ASK ABOUT / A *SUPPLEMENT*\n    VO: Sunlight, oily fish and eggs help. In darker months many health services recommend a supplement — ask your doctor.",
+    "voiceover": "Vitamin D is the deficiency most people don't realise they have. Your skin makes it from sunlight, so people who spend most of the day indoors are more at risk. It helps your body absorb calcium, which is why it matters for bones and muscles. Sunlight, oily fish and eggs help. In darker months many health services recommend a supplement — ask your doctor.",
+    "onscreen_text": "VITAMIN D IS THE ONE MOST PEOPLE ARE *SHORT ON* | YOUR SKIN MAKES IT FROM *SUNLIGHT* | IT HELPS YOUR BODY ABSORB *CALCIUM* | SUNLIGHT, OILY FISH, EGGS — OR ASK ABOUT A *SUPPLEMENT*",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#vitamind",
+      "#nutrition",
+      "#bonehealth",
+      "#deficiency",
+      "#dailyhealthtips",
+      "#wellness",
+      "#healthylifestyle"
+    ],
+    "sources": [
+      "NHS — Vitamin D",
+      "NIH Office of Dietary Supplements — Vitamin D Fact Sheet"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-05T23:00:00+00:00",
+    "post_type": "Image",
+    "category": "Scientific Health Facts",
+    "framework": "Hidden Fact",
+    "title": "Your heart beats around 100,000 times a day",
+    "hook": "Your heart beats about 100,000 times a day without a single break.",
+    "headline": "100,000 BEATS\nEVERY DAY",
+    "caption": "Your heart beats about 100,000 times a day without a single break.\n\nThat's roughly 35 million beats a year, every year, without pause. The best things you can do for it are unglamorous and well proven: move regularly, don't smoke, watch salt and saturated fat, manage stress, and know your blood pressure numbers.\n\nWhen did you last check your blood pressure?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. An abstract elegant heartbeat line rendered in soft blue on a clean white background, minimal and modern, with subtle depth. Large clear empty area for a text overlay. Calm, trustworthy, medical-editorial style. White, blue and green palette. No text rendered in image. High-quality vector infographic.",
+    "reel_script": "",
+    "voiceover": "",
+    "onscreen_text": "100,000 BEATS EVERY DAY",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#hearthealth",
+      "#healthfacts",
+      "#cardiovascular",
+      "#dailyhealthtips",
+      "#wellness",
+      "#preventivecare",
+      "#sciencefacts"
+    ],
+    "sources": [
+      "American Heart Association — How the Heart Works",
+      "Cleveland Clinic — Heart facts"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-06T08:00:00+00:00",
+    "post_type": "Reel",
+    "category": "Home Workouts",
+    "title": "You don't need a gym to build strength",
+    "hook": "You can build real strength with no equipment at all.",
+    "caption": "You can build real strength with no equipment at all.\n\nGlobal physical activity guidelines recommend muscle-strengthening activity at least twice a week alongside regular aerobic movement. Bodyweight exercises count. Muscle supports metabolism, joint stability and independence as you age — and progress comes from doing it regularly, not from doing it perfectly.\n\nWhat's your go-to home exercise?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "",
+    "reel_script": "[1] ON-SCREEN: NO GYM. / NO EQUIPMENT. / *STILL WORKS.*\n    VO: You can build genuine strength with no equipment at all.\n[2] ON-SCREEN: SQUATS. PUSH-UPS. / LUNGES. *PLANKS*.\n    VO: Squats, push-ups, lunges and planks cover most major muscle groups.\n[3] ON-SCREEN: GUIDELINES SUGGEST / STRENGTH WORK / *TWICE A WEEK*\n    VO: Physical activity guidelines recommend muscle-strengthening activity on at least two days a week.\n[4] ON-SCREEN: START WITH WHAT YOU / CAN DO *TODAY*\n    VO: Start with what you can actually do today, even if that's five repetitions. Consistency beats intensity.",
+    "voiceover": "You can build genuine strength with no equipment at all. Squats, push-ups, lunges and planks cover most major muscle groups. Physical activity guidelines recommend muscle-strengthening activity on at least two days a week. Start with what you can actually do today, even if that's five repetitions. Consistency beats intensity.",
+    "onscreen_text": "NO GYM. NO EQUIPMENT. *STILL WORKS.* | SQUATS. PUSH-UPS. LUNGES. *PLANKS*. | GUIDELINES SUGGEST STRENGTH WORK *TWICE A WEEK* | START WITH WHAT YOU CAN DO *TODAY*",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#homeworkout",
+      "#strengthtraining",
+      "#exercise",
+      "#fitness",
+      "#dailyhealthtips",
+      "#wellness",
+      "#healthylifestyle"
+    ],
+    "sources": [
+      "WHO — Physical activity fact sheet",
+      "CDC — How much physical activity do adults need?"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-06T11:00:00+00:00",
+    "post_type": "Image",
+    "category": "Weight Loss",
+    "framework": "Myth → Truth",
+    "title": "You can't spot-reduce fat",
+    "hook": "Doing sit-ups will not burn belly fat specifically.",
+    "headline": "MYTH: Sit-ups burn\nbelly fat",
+    "caption": "Doing sit-ups will not burn belly fat specifically.\n\nYou can't choose where your body loses fat. Crunches strengthen the muscles underneath, but the fat above them only reduces through overall energy balance and activity. This is one of the most persistent fitness myths, and it costs people a lot of wasted effort. Whole-body movement plus diet does the work.\n\nWho was told sit-ups were the secret?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern health infographic, 4:5 vertical. Split red MYTH panel above, green FACT panel below. A person doing a full-body movement in a bright airy home space, natural light, encouraging and realistic rather than aspirational. Diverse body type. Clean empty areas for text overlay. White, green and soft blue palette. No text rendered in image. Photorealistic.",
+    "reel_script": "",
+    "voiceover": "",
+    "onscreen_text": "MYTH: Sit-ups burn belly fat",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#weightloss",
+      "#fitnessmyths",
+      "#exercise",
+      "#mythbusting",
+      "#dailyhealthtips",
+      "#wellness",
+      "#healthylifestyle"
+    ],
+    "sources": [
+      "Mayo Clinic — Spot reduction: Why it doesn't work",
+      "NHS — Exercise and weight loss"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-06T14:00:00+00:00",
     "post_type": "Reel",
     "category": "Mental Health",
     "title": "The 2-minute breathing reset",
@@ -1140,6 +1085,62 @@
     "sources": [
       "Harvard Health — Relaxation techniques: Breath control helps quell errant stress response",
       "NHS — Breathing exercises for stress"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-06T17:00:00+00:00",
+    "post_type": "Image",
+    "category": "Healthy Eating",
+    "framework": "Top 5 Tips",
+    "title": "Read the ingredients, not the front",
+    "hook": "The front of the packet is marketing. The back is information.",
+    "headline": "READ THE BACK,\nNOT THE FRONT",
+    "caption": "The front of the packet is marketing. The back is information.\n\n\"Natural\", \"light\" and \"multigrain\" are marketing terms with little regulated meaning. The ingredients list and nutrition panel tell you what's actually there. Two quick habits: ingredients are listed by weight, so the first few dominate — and check sugar and salt per 100g to compare products fairly.\n\nDo you check labels, or go by the front of the pack?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "Clean modern nutrition infographic, 4:5 vertical. A person's hands holding a plain unbranded food package, turning it to read the back, in a bright supermarket aisle with soft depth of field. Natural lighting, diverse skin tone, everyday and relatable. Generous clean space at the top for a text headline. White, soft blue and green palette. No readable text or real brands in image. Photorealistic.",
+    "reel_script": "",
+    "voiceover": "",
+    "onscreen_text": "READ THE BACK, NOT THE FRONT",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#healthyeating",
+      "#nutrition",
+      "#foodlabels",
+      "#healthyshopping",
+      "#dailyhealthtips",
+      "#wellness",
+      "#healthylifestyle"
+    ],
+    "sources": [
+      "NHS — Food labels",
+      "Harvard T.H. Chan — The Nutrition Source: Food label guide"
+    ],
+    "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
+  },
+  {
+    "date": "2026-08-06T20:00:00+00:00",
+    "post_type": "Reel",
+    "category": "Walking",
+    "title": "Steps: the 10,000 number was a marketing slogan",
+    "hook": "The 10,000 steps target didn't come from science.",
+    "caption": "The 10,000 steps target didn't come from science.\n\nThe 10,000-step figure originated as a marketing slogan, not a clinical recommendation. Research since suggests substantial benefit at lower counts, with returns levelling off at higher numbers — the exact figure varies by age and study. The useful message: more steps than yesterday beats hitting an arbitrary target or giving up.\n\nHow many steps do you average in a day?\n\nFollow for daily health education. Save this post. Share it with family.",
+    "image_prompt": "",
+    "reel_script": "[1] ON-SCREEN: THE *10,000 STEPS* TARGET / DIDN'T COME FROM / SCIENCE\n    VO: The ten thousand steps target didn't come from research. It came from a 1960s pedometer name.\n[2] ON-SCREEN: REAL BENEFITS START / *MUCH LOWER*\n    VO: Studies suggest meaningful health benefits start well below that.\n[3] ON-SCREEN: AROUND *7,000* STEPS / CAPTURES MOST OF IT\n    VO: Around seven thousand steps a day captures much of the benefit for many adults, with gains levelling off after.\n[4] ON-SCREEN: SO DON'T QUIT AT 6,000. / *IT ALREADY COUNTS.*\n    VO: So if you're at six thousand, that already counts. Don't treat ten thousand as pass or fail.",
+    "voiceover": "The ten thousand steps target didn't come from research. It came from a 1960s pedometer name. Studies suggest meaningful health benefits start well below that. Around seven thousand steps a day captures much of the benefit for many adults, with gains levelling off after. So if you're at six thousand, that already counts. Don't treat ten thousand as pass or fail.",
+    "onscreen_text": "THE *10,000 STEPS* TARGET DIDN'T COME FROM SCIENCE | REAL BENEFITS START *MUCH LOWER* | AROUND *7,000* STEPS CAPTURES MOST OF IT | SO DON'T QUIT AT 6,000. *IT ALREADY COUNTS.*",
+    "cta": "Follow for daily health education. Save this post. Share it with family.",
+    "hashtags": [
+      "#walking",
+      "#steps",
+      "#exercise",
+      "#healthyhabits",
+      "#dailyhealthtips",
+      "#wellness",
+      "#activelifestyle"
+    ],
+    "sources": [
+      "Harvard Health — 10,000 steps a day: is that a magic number?",
+      "CDC — Physical activity basics"
     ],
     "disclaimer": "This content is for educational purposes and is not a substitute for professional medical advice."
   },
