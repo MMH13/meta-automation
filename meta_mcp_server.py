@@ -24,7 +24,31 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
-from mcp.server.fastmcp import FastMCP
+
+# meta_cli.py imports this module purely to reuse _api/_cfg/_ig_id, and it runs
+# in CI where the MCP SDK isn't needed. Requiring it there made the whole cloud
+# poster fail when an `mcp` release moved `mcp.server.fastmcp` (all scheduled
+# runs failed 2026-07-28/29). The SDK is now optional: without it the helpers
+# still import and only the MCP server itself is unavailable.
+try:
+    from mcp.server.fastmcp import FastMCP
+    _MCP_AVAILABLE = True
+except ImportError:  # pragma: no cover - exercised in CI
+    _MCP_AVAILABLE = False
+
+    class FastMCP:  # minimal stand-in: @tool() becomes a pass-through
+        def __init__(self, *_a, **_kw):
+            pass
+
+        def tool(self, *_a, **_kw):
+            def _identity(fn):
+                return fn
+            return _identity
+
+        def run(self, *_a, **_kw):
+            raise RuntimeError(
+                "The `mcp` package is not installed, so the MCP server cannot "
+                "run. Install it with: pip install 'mcp<2'")
 
 _HERE = Path(__file__).parent
 _ACCOUNTS_FILE = _HERE / "accounts.json"

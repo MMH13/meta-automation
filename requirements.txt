@@ -1,2 +1,8 @@
-mcp<2
+# Cloud poster (GitHub Actions) dependencies only.
+#
+# `mcp` is deliberately NOT listed here: meta_cli.py imports meta_mcp_server
+# purely for its Graph API helpers, and pulling the MCP SDK into CI meant an
+# upstream release that moved `mcp.server.fastmcp` broke every scheduled
+# posting run (2026-07-28/29). meta_mcp_server now imports it optionally.
+# For the local MCP server, install it separately:  pip install "mcp<2"
 requests
