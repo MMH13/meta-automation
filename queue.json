@@ -1001,9 +1001,13 @@
       "account": "suspense-ahead",
       "network": "facebook",
       "when": "2026-07-29T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "🌧️ Oakville, Washington, August 1994. Six times in three weeks, rain fell carrying translucent, jelly-like blobs. Almost everyone who touched them developed flu-like symptoms. Cats and dogs in town reportedly fell ill.\n\nA lab technician who examined a sample found human white blood cells in it — then the sample mysteriously vanished from the lab.\n\nTheories: military waste dumping, jellyfish pulverized by bombing runs offshore, atmospheric experiments. The Air Force denied everything. No official explanation was ever given.\n\nThe blobs never fell again.\n\n👇 What fell on Oakville? And why did the samples disappear?\n\nFollow Suspense Ahead — one mystery every 3 hours."
+      "message": "🌧️ Oakville, Washington, August 1994. Six times in three weeks, rain fell carrying translucent, jelly-like blobs. Almost everyone who touched them developed flu-like symptoms. Cats and dogs in town reportedly fell ill.\n\nA lab technician who examined a sample found human white blood cells in it — then the sample mysteriously vanished from the lab.\n\nTheories: military waste dumping, jellyfish pulverized by bombing runs offshore, atmospheric experiments. The Air Force denied everything. No official explanation was ever given.\n\nThe blobs never fell again.\n\n👇 What fell on Oakville? And why did the samples disappear?\n\nFollow Suspense Ahead — one mystery every 3 hours.",
+      "result": {
+        "id": "2642505565823038_1477246177760410"
+      },
+      "posted_at": "2026-07-29T21:08:32+00:00"
     },
     {
       "id": "rd1-01",
@@ -5592,22 +5596,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-29T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-5-6",
       "network": "facebook",
       "type": "photo",
       "message": "🍽️ Swallowing half-chewed food makes your stomach do extra work — hello bloating. Slow down, put the fork down between bites.\n\n💬 Fast or slow eater? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d5_6.png"
+      "image_url": "images/hd_rf/d5_6.png",
+      "result": {
+        "id": "1705464051469093",
+        "post_id": "152206688762695_1705464078135757"
+      },
+      "posted_at": "2026-07-29T21:08:43+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-29T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-5-6",
       "network": "instagram",
       "type": "image",
       "message": "🍽️ Swallowing half-chewed food makes your stomach do extra work — hello bloating. Slow down, put the fork down between bites.\n\n💬 Fast or slow eater? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d5_6.png"
+      "image_url": "images/hd_rf/d5_6.png",
+      "result": {
+        "media_id": "18128132896629722",
+        "permalink": "https://www.instagram.com/p/DbZC7HljWY1/"
+      },
+      "posted_at": "2026-07-29T21:08:59+00:00"
     },
     {
       "account": "health-daily",
