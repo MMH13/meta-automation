@@ -6007,792 +6007,6 @@
       "status": "pending"
     },
     {
-      "id": "ahd-d1-1-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "☕ Reaching for coffee first on an empty, dehydrated body is why the caffeine hits hard then crashes. A glass of water first steadies your energy and eases that mid-morning slump.\n\n→ Water first, coffee second\n→ Wait 60–90 min after waking for coffee if you can\n→ It blunts the crash more than a second cup ever will\n\n💚 Bookmark this. You'll need it later.\n💬 Coffee before or after water — honestly? 👇",
-      "image_url": "images/aug_hd/d1_1.png",
-      "when": "2026-08-01T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-1-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "☕ Reaching for coffee first on an empty, dehydrated body is why the caffeine hits hard then crashes. A glass of water first steadies your energy and eases that mid-morning slump.\n\n→ Water first, coffee second\n→ Wait 60–90 min after waking for coffee if you can\n→ It blunts the crash more than a second cup ever will\n\n💚 Bookmark this. You'll need it later.\n💬 Coffee before or after water — honestly? 👇",
-      "image_url": "images/aug_hd/d1_1.png",
-      "when": "2026-08-01T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-2-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🌙 You've heard 'never eat after 8.' But your body doesn't read a clock. What matters is how much you eat across the whole day, not the hour.\n\n→ A proper late dinner: fine\n→ Chips on the couch at 11 PM: that's the real issue\n→ If late eating disturbs your sleep, shift it earlier for comfort, not fear\n\n💚 Bookmark this. You'll need it later.\n💬 Are you a late-night snacker? 👇",
-      "image_url": "images/aug_hd/d1_2.png",
-      "when": "2026-08-01T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-2-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🌙 You've heard 'never eat after 8.' But your body doesn't read a clock. What matters is how much you eat across the whole day, not the hour.\n\n→ A proper late dinner: fine\n→ Chips on the couch at 11 PM: that's the real issue\n→ If late eating disturbs your sleep, shift it earlier for comfort, not fear\n\n💚 Bookmark this. You'll need it later.\n💬 Are you a late-night snacker? 👇",
-      "image_url": "images/aug_hd/d1_2.png",
-      "when": "2026-08-01T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-3-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "❤️ It's called heart-rate recovery. A heart that drops quickly back to rest after effort is a strong sign of fitness — and it improves with regular movement.\n\nWalk briskly, then time how fast you settle. In a few weeks of consistent activity, you'll settle faster.\n\n💚 Bookmark this. You'll need it later.\n💬 How's your recovery after climbing stairs? 👇",
-      "image_url": "images/aug_hd/d1_3.png",
-      "when": "2026-08-01T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-3-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "❤️ It's called heart-rate recovery. A heart that drops quickly back to rest after effort is a strong sign of fitness — and it improves with regular movement.\n\nWalk briskly, then time how fast you settle. In a few weeks of consistent activity, you'll settle faster.\n\n💚 Bookmark this. You'll need it later.\n💬 How's your recovery after climbing stairs? 👇",
-      "image_url": "images/aug_hd/d1_3.png",
-      "when": "2026-08-01T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-4-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🍌 Most of us get too much salt and too little potassium — the mineral that counters it. Bananas are one of the easiest, cheapest fixes.\n\n→ Also in potatoes, beans, spinach, yogurt\n→ Great pre-walk snack for steady energy\n→ Pair with nuts for staying power\n\n💚 Bookmark this. You'll need it later.\n💬 Banana: daily or never? 👇",
-      "image_url": "images/aug_hd/d1_4.png",
-      "when": "2026-08-01T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-4-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🍌 Most of us get too much salt and too little potassium — the mineral that counters it. Bananas are one of the easiest, cheapest fixes.\n\n→ Also in potatoes, beans, spinach, yogurt\n→ Great pre-walk snack for steady energy\n→ Pair with nuts for staying power\n\n💚 Bookmark this. You'll need it later.\n💬 Banana: daily or never? 👇",
-      "image_url": "images/aug_hd/d1_4.png",
-      "when": "2026-08-01T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-5-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🔌 The phone by the pillow is the #1 silent sleep thief — one glance and you're scrolling, one buzz and you're awake. Charging it in another room removes the temptation entirely.\n\nBuy a cheap alarm clock so 'I need it for the alarm' stops being the excuse.\n\n💚 Bookmark this. You'll need it later.\n💬 Where does your phone sleep? 👇",
-      "image_url": "images/aug_hd/d1_5.png",
-      "when": "2026-08-01T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-5-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🔌 The phone by the pillow is the #1 silent sleep thief — one glance and you're scrolling, one buzz and you're awake. Charging it in another room removes the temptation entirely.\n\nBuy a cheap alarm clock so 'I need it for the alarm' stops being the excuse.\n\n💚 Bookmark this. You'll need it later.\n💬 Where does your phone sleep? 👇",
-      "image_url": "images/aug_hd/d1_5.png",
-      "when": "2026-08-01T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-6",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "text",
-      "message": [
-        "Quick check-in 👇\n\nHow many hours did you actually sleep last night?\n\n😴 7–8\n😐 5–6\n😩 under 5\n\nDrop your number — and if it was under 5, what kept you up?"
-      ],
-      "when": "2026-08-01T16:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-7-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "📱 Looking down at a screen loads your neck like a small child sitting on it. Hours of that daily is why so many people have neck and upper-back pain.\n\n→ Lift the phone to eye level\n→ Every 20 min, roll the shoulders back\n→ Tuck the chin, don't crane forward\n\n💚 Bookmark this. You'll need it later.\n💬 Neck or back stiff by evening? 👇",
-      "image_url": "images/aug_hd/d1_7.png",
-      "when": "2026-08-01T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d1-7-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "📱 Looking down at a screen loads your neck like a small child sitting on it. Hours of that daily is why so many people have neck and upper-back pain.\n\n→ Lift the phone to eye level\n→ Every 20 min, roll the shoulders back\n→ Tuck the chin, don't crane forward\n\n💚 Bookmark this. You'll need it later.\n💬 Neck or back stiff by evening? 👇",
-      "image_url": "images/aug_hd/d1_7.png",
-      "when": "2026-08-01T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-1-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🚿 That 3 PM fog? Before you reach for a third coffee, try cold water on the face or wrists. It triggers a quick alertness response — no caffeine, no crash later.\n\n→ Cold water on face/wrists\n→ Or a 2-minute walk in fresh air\n→ Save the coffee for when you truly need it\n\n💚 Bookmark this. You'll need it later.\n💬 When does your energy dip most? 👇",
-      "image_url": "images/aug_hd/d2_1.png",
-      "when": "2026-08-02T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-1-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🚿 That 3 PM fog? Before you reach for a third coffee, try cold water on the face or wrists. It triggers a quick alertness response — no caffeine, no crash later.\n\n→ Cold water on face/wrists\n→ Or a 2-minute walk in fresh air\n→ Save the coffee for when you truly need it\n\n💚 Bookmark this. You'll need it later.\n💬 When does your energy dip most? 👇",
-      "image_url": "images/aug_hd/d2_1.png",
-      "when": "2026-08-02T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-2-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "💊 Multivitamins have their place, but no supplement 'cancels' junk food. Real food comes as a package your body absorbs far better.\n\n→ Fix the plate first\n→ Supplement genuine gaps (e.g. vitamin D, B12 if advised)\n→ Save your money on the fancy 'detox' pills\n\n💚 Bookmark this. You'll need it later.\n💬 What do you actually take daily? 👇",
-      "image_url": "images/aug_hd/d2_2.png",
-      "when": "2026-08-02T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-2-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "💊 Multivitamins have their place, but no supplement 'cancels' junk food. Real food comes as a package your body absorbs far better.\n\n→ Fix the plate first\n→ Supplement genuine gaps (e.g. vitamin D, B12 if advised)\n→ Save your money on the fancy 'detox' pills\n\n💚 Bookmark this. You'll need it later.\n💬 What do you actually take daily? 👇",
-      "image_url": "images/aug_hd/d2_2.png",
-      "when": "2026-08-02T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-3-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🧠 Your brain is about 75% water. Being just slightly low hits focus, mood and headaches — long before your mouth feels dry.\n\nKeep a bottle in sight; we drink more when we can see it. Pale-yellow urine is your real hydration signal.\n\n💚 Bookmark this. You'll need it later.\n💬 How many glasses so far today? 👇",
-      "image_url": "images/aug_hd/d2_3.png",
-      "when": "2026-08-02T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-3-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🧠 Your brain is about 75% water. Being just slightly low hits focus, mood and headaches — long before your mouth feels dry.\n\nKeep a bottle in sight; we drink more when we can see it. Pale-yellow urine is your real hydration signal.\n\n💚 Bookmark this. You'll need it later.\n💬 How many glasses so far today? 👇",
-      "image_url": "images/aug_hd/d2_3.png",
-      "when": "2026-08-02T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-4-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🥣 One of the cheapest complete breakfasts there is. The fiber steadies blood sugar and feeds good gut bacteria — so you're not starving by 11.\n\n→ Add nuts + fruit for staying power\n→ Skip the sugary instant sachets\n→ Overnight oats = zero-effort mornings\n\n💚 Bookmark this. You'll need it later.\n💬 Oats: love them or can't do the texture? 👇",
-      "image_url": "images/aug_hd/d2_4.png",
-      "when": "2026-08-02T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-4-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🥣 One of the cheapest complete breakfasts there is. The fiber steadies blood sugar and feeds good gut bacteria — so you're not starving by 11.\n\n→ Add nuts + fruit for staying power\n→ Skip the sugary instant sachets\n→ Overnight oats = zero-effort mornings\n\n💚 Bookmark this. You'll need it later.\n💬 Oats: love them or can't do the texture? 👇",
-      "image_url": "images/aug_hd/d2_4.png",
-      "when": "2026-08-02T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-5-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "📝 A racing mind at bedtime is often just your brain afraid it'll forget things. Offload them onto paper and it lets go — you fall asleep faster and wake up clearer.\n\nThree tasks, not thirty. The point is to empty the head, not plan the year.\n\n💚 Bookmark this. You'll need it later.\n💬 Do you plan the night before? 👇",
-      "image_url": "images/aug_hd/d2_5.png",
-      "when": "2026-08-02T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-5-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "📝 A racing mind at bedtime is often just your brain afraid it'll forget things. Offload them onto paper and it lets go — you fall asleep faster and wake up clearer.\n\nThree tasks, not thirty. The point is to empty the head, not plan the year.\n\n💚 Bookmark this. You'll need it later.\n💬 Do you plan the night before? 👇",
-      "image_url": "images/aug_hd/d2_5.png",
-      "when": "2026-08-02T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-6",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "text",
-      "message": [
-        "Fill in the blank 👇\n\n\"I feel my healthiest when I ______.\"\n\nSometimes naming it is the reminder you needed. Comment yours 👇"
-      ],
-      "when": "2026-08-02T16:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-7-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🚶 When you feel flat, the reach for a snack is often a reach for a mood boost. A short walk gives you the same lift — without the crash 30 minutes later.\n\n→ Outside beats indoors (light helps)\n→ 10 minutes is enough to shift the mood\n→ Bonus: it aids digestion too\n\n💚 Bookmark this. You'll need it later.\n💬 Walk or snack when you're low? 👇",
-      "image_url": "images/aug_hd/d2_7.png",
-      "when": "2026-08-02T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d2-7-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🚶 When you feel flat, the reach for a snack is often a reach for a mood boost. A short walk gives you the same lift — without the crash 30 minutes later.\n\n→ Outside beats indoors (light helps)\n→ 10 minutes is enough to shift the mood\n→ Bonus: it aids digestion too\n\n💚 Bookmark this. You'll need it later.\n💬 Walk or snack when you're low? 👇",
-      "image_url": "images/aug_hd/d2_7.png",
-      "when": "2026-08-02T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-1-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🍳 A carb-only breakfast spikes then drops your blood sugar — hello 11 AM cravings. Adding protein flattens that curve and keeps you full for hours.\n\n→ Eggs, yogurt, dal, nuts, cheese\n→ Aim for a palm-sized portion\n→ Works whether you eat at 7 AM or noon\n\n💚 Bookmark this. You'll need it later.\n💬 What's your usual first meal? 👇",
-      "image_url": "images/aug_hd/d3_1.png",
-      "when": "2026-08-03T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-1-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🍳 A carb-only breakfast spikes then drops your blood sugar — hello 11 AM cravings. Adding protein flattens that curve and keeps you full for hours.\n\n→ Eggs, yogurt, dal, nuts, cheese\n→ Aim for a palm-sized portion\n→ Works whether you eat at 7 AM or noon\n\n💚 Bookmark this. You'll need it later.\n💬 What's your usual first meal? 👇",
-      "image_url": "images/aug_hd/d3_1.png",
-      "when": "2026-08-03T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-2-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "💪 The 'push through the pain' idea injures more people than it helps. Mild muscle fatigue is fine; sharp or joint pain means stop.\n\n→ Challenge ≠ pain\n→ Rest days are when you actually get stronger\n→ Consistency beats one brutal session you can't repeat\n\n💚 Bookmark this. You'll need it later.\n💬 Ever pushed too hard and paid for it? 👇",
-      "image_url": "images/aug_hd/d3_2.png",
-      "when": "2026-08-03T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-2-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "💪 The 'push through the pain' idea injures more people than it helps. Mild muscle fatigue is fine; sharp or joint pain means stop.\n\n→ Challenge ≠ pain\n→ Rest days are when you actually get stronger\n→ Consistency beats one brutal session you can't repeat\n\n💚 Bookmark this. You'll need it later.\n💬 Ever pushed too hard and paid for it? 👇",
-      "image_url": "images/aug_hd/d3_2.png",
-      "when": "2026-08-03T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-3-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "✨ Chasing glow with creams while sleeping 4 hours is fighting yourself. Skin reflects habits: water, sleep, and less sugar do more than most products.\n\nBefore the next serum, fix the basics for two weeks and watch what changes.\n\n💚 Bookmark this. You'll need it later.\n💬 What changed your skin most — product or habit? 👇",
-      "image_url": "images/aug_hd/d3_3.png",
-      "when": "2026-08-03T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-3-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "✨ Chasing glow with creams while sleeping 4 hours is fighting yourself. Skin reflects habits: water, sleep, and less sugar do more than most products.\n\nBefore the next serum, fix the basics for two weeks and watch what changes.\n\n💚 Bookmark this. You'll need it later.\n💬 What changed your skin most — product or habit? 👇",
-      "image_url": "images/aug_hd/d3_3.png",
-      "when": "2026-08-03T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-4-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🫐 One of the few genuinely sweet foods that loves you back — high in fiber and antioxidants, low on the blood-sugar spike.\n\n→ Frozen is just as good (and cheaper)\n→ Toss into yogurt or oats\n→ A handful when the sugar craving hits\n\n💚 Bookmark this. You'll need it later.\n💬 Berries or you'd rather have chocolate? 👇",
-      "image_url": "images/aug_hd/d3_4.png",
-      "when": "2026-08-03T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-4-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🫐 One of the few genuinely sweet foods that loves you back — high in fiber and antioxidants, low on the blood-sugar spike.\n\n→ Frozen is just as good (and cheaper)\n→ Toss into yogurt or oats\n→ A handful when the sugar craving hits\n\n💚 Bookmark this. You'll need it later.\n💬 Berries or you'd rather have chocolate? 👇",
-      "image_url": "images/aug_hd/d3_4.png",
-      "when": "2026-08-03T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-5-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "📵 'Just five minutes' turns into an hour, and the blue light plus the mental stimulation delay sleep by far more than you think.\n\n→ Charge it across the room\n→ Read a few pages instead\n→ Your brain needs boredom to switch off\n\n💚 Bookmark this. You'll need it later.\n💬 Honest — phone in bed or not? 👇",
-      "image_url": "images/aug_hd/d3_5.png",
-      "when": "2026-08-03T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-5-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "📵 'Just five minutes' turns into an hour, and the blue light plus the mental stimulation delay sleep by far more than you think.\n\n→ Charge it across the room\n→ Read a few pages instead\n→ Your brain needs boredom to switch off\n\n💚 Bookmark this. You'll need it later.\n💬 Honest — phone in bed or not? 👇",
-      "image_url": "images/aug_hd/d3_5.png",
-      "when": "2026-08-03T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-6",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "text",
-      "message": [
-        "Honest question 👇\n\nWhat's the ONE health habit that would change the most for you — if you actually stuck to it?\n\nNot all of them. Just one. Comment it, then start tomorrow 👇"
-      ],
-      "when": "2026-08-03T16:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-7-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "😮‍💨 In for 4 seconds, out for 6. The long exhale flips you from stress mode into rest mode — heart rate drops, shoulders loosen. Costs nothing, works in minutes.\n\nTry five rounds right now before you scroll on.\n\n💚 Bookmark this. You'll need it later.\n💬 Feel calmer after 5 rounds? 👇",
-      "image_url": "images/aug_hd/d3_7.png",
-      "when": "2026-08-03T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d3-7-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "😮‍💨 In for 4 seconds, out for 6. The long exhale flips you from stress mode into rest mode — heart rate drops, shoulders loosen. Costs nothing, works in minutes.\n\nTry five rounds right now before you scroll on.\n\n💚 Bookmark this. You'll need it later.\n💬 Feel calmer after 5 rounds? 👇",
-      "image_url": "images/aug_hd/d3_7.png",
-      "when": "2026-08-03T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-1-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🌅 Morning light is the single strongest signal that sets your body clock — better energy today and easier sleep tonight. Ten minutes on the balcony with your tea counts.\n\n→ Outdoor light beats any indoor bulb\n→ No sunglasses for those first minutes\n→ Cloudy days still work\n\n💚 Bookmark this. You'll need it later.\n💬 Do you see daylight before 9 AM? 👇",
-      "image_url": "images/aug_hd/d4_1.png",
-      "when": "2026-08-04T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-1-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🌅 Morning light is the single strongest signal that sets your body clock — better energy today and easier sleep tonight. Ten minutes on the balcony with your tea counts.\n\n→ Outdoor light beats any indoor bulb\n→ No sunglasses for those first minutes\n→ Cloudy days still work\n\n💚 Bookmark this. You'll need it later.\n💬 Do you see daylight before 9 AM? 👇",
-      "image_url": "images/aug_hd/d4_1.png",
-      "when": "2026-08-04T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-2-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🔥 A thousand sit-ups won't melt belly fat — the body burns fat all over, not where you work. Abs are made in the kitchen first.\n\n→ Build the muscle with core work\n→ Reveal it with overall fat loss\n→ Walking + protein does more for the waist than crunches\n\n💚 Bookmark this. You'll need it later.\n💬 Who was told sit-ups were the secret? 🙋 👇",
-      "image_url": "images/aug_hd/d4_2.png",
-      "when": "2026-08-04T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-2-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🔥 A thousand sit-ups won't melt belly fat — the body burns fat all over, not where you work. Abs are made in the kitchen first.\n\n→ Build the muscle with core work\n→ Reveal it with overall fat loss\n→ Walking + protein does more for the waist than crunches\n\n💚 Bookmark this. You'll need it later.\n💬 Who was told sit-ups were the secret? 🙋 👇",
-      "image_url": "images/aug_hd/d4_2.png",
-      "when": "2026-08-04T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-3-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🦠 The gut and brain talk constantly. A big share of your feel-good chemistry starts in the gut — which is why what you eat quietly shapes how you feel.\n\nFeed it fiber and fermented foods, and your mood often follows within weeks.\n\n💚 Bookmark this. You'll need it later.\n💬 Does stress hit your stomach first? 👇",
-      "image_url": "images/aug_hd/d4_3.png",
-      "when": "2026-08-04T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-3-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🦠 The gut and brain talk constantly. A big share of your feel-good chemistry starts in the gut — which is why what you eat quietly shapes how you feel.\n\nFeed it fiber and fermented foods, and your mood often follows within weeks.\n\n💚 Bookmark this. You'll need it later.\n💬 Does stress hit your stomach first? 👇",
-      "image_url": "images/aug_hd/d4_3.png",
-      "when": "2026-08-04T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-4-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🥛 Plain, unsweetened yogurt feeds the good bacteria in your gut — better digestion and, over time, better mood.\n\n→ Plain beats flavoured (those hide dessert-level sugar)\n→ Add fruit or nuts yourself\n→ One small bowl a day is a genuinely good habit\n\n💚 Bookmark this. You'll need it later.\n💬 Do you eat dahi daily? 👇",
-      "image_url": "images/aug_hd/d4_4.png",
-      "when": "2026-08-04T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-4-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🥛 Plain, unsweetened yogurt feeds the good bacteria in your gut — better digestion and, over time, better mood.\n\n→ Plain beats flavoured (those hide dessert-level sugar)\n→ Add fruit or nuts yourself\n→ One small bowl a day is a genuinely good habit\n\n💚 Bookmark this. You'll need it later.\n💬 Do you eat dahi daily? 👇",
-      "image_url": "images/aug_hd/d4_4.png",
-      "when": "2026-08-04T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-5-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🧘 Hours hunched at a desk leave the hips and back tight — which follows you into a restless night. A short, gentle stretch signals the body to wind down.\n\n→ Neck, shoulders, hips, hamstrings\n→ Slow and easy, never forced\n→ Pair it with dimming the lights\n\n💚 Bookmark this. You'll need it later.\n💬 Do you stretch before bed? 👇",
-      "image_url": "images/aug_hd/d4_5.png",
-      "when": "2026-08-04T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-5-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🧘 Hours hunched at a desk leave the hips and back tight — which follows you into a restless night. A short, gentle stretch signals the body to wind down.\n\n→ Neck, shoulders, hips, hamstrings\n→ Slow and easy, never forced\n→ Pair it with dimming the lights\n\n💚 Bookmark this. You'll need it later.\n💬 Do you stretch before bed? 👇",
-      "image_url": "images/aug_hd/d4_5.png",
-      "when": "2026-08-04T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-6",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "text",
-      "message": [
-        "Two-word check-in 👇\n\nHow does your body feel right now — in exactly two words?\n\nWe'll start: \"Tired. Hopeful.\" Your turn 👇"
-      ],
-      "when": "2026-08-04T16:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-7-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🍅 Unusual but true — heat unlocks lycopene, the antioxidant linked to heart health. So tomato curry and sauce have their upside.\n\n→ A little oil helps absorption\n→ Raw tomatoes are still great for other nutrients\n→ Variety wins: eat them both ways\n\n💚 Bookmark this. You'll need it later.\n💬 Raw or cooked tomatoes for you? 👇",
-      "image_url": "images/aug_hd/d4_7.png",
-      "when": "2026-08-04T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d4-7-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🍅 Unusual but true — heat unlocks lycopene, the antioxidant linked to heart health. So tomato curry and sauce have their upside.\n\n→ A little oil helps absorption\n→ Raw tomatoes are still great for other nutrients\n→ Variety wins: eat them both ways\n\n💚 Bookmark this. You'll need it later.\n💬 Raw or cooked tomatoes for you? 👇",
-      "image_url": "images/aug_hd/d4_7.png",
-      "when": "2026-08-04T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-1-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "⚡ Going straight from bed to chair keeps your body in low gear all morning. Five minutes of movement first — a walk, stretches, stairs — wakes up circulation and focus.\n\n→ It doesn't need to be a 'workout'\n→ Enough to feel slightly warm\n→ Your first hour of work will feel sharper\n\n💚 Bookmark this. You'll need it later.\n💬 Do you move before you sit? 👇",
-      "image_url": "images/aug_hd/d5_1.png",
-      "when": "2026-08-05T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-1-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "⚡ Going straight from bed to chair keeps your body in low gear all morning. Five minutes of movement first — a walk, stretches, stairs — wakes up circulation and focus.\n\n→ It doesn't need to be a 'workout'\n→ Enough to feel slightly warm\n→ Your first hour of work will feel sharper\n\n💚 Bookmark this. You'll need it later.\n💬 Do you move before you sit? 👇",
-      "image_url": "images/aug_hd/d5_1.png",
-      "when": "2026-08-05T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-2-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🍞 The colour tells you nothing. Some brown bread is just white bread with colouring. The real signal is the ingredient list.\n\n→ Look for 'whole wheat/grain' listed first\n→ 'Multigrain' and 'brown' are marketing, not proof\n→ More fiber per slice = the actual win\n\n💚 Bookmark this. You'll need it later.\n💬 Ever checked your bread's label? 👇",
-      "image_url": "images/aug_hd/d5_2.png",
-      "when": "2026-08-05T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-2-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🍞 The colour tells you nothing. Some brown bread is just white bread with colouring. The real signal is the ingredient list.\n\n→ Look for 'whole wheat/grain' listed first\n→ 'Multigrain' and 'brown' are marketing, not proof\n→ More fiber per slice = the actual win\n\n💚 Bookmark this. You'll need it later.\n💬 Ever checked your bread's label? 👇",
-      "image_url": "images/aug_hd/d5_2.png",
-      "when": "2026-08-05T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-3-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🤝 It sounds odd, but how firmly you can grip tracks with overall strength and healthy ageing. Weak hands often mean weak everything else.\n\nCarry your own groceries, hang from a bar, use a stress ball — small things that keep the whole body capable.\n\n💚 Bookmark this. You'll need it later.\n💬 Firm handshake or need to work on it? 👇",
-      "image_url": "images/aug_hd/d5_3.png",
-      "when": "2026-08-05T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-3-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🤝 It sounds odd, but how firmly you can grip tracks with overall strength and healthy ageing. Weak hands often mean weak everything else.\n\nCarry your own groceries, hang from a bar, use a stress ball — small things that keep the whole body capable.\n\n💚 Bookmark this. You'll need it later.\n💬 Firm handshake or need to work on it? 👇",
-      "image_url": "images/aug_hd/d5_3.png",
-      "when": "2026-08-05T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-4-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🥬 Iron from plants is hard to absorb — but vitamin C unlocks it. A squeeze of lemon on your greens can multiply how much iron you actually get.\n\n→ Lemon on spinach, tomato in dal\n→ Skip tea/coffee right after iron-rich meals (they block it)\n→ Cheap trick, real difference\n\n💚 Bookmark this. You'll need it later.\n💬 Did you know this one? 👇",
-      "image_url": "images/aug_hd/d5_4.png",
-      "when": "2026-08-05T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-4-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🥬 Iron from plants is hard to absorb — but vitamin C unlocks it. A squeeze of lemon on your greens can multiply how much iron you actually get.\n\n→ Lemon on spinach, tomato in dal\n→ Skip tea/coffee right after iron-rich meals (they block it)\n→ Cheap trick, real difference\n\n💚 Bookmark this. You'll need it later.\n💬 Did you know this one? 👇",
-      "image_url": "images/aug_hd/d5_4.png",
-      "when": "2026-08-05T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-5-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🌡️ Sleep begins with a small dip in your core temperature — a hot room fights that every night. Cooler air, a lighter blanket, and you drift off faster.\n\n→ Fan or cracked window helps\n→ A warm shower before bed actually cools you after\n→ Cooler room > heavier blanket\n\n💚 Bookmark this. You'll need it later.\n💬 Fan on all night or off? 👇",
-      "image_url": "images/aug_hd/d5_5.png",
-      "when": "2026-08-05T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-5-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🌡️ Sleep begins with a small dip in your core temperature — a hot room fights that every night. Cooler air, a lighter blanket, and you drift off faster.\n\n→ Fan or cracked window helps\n→ A warm shower before bed actually cools you after\n→ Cooler room > heavier blanket\n\n💚 Bookmark this. You'll need it later.\n💬 Fan on all night or off? 👇",
-      "image_url": "images/aug_hd/d5_5.png",
-      "when": "2026-08-05T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-6",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "text",
-      "message": [
-        "One healthy thing you did today 👇\n\nDrank water. Took the stairs. Slept early. Said no to seconds.\n\nType it below — someone reading might need the idea 👇"
-      ],
-      "when": "2026-08-05T16:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-7-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🧂 Too much salt quietly raises blood pressure — but going bland overnight never lasts. Reduce it gradually and food that once tasted flat starts tasting right.\n\n→ Cut back a little at a time\n→ Lean on herbs, lemon, garlic for flavour\n→ Watch the hidden salt in packaged food\n\n💚 Bookmark this. You'll need it later.\n💬 Heavy hand with the salt? Honest 👇",
-      "image_url": "images/aug_hd/d5_7.png",
-      "when": "2026-08-05T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d5-7-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🧂 Too much salt quietly raises blood pressure — but going bland overnight never lasts. Reduce it gradually and food that once tasted flat starts tasting right.\n\n→ Cut back a little at a time\n→ Lean on herbs, lemon, garlic for flavour\n→ Watch the hidden salt in packaged food\n\n💚 Bookmark this. You'll need it later.\n💬 Heavy hand with the salt? Honest 👇",
-      "image_url": "images/aug_hd/d5_7.png",
-      "when": "2026-08-05T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-1-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🌄 Opening notifications first thing throws you into reaction mode before you've even woken up. Give yourself 20 phone-free minutes and the whole day feels less rushed.\n\n→ Water, light, a stretch first\n→ Emails will still be there at 9\n→ Start the day on your terms, not the inbox's\n\n💚 Bookmark this. You'll need it later.\n💬 First thing you do after waking? Honest 👇",
-      "image_url": "images/aug_hd/d6_1.png",
-      "when": "2026-08-06T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-1-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🌄 Opening notifications first thing throws you into reaction mode before you've even woken up. Give yourself 20 phone-free minutes and the whole day feels less rushed.\n\n→ Water, light, a stretch first\n→ Emails will still be there at 9\n→ Start the day on your terms, not the inbox's\n\n💚 Bookmark this. You'll need it later.\n💬 First thing you do after waking? Honest 👇",
-      "image_url": "images/aug_hd/d6_1.png",
-      "when": "2026-08-06T01:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-2-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🍚 'No carbs after 6' is a diet myth. Your body doesn't switch rules at sunset. A sensible portion of whole-food carbs at dinner is completely fine.\n\n→ It's the amount, not the hour\n→ Rice, oats, fruit = fine at night\n→ Chips and sweets are the real evening trap\n\n💚 Bookmark this. You'll need it later.\n💬 Do you avoid carbs at night? 👇",
-      "image_url": "images/aug_hd/d6_2.png",
-      "when": "2026-08-06T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-2-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🍚 'No carbs after 6' is a diet myth. Your body doesn't switch rules at sunset. A sensible portion of whole-food carbs at dinner is completely fine.\n\n→ It's the amount, not the hour\n→ Rice, oats, fruit = fine at night\n→ Chips and sweets are the real evening trap\n\n💚 Bookmark this. You'll need it later.\n💬 Do you avoid carbs at night? 👇",
-      "image_url": "images/aug_hd/d6_2.png",
-      "when": "2026-08-06T04:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-3-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "👀 Focused on a screen, you blink about half as often, so eyes dry out and sting by evening. The fix is almost free.\n\n→ Every 20 min, look 20 feet away for 20 seconds\n→ Blink fully and often\n→ Position the screen slightly below eye level\n\n💚 Bookmark this. You'll need it later.\n💬 Hours a day on screens? 👇",
-      "image_url": "images/aug_hd/d6_3.png",
-      "when": "2026-08-06T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-3-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "👀 Focused on a screen, you blink about half as often, so eyes dry out and sting by evening. The fix is almost free.\n\n→ Every 20 min, look 20 feet away for 20 seconds\n→ Blink fully and often\n→ Position the screen slightly below eye level\n\n💚 Bookmark this. You'll need it later.\n💬 Hours a day on screens? 👇",
-      "image_url": "images/aug_hd/d6_3.png",
-      "when": "2026-08-06T07:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-4-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🍵 Less caffeine than coffee, plus a calming compound that smooths it out — so you get gentle, sustained focus instead of a spike and crash.\n\n→ Great mid-morning or early afternoon\n→ Skip the sugar\n→ Not a magic fat-burner — just a solid swap\n\n💚 Bookmark this. You'll need it later.\n💬 Tea or coffee person? 👇",
-      "image_url": "images/aug_hd/d6_4.png",
-      "when": "2026-08-06T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-4-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🍵 Less caffeine than coffee, plus a calming compound that smooths it out — so you get gentle, sustained focus instead of a spike and crash.\n\n→ Great mid-morning or early afternoon\n→ Skip the sugar\n→ Not a magic fat-burner — just a solid swap\n\n💚 Bookmark this. You'll need it later.\n💬 Tea or coffee person? 👇",
-      "image_url": "images/aug_hd/d6_4.png",
-      "when": "2026-08-06T10:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-5-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "💡 Bright overhead lights tell your brain it's still daytime and delay your sleep hormone. Switching to lamps in the evening helps you fall asleep faster.\n\n→ Warm, low light after 9 PM\n→ Lamps over ceiling lights\n→ It's the whole room, not only the screen\n\n💚 Bookmark this. You'll need it later.\n💬 What time do you usually sleep? 👇",
-      "image_url": "images/aug_hd/d6_5.png",
-      "when": "2026-08-06T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-5-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "💡 Bright overhead lights tell your brain it's still daytime and delay your sleep hormone. Switching to lamps in the evening helps you fall asleep faster.\n\n→ Warm, low light after 9 PM\n→ Lamps over ceiling lights\n→ It's the whole room, not only the screen\n\n💚 Bookmark this. You'll need it later.\n💬 What time do you usually sleep? 👇",
-      "image_url": "images/aug_hd/d6_5.png",
-      "when": "2026-08-06T13:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-6",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "text",
-      "message": [
-        "This week's honest question 👇\n\nWhat's one health habit you dropped that you'd like to restart?\n\nWriting it down is the first step back. Comment it 👇"
-      ],
-      "when": "2026-08-06T16:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-7-fb",
-      "account": "health-daily",
-      "network": "facebook",
-      "type": "photo",
-      "message": "🍽️ Swallowing half-chewed food makes your stomach do extra work — which is where a lot of bloating comes from. Slowing down also lets 'full' signals catch up.\n\n→ Put the fork down between bites\n→ Chew until it's nearly liquid\n→ Bonus: you eat less without trying\n\n💚 Bookmark this. You'll need it later.\n💬 Fast or slow eater? 👇",
-      "image_url": "images/aug_hd/d6_7.png",
-      "when": "2026-08-06T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
-      "id": "ahd-d6-7-ig",
-      "account": "health-daily",
-      "network": "instagram",
-      "type": "image",
-      "message": "🍽️ Swallowing half-chewed food makes your stomach do extra work — which is where a lot of bloating comes from. Slowing down also lets 'full' signals catch up.\n\n→ Put the fork down between bites\n→ Chew until it's nearly liquid\n→ Bonus: you eat less without trying\n\n💚 Bookmark this. You'll need it later.\n💬 Fast or slow eater? 👇",
-      "image_url": "images/aug_hd/d6_7.png",
-      "when": "2026-08-06T19:00:00+00:00",
-      "status": "pending"
-    },
-    {
       "id": "ahd-d7-1-fb",
       "account": "health-daily",
       "network": "facebook",
@@ -8698,6 +7912,426 @@
       "message": "🗳️ End of two weeks. Everything on this page from here is shaped by what you ask for.\n\nSo pick:\n\n→ A specific film reviewed properly (name it)\n→ A deep dive on one director or actor\n→ More quizzes, riddles and puzzles\n→ Underrated films nobody talks about\n→ Something else entirely\n\n👇 Comment what you want next. Top answers get built.\n\n🔁 Share this if you want the page to keep going.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0815_23.png",
       "when": "2026-08-15T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026073111-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "\"Eating fat makes you fat\" — one of the most persistent food myths.\n\nFat is essential. Your body needs it for hormones, brain function and to absorb vitamins A, D, E and K. Weight gain comes from consistently taking in more energy than you use — not from one nutrient. Unsaturated fats from nuts, olive oil, oily fish and avocado are actively linked with better heart health.\n\nDid you grow up avoiding all fats?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #nutrition #healthyeating #healthyfats #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026073111.png",
+      "when": "2026-07-31T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026073111-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "\"Eating fat makes you fat\" — one of the most persistent food myths.\n\nFat is essential. Your body needs it for hormones, brain function and to absorb vitamins A, D, E and K. Weight gain comes from consistently taking in more energy than you use — not from one nutrient. Unsaturated fats from nuts, olive oil, oily fish and avocado are actively linked with better heart health.\n\nDid you grow up avoiding all fats?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #nutrition #healthyeating #healthyfats #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026073111.png",
+      "when": "2026-07-31T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026073117-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Sitting for hours affects your health even if you exercise daily.\n\nLong unbroken sitting is associated with health risks that regular exercise doesn't fully cancel out. The fix is small and repeatable: stand, stretch or walk for a couple of minutes every half hour. Set a timer if you work at a desk — the point is breaking up the sitting, not the intensity.\n\nHow long do you usually sit without a break?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #deskjob #movement #wellness #dailyhealthtips #healthylifestyle #officehealth\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026073117.png",
+      "when": "2026-07-31T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026073117-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Sitting for hours affects your health even if you exercise daily.\n\nLong unbroken sitting is associated with health risks that regular exercise doesn't fully cancel out. The fix is small and repeatable: stand, stretch or walk for a couple of minutes every half hour. Set a timer if you work at a desk — the point is breaking up the sitting, not the intensity.\n\nHow long do you usually sit without a break?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #deskjob #movement #wellness #dailyhealthtips #healthylifestyle #officehealth\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026073117.png",
+      "when": "2026-07-31T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026073123-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "I have no mouth, but I can tell your health.\n\nTake a guess before you scroll. It's something almost every check-up includes, it's completely painless, and it can flag a serious problem years before you'd ever feel symptoms.\n\nWhat's your answer? Comment below — I'll reveal it tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #guessit #dailyhealthtips #wellness #healthawareness #bloodpressure\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026073123.png",
+      "when": "2026-07-31T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026073123-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "I have no mouth, but I can tell your health.\n\nTake a guess before you scroll. It's something almost every check-up includes, it's completely painless, and it can flag a serious problem years before you'd ever feel symptoms.\n\nWhat's your answer? Comment below — I'll reveal it tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #guessit #dailyhealthtips #wellness #healthawareness #bloodpressure\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026073123.png",
+      "when": "2026-07-31T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080111-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #potassium #hearthealth #healthyeating #dailyhealthtips #bloodpressure #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080111.png",
+      "when": "2026-08-01T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080111-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #potassium #hearthealth #healthyeating #dailyhealthtips #bloodpressure #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080111.png",
+      "when": "2026-08-01T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080117-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#eyehealth #screentime #digitaleyestrain #healthyhabits #dailyhealthtips #wellness #worklife\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080117.png",
+      "when": "2026-08-01T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080117-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#eyehealth #screentime #digitaleyestrain #healthyhabits #dailyhealthtips #wellness #worklife\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080117.png",
+      "when": "2026-08-01T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080123-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "High blood pressure usually has no symptoms at all.\n\nThis is why it's often called a silent condition. Many people with high blood pressure feel completely normal, which is exactly what makes it dangerous — it can quietly raise the risk of heart attack, stroke and kidney damage over years. The only reliable way to know is to measure it. Most pharmacies will check it free.\n\nWhen did you last have your blood pressure checked?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #checkup\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080123.png",
+      "when": "2026-08-01T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080123-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "High blood pressure usually has no symptoms at all.\n\nThis is why it's often called a silent condition. Many people with high blood pressure feel completely normal, which is exactly what makes it dangerous — it can quietly raise the risk of heart attack, stroke and kidney damage over years. The only reliable way to know is to measure it. Most pharmacies will check it free.\n\nWhen did you last have your blood pressure checked?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #checkup\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080123.png",
+      "when": "2026-08-01T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080211-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "\"Cracking your knuckles causes arthritis\" — it doesn't.\n\nStudies have not found a link between knuckle cracking and arthritis. The sound comes from gas bubbles in the fluid that cushions your joints. It may annoy people around you, but it isn't damaging your hands. If cracking is painful or accompanied by swelling, that's different — see a doctor.\n\nAre you a knuckle cracker?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #jointhealth #arthritis #dailyhealthtips #wellness #healthfacts #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080211.png",
+      "when": "2026-08-02T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080211-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "\"Cracking your knuckles causes arthritis\" — it doesn't.\n\nStudies have not found a link between knuckle cracking and arthritis. The sound comes from gas bubbles in the fluid that cushions your joints. It may annoy people around you, but it isn't damaging your hands. If cracking is painful or accompanied by swelling, that's different — see a doctor.\n\nAre you a knuckle cracker?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #jointhealth #arthritis #dailyhealthtips #wellness #healthfacts #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080211.png",
+      "when": "2026-08-02T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080217-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "One daily sugary drink adds up faster than almost anything else.\n\nA single sugar-sweetened drink a day is one of the easiest sources of excess calories to remove, and regular consumption is associated with higher risk of type 2 diabetes and weight gain. Water, sparkling water with lemon, or unsweetened tea all work. If you drink one daily, swapping even half of them is progress.\n\nWhat's your usual drink with meals?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #sugar #healthyswaps #diabetes #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080217.png",
+      "when": "2026-08-02T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080217-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "One daily sugary drink adds up faster than almost anything else.\n\nA single sugar-sweetened drink a day is one of the easiest sources of excess calories to remove, and regular consumption is associated with higher risk of type 2 diabetes and weight gain. Water, sparkling water with lemon, or unsweetened tea all work. If you drink one daily, swapping even half of them is progress.\n\nWhat's your usual drink with meals?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #sugar #healthyswaps #diabetes #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080217.png",
+      "when": "2026-08-02T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080223-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "A racing mind at bedtime is often just your brain afraid it'll forget.\n\nIf you lie awake mentally rehearsing tomorrow, writing it down helps. Research on bedtime writing suggests that noting down upcoming tasks can help people fall asleep faster than journaling about the day. Keep it to three items — the goal is emptying your head, not planning your year.\n\nDoes your mind race when you lie down?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#mentalhealth #sleep #stressrelief #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080223.png",
+      "when": "2026-08-02T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080223-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "A racing mind at bedtime is often just your brain afraid it'll forget.\n\nIf you lie awake mentally rehearsing tomorrow, writing it down helps. Research on bedtime writing suggests that noting down upcoming tasks can help people fall asleep faster than journaling about the day. Keep it to three items — the goal is emptying your head, not planning your year.\n\nDoes your mind race when you lie down?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#mentalhealth #sleep #stressrelief #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080223.png",
+      "when": "2026-08-02T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080311-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "I'm the only organ in your body that can regrow itself.\n\nA clue: it filters your blood, stores energy, and does the detox work that expensive teas claim to do. Take a guess before you scroll past.\n\nWhat's your answer? Comment below — reveal tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #liverhealth #dailyhealthtips #wellness #guessit #healthawareness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080311.png",
+      "when": "2026-08-03T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080311-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "I'm the only organ in your body that can regrow itself.\n\nA clue: it filters your blood, stores energy, and does the detox work that expensive teas claim to do. Take a guess before you scroll past.\n\nWhat's your answer? Comment below — reveal tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #liverhealth #dailyhealthtips #wellness #guessit #healthawareness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080311.png",
+      "when": "2026-08-03T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080317-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "You don't need an hour. You need to stop sitting for eight.\n\nShort bursts of activity spread across the day count toward your weekly total. Guidelines now recognise that any movement is better than none, and activity accumulated in short bouts still provides benefit. Take the stairs, walk during calls, stretch between tasks. The best workout is the one you'll actually repeat.\n\nWhat's one movement snack you could add today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#exercise #movement #healthyhabits #fitness #dailyhealthtips #wellness #activelifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080317.png",
+      "when": "2026-08-03T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080317-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "You don't need an hour. You need to stop sitting for eight.\n\nShort bursts of activity spread across the day count toward your weekly total. Guidelines now recognise that any movement is better than none, and activity accumulated in short bouts still provides benefit. Take the stairs, walk during calls, stretch between tasks. The best workout is the one you'll actually repeat.\n\nWhat's one movement snack you could add today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#exercise #movement #healthyhabits #fitness #dailyhealthtips #wellness #activelifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080317.png",
+      "when": "2026-08-03T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080323-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Sleeping in on Saturday doesn't cancel a short week.\n\nSleeping until noon on Saturday after five short nights shifts your body clock, a bit like flying across time zones every weekend. You can recover some function, but it isn't a clean reset. A consistent sleep and wake time — even at weekends — works better than trying to catch up.\n\nIs your weekend sleep very different from weekdays?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#sleep #sleephealth #circadianrhythm #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080323.png",
+      "when": "2026-08-03T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080323-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Sleeping in on Saturday doesn't cancel a short week.\n\nSleeping until noon on Saturday after five short nights shifts your body clock, a bit like flying across time zones every weekend. You can recover some function, but it isn't a clean reset. A consistent sleep and wake time — even at weekends — works better than trying to catch up.\n\nIs your weekend sleep very different from weekdays?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#sleep #sleephealth #circadianrhythm #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080323.png",
+      "when": "2026-08-03T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080411-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Vitamin C won't stop you catching a cold.\n\nFor most people, regular vitamin C supplements don't prevent colds. Reviews of the evidence suggest they may slightly shorten how long a cold lasts, but the prevention effect is small and mainly seen in people under extreme physical stress. Sleep, hand hygiene and vaccination do more.\n\nDo you take vitamin C when you feel a cold coming?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#immunity #vitaminc #myths #coldandflu #dailyhealthtips #wellness #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080411.png",
+      "when": "2026-08-04T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080411-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Vitamin C won't stop you catching a cold.\n\nFor most people, regular vitamin C supplements don't prevent colds. Reviews of the evidence suggest they may slightly shorten how long a cold lasts, but the prevention effect is small and mainly seen in people under extreme physical stress. Sleep, hand hygiene and vaccination do more.\n\nDo you take vitamin C when you feel a cold coming?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#immunity #vitaminc #myths #coldandflu #dailyhealthtips #wellness #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080411.png",
+      "when": "2026-08-04T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080417-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Most people have no idea what their blood pressure numbers mean.\n\nThe top number is the pressure when your heart beats. The bottom is the pressure when it rests between beats. Both matter. Readings are generally considered elevated above roughly 130/80, but thresholds vary by guideline and by person — your doctor interprets it alongside your age and risk factors, not as a single number in isolation.\n\nDo you know your numbers?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #healthfacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080417.png",
+      "when": "2026-08-04T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080417-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Most people have no idea what their blood pressure numbers mean.\n\nThe top number is the pressure when your heart beats. The bottom is the pressure when it rests between beats. Both matter. Readings are generally considered elevated above roughly 130/80, but thresholds vary by guideline and by person — your doctor interprets it alongside your age and risk factors, not as a single number in isolation.\n\nDo you know your numbers?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #healthfacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080417.png",
+      "when": "2026-08-04T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080423-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Your gut bacteria respond to what you feed them within days.\n\nFermented foods like plain yoghurt, kefir, kimchi and sauerkraut contain live cultures, and research suggests regular intake can increase gut microbial diversity. Pair them with fibre — the bacteria need it to thrive. Start small if you're not used to them, and choose unsweetened versions.\n\nDo you eat any fermented foods regularly?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#guthealth #fermentedfoods #probiotics #nutrition #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080423.png",
+      "when": "2026-08-04T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080423-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Your gut bacteria respond to what you feed them within days.\n\nFermented foods like plain yoghurt, kefir, kimchi and sauerkraut contain live cultures, and research suggests regular intake can increase gut microbial diversity. Pair them with fibre — the bacteria need it to thrive. Start small if you're not used to them, and choose unsweetened versions.\n\nDo you eat any fermented foods regularly?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#guthealth #fermentedfoods #probiotics #nutrition #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080423.png",
+      "when": "2026-08-04T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080511-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Loneliness affects your body, not just your mood.\n\nSocial connection is increasingly recognised as a genuine health factor. Long-term loneliness and social isolation are associated with higher risks of heart disease, stroke and dementia. It sits alongside diet, sleep and movement as something worth deliberately maintaining — one call or one visit counts more than people assume.\n\nWho could you message today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyaging #mentalhealth #loneliness #connection #dailyhealthtips #wellness #wellbeing\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080511.png",
+      "when": "2026-08-05T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080511-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Loneliness affects your body, not just your mood.\n\nSocial connection is increasingly recognised as a genuine health factor. Long-term loneliness and social isolation are associated with higher risks of heart disease, stroke and dementia. It sits alongside diet, sleep and movement as something worth deliberately maintaining — one call or one visit counts more than people assume.\n\nWho could you message today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyaging #mentalhealth #loneliness #connection #dailyhealthtips #wellness #wellbeing\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080511.png",
+      "when": "2026-08-05T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080517-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "A day of sitting follows you into the night.\n\nHours at a desk leave hips, back and shoulders tight, and that tension can make it harder to settle at night. A short, gentle stretch signals wind-down and eases stiffness. Keep it slow and never force a position — the goal is release, not flexibility training.\n\nDo you stretch before bed?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #stretching #sleep #mobility #dailyhealthtips #wellness #eveningroutine\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080517.png",
+      "when": "2026-08-05T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080517-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "A day of sitting follows you into the night.\n\nHours at a desk leave hips, back and shoulders tight, and that tension can make it harder to settle at night. A short, gentle stretch signals wind-down and eases stiffness. Keep it slow and never force a position — the goal is release, not flexibility training.\n\nDo you stretch before bed?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #stretching #sleep #mobility #dailyhealthtips #wellness #eveningroutine\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080517.png",
+      "when": "2026-08-05T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080523-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Your heart beats about 100,000 times a day without a single break.\n\nThat's roughly 35 million beats a year, every year, without pause. The best things you can do for it are unglamorous and well proven: move regularly, don't smoke, watch salt and saturated fat, manage stress, and know your blood pressure numbers.\n\nWhen did you last check your blood pressure?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#hearthealth #healthfacts #cardiovascular #dailyhealthtips #wellness #preventivecare #sciencefacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080523.png",
+      "when": "2026-08-05T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080523-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Your heart beats about 100,000 times a day without a single break.\n\nThat's roughly 35 million beats a year, every year, without pause. The best things you can do for it are unglamorous and well proven: move regularly, don't smoke, watch salt and saturated fat, manage stress, and know your blood pressure numbers.\n\nWhen did you last check your blood pressure?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#hearthealth #healthfacts #cardiovascular #dailyhealthtips #wellness #preventivecare #sciencefacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080523.png",
+      "when": "2026-08-05T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080611-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Doing sit-ups will not burn belly fat specifically.\n\nYou can't choose where your body loses fat. Crunches strengthen the muscles underneath, but the fat above them only reduces through overall energy balance and activity. This is one of the most persistent fitness myths, and it costs people a lot of wasted effort. Whole-body movement plus diet does the work.\n\nWho was told sit-ups were the secret?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#weightloss #fitnessmyths #exercise #mythbusting #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080611.png",
+      "when": "2026-08-06T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080611-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Doing sit-ups will not burn belly fat specifically.\n\nYou can't choose where your body loses fat. Crunches strengthen the muscles underneath, but the fat above them only reduces through overall energy balance and activity. This is one of the most persistent fitness myths, and it costs people a lot of wasted effort. Whole-body movement plus diet does the work.\n\nWho was told sit-ups were the secret?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#weightloss #fitnessmyths #exercise #mythbusting #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080611.png",
+      "when": "2026-08-06T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080617-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "The front of the packet is marketing. The back is information.\n\n\"Natural\", \"light\" and \"multigrain\" are marketing terms with little regulated meaning. The ingredients list and nutrition panel tell you what's actually there. Two quick habits: ingredients are listed by weight, so the first few dominate — and check sugar and salt per 100g to compare products fairly.\n\nDo you check labels, or go by the front of the pack?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyeating #nutrition #foodlabels #healthyshopping #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080617.png",
+      "when": "2026-08-06T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080617-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "The front of the packet is marketing. The back is information.\n\n\"Natural\", \"light\" and \"multigrain\" are marketing terms with little regulated meaning. The ingredients list and nutrition panel tell you what's actually there. Two quick habits: ingredients are listed by weight, so the first few dominate — and check sugar and salt per 100g to compare products fairly.\n\nDo you check labels, or go by the front of the pack?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyeating #nutrition #foodlabels #healthyshopping #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080617.png",
+      "when": "2026-08-06T17:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080623-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "photo",
+      "message": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bonehealth #healthyaging #calcium #vitamind #dailyhealthtips #wellness #strengthtraining\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080623.png",
+      "when": "2026-08-06T23:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hdw1-2026080623-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "image",
+      "message": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bonehealth #healthyaging #calcium #vitamind #dailyhealthtips #wellness #strengthtraining\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
+      "image_url": "images/hd_w1/2026080623.png",
+      "when": "2026-08-06T23:00:00+00:00",
       "status": "pending"
     }
   ]
