@@ -4424,10 +4424,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🏏 শেষ ওভারের টেনশন অন্যরকম। সবচেয়ে টানটান ম্যাচ কোনটা মনে আছে? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r50.png"
+      "image_url": "images/deshal_rf/r50.png",
+      "result": {
+        "id": "1347721454144425",
+        "post_id": "1191612787659871_1347721464144424"
+      },
+      "posted_at": "2026-07-30T06:37:45+00:00"
     },
     {
       "id": "rr-51",
@@ -5671,22 +5676,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T06:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-1",
       "network": "facebook",
       "type": "photo",
       "message": "🍵 No tea, juice or supplement 'flushes toxins.' Your organs handle that. Save your money; drink water and eat vegetables.\n\n💬 Ever fallen for a detox product? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_1.png"
+      "image_url": "images/hd_rf/d6_1.png",
+      "result": {
+        "id": "1705799404768891",
+        "post_id": "152206688762695_1705799428102222"
+      },
+      "posted_at": "2026-07-30T06:37:57+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-30T06:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-6-1",
       "network": "instagram",
       "type": "image",
       "message": "🍵 No tea, juice or supplement 'flushes toxins.' Your organs handle that. Save your money; drink water and eat vegetables.\n\n💬 Ever fallen for a detox product? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_1.png"
+      "image_url": "images/hd_rf/d6_1.png",
+      "result": {
+        "media_id": "18098669387251884",
+        "permalink": "https://www.instagram.com/p/DbaEE3vETQA/"
+      },
+      "posted_at": "2026-07-30T06:38:23+00:00"
     },
     {
       "account": "health-daily",
