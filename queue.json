@@ -4459,10 +4459,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T10:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🎬 হলে সিনেমা দেখার সেই মজা এখনো মিস করেন? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r52.png"
+      "image_url": "images/deshal_rf/r52.png",
+      "result": {
+        "id": "1347914074125163",
+        "post_id": "1191612787659871_1347914090791828"
+      },
+      "posted_at": "2026-07-30T12:00:02+00:00"
     },
     {
       "id": "rr-53",
