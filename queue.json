@@ -5841,22 +5841,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-6",
       "network": "facebook",
       "type": "photo",
       "message": "🌱 One healthy choice today beats a perfect plan starting 'Monday.' Your health is built in ordinary days, not grand resets.\n\n💬 What small habit are you sticking to? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_6.png"
+      "image_url": "images/hd_rf/d6_6.png",
+      "result": {
+        "id": "1706474848034680",
+        "post_id": "152206688762695_1706474858034679"
+      },
+      "posted_at": "2026-07-30T22:15:45+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-30T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-6-6",
       "network": "instagram",
       "type": "image",
       "message": "🌱 One healthy choice today beats a perfect plan starting 'Monday.' Your health is built in ordinary days, not grand resets.\n\n💬 What small habit are you sticking to? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_6.png"
+      "image_url": "images/hd_rf/d6_6.png",
+      "result": {
+        "media_id": "18136950349603565",
+        "permalink": "https://www.instagram.com/p/DbbvY5YncBh/"
+      },
+      "posted_at": "2026-07-30T22:16:05+00:00"
     },
     {
       "id": "mr-00",
@@ -8635,8 +8645,14 @@
       "message": "🧠 Simple once you see it. Answer before the pin 👇",
       "image_url": "images/suspense_gap1/1.png",
       "when": "2026-07-30T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⌨️ ANSWER: A keyboard."
+      "status": "posted",
+      "first_comment": "⌨️ ANSWER: A keyboard.",
+      "result": {
+        "id": "1478203700997991",
+        "post_id": "2642505565823038_1478203714331323",
+        "first_comment_id": "1478203714331323_1335587292019780"
+      },
+      "posted_at": "2026-07-30T22:16:20+00:00"
     },
     {
       "id": "asu-gap1-2",
