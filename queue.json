@@ -4474,20 +4474,30 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 সাবটাইটেল না দেখলেও চলে না, দেখলেও দৃশ্য মিস। কে কে? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r53.png"
+      "image_url": "images/deshal_rf/r53.png",
+      "result": {
+        "id": "1348017007448203",
+        "post_id": "1191612787659871_1348017027448201"
+      },
+      "posted_at": "2026-07-30T14:26:54+00:00"
     },
     {
       "id": "rr-54",
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T14:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😄 এক দিনে চার ঋতু। আজ আপনার ওখানে আবহাওয়া কেমন? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r54.png"
+      "image_url": "images/deshal_rf/r54.png",
+      "result": {
+        "id": "1348017164114854",
+        "post_id": "1191612787659871_1348017180781519"
+      },
+      "posted_at": "2026-07-30T14:27:07+00:00"
     },
     {
       "id": "rr-55",
@@ -5747,22 +5757,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T12:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-3",
       "network": "facebook",
       "type": "photo",
       "message": "🍫 Milk chocolate is mostly sugar. 70%+ cocoa is where the benefits live. A square or two in the evening — genuinely fine.\n\n💬 Dark chocolate: love it or too bitter? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_3.png"
+      "image_url": "images/hd_rf/d6_3.png",
+      "result": {
+        "id": "1706135404735291",
+        "post_id": "152206688762695_1706135444735287"
+      },
+      "posted_at": "2026-07-30T14:27:20+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-30T12:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-6-3",
       "network": "instagram",
       "type": "image",
       "message": "🍫 Milk chocolate is mostly sugar. 70%+ cocoa is where the benefits live. A square or two in the evening — genuinely fine.\n\n💬 Dark chocolate: love it or too bitter? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_3.png"
+      "image_url": "images/hd_rf/d6_3.png",
+      "result": {
+        "media_id": "18094641794573787",
+        "permalink": "https://www.instagram.com/p/Dba5yVyDuqT/"
+      },
+      "posted_at": "2026-07-30T14:27:42+00:00"
     },
     {
       "account": "health-daily",
@@ -6110,7 +6130,12 @@
       "image_url": "images/movie_rf/m18.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-30T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199338366787954",
+        "post_id": "628257647029140_122199338384787954"
+      },
+      "posted_at": "2026-07-30T14:27:55+00:00"
     },
     {
       "id": "mr-19",
