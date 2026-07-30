@@ -3640,7 +3640,12 @@
       "message": "🧠 লক্ষ্য করেছেন — নতুন AI (GPT-5, Claude Opus, Gemini) আগের চেয়ে অনেক ভালো উত্তর দেয়?\n\nকারণ 2026-এ Reasoning এখন Default। আগে AI সাথে সাথে উত্তর দিত। এখন এরা প্রশ্নটা নিয়ে আগে \"চিন্তা\" করে, ধাপে ধাপে ভাবে, তারপর উত্তর দেয় — অনেকটা মানুষের মতো।\n\nএর মানে জটিল কাজে (অঙ্ক, Coding, Analysis, Planning) এদের ভুল অনেক কমে গেছে।\n\n💬 আপনি কোন AI বেশি ব্যবহার করেন? ChatGPT / Gemini / Claude? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p16.png",
       "when": "2026-07-30T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1355994506681067",
+        "post_id": "102695371717364_1355994543347730"
+      },
+      "posted_at": "2026-07-30T09:36:56+00:00"
     },
     {
       "id": "mb-17",
@@ -4439,10 +4444,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T08:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😂 সিদ্ধান্তহীনতা একটা রোগ। কে কে relate? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r51.png"
+      "image_url": "images/deshal_rf/r51.png",
+      "result": {
+        "id": "1347823564134214",
+        "post_id": "1191612787659871_1347823590800878"
+      },
+      "posted_at": "2026-07-30T09:37:10+00:00"
     },
     {
       "id": "rr-52",
@@ -5706,22 +5716,28 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T09:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-2",
       "network": "facebook",
       "type": "photo",
       "message": "😂 Not a replacement for exercise — but a genuinely good reason to call the friend who makes you laugh. Your body thanks you.\n\n💬 Tag the person who makes you laugh most 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_2.png"
+      "image_url": "images/hd_rf/d6_2.png",
+      "result": {
+        "id": "1705909301424568",
+        "post_id": "152206688762695_1705909318091233"
+      },
+      "posted_at": "2026-07-30T09:37:23+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-30T09:05:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "id": "hrig-6-2",
       "network": "instagram",
       "type": "image",
       "message": "😂 Not a replacement for exercise — but a genuinely good reason to call the friend who makes you laugh. Your body thanks you.\n\n💬 Tag the person who makes you laugh most 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_2.png"
+      "image_url": "images/hd_rf/d6_2.png",
+      "error": "Graph API 400: Media ID is not available (type=OAuthException, code=9007, subcode=2207027)"
     },
     {
       "account": "health-daily",
