@@ -4409,10 +4409,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T04:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😩 Live খেলায় buffering-এর চেয়ে বড় কষ্ট নেই। কে কে ভুক্তভোগী? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r49.png"
+      "image_url": "images/deshal_rf/r49.png",
+      "result": {
+        "id": "1347696840813553",
+        "post_id": "1191612787659871_1347696874146883"
+      },
+      "posted_at": "2026-07-30T05:51:56+00:00"
     },
     {
       "id": "rr-50",
