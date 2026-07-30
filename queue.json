@@ -5828,11 +5828,15 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T18:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-5",
       "network": "facebook",
       "type": "text",
-      "message": "Last check-in of the week 👇\n\nOne word: how do you WANT to feel next week?\n\nWe'll start: \"Lighter.\" Your turn — then let's make it happen.\n\n💚 Follow Health Daily for daily evidence-based health tips."
+      "message": "Last check-in of the week 👇\n\nOne word: how do you WANT to feel next week?\n\nWe'll start: \"Lighter.\" Your turn — then let's make it happen.\n\n💚 Follow Health Daily for daily evidence-based health tips.",
+      "result": {
+        "id": "152206688762695_1706342141381284"
+      },
+      "posted_at": "2026-07-30T18:40:10+00:00"
     },
     {
       "account": "health-daily",
