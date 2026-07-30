@@ -3655,8 +3655,14 @@
       "message": "📅 রবিবার রাতে 10 মিনিট Plan = পুরো সপ্তাহ ক্লিয়ার মাথায় কাজ।\n\nকিন্তু Plan করাটাই ঝামেলা লাগে, তাই না?\n\nএই Prompt টা আপনার Goal, সময় আর Energy অনুযায়ী পুরো সপ্তাহের Realistic Plan বানিয়ে দেয় — বিশ্রামের সময়সহ। Robot-এর মতো না, মানুষের মতো।\n\n🎁 Prompt প্রথম কমেন্টে।\n\n💬 আপনি Plan করে চলেন, নাকি যা আসে তাই সামলান? 😄👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p17.png",
       "when": "2026-07-30T15:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Weekly Planner Prompt (কপি করুন):\n\n\"You are my productivity coach. My main goals this week: [3টা লক্ষ্য]. My fixed commitments: [জব/ক্লাস/পরিবার]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign goals to specific days and time blocks, 2) keep hard tasks in peak energy hours, 3) add rest/buffer time, 4) one small daily habit. Format as a day-by-day table.\"\n\nপ্ল্যানটা বানিয়ে Screenshot সেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Weekly Planner Prompt (কপি করুন):\n\n\"You are my productivity coach. My main goals this week: [3টা লক্ষ্য]. My fixed commitments: [জব/ক্লাস/পরিবার]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign goals to specific days and time blocks, 2) keep hard tasks in peak energy hours, 3) add rest/buffer time, 4) one small daily habit. Format as a day-by-day table.\"\n\nপ্ল্যানটা বানিয়ে Screenshot সেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1356279356652582",
+        "post_id": "102695371717364_1356279399985911",
+        "first_comment_id": "1356279399985911_1808539270565389"
+      },
+      "posted_at": "2026-07-30T16:43:52+00:00"
     },
     {
       "id": "mb-18",
@@ -4504,10 +4510,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T16:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "😴 প্রতি রাতের আফসোস, প্রতি রাতেই ভুলে যাই 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r55.png"
+      "image_url": "images/deshal_rf/r55.png",
+      "result": {
+        "id": "1348116200771617",
+        "post_id": "1191612787659871_1348116217438282"
+      },
+      "posted_at": "2026-07-30T16:44:05+00:00"
     },
     {
       "id": "rr-56",
@@ -5787,22 +5798,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T15:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-4",
       "network": "facebook",
       "type": "photo",
       "message": "💡 Bright ceiling lights tell your brain it's still daytime. Switch to lamps after 9 PM and you'll fall asleep faster.\n\n💬 What time do you usually sleep? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_4.png"
+      "image_url": "images/hd_rf/d6_4.png",
+      "result": {
+        "id": "1706249988057166",
+        "post_id": "152206688762695_1706250004723831"
+      },
+      "posted_at": "2026-07-30T16:44:20+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-30T15:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-6-4",
       "network": "instagram",
       "type": "image",
       "message": "💡 Bright ceiling lights tell your brain it's still daytime. Switch to lamps after 9 PM and you'll fall asleep faster.\n\n💬 What time do you usually sleep? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_4.png"
+      "image_url": "images/hd_rf/d6_4.png",
+      "result": {
+        "media_id": "18221147980336250",
+        "permalink": "https://www.instagram.com/p/DbbJdx3Go5z/"
+      },
+      "posted_at": "2026-07-30T16:44:44+00:00"
     },
     {
       "account": "health-daily",
