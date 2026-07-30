@@ -30,12 +30,13 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-from image_deshal import deshal_card
+from image_deshal import deshal_card, deshal_reel_scene
 
 _HERE = Path(__file__).parent
 
 FPS = 25
 W, H = 1080, 1350          # 4:5, matches the existing card renderer
+RW, RH = 1080, 1920        # true 9:16, for build_reel_video() below
 
 TAIL_PAD = 0.55            # seconds of silence after narration, so cuts don't clip
 FADE = 0.35                # per-scene fade in/out
@@ -166,6 +167,83 @@ def _scene_clip(png: Path, mp3: Path, out_mp4: Path) -> float:
         check=True, capture_output=True, timeout=600,
     )
     return dur
+
+
+def _scene_clip_reel(png: Path, mp3: Path, out_mp4: Path) -> float:
+    """9:16 counterpart to _scene_clip — same Ken Burns treatment, RW/RH canvas."""
+    dur = _duration(mp3) + TAIL_PAD
+    frames = max(int(dur * FPS), 1)
+    vf = (
+        f"scale={RW*2}:{RH*2},"
+        f"zoompan=z='min(1+0.08*on/{frames},1.08)':d={frames}"
+        f":x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={RW}x{RH}:fps={FPS},"
+        f"fade=t=in:st=0:d={FADE},fade=t=out:st={max(dur-FADE,0):.3f}:d={FADE},"
+        f"format=yuv420p"
+    )
+    subprocess.run(
+        ["ffmpeg", "-y", "-loop", "1", "-i", str(png), "-i", str(mp3),
+         "-filter_complex", f"[0:v]{vf}[v];[1:a]apad=pad_dur={TAIL_PAD}[a]",
+         "-map", "[v]", "-map", "[a]",
+         "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-r", str(FPS),
+         "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-ac", "2",
+         "-t", f"{dur:.3f}", str(out_mp4)],
+        check=True, capture_output=True, timeout=600,
+    )
+    return dur
+
+
+def build_reel_video(scenes: list[dict], out_path: str, music: str | None = None,
+                     keep_work: bool = False) -> str:
+    """True 9:16 counterpart to build_video() — same TTS/voice pipeline, proper
+    Reels canvas via deshal_reel_scene() instead of the 4:5 feed card."""
+    out = Path(out_path)
+    if not out.is_absolute():
+        out = _HERE / out
+    out.parent.mkdir(parents=True, exist_ok=True)
+
+    work = Path(tempfile.mkdtemp(prefix="deshal_reel_"))
+    clips, total = [], 0.0
+    try:
+        for i, sc in enumerate(scenes, 1):
+            png = work / f"s{i}.png"
+            mp3 = work / f"s{i}.mp3"
+            mp4 = work / f"s{i}.mp4"
+            deshal_reel_scene(sc["text"], str(png),
+                              theme=sc.get("theme", "sunset"),
+                              emoji=sc.get("emoji", ""))
+            _tts(sc.get("narration") or _narration(sc["text"]), mp3)
+            d = _scene_clip_reel(png, mp3, mp4)
+            total += d
+            clips.append(mp4)
+            print(f"  scene {i}/{len(scenes)}  {d:5.2f}s  {sc['text'].splitlines()[0][:40]}")
+
+        listing = work / "concat.txt"
+        listing.write_text(
+            "".join(f"file '{c.as_posix()}'\n" for c in clips), encoding="utf-8")
+
+        if music:
+            subprocess.run(
+                ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(listing),
+                 "-stream_loop", "-1", "-i", str(music),
+                 "-filter_complex",
+                 f"[1:a]volume=0.12,afade=t=out:st={max(total-2,0):.2f}:d=2[bed];"
+                 f"[0:a][bed]amix=inputs=2:duration=first:dropout_transition=0[a]",
+                 "-map", "0:v", "-map", "[a]",
+                 "-c:v", "copy", "-c:a", "aac", "-b:a", "160k", str(out)],
+                check=True, capture_output=True, timeout=600)
+        else:
+            subprocess.run(
+                ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(listing),
+                 "-c", "copy", str(out)],
+                check=True, capture_output=True, timeout=600)
+    finally:
+        if not keep_work:
+            for p in work.glob("*"):
+                p.unlink(missing_ok=True)
+            work.rmdir()
+
+    print(f"\n  → {out}  ({total:.1f}s, 9:16)")
+    return str(out)
 
 
 def build_video(scenes: list[dict], out_path: str, music: str | None = None,

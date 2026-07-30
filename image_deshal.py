@@ -81,6 +81,47 @@ def deshal_card(text, out_path, theme="sunset", emoji="", badge_bn="রেডি
     return _render_html(html, out_path)
 
 
+RW, RH = 1080, 1920  # true 9:16 canvas for Reels
+
+
+def deshal_reel_scene(text, out_path, theme="sunset", emoji="", badge_bn="রেডিও দেশাল"):
+    """Same visual DNA as deshal_card (vibrant gradient, bold Baloo Da 2 text,
+    brand badge) but sized for actual 9:16 Reels rather than the 4:5 feed
+    canvas. Text sits inside a safe zone clear of Facebook's reel UI overlays
+    (top ~250px = header, bottom ~430px = caption/buttons/CTA)."""
+    bg, hl = THEMES[theme]
+    hero = f'<div class="hero">{emoji}</div>' if emoji else ""
+    html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_BN}
+<style>
+  * {{ margin:0; padding:0; box-sizing:border-box; }}
+  body {{ width:{RW}px; height:{RH}px; overflow:hidden; position:relative;
+       background:{bg}; font-family:'Hind Siliguri',sans-serif; }}
+  .blob {{ position:absolute; border-radius:50%; background:rgba(255,255,255,.12); }}
+  .b1 {{ width:520px;height:520px; top:-160px; right:-160px; }}
+  .b2 {{ width:380px;height:380px; bottom:420px; left:-120px; }}
+  .badge {{ position:absolute; top:80px; left:0; right:0; text-align:center;
+       font-family:'Baloo Da 2',cursive; font-size:38px; font-weight:800;
+       color:#fff; letter-spacing:1px; text-shadow:0 3px 12px rgba(0,0,0,.25); }}
+  .badge::before {{ content:"📻 "; }}
+  .wrap {{ position:absolute; left:80px; right:80px; top:250px; bottom:430px;
+       display:flex; flex-direction:column; justify-content:center;
+       align-items:center; text-align:center; gap:26px; }}
+  .hero {{ font-size:150px; filter:drop-shadow(0 12px 26px rgba(0,0,0,.28)); }}
+  .ln {{ font-family:'Baloo Da 2',cursive; font-weight:700; font-size:76px;
+       line-height:1.32; color:#fff; text-shadow:0 3px 14px rgba(0,0,0,.22); }}
+  .hl {{ font-weight:800; }}
+  .gap {{ height:24px; }}
+  .foot {{ position:absolute; bottom:300px; left:0; right:0; text-align:center;
+       font-size:32px; font-weight:600; color:rgba(255,255,255,.85); }}
+</style></head><body>
+  <div class="blob b1"></div><div class="blob b2"></div>
+  <div class="badge">{escape(badge_bn)}</div>
+  <div class="wrap">{hero}<div class="txt">{_bn_lines(text, hl)}</div></div>
+  <div class="foot">👉 ফলো করুন রেডিও দেশাল</div>
+</body></html>"""
+    return _render_html(html, out_path, size=(RW, RH))
+
+
 def deshal_versus(top_label, top_text, bottom_label, bottom_text, out_path,
                   emoji_top="😎", emoji_bottom="😭"):
     html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_BN}
