@@ -180,6 +180,62 @@ def deshal_headline(headline, out_path, dateline="রেডিও দেশা�
     return _render_html(html, out_path)
 
 
+def deshal_story(title, story_text, out_path, kicker="আজকের গল্প", emoji="💛"):
+    """Long-form narrative/story card in Radio Deshal's OWN brand (teal + yellow).
+    Unlike deshal_card (big punchy one-liners), this fits an actual paragraph —
+    for the occasional emotional/relatable 'গল্প' post, not the meme one-liners."""
+    B = BRAND
+    html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_BN}
+<style>
+  * {{ margin:0; padding:0; box-sizing:border-box; }}
+  body {{ width:{W}px; height:{H}px; overflow:hidden; position:relative;
+       background:linear-gradient(165deg,{B['teal']} 0%,{B['teal2']} 100%);
+       font-family:'Hind Siliguri',sans-serif; }}
+  .grain {{ position:absolute; inset:0; opacity:.05;
+       background-image:radial-gradient(#fff 1px, transparent 1px);
+       background-size:22px 22px; }}
+  .bar {{ position:absolute; top:0; left:0; right:0; height:110px;
+       background:{B['yellow']}; display:flex; align-items:center;
+       padding:0 52px; gap:18px; }}
+  .logo {{ width:62px; height:62px; border-radius:50%; background:{B['teal']};
+       display:flex; align-items:center; justify-content:center; font-size:32px; }}
+  .brandname {{ font-family:'Baloo Da 2',cursive; font-weight:800; font-size:40px;
+       color:{B['teal']}; line-height:1; }}
+  .kick {{ position:absolute; top:150px; left:52px; background:{B['yellow']};
+       color:{B['ink']}; font-family:'Baloo Da 2',cursive; font-weight:800;
+       font-size:28px; padding:9px 22px; border-radius:8px; letter-spacing:.5px; }}
+  .wrap {{ position:absolute; left:66px; right:66px; top:230px; bottom:130px;
+       display:flex; flex-direction:column; gap:26px; overflow:hidden; }}
+  .emoji {{ font-size:64px; text-align:center; }}
+  .title {{ font-family:'Baloo Da 2',cursive; font-weight:800; font-size:52px;
+       line-height:1.28; color:{B['yellow']}; text-align:center; }}
+  .body {{ font-size:34px; line-height:1.62; color:{B['cream']}; font-weight:500; }}
+  .body p {{ margin-bottom:22px; }}
+  .body .hl {{ color:{B['yellow']}; font-weight:700; }}
+  .foot {{ position:absolute; bottom:0; left:0; right:0; height:90px;
+       background:{B['yellow']}; display:flex; align-items:center;
+       justify-content:center; font-family:'Baloo Da 2',cursive; font-weight:800;
+       font-size:32px; color:{B['ink']}; }}
+</style></head><body>
+  <div class="grain"></div>
+  <div class="bar"><div class="logo">📻</div>
+    <div class="brandname">রেডিও দেশাল</div></div>
+  <div class="kick">{escape(kicker)}</div>
+  <div class="wrap">
+    <div class="emoji">{emoji}</div>
+    <div class="title">{escape(title)}</div>
+    <div class="body">{"".join(f'<p>{_bn_hl_inline(p, B["yellow"])}</p>' for p in story_text.strip().split(chr(10)+chr(10)))}</div>
+  </div>
+  <div class="foot">👉 রেডিও দেশাল</div>
+</body></html>"""
+    return _render_html(html, out_path)
+
+
+def _bn_hl_inline(text, color):
+    import re
+    return re.sub(r"\*(.+?)\*", lambda m: f'<span class="hl">{m.group(1)}</span>', escape(text.strip()))
+
+
 def _bn_hl(text, color):
     import re
     out = []
