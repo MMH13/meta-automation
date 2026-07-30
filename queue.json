@@ -8581,6 +8581,46 @@
       "image_url": "images/deshal_fresh1/7.png",
       "when": "2026-07-31T19:00:00+00:00",
       "status": "pending"
+    },
+    {
+      "id": "ard-joke1-1",
+      "account": "radio-deshal",
+      "network": "facebook",
+      "type": "photo",
+      "message": "😂 তিন বছরের প্রতিবেশী, তাও সকাল ৭টায় অচেনা! কে কে এই লেভেলের \"রাত জাগা মানুষ\"? 👇\n\n📻 রেডিও দেশাল",
+      "image_url": "images/deshal_joke1/1.png",
+      "when": "2026-08-08T03:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "ard-joke1-2",
+      "account": "radio-deshal",
+      "network": "facebook",
+      "type": "photo",
+      "message": "😄 এই প্রশ্নের কোনো উত্তর নাই, শুধু ক্ষুধা বাড়ে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
+      "image_url": "images/deshal_joke1/2.png",
+      "when": "2026-08-08T08:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "ard-joke1-3",
+      "account": "radio-deshal",
+      "network": "facebook",
+      "type": "photo",
+      "message": "😂 বিয়ে বাড়িতে বন্ধু আনার আগে এক্সপ্লানেশন রেডি রাখা লাগে। কে কে এই পরিস্থিতিতে পড়েছেন? 👇\n\n📻 রেডিও দেশাল",
+      "image_url": "images/deshal_joke1/3.png",
+      "when": "2026-08-08T12:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "ard-joke1-4",
+      "account": "radio-deshal",
+      "network": "facebook",
+      "type": "photo",
+      "message": "😅 লিস্ট নিয়ে বাজারে যাওয়া আর লিস্ট মনে রাখা— দুইটা আলাদা স্কিল। কে কে ভুক্তভোগী? 👇\n\n📻 রেডিও দেশাল",
+      "image_url": "images/deshal_joke1/4.png",
+      "when": "2026-08-08T16:00:00+00:00",
+      "status": "pending"
     }
   ]
 }

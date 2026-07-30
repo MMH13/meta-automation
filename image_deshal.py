@@ -180,6 +180,53 @@ def deshal_headline(headline, out_path, dateline="রেডিও দেশা�
     return _render_html(html, out_path)
 
 
+def deshal_joke(hook, body_lines, punch, out_path, punch_emoji="🙂"):
+    """Dialogue setup->twist joke card. Format learned from a reference page's
+    posts (2026-07-30): highlighted hook line, plain dialogue body, a bolded
+    twist/punchline at the end. Own brand (cream + teal + yellow), not a copy
+    of the reference's visual look (aged-paper background, green highlight,
+    FB-icon footer) — only the STRUCTURE is reused.
+
+    hook: one setup sentence (goes in the highlighted bar)
+    body_lines: list of dialogue/narration lines (plain paragraphs)
+    punch: the final twist/punchline (gets its own highlighted emphasis)
+    """
+    B = BRAND
+    body_html = "".join(f'<p>{escape(ln)}</p>' for ln in body_lines)
+    html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_BN}
+<style>
+  * {{ margin:0; padding:0; box-sizing:border-box; }}
+  body {{ width:{W}px; height:{H}px; overflow:hidden; position:relative;
+       background:{B['cream']}; font-family:'Hind Siliguri',sans-serif;
+       color:{B['ink']}; }}
+  .wrap {{ position:absolute; left:64px; right:64px; top:96px; bottom:150px;
+       display:flex; flex-direction:column; justify-content:center; gap:38px; }}
+  .hook {{ display:inline; background:{B['yellow']}; font-weight:700;
+       font-size:38px; line-height:1.55; box-decoration-break:clone;
+       -webkit-box-decoration-break:clone; padding:2px 6px; }}
+  .body {{ font-size:34px; line-height:1.68; font-weight:400; }}
+  .body p {{ margin-bottom:20px; }}
+  .punch {{ display:inline; background:{B['yellow']}; font-weight:800;
+       font-size:38px; line-height:1.55; box-decoration-break:clone;
+       -webkit-box-decoration-break:clone; padding:2px 6px; }}
+  .foot {{ position:absolute; bottom:0; left:0; right:0; height:96px;
+       background:{B['teal']}; display:flex; align-items:center;
+       justify-content:center; gap:14px; }}
+  .foot .logo {{ width:52px; height:52px; border-radius:50%; background:{B['yellow']};
+       display:flex; align-items:center; justify-content:center; font-size:28px; }}
+  .foot .name {{ font-family:'Baloo Da 2',cursive; font-weight:800; font-size:34px;
+       color:{B['yellow']}; }}
+</style></head><body>
+  <div class="wrap">
+    <div><span class="hook">{escape(hook)}</span></div>
+    <div class="body">{body_html}</div>
+    <div><span class="punch">{escape(punch)} {punch_emoji}</span></div>
+  </div>
+  <div class="foot"><div class="logo">📻</div><div class="name">রেডিও দেশাল</div></div>
+</body></html>"""
+    return _render_html(html, out_path)
+
+
 def deshal_story(title, story_text, out_path, kicker="আজকের গল্প", emoji="💛"):
     """Long-form narrative/story card in Radio Deshal's OWN brand (teal + yellow).
     Unlike deshal_card (big punchy one-liners), this fits an actual paragraph —
