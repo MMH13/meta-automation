@@ -6171,7 +6171,12 @@
       "image_url": "images/movie_rf/m19.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-30T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199369110787954",
+        "post_id": "628257647029140_122199369128787954"
+      },
+      "posted_at": "2026-07-30T20:22:49+00:00"
     },
     {
       "id": "mr-20",
