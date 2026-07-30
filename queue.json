@@ -8621,6 +8621,89 @@
       "image_url": "images/deshal_joke1/4.png",
       "when": "2026-08-08T16:00:00+00:00",
       "status": "pending"
+    },
+    {
+      "id": "asu-gap1-1",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🧠 Simple once you see it. Answer before the pin 👇",
+      "image_url": "images/suspense_gap1/1.png",
+      "when": "2026-07-30T21:00:00+00:00",
+      "status": "pending",
+      "first_comment": "⌨️ ANSWER: A keyboard."
+    },
+    {
+      "id": "asu-gap1-2",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🕵️ Nothing else on the scene. Solve it 👇",
+      "image_url": "images/suspense_gap1/2.png",
+      "when": "2026-07-30T23:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🏜️ ANSWER: He jumped from a hot air balloon after it caught fire — the match was to see how much fuel he had left. 🎈"
+    },
+    {
+      "id": "asu-gap1-3",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "text",
+      "message": "Two-line horror 👇\n\nMy smart speaker just said good morning to me.\n\nI never set up a wake word, and I don't own a smart speaker.\n\n😳 React 😱 if that got you.",
+      "when": "2026-07-31T10:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "asu-gap1-4",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "photo",
+      "message": "👀 Quick — which row? 👇",
+      "image_url": "images/suspense_gap1/4.png",
+      "when": "2026-07-31T13:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🎃 ANSWER: Row 2."
+    },
+    {
+      "id": "asu-gap1-5",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "photo",
+      "message": "📱 Which line got you? React 😱 👇",
+      "image_url": "images/suspense_gap1/5.png",
+      "when": "2026-07-31T16:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "asu-gap1-6",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🧠 Comment your answer before the pin 👇",
+      "image_url": "images/suspense_gap1/6.png",
+      "when": "2026-07-31T19:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🕳️ ANSWER: A hole."
+    },
+    {
+      "id": "asu-gap1-7",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "photo",
+      "message": "🕵️ One sentence flips the whole race. Solve it 👇",
+      "image_url": "images/suspense_gap1/7.png",
+      "when": "2026-07-31T21:00:00+00:00",
+      "status": "pending",
+      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother then races the OTHER horse as fast as possible to make his own horse (which determines the loser) finish last."
+    },
+    {
+      "id": "asu-gap1-8",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "text",
+      "message": "Two-line horror 👇\n\nI keep hearing my name called from the kitchen when I'm the only one home.\n\nTonight it said please, for the first time.\n\n😳 Tag someone who wouldn't check.",
+      "when": "2026-07-31T23:00:00+00:00",
+      "status": "pending"
     }
   ]
 }

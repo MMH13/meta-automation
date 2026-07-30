@@ -16,12 +16,12 @@ VOICES = {
         "voice_id": "am_onyx",
         "tone": "deep, cinematic, measured — film-critic authority",
     },
-    # Low and intimate; the payoff lands on restraint, not volume.
+    # User-picked after a 3-way audition (Fenrir/Lewis/Michael), 2026-07-31.
     "suspense-ahead": {
-        "profile": "SUS-Narrator-Onyx",
+        "profile": "SUS-Narrator-Lewis",
         "engine": "kokoro",
-        "voice_id": "am_onyx",
-        "tone": "hushed, unsettling, slow — never shouty",
+        "voice_id": "bm_lewis",
+        "tone": "deep, ominous, deliberate horror narrator — distinct from Onyx (movie page)",
     },
     # Warm and calm; health advice has to sound trustworthy, not salesy.
     "health-daily": {
