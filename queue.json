@@ -203,7 +203,12 @@
       "message": "🏭 Not all \"processed\" food is bad — cheese, yogurt, frozen vegetables are processed and fine.\n\nThe problem is ULTRA-processed: industrial products engineered to be irresistible. They're now linked to obesity, type 2 diabetes, heart disease, and even depression.\n\n🔍 The 5-second test — check the ingredient list:\n\n1️⃣ More than 5 ingredients? Suspicious.\n2️⃣ Ingredients you can't pronounce or wouldn't find in a kitchen (emulsifiers, flavor enhancers, colorings)? Ultra-processed.\n3️⃣ Would your grandmother recognize this as food? No? There's your answer.\n\nCommon offenders: instant noodles, chips, packaged cakes/biscuits, soft drinks, \"fruit\" drinks, processed meat, most breakfast cereals.\n\n💚 The realistic goal — not perfection:\n✅ Cook simple meals when you can\n✅ Swap the WORST offenders first (usually drinks & snacks)\n✅ 80/20 rule — mostly real food, occasional treats without guilt\n\n💬 Which ultra-processed food would be hardest for YOU to give up? Honesty time 👇\n\n📌 Save this post for your next grocery trip.\n\n#HealthDaily #UltraProcessedFood #HealthyEating #Nutrition #RealFood #HealthTips #Wellness\n\nFollow @health_daily13 💚",
       "image_url": "images/hd_jul17/day_14.png",
       "when": "2026-07-30T09:10:00+06:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18184624966399691",
+        "permalink": "https://www.instagram.com/p/DbZtNS4jg_s/"
+      },
+      "posted_at": "2026-07-30T03:18:32+00:00"
     },
     {
       "id": "sa2-00",
@@ -4389,10 +4394,15 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-30T02:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "photo",
       "message": "🏏 হারলে আমরা সবাই কোচ 😄 কে কে relate? 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
-      "image_url": "images/deshal_rf/r48.png"
+      "image_url": "images/deshal_rf/r48.png",
+      "result": {
+        "id": "1347613727488531",
+        "post_id": "1191612787659871_1347613780821859"
+      },
+      "posted_at": "2026-07-30T03:18:46+00:00"
     },
     {
       "id": "rr-49",
@@ -5626,22 +5636,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T00:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-0",
       "network": "facebook",
       "type": "photo",
       "message": "🙆 Your body's been still for 8 hours. A little movement wakes up your spine and shoulders before you hunch over a screen.\n\n💬 Do you stretch in the morning? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_0.png"
+      "image_url": "images/hd_rf/d6_0.png",
+      "result": {
+        "id": "1705683581447140",
+        "post_id": "152206688762695_1705683601447138"
+      },
+      "posted_at": "2026-07-30T03:19:01+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-30T00:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-6-0",
       "network": "instagram",
       "type": "image",
       "message": "🙆 Your body's been still for 8 hours. A little movement wakes up your spine and shoulders before you hunch over a screen.\n\n💬 Do you stretch in the morning? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_0.png"
+      "image_url": "images/hd_rf/d6_0.png",
+      "result": {
+        "media_id": "17913086829244950",
+        "permalink": "https://www.instagram.com/p/DbZtTZ_DksG/"
+      },
+      "posted_at": "2026-07-30T03:19:25+00:00"
     },
     {
       "account": "health-daily",
