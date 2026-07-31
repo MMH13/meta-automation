@@ -6197,7 +6197,12 @@
       "image_url": "images/movie_rf/m20.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-30T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199398912787954",
+        "post_id": "628257647029140_122199398930787954"
+      },
+      "posted_at": "2026-07-31T00:12:34+00:00"
     },
     {
       "id": "ahd-d7-1-fb",
@@ -8662,8 +8667,14 @@
       "message": "🕵️ Nothing else on the scene. Solve it 👇",
       "image_url": "images/suspense_gap1/2.png",
       "when": "2026-07-30T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🏜️ ANSWER: He jumped from a hot air balloon after it caught fire — the match was to see how much fuel he had left. 🎈"
+      "status": "posted",
+      "first_comment": "🏜️ ANSWER: He jumped from a hot air balloon after it caught fire — the match was to see how much fuel he had left. 🎈",
+      "result": {
+        "id": "1478270784324616",
+        "post_id": "2642505565823038_1478270807657947",
+        "first_comment_id": "1478270807657947_2327425847998018"
+      },
+      "posted_at": "2026-07-31T00:12:51+00:00"
     },
     {
       "id": "asu-gap1-3",
