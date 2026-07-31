@@ -8579,7 +8579,12 @@
       "message": "😅 যদি হঠাৎ নতুন কিছু গজিয়ে যায়! এই অভ্যাস কার কার আছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/3.png",
       "when": "2026-07-31T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1348727927377111",
+        "post_id": "1191612787659871_1348727940710443"
+      },
+      "posted_at": "2026-07-31T10:49:58+00:00"
     },
     {
       "id": "ard-fresh1-4",
@@ -8702,7 +8707,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy smart speaker just said good morning to me.\n\nI never set up a wake word, and I don't own a smart speaker.\n\n😳 React 😱 if that got you.",
       "when": "2026-07-31T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1478648504286844"
+      },
+      "posted_at": "2026-07-31T10:50:09+00:00"
     },
     {
       "id": "asu-gap1-4",
