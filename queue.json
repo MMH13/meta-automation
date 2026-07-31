@@ -8830,8 +8830,14 @@
       "message": "🕵️ One sentence flips the whole race. Solve it 👇",
       "image_url": "images/suspense_gap1/7.png",
       "when": "2026-07-31T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother then races the OTHER horse as fast as possible to make his own horse (which determines the loser) finish last."
+      "status": "posted",
+      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother then races the OTHER horse as fast as possible to make his own horse (which determines the loser) finish last.",
+      "result": {
+        "id": "1479085150909846",
+        "post_id": "2642505565823038_1479085174243177",
+        "first_comment_id": "1479085174243177_1278024467591387"
+      },
+      "posted_at": "2026-07-31T21:17:22+00:00"
     },
     {
       "id": "asu-gap1-8",
