@@ -7734,7 +7734,12 @@
       "message": "🔊 It's a stock sound effect recorded in 1951, and sound designers have been sneaking it into films as an in-joke for decades.\n\nStar Wars. Indiana Jones. Lord of the Rings. Once someone points it out, you start catching it everywhere — and it slightly ruins dramatic death scenes forever.\n\nSorry in advance.\n\n👇 Have you ever noticed it?\n\n🔁 Share this and ruin it for a friend.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0731_19.png",
       "when": "2026-07-31T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199502232787954",
+        "post_id": "628257647029140_122199502250787954"
+      },
+      "posted_at": "2026-07-31T19:47:33+00:00"
     },
     {
       "id": "tmrs-0731-23",
@@ -8674,7 +8679,12 @@
       "message": "😅 নতুন জামা আর দাগ যেন একসাথেই জন্মায়। কার সাথে আজ বা কালই হয়েছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/7.png",
       "when": "2026-07-31T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349078984008672",
+        "post_id": "1191612787659871_1349079037342000"
+      },
+      "posted_at": "2026-07-31T19:47:54+00:00"
     },
     {
       "id": "ard-joke1-1",
@@ -8803,8 +8813,14 @@
       "message": "🧠 Comment your answer before the pin 👇",
       "image_url": "images/suspense_gap1/6.png",
       "when": "2026-07-31T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🕳️ ANSWER: A hole."
+      "status": "posted",
+      "first_comment": "🕳️ ANSWER: A hole.",
+      "result": {
+        "id": "1479030404248654",
+        "post_id": "2642505565823038_1479030424248652",
+        "first_comment_id": "1479030424248652_4521989368083131"
+      },
+      "posted_at": "2026-07-31T19:48:17+00:00"
     },
     {
       "id": "asu-gap1-7",
