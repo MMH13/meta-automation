@@ -6357,8 +6357,14 @@
       "message": "📧 AI-এর লেখা ইমেইল রোবটের মতো শোনায় কেন? কারণ আমরা শুধু বলি \"একটা ইমেইল লেখো\"।\n\nসমাধান — এই ৩টা জিনিস দিন:\n→ টোন: বন্ধুত্বপূর্ণ / প্রফেশনাল / সংক্ষিপ্ত\n→ কে পড়বে: বস / ক্লায়েন্ট / সহকর্মী\n→ শেষে কী চান: রিপ্লাই / মিটিং / পেমেন্ট\n\nউদাহরণ: \"ক্লায়েন্টকে বিনয়ীভাবে পেমেন্ট রিমাইন্ডার, সংক্ষিপ্ত, শেষে পরিশোধের তারিখ চাই।\" — ফল রাতদিন তফাত।\n\n🎁 রেডি Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি AI দিয়ে কী কী লেখান? 👇",
       "image_url": "images/aug_mamun/d1_1.png",
       "when": "2026-08-01T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Email Prompt (কপি করুন):\n\n\"You are my email assistant. Write a [tone: friendly/professional] email in Bengali to [recipient]. Context: [আপনার পরিস্থিতি]. Goal of the email: [reply/meeting/payment]. Keep it under 120 words, polite, with a clear call-to-action at the end.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Email Prompt (কপি করুন):\n\n\"You are my email assistant. Write a [tone: friendly/professional] email in Bengali to [recipient]. Context: [আপনার পরিস্থিতি]. Goal of the email: [reply/meeting/payment]. Keep it under 120 words, polite, with a clear call-to-action at the end.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1357690386511479",
+        "post_id": "102695371717364_1357690506511467",
+        "first_comment_id": "1357690506511467_1764067625568277"
+      },
+      "posted_at": "2026-08-01T09:14:37+00:00"
     },
     {
       "id": "amn-d1-2",
@@ -6548,7 +6554,12 @@
       "message": "😂 অনলাইন শপিং = লটারি। আপনার সবচেয়ে বড় ধরা কী ছিল? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_4.png",
       "when": "2026-08-01T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349507000632537",
+        "post_id": "1191612787659871_1349507023965868"
+      },
+      "posted_at": "2026-08-01T09:14:50+00:00"
     },
     {
       "id": "ard-d1-5",
