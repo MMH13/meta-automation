@@ -7170,8 +7170,14 @@
       "message": "🕵️ Same trick, new room. Figure out the puddle 👇",
       "image_url": "images/aug_suspense/d1_5.png",
       "when": "2026-08-01T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🧊 ANSWER: He stood on a block of ice that has since melted. ❄️"
+      "status": "posted",
+      "first_comment": "🧊 ANSWER: He stood on a block of ice that has since melted. ❄️",
+      "result": {
+        "id": "1479974304154264",
+        "post_id": "2642505565823038_1479974330820928",
+        "first_comment_id": "1479974330820928_1115462224497392"
+      },
+      "posted_at": "2026-08-01T21:05:55+00:00"
     },
     {
       "id": "asu-d1-6",
