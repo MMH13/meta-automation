@@ -6569,7 +6569,12 @@
       "message": "😩 নেট গেলে জীবন থেমে যায়। কোন operator চালান? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_5.png",
       "when": "2026-08-01T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349674460615791",
+        "post_id": "1191612787659871_1349674487282455"
+      },
+      "posted_at": "2026-08-01T13:47:18+00:00"
     },
     {
       "id": "ard-d1-6",
@@ -7098,7 +7103,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI always tuck my daughter in at night.\n\nTonight she whispered, \"Daddy, check the closet — there's another daddy in there.\"\n\n😳 React with 😱 if that got you.",
       "when": "2026-08-01T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1479679574183737"
+      },
+      "posted_at": "2026-08-01T13:47:30+00:00"
     },
     {
       "id": "asu-d1-3",
@@ -7796,7 +7805,12 @@
       "message": "🎯 Yesterday's emoji puzzle was TITANIC.\n\nToday's is a line rather than a picture — and it's one of the most quoted in film history.\n\n👇 Comment the film (and the character if you know it).\n\n🔁 Share this with someone who quotes movies constantly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0801_13.png",
       "when": "2026-08-01T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199582554787954",
+        "post_id": "628257647029140_122199582572787954"
+      },
+      "posted_at": "2026-08-01T13:47:43+00:00"
     },
     {
       "id": "tmrs-0802-13",
