@@ -6604,7 +6604,12 @@
       "message": "🥵 এই গরমে আপনার এলাকার অবস্থা কেমন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_7.png",
       "when": "2026-08-01T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349813070601930",
+        "post_id": "1191612787659871_1349813103935260"
+      },
+      "posted_at": "2026-08-01T17:11:15+00:00"
     },
     {
       "id": "ard-d1-8",
@@ -7127,8 +7132,14 @@
       "message": "🕵️ You have all the clues. Solve it in the comments before you look 👇",
       "image_url": "images/aug_suspense/d1_3.png",
       "when": "2026-08-01T16:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🔍 ANSWER: She stood on a block of ice to hang herself — it melted, leaving only the puddle. 🧊"
+      "status": "posted",
+      "first_comment": "🔍 ANSWER: She stood on a block of ice to hang herself — it melted, leaving only the puddle. 🧊",
+      "result": {
+        "id": "1479824277502600",
+        "post_id": "2642505565823038_1479824304169264",
+        "first_comment_id": "1479824304169264_1579355003572294"
+      },
+      "posted_at": "2026-08-01T17:11:34+00:00"
     },
     {
       "id": "asu-d1-4",
@@ -8335,7 +8346,12 @@
       "message": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#eyehealth #screentime #digitaleyestrain #healthyhabits #dailyhealthtips #wellness #worklife\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080117.png",
       "when": "2026-08-01T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1708193254529506",
+        "post_id": "152206688762695_1708193274529504"
+      },
+      "posted_at": "2026-08-01T17:11:47+00:00"
     },
     {
       "id": "hdw1-2026080117-ig",
@@ -8345,7 +8361,12 @@
       "message": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#eyehealth #screentime #digitaleyestrain #healthyhabits #dailyhealthtips #wellness #worklife\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080117.png",
       "when": "2026-08-01T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17901250878474396",
+        "permalink": "https://www.instagram.com/p/DbgWMg5H83K/"
+      },
+      "posted_at": "2026-08-01T17:12:11+00:00"
     },
     {
       "id": "hdw1-2026080123-fb",
