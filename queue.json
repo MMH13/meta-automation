@@ -7082,8 +7082,14 @@
       "message": "🧠 90% get this wrong. Comment your answer before you check the pinned one 👇",
       "image_url": "images/aug_suspense/d1_1.png",
       "when": "2026-08-01T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🗺️ ANSWER: A map. Did you get it? 😏"
+      "status": "posted",
+      "first_comment": "🗺️ ANSWER: A map. Did you get it? 😏",
+      "result": {
+        "id": "1479582310860130",
+        "post_id": "2642505565823038_1479582330860128",
+        "first_comment_id": "1479582330860128_1393806242668208"
+      },
+      "posted_at": "2026-08-01T11:26:29+00:00"
     },
     {
       "id": "asu-d1-2",
@@ -8270,7 +8276,12 @@
       "message": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #potassium #hearthealth #healthyeating #dailyhealthtips #bloodpressure #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080111.png",
       "when": "2026-08-01T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1707929994555832",
+        "post_id": "152206688762695_1707930021222496"
+      },
+      "posted_at": "2026-08-01T11:26:41+00:00"
     },
     {
       "id": "hdw1-2026080111-ig",
@@ -8280,7 +8291,12 @@
       "message": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #potassium #hearthealth #healthyeating #dailyhealthtips #bloodpressure #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080111.png",
       "when": "2026-08-01T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18069642215460281",
+        "permalink": "https://www.instagram.com/p/Dbfus24DUb6/"
+      },
+      "posted_at": "2026-08-01T11:27:00+00:00"
     },
     {
       "id": "hdw1-2026080117-fb",
