@@ -7225,8 +7225,14 @@
       "message": "🧠 Simpler than it looks. Answer in the comments before the pin 👇",
       "image_url": "images/aug_suspense/d2_1.png",
       "when": "2026-08-02T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "👣 ANSWER: Footsteps. 🚶"
+      "status": "posted",
+      "first_comment": "👣 ANSWER: Footsteps. 🚶",
+      "result": {
+        "id": "1480469874104707",
+        "post_id": "2642505565823038_1480469900771371",
+        "first_comment_id": "1480469900771371_1775980190095778"
+      },
+      "posted_at": "2026-08-02T11:24:59+00:00"
     },
     {
       "id": "asu-d2-2",
@@ -8461,7 +8467,12 @@
       "message": "\"Cracking your knuckles causes arthritis\" — it doesn't.\n\nStudies have not found a link between knuckle cracking and arthritis. The sound comes from gas bubbles in the fluid that cushions your joints. It may annoy people around you, but it isn't damaging your hands. If cracking is painful or accompanied by swelling, that's different — see a doctor.\n\nAre you a knuckle cracker?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #jointhealth #arthritis #dailyhealthtips #wellness #healthfacts #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080211.png",
       "when": "2026-08-02T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1708876607794504",
+        "post_id": "152206688762695_1708876644461167"
+      },
+      "posted_at": "2026-08-02T11:25:14+00:00"
     },
     {
       "id": "hdw1-2026080211-ig",
@@ -8471,7 +8482,12 @@
       "message": "\"Cracking your knuckles causes arthritis\" — it doesn't.\n\nStudies have not found a link between knuckle cracking and arthritis. The sound comes from gas bubbles in the fluid that cushions your joints. It may annoy people around you, but it isn't damaging your hands. If cracking is painful or accompanied by swelling, that's different — see a doctor.\n\nAre you a knuckle cracker?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #jointhealth #arthritis #dailyhealthtips #wellness #healthfacts #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080211.png",
       "when": "2026-08-02T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18062640812746947",
+        "permalink": "https://www.instagram.com/p/DbiTVH6gVM9/"
+      },
+      "posted_at": "2026-08-02T11:25:36+00:00"
     },
     {
       "id": "hdw1-2026080217-fb",
