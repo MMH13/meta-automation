@@ -7329,8 +7329,14 @@
       "message": "👀 Quick — which row breaks the pattern? 👇",
       "image_url": "images/aug_suspense/d2_6.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🟠 ANSWER: Row 3 — the orange one. 🟠"
+      "status": "posted",
+      "first_comment": "🟠 ANSWER: Row 3 — the orange one. 🟠",
+      "result": {
+        "id": "1480932990725062",
+        "post_id": "2642505565823038_1480933014058393",
+        "first_comment_id": "1480933014058393_1283973256981206"
+      },
+      "posted_at": "2026-08-02T23:08:22+00:00"
     },
     {
       "id": "asu-d3-1",
@@ -7728,7 +7734,12 @@
       "message": "🧠 MOVIE RIDDLE — medium difficulty.\n\nRead it twice. The clue is in what's missing, not what's there.\n\nMost people guess wrong on the first try. The ones who get it, get it instantly.\n\n👇 Comment your answer. No spoilers for others — just the title.\n\n🔁 Share this with the friend who thinks they're unbeatable at these.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d2_3.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199733064787954",
+        "post_id": "628257647029140_122199733082787954"
+      },
+      "posted_at": "2026-08-02T23:08:40+00:00"
     },
     {
       "id": "tmr-w1-d3-1",
@@ -8584,7 +8595,12 @@
       "message": "A racing mind at bedtime is often just your brain afraid it'll forget.\n\nIf you lie awake mentally rehearsing tomorrow, writing it down helps. Research on bedtime writing suggests that noting down upcoming tasks can help people fall asleep faster than journaling about the day. Keep it to three items — the goal is emptying your head, not planning your year.\n\nDoes your mind race when you lie down?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#mentalhealth #sleep #stressrelief #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080223.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1709361654412666",
+        "post_id": "152206688762695_1709361697745995"
+      },
+      "posted_at": "2026-08-02T23:08:56+00:00"
     },
     {
       "id": "hdw1-2026080223-ig",
@@ -8594,7 +8610,12 @@
       "message": "A racing mind at bedtime is often just your brain afraid it'll forget.\n\nIf you lie awake mentally rehearsing tomorrow, writing it down helps. Research on bedtime writing suggests that noting down upcoming tasks can help people fall asleep faster than journaling about the day. Keep it to three items — the goal is emptying your head, not planning your year.\n\nDoes your mind race when you lie down?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#mentalhealth #sleep #stressrelief #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080223.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18210794950345769",
+        "permalink": "https://www.instagram.com/p/Dbjj3vrjxBH/"
+      },
+      "posted_at": "2026-08-02T23:09:22+00:00"
     },
     {
       "id": "hdw1-2026080311-fb",
