@@ -7312,8 +7312,14 @@
       "message": "🧠 You're probably wearing the answer. Comment it 👇",
       "image_url": "images/aug_suspense/d2_5.png",
       "when": "2026-08-02T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "👕 ANSWER: A shirt. 🧵"
+      "status": "posted",
+      "first_comment": "👕 ANSWER: A shirt. 🧵",
+      "result": {
+        "id": "1480866624065032",
+        "post_id": "2642505565823038_1480866690731692",
+        "first_comment_id": "1480866690731692_2161457127784476"
+      },
+      "posted_at": "2026-08-02T21:06:44+00:00"
     },
     {
       "id": "asu-d2-6",
