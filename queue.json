@@ -6747,7 +6747,11 @@
       "type": "text",
       "message": "একটা শব্দে বলুন 👇\n\nআপনার জীবনের সবচেয়ে *অলস* মুহূর্তটা কী ছিল?\n\nআমরা শুরু করি: রিমোট হাতের কাছে নেই বলে পুরো সিনেমা একই চ্যানেলে দেখেছি 😅\n\nআপনারটা বলুন 👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-02T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1350727333843837"
+      },
+      "posted_at": "2026-08-02T19:23:50+00:00"
     },
     {
       "id": "ard-d3-1",
@@ -7293,7 +7297,12 @@
       "message": "📱 The last text is why I don't sleep with my phone on. React 😱 👇",
       "image_url": "images/aug_suspense/d2_4.png",
       "when": "2026-08-02T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1480807227404305",
+        "post_id": "2642505565823038_1480807274070967"
+      },
+      "posted_at": "2026-08-02T19:24:08+00:00"
     },
     {
       "id": "asu-d2-5",
@@ -7698,7 +7707,12 @@
       "message": "🎭 MATT DAMON — the screenplay that built a career.\n\nStruggling to get cast in anything worthwhile, Damon started writing a script as a class assignment at Harvard. He and Ben Affleck kept working on it for years.\n\nThat script became Good Will Hunting. In 1998 the two of them won the Academy Award for Best Original Screenplay — Damon was 27.\n\nWhat followed: the Bourne trilogy redefined the modern action hero, The Martian carried an entire film on one performance, and Ford v Ferrari proved he'd become a genuine character actor. This year he leads Christopher Nolan's The Odyssey.\n\nThe lesson holds up: if the door won't open, build your own.\n\n👇 Comment: what's YOUR favourite Matt Damon performance?\n\n🔁 Share this with someone who needs to hear 'write your own door' today.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d2_2.png",
       "when": "2026-08-02T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199719420787954",
+        "post_id": "628257647029140_122199719444787954"
+      },
+      "posted_at": "2026-08-02T19:24:25+00:00"
     },
     {
       "id": "tmr-w1-d2-3",
