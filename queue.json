@@ -6733,7 +6733,12 @@
       "message": "☕ দিনে কয় কাপ চা লাগে আপনার? সত্যি বলুন 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_7.png",
       "when": "2026-08-02T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350648823851688",
+        "post_id": "1191612787659871_1350648853851685"
+      },
+      "posted_at": "2026-08-02T17:11:18+00:00"
     },
     {
       "id": "ard-d2-8",
@@ -7271,8 +7276,14 @@
       "message": "🎩 Think carefully. It's not a crime. Comment your guess 👇",
       "image_url": "images/aug_suspense/d2_3.png",
       "when": "2026-08-02T16:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎲 ANSWER: He's playing Monopoly. 🏨"
+      "status": "posted",
+      "first_comment": "🎲 ANSWER: He's playing Monopoly. 🏨",
+      "result": {
+        "id": "1480720657412962",
+        "post_id": "2642505565823038_1480720727412955",
+        "first_comment_id": "1480720727412955_944096418408767"
+      },
+      "posted_at": "2026-08-02T17:11:35+00:00"
     },
     {
       "id": "asu-d2-4",
@@ -8527,7 +8538,12 @@
       "message": "One daily sugary drink adds up faster than almost anything else.\n\nA single sugar-sweetened drink a day is one of the easiest sources of excess calories to remove, and regular consumption is associated with higher risk of type 2 diabetes and weight gain. Water, sparkling water with lemon, or unsweetened tea all work. If you drink one daily, swapping even half of them is progress.\n\nWhat's your usual drink with meals?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #sugar #healthyswaps #diabetes #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080217.png",
       "when": "2026-08-02T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1709139121101586",
+        "post_id": "152206688762695_1709139164434915"
+      },
+      "posted_at": "2026-08-02T17:11:50+00:00"
     },
     {
       "id": "hdw1-2026080217-ig",
@@ -8537,7 +8553,8 @@
       "message": "One daily sugary drink adds up faster than almost anything else.\n\nA single sugar-sweetened drink a day is one of the easiest sources of excess calories to remove, and regular consumption is associated with higher risk of type 2 diabetes and weight gain. Water, sparkling water with lemon, or unsweetened tea all work. If you drink one daily, swapping even half of them is progress.\n\nWhat's your usual drink with meals?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #sugar #healthyswaps #diabetes #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080217.png",
       "when": "2026-08-02T17:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Media ID is not available (type=OAuthException, code=9007, subcode=2207027)"
     },
     {
       "id": "hdw1-2026080223-fb",
