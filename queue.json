@@ -6404,8 +6404,14 @@
       "message": "🎨 AI ছবি বাজে আসে কেন? কারণ আমরা শুধু লিখি \"একটা সুন্দর ছবি\"।\n\nভালো ছবির Prompt ফর্মুলা:\n→ Subject: কী/কে (একটা লাল দরজা)\n→ Style: বাস্তব / কার্টুন / 3D / oil painting\n→ Light & Mood: সকালের নরম আলো, শান্ত\n→ Detail: ক্যামেরা অ্যাঙ্গেল, রং, ব্যাকগ্রাউন্ড\n\nএই ৪টা জোড়া লাগালেই ছবি ১০ গুণ ভালো।\n\n🎁 রেডি ফর্মুলা Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোন কাজে AI ছবি বানাতে চান? 👇",
       "image_url": "images/aug_mamun/d2_2.png",
       "when": "2026-08-02T15:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Image Prompt ফর্মুলা (কপি করুন):\n\n\"[Subject] , [Style: photorealistic/3D/watercolor] , [Lighting & mood: soft morning light, calm] , [Details: camera angle, colors, background] , high detail, 4k\"\n\nউদাহরণ: \"A red wooden door on an old brick wall, photorealistic, soft morning light, warm mood, slight vintage tone, high detail, 4k\"\n\nসেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Image Prompt ফর্মুলা (কপি করুন):\n\n\"[Subject] , [Style: photorealistic/3D/watercolor] , [Lighting & mood: soft morning light, calm] , [Details: camera angle, colors, background] , high detail, 4k\"\n\nউদাহরণ: \"A red wooden door on an old brick wall, photorealistic, soft morning light, warm mood, slight vintage tone, high detail, 4k\"\n\nসেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1358780339735817",
+        "post_id": "102695371717364_1358780353069149",
+        "first_comment_id": "1358780353069149_1079265434668308"
+      },
+      "posted_at": "2026-08-02T15:13:00+00:00"
     },
     {
       "id": "amn-d3-1",
@@ -6712,7 +6718,12 @@
       "message": "😂 নাপিতের 'অল্প' আর আমাদের 'অল্প' এক না। কার সাথে হয়েছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_6.png",
       "when": "2026-08-02T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350566893859881",
+        "post_id": "1191612787659871_1350566923859878"
+      },
+      "posted_at": "2026-08-02T15:13:13+00:00"
     },
     {
       "id": "ard-d2-7",
@@ -7661,7 +7672,12 @@
       "message": "🧩 Yesterday's emoji puzzle was THE GRAND BUDAPEST HOTEL. If you got it — respect.\n\nToday's is easier. Or is it?\n\nFive emojis, one film that changed its entire genre.\n\n👇 Comment your answer. Reveal tomorrow.\n\n🔁 Share this with someone who'll get it in two seconds.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d2_1.png",
       "when": "2026-08-02T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199697538787954",
+        "post_id": "628257647029140_122199697556787954"
+      },
+      "posted_at": "2026-08-02T15:13:26+00:00"
     },
     {
       "id": "tmr-w1-d2-2",
