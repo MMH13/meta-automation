@@ -6697,7 +6697,12 @@
       "message": "😄 এটাকে বলে 'ম্যানেজমেন্ট' 😎 কে কে এভাবে ঘর গোছান? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_5.png",
       "when": "2026-08-02T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350511057198798",
+        "post_id": "1191612787659871_1350511097198794"
+      },
+      "posted_at": "2026-08-02T13:47:51+00:00"
     },
     {
       "id": "ard-d2-6",
@@ -7241,7 +7246,11 @@
       "type": "text",
       "message": "Hotel review, 1 star:\n\n\"Clean room, polite staff. But every night at 3:07 AM, the phone rang. Front desk swore no calls were made. On night three, I picked up.\n\nIt was my own voice.\"\n\n😳 Would you check out?",
       "when": "2026-08-02T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1480570130761348"
+      },
+      "posted_at": "2026-08-02T13:48:05+00:00"
     },
     {
       "id": "asu-d2-3",
@@ -7907,7 +7916,12 @@
       "message": "🔥 Flawless cinematography, immaculate sound design, precise editing — and somehow you don't care about anyone in it.\n\nCraft is necessary. It just isn't sufficient. A messy film that makes you feel something beats a perfect one that doesn't, every time.\n\n👇 Name a beautiful film that left you cold.\n\n🔁 Share this and see who agrees.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0802_13.png",
       "when": "2026-08-02T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199688946787954",
+        "post_id": "628257647029140_122199688970787954"
+      },
+      "posted_at": "2026-08-02T13:48:21+00:00"
     },
     {
       "id": "tmrs-0803-13",
