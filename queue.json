@@ -6812,7 +6812,12 @@
       "message": "😂 ইউটিউব দেখে রান্না vs বাস্তব রান্না। আপনার রান্নার সবচেয়ে বড় দুর্ঘটনা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_4.png",
       "when": "2026-08-03T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351237963792774",
+        "post_id": "1191612787659871_1351237987126105"
+      },
+      "posted_at": "2026-08-03T11:38:56+00:00"
     },
     {
       "id": "ard-d3-5",
@@ -7367,8 +7372,14 @@
       "message": "🧠 Easy one — but say it before you scroll to the pin 👇",
       "image_url": "images/aug_suspense/d3_1.png",
       "when": "2026-08-03T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🥚 ANSWER: An egg. 🍳"
+      "status": "posted",
+      "first_comment": "🥚 ANSWER: An egg. 🍳",
+      "result": {
+        "id": "1481384044013290",
+        "post_id": "2642505565823038_1481384057346622",
+        "first_comment_id": "1481384057346622_1095020846212959"
+      },
+      "posted_at": "2026-08-03T11:39:11+00:00"
     },
     {
       "id": "asu-d3-2",
@@ -8646,7 +8657,12 @@
       "message": "I'm the only organ in your body that can regrow itself.\n\nA clue: it filters your blood, stores energy, and does the detox work that expensive teas claim to do. Take a guess before you scroll past.\n\nWhat's your answer? Comment below — reveal tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #liverhealth #dailyhealthtips #wellness #guessit #healthawareness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080311.png",
       "when": "2026-08-03T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1709843134364518",
+        "post_id": "152206688762695_1709843161031182"
+      },
+      "posted_at": "2026-08-03T11:39:23+00:00"
     },
     {
       "id": "hdw1-2026080311-ig",
@@ -8656,7 +8672,12 @@
       "message": "I'm the only organ in your body that can regrow itself.\n\nA clue: it filters your blood, stores energy, and does the detox work that expensive teas claim to do. Take a guess before you scroll past.\n\nWhat's your answer? Comment below — reveal tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #liverhealth #dailyhealthtips #wellness #guessit #healthawareness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080311.png",
       "when": "2026-08-03T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18133960330613553",
+        "permalink": "https://www.instagram.com/p/Dbk5vmBjCJj/"
+      },
+      "posted_at": "2026-08-03T11:39:41+00:00"
     },
     {
       "id": "hdw1-2026080317-fb",
