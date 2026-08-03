@@ -7460,7 +7460,12 @@
       "message": "📱 Which line made you cold? React 😱 👇",
       "image_url": "images/aug_suspense/d3_5.png",
       "when": "2026-08-03T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1481775203974174",
+        "post_id": "2642505565823038_1481775217307506"
+      },
+      "posted_at": "2026-08-03T21:16:03+00:00"
     },
     {
       "id": "asu-d3-6",
