@@ -7443,8 +7443,14 @@
       "message": "👀 Harder than it looks on a small screen. Which row? 👇",
       "image_url": "images/aug_suspense/d3_4.png",
       "when": "2026-08-03T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🌙 ANSWER: Row 2 — the one with no face. 🌑"
+      "status": "posted",
+      "first_comment": "🌙 ANSWER: Row 2 — the one with no face. 🌑",
+      "result": {
+        "id": "1481728857312142",
+        "post_id": "2642505565823038_1481728870645474",
+        "first_comment_id": "1481728870645474_904946462665636"
+      },
+      "posted_at": "2026-08-03T19:51:19+00:00"
     },
     {
       "id": "asu-d3-5",
@@ -7830,7 +7836,12 @@
       "message": "⚔️ THE ODYSSEY (2026) — released July 17, and nobody agrees on it.\n\nThe facts: Christopher Nolan directing Homer, roughly $250 million, and a cast most studios couldn't assemble — Matt Damon, Tom Holland, Zendaya, Robert Pattinson, Lupita Nyong'o, Anne Hathaway, Charlize Theron.\n\nThe critics split hard. Variety called it a genuinely grand, gutsy vision. Roger Ebert's site praised its view of human nature. TIME went the other way entirely, calling it underwhelming to look at. Audiences are just as divided — 'masterpiece' and 'violent mess' in the same comment section.\n\nWe're not giving a verdict on a film this fresh. We want yours.\n\n👇 Comment: seen it? Masterpiece or misfire — and why?\n\n🔁 Share this and tag the friend you argued with about it.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema #MovieOpinions #FilmLovers #UnpopularOpinion\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d3_2.png",
       "when": "2026-08-03T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199841538787954",
+        "post_id": "628257647029140_122199841556787954"
+      },
+      "posted_at": "2026-08-03T19:51:52+00:00"
     },
     {
       "id": "tmr-w1-d3-3",
