@@ -6862,7 +6862,12 @@
       "message": "😩 MB সবসময় ভুল টাইমে শেষ হয়। মাসে কত টাকার MB কেনেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_7.png",
       "when": "2026-08-03T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351493240433913",
+        "post_id": "1191612787659871_1351493263767244"
+      },
+      "posted_at": "2026-08-03T18:01:23+00:00"
     },
     {
       "id": "ard-d3-8",
@@ -6871,7 +6876,11 @@
       "type": "text",
       "message": "মজার প্রশ্ন 👇\n\nছোটবেলায় কোন *মিথ্যা অজুহাত* দিয়ে স্কুল ফাঁকি দিতেন?\n\nআমরা শুরু করি: 'পেট ব্যথা' 🤕 (শুধু পরীক্ষার দিন)\n\nআপনারটা বলুন 😄👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-03T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1351493433767227"
+      },
+      "posted_at": "2026-08-03T18:01:34+00:00"
     },
     {
       "id": "ard-d4-1",
@@ -7420,7 +7429,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy smartwatch counts how many people are in the room.\n\nIt's just me at home tonight — but it keeps saying 2.\n\n😳 Drop a 😱 and tag someone brave.",
       "when": "2026-08-03T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1481655570652804"
+      },
+      "posted_at": "2026-08-03T18:01:45+00:00"
     },
     {
       "id": "asu-d3-4",
@@ -8718,7 +8731,12 @@
       "message": "You don't need an hour. You need to stop sitting for eight.\n\nShort bursts of activity spread across the day count toward your weekly total. Guidelines now recognise that any movement is better than none, and activity accumulated in short bouts still provides benefit. Take the stairs, walk during calls, stretch between tasks. The best workout is the one you'll actually repeat.\n\nWhat's one movement snack you could add today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#exercise #movement #healthyhabits #fitness #dailyhealthtips #wellness #activelifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080317.png",
       "when": "2026-08-03T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1710139487668216",
+        "post_id": "152206688762695_1710139564334875"
+      },
+      "posted_at": "2026-08-03T18:02:05+00:00"
     },
     {
       "id": "hdw1-2026080317-ig",
@@ -8728,7 +8746,12 @@
       "message": "You don't need an hour. You need to stop sitting for eight.\n\nShort bursts of activity spread across the day count toward your weekly total. Guidelines now recognise that any movement is better than none, and activity accumulated in short bouts still provides benefit. Take the stairs, walk during calls, stretch between tasks. The best workout is the one you'll actually repeat.\n\nWhat's one movement snack you could add today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#exercise #movement #healthyhabits #fitness #dailyhealthtips #wellness #activelifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080317.png",
       "when": "2026-08-03T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17984474661019104",
+        "permalink": "https://www.instagram.com/p/DblljGdgG8d/"
+      },
+      "posted_at": "2026-08-03T18:02:30+00:00"
     },
     {
       "id": "hdw1-2026080323-fb",
