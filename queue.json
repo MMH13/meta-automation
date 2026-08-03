@@ -6421,8 +6421,14 @@
       "message": "📅 রবিবার রাতে ১০ মিনিট প্ল্যান = পুরো সপ্তাহ ক্লিয়ার মাথায় কাজ।\n\nকিন্তু প্ল্যান করাটাই ঝামেলা লাগে, তাই না?\n\nএই Prompt আপনার Goal, সময় আর Energy অনুযায়ী পুরো সপ্তাহের বাস্তব প্ল্যান বানায় — বিশ্রামসহ। Robot-এর মতো না, মানুষের মতো।\n\nউদাহরণ: \"৩টা লক্ষ্য + সকালে এনার্জি বেশি\" দিলে ও কঠিন কাজগুলো সকালে বসিয়ে দেয়।\n\n🎁 Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি প্ল্যান করে চলেন, নাকি যা আসে তাই সামলান? 😄👇",
       "image_url": "images/aug_mamun/d3_1.png",
       "when": "2026-08-03T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Weekly Planner Prompt (কপি করুন):\n\n\"You are my productivity coach. My 3 main goals this week: [৩টা লক্ষ্য]. Fixed commitments: [জব/ক্লাস/পরিবার]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign goals to days & time blocks, 2) keep hard tasks in peak energy hours, 3) add rest/buffer, 4) one small daily habit. Format as a day-by-day table.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Weekly Planner Prompt (কপি করুন):\n\n\"You are my productivity coach. My 3 main goals this week: [৩টা লক্ষ্য]. Fixed commitments: [জব/ক্লাস/পরিবার]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign goals to days & time blocks, 2) keep hard tasks in peak energy hours, 3) add rest/buffer, 4) one small daily habit. Format as a day-by-day table.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1359323003014884",
+        "post_id": "102695371717364_1359323026348215",
+        "first_comment_id": "1359323026348215_1042554494824348"
+      },
+      "posted_at": "2026-08-03T07:40:22+00:00"
     },
     {
       "id": "amn-d3-2",
