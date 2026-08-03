@@ -6438,7 +6438,12 @@
       "message": "🧠 খেয়াল করেছেন — নতুন AI আগের চেয়ে অনেক ভালো উত্তর দেয়?\n\nকারণ এখন Reasoning ডিফল্ট। আগে AI সাথে সাথে উত্তর দিত। এখন প্রশ্নটা নিয়ে আগে \"ভাবে\", ধাপে ধাপে চিন্তা করে, তারপর উত্তর দেয় — অনেকটা মানুষের মতো।\n\nমানে জটিল কাজে (অঙ্ক, Coding, Analysis, Planning) ভুল অনেক কমে গেছে।\n\nকাজে লাগান: কঠিন প্রশ্নে বলুন \"ধাপে ধাপে ভেবে উত্তর দাও\" — ফল ভালো হবে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি কোন AI বেশি ব্যবহার করেন? 👇",
       "image_url": "images/aug_mamun/d3_2.png",
       "when": "2026-08-03T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1359616746318843",
+        "post_id": "102695371717364_1359616769652174"
+      },
+      "posted_at": "2026-08-03T15:10:43+00:00"
     },
     {
       "id": "amn-d4-1",
@@ -6827,7 +6832,12 @@
       "message": "😩 রাতের মশা একটা আলাদা লেভেলের শত্রু। আপনার এলাকায় অবস্থা কেমন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_5.png",
       "when": "2026-08-03T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351383380444899",
+        "post_id": "1191612787659871_1351383410444896"
+      },
+      "posted_at": "2026-08-03T15:10:56+00:00"
     },
     {
       "id": "ard-d3-6",
@@ -6837,7 +6847,12 @@
       "message": "😄 পারফেক্ট সেলফির খোঁজে গ্যালারি ভর্তি। কে কে এমন করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_6.png",
       "when": "2026-08-03T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351383577111546",
+        "post_id": "1191612787659871_1351383600444877"
+      },
+      "posted_at": "2026-08-03T15:11:08+00:00"
     },
     {
       "id": "ard-d3-7",
@@ -7389,8 +7404,14 @@
       "message": "🕵️ One detail gives it away. Solve it in the comments 👇",
       "image_url": "images/aug_suspense/d3_2.png",
       "when": "2026-08-03T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎙️ ANSWER: Someone rewound the tape to the start. A man who just shot himself couldn't have. 🔎"
+      "status": "posted",
+      "first_comment": "🎙️ ANSWER: Someone rewound the tape to the start. A man who just shot himself couldn't have. 🔎",
+      "result": {
+        "id": "1481534893998205",
+        "post_id": "2642505565823038_1481534910664870",
+        "first_comment_id": "1481534910664870_1577352667771318"
+      },
+      "posted_at": "2026-08-03T15:11:25+00:00"
     },
     {
       "id": "asu-d3-3",
@@ -7781,7 +7802,12 @@
       "message": "🎯 Yesterday: THE DARK KNIGHT and WALL·E. How many did you get?\n\nToday's is a character, not a film. One of the most quoted lines of the century — and one of the great screen monsters.\n\n👇 Comment the character's name (and the film if you know it).\n\n🔁 Share this with someone who quotes movies constantly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d3_1.png",
       "when": "2026-08-03T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199818114787954",
+        "post_id": "628257647029140_122199818138787954"
+      },
+      "posted_at": "2026-08-03T15:11:37+00:00"
     },
     {
       "id": "tmr-w1-d3-2",
@@ -8021,7 +8047,12 @@
       "message": "⏳ Three-hour runtimes used to be reserved for epics. Now they're routine.\n\nThe argument for: streaming trained us to binge, and directors have more freedom than ever.\n\nThe argument against: length is often a substitute for editing. Plenty of long films are 100-minute stories wearing a bigger coat.\n\n👇 Would you rather a tight 95 minutes or a sprawling 3 hours?\n\n🔁 Share this with someone who always falls asleep.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0803_13.png",
       "when": "2026-08-03T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199818186787954",
+        "post_id": "628257647029140_122199818204787954"
+      },
+      "posted_at": "2026-08-03T15:11:50+00:00"
     },
     {
       "id": "tmrs-0804-13",
