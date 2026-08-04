@@ -7606,8 +7606,14 @@
       "message": "🧠 Dark, but famous. Answer in the comments 👇",
       "image_url": "images/aug_suspense/d4_5.png",
       "when": "2026-08-04T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⚰️ ANSWER: A coffin. 🪦"
+      "status": "posted",
+      "first_comment": "⚰️ ANSWER: A coffin. 🪦",
+      "result": {
+        "id": "1482660710552290",
+        "post_id": "2642505565823038_1482660737218954",
+        "first_comment_id": "1482660737218954_1396684829028064"
+      },
+      "posted_at": "2026-08-04T21:22:18+00:00"
     },
     {
       "id": "asu-d4-6",
