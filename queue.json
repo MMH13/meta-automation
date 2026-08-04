@@ -6991,7 +6991,12 @@
       "message": "😅 সিঁড়িই আসল সত্য বলে দেয়। কয় তলা উঠলে আপনার দম শেষ? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_7.png",
       "when": "2026-08-04T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352317467018157",
+        "post_id": "1191612787659871_1352317483684822"
+      },
+      "posted_at": "2026-08-04T18:00:02+00:00"
     },
     {
       "id": "ard-d4-8",
@@ -7563,8 +7568,14 @@
       "message": "🕵️ Same drink, different fate. Figure out why 👇",
       "image_url": "images/aug_suspense/d4_3.png",
       "when": "2026-08-04T16:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🧊 ANSWER: The ice was poisoned. The slow drinker's ice didn't melt in time; the fast drinker's did. 🥶"
+      "status": "posted",
+      "first_comment": "🧊 ANSWER: The ice was poisoned. The slow drinker's ice didn't melt in time; the fast drinker's did. 🥶",
+      "result": {
+        "id": "1482544853897209",
+        "post_id": "2642505565823038_1482544873897207",
+        "first_comment_id": "1482544873897207_1067576789304441"
+      },
+      "posted_at": "2026-08-04T18:00:21+00:00"
     },
     {
       "id": "asu-d4-4",
@@ -8909,7 +8920,12 @@
       "message": "Most people have no idea what their blood pressure numbers mean.\n\nThe top number is the pressure when your heart beats. The bottom is the pressure when it rests between beats. Both matter. Readings are generally considered elevated above roughly 130/80, but thresholds vary by guideline and by person — your doctor interprets it alongside your age and risk factors, not as a single number in isolation.\n\nDo you know your numbers?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #healthfacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080417.png",
       "when": "2026-08-04T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1711127074236124",
+        "post_id": "152206688762695_1711127087569456"
+      },
+      "posted_at": "2026-08-04T18:00:36+00:00"
     },
     {
       "id": "hdw1-2026080417-ig",
@@ -8919,7 +8935,12 @@
       "message": "Most people have no idea what their blood pressure numbers mean.\n\nThe top number is the pressure when your heart beats. The bottom is the pressure when it rests between beats. Both matter. Readings are generally considered elevated above roughly 130/80, but thresholds vary by guideline and by person — your doctor interprets it alongside your age and risk factors, not as a single number in isolation.\n\nDo you know your numbers?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #healthfacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080417.png",
       "when": "2026-08-04T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17981325912061858",
+        "permalink": "https://www.instagram.com/p/DboKKqGn5N5/"
+      },
+      "posted_at": "2026-08-04T18:00:59+00:00"
     },
     {
       "id": "hdw1-2026080423-fb",
