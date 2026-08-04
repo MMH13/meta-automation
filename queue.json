@@ -6956,7 +6956,12 @@
       "message": "😅 কালকের কাজ কালই থেকে যায়। সবচেয়ে বড় procrastination কী করেছেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_5.png",
       "when": "2026-08-04T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352085827041321",
+        "post_id": "1191612787659871_1352085837041320"
+      },
+      "posted_at": "2026-08-04T12:09:44+00:00"
     },
     {
       "id": "ard-d4-6",
@@ -7518,8 +7523,14 @@
       "message": "🧠 A classic. Answer before the pin 👇",
       "image_url": "images/aug_suspense/d4_1.png",
       "when": "2026-08-04T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🍃 ANSWER: An echo. 🗣️"
+      "status": "posted",
+      "first_comment": "🍃 ANSWER: An echo. 🗣️",
+      "result": {
+        "id": "1482297407255287",
+        "post_id": "2642505565823038_1482297433921951",
+        "first_comment_id": "1482297433921951_1062324916732738"
+      },
+      "posted_at": "2026-08-04T12:10:01+00:00"
     },
     {
       "id": "asu-d4-2",
@@ -8844,7 +8855,12 @@
       "message": "Vitamin C won't stop you catching a cold.\n\nFor most people, regular vitamin C supplements don't prevent colds. Reviews of the evidence suggest they may slightly shorten how long a cold lasts, but the prevention effect is small and mainly seen in people under extreme physical stress. Sleep, hand hygiene and vaccination do more.\n\nDo you take vitamin C when you feel a cold coming?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#immunity #vitaminc #myths #coldandflu #dailyhealthtips #wellness #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080411.png",
       "when": "2026-08-04T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1710843154264516",
+        "post_id": "152206688762695_1710843170931181"
+      },
+      "posted_at": "2026-08-04T12:10:15+00:00"
     },
     {
       "id": "hdw1-2026080411-ig",
@@ -8854,7 +8870,12 @@
       "message": "Vitamin C won't stop you catching a cold.\n\nFor most people, regular vitamin C supplements don't prevent colds. Reviews of the evidence suggest they may slightly shorten how long a cold lasts, but the prevention effect is small and mainly seen in people under extreme physical stress. Sleep, hand hygiene and vaccination do more.\n\nDo you take vitamin C when you feel a cold coming?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#immunity #vitaminc #myths #coldandflu #dailyhealthtips #wellness #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080411.png",
       "when": "2026-08-04T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18073297214384675",
+        "permalink": "https://www.instagram.com/p/DbniEjsj8B9/"
+      },
+      "posted_at": "2026-08-04T12:10:34+00:00"
     },
     {
       "id": "hdw1-2026080417-fb",
