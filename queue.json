@@ -6453,8 +6453,14 @@
       "message": "📚 পড়া মনে থাকে না? কারণ আমরা শুধু পড়ি, নিজেকে যাচাই করি না।\n\nAI দিয়ে স্মার্ট পড়ার ৪ ধাপ:\n→ টপিকটা AI-কে সহজ ভাষায় বোঝাতে বলুন\n→ ওকে দিয়ে ৫টা প্রশ্ন বানান, নিজে উত্তর দিন\n→ যেটা পারলেন না, সেটা আবার বোঝান\n→ ২ দিন পর একই প্রশ্নে নিজেকে টেস্ট করুন\n\nএটাই Active Recall — মুখস্থের চেয়ে ১০ গুণ শক্তিশালী।\n\n🎁 রেডি Study Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 পরীক্ষা সামনে কার? 👇",
       "image_url": "images/aug_mamun/d4_1.png",
       "when": "2026-08-04T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Study Prompt (কপি করুন):\n\n\"You are my study tutor. Topic: [টপিক]. 1) Explain it in simple Bengali with one everyday example. 2) Then quiz me with 5 questions, one at a time, waiting for my answer. 3) After each answer, tell me if I'm right and explain briefly. 4) At the end, list what I should revise.\"\n\nসেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Study Prompt (কপি করুন):\n\n\"You are my study tutor. Topic: [টপিক]. 1) Explain it in simple Bengali with one everyday example. 2) Then quiz me with 5 questions, one at a time, waiting for my answer. 3) After each answer, tell me if I'm right and explain briefly. 4) At the end, list what I should revise.\"\n\nসেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1360244852922699",
+        "post_id": "102695371717364_1360244879589363",
+        "first_comment_id": "1360244879589363_824102604025182"
+      },
+      "posted_at": "2026-08-04T09:45:31+00:00"
     },
     {
       "id": "amn-d4-2",
@@ -6935,7 +6941,12 @@
       "message": "😄 রাতে ঘুম আসে না, সকালে উঠতে পারি না। কে কে এই দলে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_4.png",
       "when": "2026-08-04T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351999013716669",
+        "post_id": "1191612787659871_1351999067049997"
+      },
+      "posted_at": "2026-08-04T09:45:47+00:00"
     },
     {
       "id": "ard-d4-5",
