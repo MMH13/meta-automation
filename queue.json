@@ -6500,8 +6500,14 @@
       "message": "🔑 একই AI, কারও কাছে জাদু, কারও কাছে বাজে — পার্থক্য শুধু প্রশ্নে।\n\nভালো Prompt-এর ৪টা অংশ:\n→ Role: \"তুমি একজন অভিজ্ঞ ...\" (কার মতো ভাববে)\n→ Task: ঠিক কী চাও, স্পষ্ট করে\n→ Context: তোমার পরিস্থিতি / দর্শক\n→ Format: লিস্ট / টেবিল / ছোট প্যারা\n\nউদাহরণ: \"তুমি একজন নিউট্রিশনিস্ট। আমার (context) জন্য ৭ দিনের সহজ বাজেট মিল প্ল্যান দাও, টেবিল আকারে।\"\n\n🎁 টেমপ্লেট প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোন কাজে Prompt বানাতে চান? বলুন, সাহায্য করি 👇",
       "image_url": "images/aug_mamun/d5_2.png",
       "when": "2026-08-05T15:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Master Prompt টেমপ্লেট (কপি করুন):\n\n\"Role: You are a [expert]. Task: [ঠিক কী চান]. Context: [আপনার পরিস্থিতি/দর্শক]. Format: [list/table/short paragraphs]. Language: Bengali. Ask me one question first if anything is unclear.\"\n\nসেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Master Prompt টেমপ্লেট (কপি করুন):\n\n\"Role: You are a [expert]. Task: [ঠিক কী চান]. Context: [আপনার পরিস্থিতি/দর্শক]. Format: [list/table/short paragraphs]. Language: Bengali. Ask me one question first if anything is unclear.\"\n\nসেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1361339646146553",
+        "post_id": "102695371717364_1361339676146550",
+        "first_comment_id": "1361339676146550_869153156066517"
+      },
+      "posted_at": "2026-08-05T15:23:36+00:00"
     },
     {
       "id": "amn-d6-1",
@@ -7099,7 +7105,12 @@
       "message": "😅 ব্যস্ততা আছে, ফলাফল নাই। কে কে relate করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_6.png",
       "when": "2026-08-05T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353060566943847",
+        "post_id": "1191612787659871_1353060596943844"
+      },
+      "posted_at": "2026-08-05T15:23:50+00:00"
     },
     {
       "id": "ard-d5-7",
@@ -7683,8 +7694,14 @@
       "message": "🕵️ The answer is simpler than you think. Comment your solve 👇",
       "image_url": "images/aug_suspense/d5_2.png",
       "when": "2026-08-05T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "☔ ANSWER: She was carried there after the rain — or arrived under cover. The 'dry victim' is the whole clue. 🌧️"
+      "status": "posted",
+      "first_comment": "☔ ANSWER: She was carried there after the rain — or arrived under cover. The 'dry victim' is the whole clue. 🌧️",
+      "result": {
+        "id": "1483328543818840",
+        "post_id": "2642505565823038_1483328567152171",
+        "first_comment_id": "1483328567152171_2136588003931270"
+      },
+      "posted_at": "2026-08-05T15:24:09+00:00"
     },
     {
       "id": "asu-d5-3",
@@ -8040,7 +8057,12 @@
       "message": "🎓 How did you score?\n\n(4 is the fun one — Titanic ran for decades without a sequel, which for a film that size is almost unheard of now.)\n\nTODAY'S RIDDLE:\n\nI am a film where the twist is revealed in the first scene — you just don't know you're looking at it. Two men, one city, and a promise that can't be kept.\n\n👇 Comment your answer. Reveal tomorrow.\n\n🔁 Share this with someone who loves a good twist.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d5_1.png",
       "when": "2026-08-05T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200031498787954",
+        "post_id": "628257647029140_122200031516787954"
+      },
+      "posted_at": "2026-08-05T15:24:21+00:00"
     },
     {
       "id": "tmr-w1-d5-2",
@@ -8250,7 +8272,12 @@
       "message": "😈 The best antagonists aren't evil for fun. They have an argument — and the film makes you sit with it.\n\nThat discomfort is the whole point. If you never waver, the film isn't doing its job.\n\n👇 Which movie villain were you uncomfortably close to agreeing with?\n\n🔁 Save this list.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0805_13.png",
       "when": "2026-08-05T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200031576787954",
+        "post_id": "628257647029140_122200031594787954"
+      },
+      "posted_at": "2026-08-05T15:24:32+00:00"
     },
     {
       "id": "tmrs-0806-13",
