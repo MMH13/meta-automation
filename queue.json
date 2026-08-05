@@ -7765,8 +7765,14 @@
       "message": "👀 Quick eyes only. Which row? 👇",
       "image_url": "images/aug_suspense/d5_6.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "✨ ANSWER: Row 3 — the sparkle, not the star. ✨"
+      "status": "posted",
+      "first_comment": "✨ ANSWER: Row 3 — the sparkle, not the star. ✨",
+      "result": {
+        "id": "1483624107122617",
+        "post_id": "2642505565823038_1483624123789282",
+        "first_comment_id": "1483624123789282_2838516163191168"
+      },
+      "posted_at": "2026-08-05T23:12:55+00:00"
     },
     {
       "id": "asu-d6-1",
@@ -8111,7 +8117,12 @@
       "message": "🤔 One or the other. For the rest of your life.\n\nOption A: unlimited rewatches. Your comfort films, forever. But nothing new, ever again.\n\nOption B: everything you watch is new. Constant discovery — but you never see your favourite film again.\n\nMost people say A instantly, then think about it and switch. Some never switch.\n\n👇 Comment A or B — and the one film that made the choice hard.\n\n🔁 Share this and see which one your friends pick.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema #MovieOpinions #FilmLovers #UnpopularOpinion\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d5_3.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200069928787954",
+        "post_id": "628257647029140_122200069946787954"
+      },
+      "posted_at": "2026-08-05T23:13:07+00:00"
     },
     {
       "id": "tmr-w1-d6-1",
@@ -9162,7 +9173,12 @@
       "message": "Your heart beats about 100,000 times a day without a single break.\n\nThat's roughly 35 million beats a year, every year, without pause. The best things you can do for it are unglamorous and well proven: move regularly, don't smoke, watch salt and saturated fat, manage stress, and know your blood pressure numbers.\n\nWhen did you last check your blood pressure?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#hearthealth #healthfacts #cardiovascular #dailyhealthtips #wellness #preventivecare #sciencefacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080523.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1712334724115359",
+        "post_id": "152206688762695_1712334737448691"
+      },
+      "posted_at": "2026-08-05T23:13:20+00:00"
     },
     {
       "id": "hdw1-2026080523-ig",
@@ -9172,7 +9188,12 @@
       "message": "Your heart beats about 100,000 times a day without a single break.\n\nThat's roughly 35 million beats a year, every year, without pause. The best things you can do for it are unglamorous and well proven: move regularly, don't smoke, watch salt and saturated fat, manage stress, and know your blood pressure numbers.\n\nWhen did you last check your blood pressure?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#hearthealth #healthfacts #cardiovascular #dailyhealthtips #wellness #preventivecare #sciencefacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080523.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18616260016036370",
+        "permalink": "https://www.instagram.com/p/DbrSwKkl2yG/"
+      },
+      "posted_at": "2026-08-05T23:13:42+00:00"
     },
     {
       "id": "hdw1-2026080611-fb",
