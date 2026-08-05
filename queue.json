@@ -7748,8 +7748,14 @@
       "message": "🕵️ Only one keeps him alive. Which room, and why? 👇",
       "image_url": "images/aug_suspense/d5_5.png",
       "when": "2026-08-05T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🦁 ANSWER: The lions' room — after 3 years without food, they'd be long dead. 💀"
+      "status": "posted",
+      "first_comment": "🦁 ANSWER: The lions' room — after 3 years without food, they'd be long dead. 💀",
+      "result": {
+        "id": "1483565413795153",
+        "post_id": "2642505565823038_1483565430461818",
+        "first_comment_id": "1483565430461818_996629830031220"
+      },
+      "posted_at": "2026-08-05T21:21:45+00:00"
     },
     {
       "id": "asu-d5-6",
