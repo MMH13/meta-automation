@@ -7084,7 +7084,12 @@
       "message": "😄 WiFi পাসওয়ার্ড = বন্ধুত্বের পরীক্ষা। কে কে দেন না? 🙈👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_5.png",
       "when": "2026-08-05T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352922236957680",
+        "post_id": "1191612787659871_1352922260291011"
+      },
+      "posted_at": "2026-08-05T12:07:40+00:00"
     },
     {
       "id": "ard-d5-6",
@@ -7661,8 +7666,14 @@
       "message": "🧠 Old-school clever. Say it before the pin 👇",
       "image_url": "images/aug_suspense/d5_1.png",
       "when": "2026-08-05T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "📮 ANSWER: A stamp. ✉️"
+      "status": "posted",
+      "first_comment": "📮 ANSWER: A stamp. ✉️",
+      "result": {
+        "id": "1483181480500213",
+        "post_id": "2642505565823038_1483181510500210",
+        "first_comment_id": "1483181510500210_1067149988987888"
+      },
+      "posted_at": "2026-08-05T12:07:58+00:00"
     },
     {
       "id": "asu-d5-2",
@@ -9035,7 +9046,12 @@
       "message": "Loneliness affects your body, not just your mood.\n\nSocial connection is increasingly recognised as a genuine health factor. Long-term loneliness and social isolation are associated with higher risks of heart disease, stroke and dementia. It sits alongside diet, sleep and movement as something worth deliberately maintaining — one call or one visit counts more than people assume.\n\nWho could you message today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyaging #mentalhealth #loneliness #connection #dailyhealthtips #wellness #wellbeing\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080511.png",
       "when": "2026-08-05T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1711854067496758",
+        "post_id": "152206688762695_1711854084163423"
+      },
+      "posted_at": "2026-08-05T12:08:10+00:00"
     },
     {
       "id": "hdw1-2026080511-ig",
@@ -9045,7 +9061,12 @@
       "message": "Loneliness affects your body, not just your mood.\n\nSocial connection is increasingly recognised as a genuine health factor. Long-term loneliness and social isolation are associated with higher risks of heart disease, stroke and dementia. It sits alongside diet, sleep and movement as something worth deliberately maintaining — one call or one visit counts more than people assume.\n\nWho could you message today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyaging #mentalhealth #loneliness #connection #dailyhealthtips #wellness #wellbeing\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080511.png",
       "when": "2026-08-05T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18100098278580703",
+        "permalink": "https://www.instagram.com/p/DbqGoDbHRMJ/"
+      },
+      "posted_at": "2026-08-05T12:08:30+00:00"
     },
     {
       "id": "hdw1-2026080517-fb",
