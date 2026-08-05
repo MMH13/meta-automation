@@ -7134,7 +7134,11 @@
       "type": "text",
       "message": "একটা শব্দে বলুন 👇\n\nআজকের দিনটা কেমন যাচ্ছে — *এক শব্দে*?\n\nআমরা শুরু করি: টেনশন 😅\n\nআপনারটা বলুন, কেউ একা না 👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-05T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1353241200259117"
+      },
+      "posted_at": "2026-08-05T19:49:32+00:00"
     },
     {
       "id": "ard-d6-1",
@@ -7729,7 +7733,12 @@
       "message": "📱 Which text made your stomach drop? React 😱 👇",
       "image_url": "images/aug_suspense/d5_4.png",
       "when": "2026-08-05T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1483514907133537",
+        "post_id": "2642505565823038_1483514923800202"
+      },
+      "posted_at": "2026-08-05T19:49:44+00:00"
     },
     {
       "id": "asu-d5-5",
@@ -8081,7 +8090,12 @@
       "message": "⭐ LUPITA NYONG'O — the long game.\n\nShe won the Academy Award for Best Supporting Actress for 12 Years a Slave in 2014 — for her first major film role. That almost never happens.\n\nWhat she did next is the interesting part. Instead of cashing it in immediately, she moved between huge films and small ones: motion-capture work in Star Wars, Black Panther, then Jordan Peele's Us — where she played two roles in one film and carried the entire thing.\n\nThis year she appears in Christopher Nolan's The Odyssey.\n\nThe pattern: she picks directors, not paycheques. It's why her filmography holds up.\n\n👇 Comment: Us or Black Panther — which performance hit harder?\n\n🔁 Share this with someone who appreciates real range.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d5_2.png",
       "when": "2026-08-05T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200055300787954",
+        "post_id": "628257647029140_122200055318787954"
+      },
+      "posted_at": "2026-08-05T19:49:55+00:00"
     },
     {
       "id": "tmr-w1-d5-3",
