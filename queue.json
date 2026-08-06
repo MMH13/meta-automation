@@ -6532,7 +6532,12 @@
       "message": "❌ AI থেকে ভালো ফল না পাওয়ার আসল কারণ — এই ৩টা ভুল:\n\n→ ভুল ১: এক লাইনের অস্পষ্ট প্রশ্ন। সমাধান: Role + Context দিন।\n→ ভুল ২: প্রথম উত্তরেই থেমে যাওয়া। সমাধান: \"আরও সংক্ষিপ্ত করো / উদাহরণ দাও\" বলে ঘষুন।\n→ ভুল ৩: চোখ বন্ধ করে বিশ্বাস। সমাধান: তথ্য যাচাই করুন, বিশেষত সংখ্যা ও রেফারেন্স।\n\nউদাহরণ: একই প্রশ্ন ৩ বার রিফাইন করলে উত্তর প্রায় প্রফেশনাল লেভেলে চলে যায়।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোন ভুলটা আপনি করতেন? 👇",
       "image_url": "images/aug_mamun/d6_2.png",
       "when": "2026-08-06T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1362200869393764",
+        "post_id": "102695371717364_1362200906060427"
+      },
+      "posted_at": "2026-08-06T15:24:14+00:00"
     },
     {
       "id": "amn-d7-1",
@@ -7228,7 +7233,12 @@
       "message": "😄 ভদ্রতা vs লোভ — চিরন্তন যুদ্ধ। কে জেতে আপনার? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_6.png",
       "when": "2026-08-06T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353907113525859",
+        "post_id": "1191612787659871_1353907153525855"
+      },
+      "posted_at": "2026-08-06T15:24:29+00:00"
     },
     {
       "id": "ard-d6-7",
@@ -7829,8 +7839,14 @@
       "message": "🕵️ The classic. If you know it, don't spoil it — let others guess 👇",
       "image_url": "images/aug_suspense/d6_2.png",
       "when": "2026-08-06T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🛗 ANSWER: He's short and can only reach the 10th-floor button — unless he has an umbrella to press the 20th. ☔"
+      "status": "posted",
+      "first_comment": "🛗 ANSWER: He's short and can only reach the 10th-floor button — unless he has an umbrella to press the 20th. ☔",
+      "result": {
+        "id": "1484231573728537",
+        "post_id": "2642505565823038_1484231590395202",
+        "first_comment_id": "1484231590395202_2053331258610290"
+      },
+      "posted_at": "2026-08-06T15:24:48+00:00"
     },
     {
       "id": "asu-d6-3",
@@ -8168,7 +8184,12 @@
       "message": "🎬 Yesterday: THE PRESTIGE. The whole trick is shown to you in the opening minute.\n\nTODAY — finish these three:\n\n1. \"You either die a hero, or ______\"\n2. \"Why so ______?\"\n3. \"I'm going to make him an offer ______\"\n\nNo Googling. Half the fun is arguing about the exact wording.\n\n👇 Comment your three.\n\n🔁 Share this with someone who quotes films badly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d6_1.png",
       "when": "2026-08-06T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200148654787954",
+        "post_id": "628257647029140_122200148672787954"
+      },
+      "posted_at": "2026-08-06T15:25:02+00:00"
     },
     {
       "id": "tmr-w1-d6-2",
@@ -8363,7 +8384,12 @@
       "message": "🔥 Directors spend months on framing, sound design and colour — and then it gets watched on a 6-inch screen with one earbud in, at 1.5x speed, while someone scrolls.\n\nThe counter-argument is fair: a film watched badly still beats a film not watched at all.\n\nBut something is genuinely lost.\n\n👇 Phone, laptop, TV or cinema — where do you actually watch?\n\n🔁 Share this with a serial phone-watcher.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0806_13.png",
       "when": "2026-08-06T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200148720787954",
+        "post_id": "628257647029140_122200148738787954"
+      },
+      "posted_at": "2026-08-06T15:25:14+00:00"
     },
     {
       "id": "tmrs-0807-13",
