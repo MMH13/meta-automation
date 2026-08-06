@@ -7213,7 +7213,12 @@
       "message": "😂 ইন্ট্রোভার্টদের জাতীয় কৌশল। কে কে এটা করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_5.png",
       "when": "2026-08-06T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353773993539171",
+        "post_id": "1191612787659871_1353774033539167"
+      },
+      "posted_at": "2026-08-06T12:10:20+00:00"
     },
     {
       "id": "ard-d6-6",
@@ -7807,8 +7812,14 @@
       "message": "🧠 Dark but famous. Answer in the comments 👇",
       "image_url": "images/aug_suspense/d6_1.png",
       "when": "2026-08-06T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⚰️ ANSWER: A coffin. 🪦"
+      "status": "posted",
+      "first_comment": "⚰️ ANSWER: A coffin. 🪦",
+      "result": {
+        "id": "1484084230409938",
+        "post_id": "2642505565823038_1484084250409936",
+        "first_comment_id": "1484084250409936_1074613138557709"
+      },
+      "posted_at": "2026-08-06T12:10:38+00:00"
     },
     {
       "id": "asu-d6-2",
@@ -9228,7 +9239,12 @@
       "message": "Doing sit-ups will not burn belly fat specifically.\n\nYou can't choose where your body loses fat. Crunches strengthen the muscles underneath, but the fat above them only reduces through overall energy balance and activity. This is one of the most persistent fitness myths, and it costs people a lot of wasted effort. Whole-body movement plus diet does the work.\n\nWho was told sit-ups were the secret?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#weightloss #fitnessmyths #exercise #mythbusting #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080611.png",
       "when": "2026-08-06T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1712838867398278",
+        "post_id": "152206688762695_1712838890731609"
+      },
+      "posted_at": "2026-08-06T12:10:51+00:00"
     },
     {
       "id": "hdw1-2026080611-ig",
@@ -9238,7 +9254,12 @@
       "message": "Doing sit-ups will not burn belly fat specifically.\n\nYou can't choose where your body loses fat. Crunches strengthen the muscles underneath, but the fat above them only reduces through overall energy balance and activity. This is one of the most persistent fitness myths, and it costs people a lot of wasted effort. Whole-body movement plus diet does the work.\n\nWho was told sit-ups were the secret?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#weightloss #fitnessmyths #exercise #mythbusting #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080611.png",
       "when": "2026-08-06T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17984001945048173",
+        "permalink": "https://www.instagram.com/p/DbsruvFG-2p/"
+      },
+      "posted_at": "2026-08-06T12:11:22+00:00"
     },
     {
       "id": "hdw1-2026080617-fb",
