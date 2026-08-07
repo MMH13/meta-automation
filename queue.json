@@ -8105,8 +8105,14 @@
       "message": "🧠 Read it literally. Comment your answer 👇",
       "image_url": "images/aug_suspense/d7_5.png",
       "when": "2026-08-07T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎣 ANSWER: The word 'ton' — backward it's 'not.' 🔤"
+      "status": "posted",
+      "first_comment": "🎣 ANSWER: The word 'ton' — backward it's 'not.' 🔤",
+      "result": {
+        "id": "1485363180282043",
+        "post_id": "2642505565823038_1485363196948708",
+        "first_comment_id": "1485363196948708_1778984733255631"
+      },
+      "posted_at": "2026-08-07T21:51:01+00:00"
     },
     {
       "id": "asu-d7-6",
