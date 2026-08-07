@@ -6377,7 +6377,11 @@
         "Last check-in of the week 👇\n\nOne word: how do you WANT to feel next week?\n\nWe'll start: \"Lighter.\" Your turn — then let's make it happen 👇"
       ],
       "when": "2026-08-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "152206688762695_1714033433945488"
+      },
+      "posted_at": "2026-08-07T16:05:40+00:00"
     },
     {
       "id": "ahd-d7-7-fb",
@@ -7427,7 +7431,12 @@
       "message": "😄 সপ্তাহান্ত দ্রুত, কর্মদিবস ধীর — অদ্ভুত না? আপনার সপ্তাহ কেমন গেল? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_7.png",
       "when": "2026-08-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354778460105391",
+        "post_id": "1191612787659871_1354778516772052"
+      },
+      "posted_at": "2026-08-07T16:05:53+00:00"
     },
     {
       "id": "ard-d7-8",
@@ -8051,7 +8060,11 @@
       "type": "text",
       "message": "Chill of the week 👇\n\nMy phone's photo app made a 'memories' video titled *'You & Him ❤️'*.\n\nEvery photo was of me sleeping. I live alone.\n\n😳 React 😱 and tag someone who needs to lose sleep tonight.",
       "when": "2026-08-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1485156023636092"
+      },
+      "posted_at": "2026-08-07T16:06:04+00:00"
     },
     {
       "id": "asu-d7-4",
