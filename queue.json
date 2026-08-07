@@ -7248,7 +7248,12 @@
       "message": "😴 প্রতিদিনের প্রতিজ্ঞা, প্রতিদিন ভাঙে। কে কে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_7.png",
       "when": "2026-08-06T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354201760163061",
+        "post_id": "1191612787659871_1354201783496392"
+      },
+      "posted_at": "2026-08-07T00:11:17+00:00"
     },
     {
       "id": "ard-d6-8",
@@ -7257,7 +7262,11 @@
       "type": "text",
       "message": "মজার প্রশ্ন 👇\n\nআপনার সবচেয়ে *অকাজের* কিন্তু প্রিয় অভ্যাসটা কী?\n\nআমরা শুরু করি: বিছানায় শুয়ে ঘণ্টার পর ঘণ্টা রিলস 📱\n\nআপনারটা বলুন 😄👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-06T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1354201876829716"
+      },
+      "posted_at": "2026-08-07T00:11:28+00:00"
     },
     {
       "id": "ard-d7-1",
@@ -7855,7 +7864,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI live alone, so I set two plates out sometimes just to feel less lonely.\n\nLast night, both plates were empty in the morning.\n\n😳 React 😱 if you'd move out.",
       "when": "2026-08-06T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1484549810363380"
+      },
+      "posted_at": "2026-08-07T00:11:43+00:00"
     },
     {
       "id": "asu-d6-4",
@@ -7865,8 +7878,14 @@
       "message": "👀 Quick — which row breaks the pattern? 👇",
       "image_url": "images/aug_suspense/d6_4.png",
       "when": "2026-08-06T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "♠️ ANSWER: Row 2 — the club at the end. ♣️"
+      "status": "posted",
+      "first_comment": "♠️ ANSWER: Row 2 — the club at the end. ♣️",
+      "result": {
+        "id": "1484549913696703",
+        "post_id": "2642505565823038_1484549943696700",
+        "first_comment_id": "1484549943696700_3680008875470371"
+      },
+      "posted_at": "2026-08-07T00:12:03+00:00"
     },
     {
       "id": "asu-d6-5",
@@ -7876,7 +7895,12 @@
       "message": "📱 So who's at the window? React 😱 👇",
       "image_url": "images/aug_suspense/d6_5.png",
       "when": "2026-08-06T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1484550097030018",
+        "post_id": "2642505565823038_1484550123696682"
+      },
+      "posted_at": "2026-08-07T00:12:20+00:00"
     },
     {
       "id": "asu-d6-6",
@@ -7886,8 +7910,14 @@
       "message": "🧠 Simple but sneaky. Comment your answer 👇",
       "image_url": "images/aug_suspense/d6_6.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🧺 ANSWER: A towel. 🚿"
+      "status": "posted",
+      "first_comment": "🧺 ANSWER: A towel. 🚿",
+      "result": {
+        "id": "1484550223696672",
+        "post_id": "2642505565823038_1484550250363336",
+        "first_comment_id": "1484550250363336_1642642847863593"
+      },
+      "posted_at": "2026-08-07T00:12:42+00:00"
     },
     {
       "id": "asu-d7-1",
@@ -8199,7 +8229,12 @@
       "message": "🕰️ 1999 — the year film broke open.\n\nThe Matrix rewrote action. Fight Club rewired a generation's sense of humour. The Sixth Sense made the twist ending a genre. Being John Malkovich proved weird could be mainstream. Magnolia went for broke. The Blair Witch Project invented modern found footage on almost no money.\n\nOne year. All of them still argued about today.\n\nWhat made it possible: studios were still funding mid-budget films for adults. That's the part we actually lost.\n\n👇 Comment: which 1999 film holds up best?\n\n🔁 Share this with someone who was there for it.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d6_2.png",
       "when": "2026-08-06T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200190258787954",
+        "post_id": "628257647029140_122200190276787954"
+      },
+      "posted_at": "2026-08-07T00:12:55+00:00"
     },
     {
       "id": "tmr-w1-d6-3",
@@ -8209,7 +8244,12 @@
       "message": "⚔️ Honest question, and people get heated about this one.\n\nThe case for TRUE: you spend two hours in the film and five minutes in the ending. Great characters and craft carry more weight than the landing.\n\nThe case for FALSE: the ending is what you leave with. It rewrites everything before it. A bad one genuinely ruins the rewatch.\n\nThere are famous films on both sides — you're probably already thinking of one.\n\n👇 Comment TRUE or FALSE — and name the film that proves your point.\n\n🔁 Share this and let the comments fight it out.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema #MovieOpinions #FilmLovers #UnpopularOpinion\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d6_3.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200190318787954",
+        "post_id": "628257647029140_122200190342787954"
+      },
+      "posted_at": "2026-08-07T00:13:08+00:00"
     },
     {
       "id": "tmr-w1-d7-1",
@@ -9295,7 +9335,12 @@
       "message": "The front of the packet is marketing. The back is information.\n\n\"Natural\", \"light\" and \"multigrain\" are marketing terms with little regulated meaning. The ingredients list and nutrition panel tell you what's actually there. Two quick habits: ingredients are listed by weight, so the first few dominate — and check sugar and salt per 100g to compare products fairly.\n\nDo you check labels, or go by the front of the pack?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyeating #nutrition #foodlabels #healthyshopping #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080617.png",
       "when": "2026-08-06T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713352554013576",
+        "post_id": "152206688762695_1713352574013574"
+      },
+      "posted_at": "2026-08-07T00:13:23+00:00"
     },
     {
       "id": "hdw1-2026080617-ig",
@@ -9305,7 +9350,12 @@
       "message": "The front of the packet is marketing. The back is information.\n\n\"Natural\", \"light\" and \"multigrain\" are marketing terms with little regulated meaning. The ingredients list and nutrition panel tell you what's actually there. Two quick habits: ingredients are listed by weight, so the first few dominate — and check sugar and salt per 100g to compare products fairly.\n\nDo you check labels, or go by the front of the pack?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyeating #nutrition #foodlabels #healthyshopping #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080617.png",
       "when": "2026-08-06T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17986138727850716",
+        "permalink": "https://www.instagram.com/p/Dbt-aykjUtp/"
+      },
+      "posted_at": "2026-08-07T00:13:45+00:00"
     },
     {
       "id": "hdw1-2026080623-fb",
@@ -9315,7 +9365,12 @@
       "message": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bonehealth #healthyaging #calcium #vitamind #dailyhealthtips #wellness #strengthtraining\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080623.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713352950680203",
+        "post_id": "152206688762695_1713352990680199"
+      },
+      "posted_at": "2026-08-07T00:13:58+00:00"
     },
     {
       "id": "hdw1-2026080623-ig",
@@ -9325,7 +9380,12 @@
       "message": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bonehealth #healthyaging #calcium #vitamind #dailyhealthtips #wellness #strengthtraining\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080623.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17970510194934954",
+        "permalink": "https://www.instagram.com/p/Dbt-ftkDXtx/"
+      },
+      "posted_at": "2026-08-07T00:14:25+00:00"
     },
     {
       "id": "ard-fresh1-1",
