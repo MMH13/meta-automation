@@ -8121,7 +8121,11 @@
       "type": "text",
       "message": "Last two-line horror of the week 👇\n\nEvery night my dog barks at the empty hallway.\n\nTonight he came and hid behind me — and something in the hallway kept barking back.\n\n😳 React 😱. Sleep tight.",
       "when": "2026-08-07T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1485414946943533"
+      },
+      "posted_at": "2026-08-07T23:42:18+00:00"
     },
     {
       "id": "tmr-w1-d1-1",
@@ -8431,7 +8435,12 @@
       "message": "🗳️ End of week one. Thanks to everyone who actually commented — you're the reason this page works.\n\nQuick round-up of where you landed: the practical-vs-CGI thread was the closest fight, and The Odyssey split the room exactly like the critics did.\n\nNow you pick the agenda. What should this page cover next week?\n\n→ A review of a specific film (name it)\n→ A deep dive on one actor or director\n→ More quizzes and riddles\n→ Underrated films nobody talks about\n\n👇 Comment what you want. We'll build next week around the top answers.\n\n🔁 Share this if you want the page to keep going.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d7_3.png",
       "when": "2026-08-07T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200292606787954",
+        "post_id": "628257647029140_122200292624787954"
+      },
+      "posted_at": "2026-08-07T23:42:29+00:00"
     },
     {
       "id": "tmrs-0731-13",
