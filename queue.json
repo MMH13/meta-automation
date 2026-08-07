@@ -6316,7 +6316,12 @@
       "message": "🫒 Not all fat is the enemy. Extra-virgin olive oil is rich in the kind linked to better heart health — a smarter everyday choice than heavily refined oils.\n\n→ Great drizzled raw over salad or dal\n→ A little goes a long way (still calorie-dense)\n→ Real EVOO tastes peppery, not flat\n\n💚 Bookmark this. You'll need it later.\n💬 What oil do you cook with? 👇",
       "image_url": "images/aug_hd/d7_4.png",
       "when": "2026-08-07T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713787980636700",
+        "post_id": "152206688762695_1713788000636698"
+      },
+      "posted_at": "2026-08-07T11:02:40+00:00"
     },
     {
       "id": "ahd-d7-4-ig",
@@ -6326,7 +6331,12 @@
       "message": "🫒 Not all fat is the enemy. Extra-virgin olive oil is rich in the kind linked to better heart health — a smarter everyday choice than heavily refined oils.\n\n→ Great drizzled raw over salad or dal\n→ A little goes a long way (still calorie-dense)\n→ Real EVOO tastes peppery, not flat\n\n💚 Bookmark this. You'll need it later.\n💬 What oil do you cook with? 👇",
       "image_url": "images/aug_hd/d7_4.png",
       "when": "2026-08-07T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18136268449612143",
+        "permalink": "https://www.instagram.com/p/DbvIuKym3RA/"
+      },
+      "posted_at": "2026-08-07T11:03:01+00:00"
     },
     {
       "id": "ahd-d7-5-fb",
@@ -7983,8 +7993,14 @@
       "message": "🧠 Nice and simple. Answer before the pin 👇",
       "image_url": "images/aug_suspense/d7_1.png",
       "when": "2026-08-07T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🕯️ ANSWER: A candle. 🔥"
+      "status": "posted",
+      "first_comment": "🕯️ ANSWER: A candle. 🔥",
+      "result": {
+        "id": "1484933966991631",
+        "post_id": "2642505565823038_1484933990324962",
+        "first_comment_id": "1484933990324962_1947978452518418"
+      },
+      "posted_at": "2026-08-07T11:03:19+00:00"
     },
     {
       "id": "asu-d7-2",
