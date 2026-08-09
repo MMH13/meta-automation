@@ -9872,7 +9872,12 @@
       "message": "😅 শাশুড়ি বনাম বউ, রাউন্ড ১! এই পরিস্থিতিতে আপনি কার পক্ষে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_vintage1/1.png",
       "when": "2026-08-09T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1356059839977253",
+        "post_id": "1191612787659871_1356059856643918"
+      },
+      "posted_at": "2026-08-09T07:10:20+00:00"
     },
     {
       "id": "deshal-vjoke1-2",
@@ -12312,8 +12317,14 @@
       "message": "ChatGPT-এ এই ৭টা সেটিংস বেশিরভাগ মানুষ কখনো ওপেনই করে না!\nঅথচ এগুলো ব্যবহার করলে আপনার প্রতিদিনের কাজ অর্ধেক সময়ে শেষ হয়ে যাবে 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/00.png",
       "when": "2026-08-08T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Custom Instructions** — প্রতিবার নিজের প্রফেশন/স্টাইল না বলে একবার সেট করে রাখুন, ChatGPT সব উত্তর সেভাবেই দিবে।\n**Memory** — আগের কথোপকথন মনে রাখে, বারবার কনটেক্সট রিপিট করা লাগবে না।\n**Projects/Folders** — একই টপিকের চ্যাটগুলো একসাথে রাখুন, ছড়িয়ে-ছিটিয়ে থাকবে না।\n**Voice Mode** — টাইপ না করে কথা বলেই ব্রেইনস্টর্ম করুন, অনেক দ্রুত।\n**Advanced Data Analysis** — এক্সেল/CSV ফাইল আপলোড করে সরাসরি অ্যানালাইসিস করান।\n**Scheduled Tasks** — রোজ একই সময়ে রিপোর্ট/সামারি অটো পাঠাতে সেট করে রাখুন।\n**Temporary Chat** — সেনসিটিভ কথোপকথন হিস্টোরিতে সেভ না করে আলাদা রাখুন।"
+      "status": "posted",
+      "first_comment": "**Custom Instructions** — প্রতিবার নিজের প্রফেশন/স্টাইল না বলে একবার সেট করে রাখুন, ChatGPT সব উত্তর সেভাবেই দিবে।\n**Memory** — আগের কথোপকথন মনে রাখে, বারবার কনটেক্সট রিপিট করা লাগবে না।\n**Projects/Folders** — একই টপিকের চ্যাটগুলো একসাথে রাখুন, ছড়িয়ে-ছিটিয়ে থাকবে না।\n**Voice Mode** — টাইপ না করে কথা বলেই ব্রেইনস্টর্ম করুন, অনেক দ্রুত।\n**Advanced Data Analysis** — এক্সেল/CSV ফাইল আপলোড করে সরাসরি অ্যানালাইসিস করান।\n**Scheduled Tasks** — রোজ একই সময়ে রিপোর্ট/সামারি অটো পাঠাতে সেট করে রাখুন।\n**Temporary Chat** — সেনসিটিভ কথোপকথন হিস্টোরিতে সেভ না করে আলাদা রাখুন।",
+      "result": {
+        "id": "1364395902507594",
+        "post_id": "102695371717364_1364395919174259",
+        "first_comment_id": "1364395919174259_1024418167104370"
+      },
+      "posted_at": "2026-08-09T07:10:33+00:00"
     },
     {
       "id": "mamun-shamim1-00-1",
@@ -12323,8 +12334,14 @@
       "message": "আপনার ফোনের প্রতিটা AI অ্যাপ আসলে আপনার সম্পর্কে যা যা জানে,\nসেটা দেখলে আপনি অবাক হবেন! ৫টা জায়গা দেখুন কীভাবে চেক করবেন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/01.png",
       "when": "2026-08-08T15:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ChatGPT Data Controls** — Settings → Data Controls থেকে দেখুন কী সেভ হচ্ছে, চাইলে অফ করুন।\n**Google Gemini Activity** — myactivity.google.com এ পুরো হিস্টোরি দেখা যায়।\n**ফোনের AI Assistant Permissions** — মাইক্রোফোন/লোকেশন এক্সেস কোন অ্যাপে অন আছে চেক করুন।\n**ব্রাউজার এক্সটেনশন পারমিশন** — অনেক 'ফ্রি AI টুল' এক্সটেনশন আপনার ব্রাউজিং ডেটা কালেক্ট করে।\n**কাস্টম GPT/Agent Memory** — থার্ড-পার্টি GPT ব্যবহার করলে তাদেরও আলাদা মেমোরি থাকতে পারে, চেক করুন।"
+      "status": "posted",
+      "first_comment": "**ChatGPT Data Controls** — Settings → Data Controls থেকে দেখুন কী সেভ হচ্ছে, চাইলে অফ করুন।\n**Google Gemini Activity** — myactivity.google.com এ পুরো হিস্টোরি দেখা যায়।\n**ফোনের AI Assistant Permissions** — মাইক্রোফোন/লোকেশন এক্সেস কোন অ্যাপে অন আছে চেক করুন।\n**ব্রাউজার এক্সটেনশন পারমিশন** — অনেক 'ফ্রি AI টুল' এক্সটেনশন আপনার ব্রাউজিং ডেটা কালেক্ট করে।\n**কাস্টম GPT/Agent Memory** — থার্ড-পার্টি GPT ব্যবহার করলে তাদেরও আলাদা মেমোরি থাকতে পারে, চেক করুন।",
+      "result": {
+        "id": "1364396042507580",
+        "post_id": "102695371717364_1364396055840912",
+        "first_comment_id": "1364396055840912_1739449873945040"
+      },
+      "posted_at": "2026-08-09T07:10:47+00:00"
     },
     {
       "id": "mamun-shamim1-01-0",
@@ -12334,8 +12351,14 @@
       "message": "মাত্র লঞ্চ হওয়া অথচ ইতিমধ্যে ভাইরাল ৬টি AI টুল,\nযেগুলো আপনি এখনো ট্রাই করেননি 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/02.png",
       "when": "2026-08-09T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**NotebookLM** — নিজের ডকুমেন্ট আপলোড করে সেটা থেকেই প্রশ্ন-উত্তর, এমনকি পডকাস্টও বানানো যায়।\n**Perplexity Comet** — রিসার্চের জন্য সোর্স-সহ উত্তর দেয়, Google সার্চের চেয়ে দ্রুত।\n**Cursor** — কোড লেখার সময় AI সরাসরি এডিটরের ভেতরেই সাজেশন দেয়।\n**ElevenLabs** — যেকোনো টেক্সটকে রিয়েলিস্টিক ভয়েসে কনভার্ট করে, ভিডিওর ভয়েসওভারে দারুণ।\n**ChatGPT Agent Mode** — শুধু উত্তর না, নিজে থেকে ব্রাউজ করে টাস্ক শেষ করে দেয়।\n**Google Veo** — টেক্সট দিয়ে সিনেমাটিক ভিডিও ক্লিপ বানানো যায়।"
+      "status": "posted",
+      "first_comment": "**NotebookLM** — নিজের ডকুমেন্ট আপলোড করে সেটা থেকেই প্রশ্ন-উত্তর, এমনকি পডকাস্টও বানানো যায়।\n**Perplexity Comet** — রিসার্চের জন্য সোর্স-সহ উত্তর দেয়, Google সার্চের চেয়ে দ্রুত।\n**Cursor** — কোড লেখার সময় AI সরাসরি এডিটরের ভেতরেই সাজেশন দেয়।\n**ElevenLabs** — যেকোনো টেক্সটকে রিয়েলিস্টিক ভয়েসে কনভার্ট করে, ভিডিওর ভয়েসওভারে দারুণ।\n**ChatGPT Agent Mode** — শুধু উত্তর না, নিজে থেকে ব্রাউজ করে টাস্ক শেষ করে দেয়।\n**Google Veo** — টেক্সট দিয়ে সিনেমাটিক ভিডিও ক্লিপ বানানো যায়।",
+      "result": {
+        "id": "1364396169174234",
+        "post_id": "102695371717364_1364396182507566",
+        "first_comment_id": "1364396182507566_1053054704138147"
+      },
+      "posted_at": "2026-08-09T07:10:59+00:00"
     },
     {
       "id": "mamun-shamim1-01-1",
@@ -12612,8 +12635,14 @@
       "message": "রিমোট জব খোঁজার জন্য সেরা ৬টি ওয়েবসাইট,\nবেশিরভাগ মানুষ শুধু LinkedIn এই আটকে থাকে 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-04-01.png",
       "when": "2026-08-04T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**We Work Remotely** — শুধু রিমোট জবের জন্য ডেডিকেটেড।\n**Remote OK** — টেক ও নন-টেক দুই ধরনের জবই আছে।\n**AngelList (Wellfound)** — স্টার্টআপ জবের জন্য সেরা।\n**Toptal** — হাই-স্কিলড ফ্রিল্যান্স/রিমোট কাজের জন্য।\n**FlexJobs** — ভেরিফায়েড লিস্টিং, স্ক্যাম কম।\n**Working Nomads** — কিউরেটেড রিমোট জব নিউজলেটার।"
+      "status": "posted",
+      "first_comment": "**We Work Remotely** — শুধু রিমোট জবের জন্য ডেডিকেটেড।\n**Remote OK** — টেক ও নন-টেক দুই ধরনের জবই আছে।\n**AngelList (Wellfound)** — স্টার্টআপ জবের জন্য সেরা।\n**Toptal** — হাই-স্কিলড ফ্রিল্যান্স/রিমোট কাজের জন্য।\n**FlexJobs** — ভেরিফায়েড লিস্টিং, স্ক্যাম কম।\n**Working Nomads** — কিউরেটেড রিমোট জব নিউজলেটার।",
+      "result": {
+        "id": "1364396302507554",
+        "post_id": "102695371717364_1364396312507553",
+        "first_comment_id": "1364396312507553_1393974559470786"
+      },
+      "posted_at": "2026-08-09T07:11:11+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-04-04",
@@ -12623,8 +12652,14 @@
       "message": "মিটিং এর নোট নিতে নিতে আসল আলোচনা মিস করে ফেলেন?\nAI দিয়ে অটো-নোট নেওয়ার ৩টা টুল 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-04-04.png",
       "when": "2026-08-04T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Otter.ai** — রিয়েল-টাইম ট্রান্সক্রিপশন + অটো-সামারি।\n**Google Meet/Zoom বিল্ট-ইন AI নোট** — অনেক প্ল্যানেই এখন ফ্রি পাওয়া যায়।\n**Notion AI** — মিটিংয়ের পর ট্রান্সক্রিপ্ট পেস্ট করে অ্যাকশন-আইটেম বের করান।"
+      "status": "posted",
+      "first_comment": "**Otter.ai** — রিয়েল-টাইম ট্রান্সক্রিপশন + অটো-সামারি।\n**Google Meet/Zoom বিল্ট-ইন AI নোট** — অনেক প্ল্যানেই এখন ফ্রি পাওয়া যায়।\n**Notion AI** — মিটিংয়ের পর ট্রান্সক্রিপ্ট পেস্ট করে অ্যাকশন-আইটেম বের করান।",
+      "result": {
+        "id": "1364396455840872",
+        "post_id": "102695371717364_1364396475840870",
+        "first_comment_id": "1364396475840870_1037871042214327"
+      },
+      "posted_at": "2026-08-09T07:11:26+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-04-10",
@@ -12634,8 +12669,14 @@
       "message": "আপনার সেভ করা পাসওয়ার্ড ব্রাউজারে যেভাবে পড়ে থাকে,\nযে কেউ ২ মিনিটে দেখে ফেলতে পারে! কীভাবে সেফ রাখবেন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-04-10.png",
       "when": "2026-08-04T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Browser Saved Passwords চেক করুন** — Settings → Passwords এ গিয়ে দেখুন কী কী সেভ আছে।\n**Master Password/Lock সেট করুন** — বেশিরভাগ ব্রাউজার এই অপশন দেয়, কিন্তু ডিফল্টে অফ থাকে।\n**পাবলিক/শেয়ার্ড কম্পিউটারে কখনো 'Save Password' চাপবেন না।**\n**একটা প্রপার Password Manager ব্যবহার করুন** — ব্রাউজারের বদলে আলাদা অ্যাপে সেভ করুন।"
+      "status": "posted",
+      "first_comment": "**Browser Saved Passwords চেক করুন** — Settings → Passwords এ গিয়ে দেখুন কী কী সেভ আছে।\n**Master Password/Lock সেট করুন** — বেশিরভাগ ব্রাউজার এই অপশন দেয়, কিন্তু ডিফল্টে অফ থাকে।\n**পাবলিক/শেয়ার্ড কম্পিউটারে কখনো 'Save Password' চাপবেন না।**\n**একটা প্রপার Password Manager ব্যবহার করুন** — ব্রাউজারের বদলে আলাদা অ্যাপে সেভ করুন।",
+      "result": {
+        "id": "1364396659174185",
+        "post_id": "102695371717364_1364396672507517",
+        "first_comment_id": "1364396672507517_28193416096959685"
+      },
+      "posted_at": "2026-08-09T07:11:38+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-04-13",
@@ -12645,8 +12686,14 @@
       "message": "গ্রাফিক ডিজাইনার হায়ার করে সপ্তাহ অপেক্ষা করার দিন শেষ।\nAI দিয়ে ১০ মিনিটে সোশ্যাল মিডিয়া কিট বানান 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-04-13.png",
       "when": "2026-08-04T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: Canva Magic Design এ ব্র্যান্ড কালার+লোগো আপলোড করুন।**\n**ধাপ ২: টেমপ্লেট সিলেক্ট করে টেক্সট বসান।**\n**ধাপ ৩: এক ক্লিকে সব সাইজে (পোস্ট/স্টোরি/কভার) রিসাইজ করে ডাউনলোড করুন।**"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: Canva Magic Design এ ব্র্যান্ড কালার+লোগো আপলোড করুন।**\n**ধাপ ২: টেমপ্লেট সিলেক্ট করে টেক্সট বসান।**\n**ধাপ ৩: এক ক্লিকে সব সাইজে (পোস্ট/স্টোরি/কভার) রিসাইজ করে ডাউনলোড করুন।**",
+      "result": {
+        "id": "1364396802507504",
+        "post_id": "102695371717364_1364396819174169",
+        "first_comment_id": "1364396819174169_2395995891206947"
+      },
+      "posted_at": "2026-08-09T07:11:50+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-05-01",
@@ -12656,8 +12703,14 @@
       "message": "আপনি যদি রোজ প্ল্যান বানান কিন্তু শেষ করতে পারেন না-\nসমস্যাটা মোটিভেশন না, আপনার Plan-ই বেশি বড়! ৩টা পয়েন্ট 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-05-01.png",
       "when": "2026-08-05T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**দিনে ৩টার বেশি 'বড়' টাস্ক রাখবেন না** — বেশি রাখলে একটাতেও পুরো ফোকাস দিতে পারবেন না।\n**বড় কাজকে ৩টা ছোট ধাপে ভাঙুন** — 'ওয়েবসাইট বানানো' না, 'হোমপেজের কনটেন্ট লেখা' দিয়ে শুরু করুন।\n**দিনের শেষে ১টা কাজ শেষ হওয়াই যথেষ্ট** — পারফেকশন না, কনসিস্টেন্সিই আসল।"
+      "status": "posted",
+      "first_comment": "**দিনে ৩টার বেশি 'বড়' টাস্ক রাখবেন না** — বেশি রাখলে একটাতেও পুরো ফোকাস দিতে পারবেন না।\n**বড় কাজকে ৩টা ছোট ধাপে ভাঙুন** — 'ওয়েবসাইট বানানো' না, 'হোমপেজের কনটেন্ট লেখা' দিয়ে শুরু করুন।\n**দিনের শেষে ১টা কাজ শেষ হওয়াই যথেষ্ট** — পারফেকশন না, কনসিস্টেন্সিই আসল।",
+      "result": {
+        "id": "1364397035840814",
+        "post_id": "102695371717364_1364397045840813",
+        "first_comment_id": "1364397045840813_1886211356166979"
+      },
+      "posted_at": "2026-08-09T07:12:03+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-05-04",
@@ -12666,7 +12719,11 @@
       "type": "text",
       "message": "Meta এখন প্রতিটা অ্যাপে AI ফিচার গুঁজে দিচ্ছে, ইউজাররা চাক বা না চাক।\n\nসামনে opt-out অপশন না রাখলে বড় ব্যাকল্যাশ আসবে।",
       "when": "2026-08-05T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "102695371717364_1364397195840798"
+      },
+      "posted_at": "2026-08-09T07:12:12+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-05-10",
@@ -12676,8 +12733,14 @@
       "message": "প্রতিদিন একই প্রশ্নের উত্তর বার বার টাইপ করতে করতে ক্লান্ত?\n৪টা AI অটোমেশন আইডিয়া 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-05-10.png",
       "when": "2026-08-05T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**FAQ চ্যাটবট সেটআপ করুন** — Messenger/WhatsApp এ কমন প্রশ্নের অটো-রিপ্লাই।\n**Canned Response টেমপ্লেট বানান, AI দিয়ে** — বার বার লেখা লাগবে না, একবার সেভ করে রাখুন।\n**Email Auto-responder** — কমন ইনকোয়ারির জন্য AI-লেখা স্ট্যান্ডার্ড রিপ্লাই সেট করুন।\n**একটা Knowledge Base পেজ বানান** — কাস্টমারকে সরাসরি লিংক পাঠান।"
+      "status": "posted",
+      "first_comment": "**FAQ চ্যাটবট সেটআপ করুন** — Messenger/WhatsApp এ কমন প্রশ্নের অটো-রিপ্লাই।\n**Canned Response টেমপ্লেট বানান, AI দিয়ে** — বার বার লেখা লাগবে না, একবার সেভ করে রাখুন।\n**Email Auto-responder** — কমন ইনকোয়ারির জন্য AI-লেখা স্ট্যান্ডার্ড রিপ্লাই সেট করুন।\n**একটা Knowledge Base পেজ বানান** — কাস্টমারকে সরাসরি লিংক পাঠান।",
+      "result": {
+        "id": "1364397332507451",
+        "post_id": "102695371717364_1364397365840781",
+        "first_comment_id": "1364397365840781_1616423149900505"
+      },
+      "posted_at": "2026-08-09T07:12:33+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-05-13",
@@ -12687,8 +12750,14 @@
       "message": "নিজের স্কিল শেখার জন্য সেরা ৬টি ফ্রি কোর্স প্ল্যাটফর্ম 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-05-13.png",
       "when": "2026-08-05T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Coursera (Audit Mode)** — বিশ্ববিদ্যালয়ের কোর্স ফ্রিতে দেখা যায়, শুধু সার্টিফিকেট পেইড।\n**freeCodeCamp** — কোডিং শেখার জন্য সম্পূর্ণ ফ্রি, প্রজেক্ট-বেসড।\n**Google Digital Garage** — মার্কেটিং ও ডিজিটাল স্কিলের জন্য।\n**YouTube (নির্দিষ্ট চ্যানেল ফলো করে)** — র‍্যান্ডম না, একটা স্ট্রাকচার্ড প্লেলিস্ট বেছে নিন।\n**Khan Academy** — বেসিক থেকে অ্যাডভান্সড, যেকোনো বিষয়ে।\n**HubSpot Academy** — মার্কেটিং/সেলস সার্টিফিকেশন সম্পূর্ণ ফ্রি।"
+      "status": "posted",
+      "first_comment": "**Coursera (Audit Mode)** — বিশ্ববিদ্যালয়ের কোর্স ফ্রিতে দেখা যায়, শুধু সার্টিফিকেট পেইড।\n**freeCodeCamp** — কোডিং শেখার জন্য সম্পূর্ণ ফ্রি, প্রজেক্ট-বেসড।\n**Google Digital Garage** — মার্কেটিং ও ডিজিটাল স্কিলের জন্য।\n**YouTube (নির্দিষ্ট চ্যানেল ফলো করে)** — র‍্যান্ডম না, একটা স্ট্রাকচার্ড প্লেলিস্ট বেছে নিন।\n**Khan Academy** — বেসিক থেকে অ্যাডভান্সড, যেকোনো বিষয়ে।\n**HubSpot Academy** — মার্কেটিং/সেলস সার্টিফিকেশন সম্পূর্ণ ফ্রি।",
+      "result": {
+        "id": "1364397515840766",
+        "post_id": "102695371717364_1364397579174093",
+        "first_comment_id": "1364397579174093_1438224301469359"
+      },
+      "posted_at": "2026-08-09T07:12:50+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-06-01",
@@ -12698,8 +12767,14 @@
       "message": "কাস্টমার সাপোর্টের জন্য সারাদিন বসে থাকার দরকার নাই।\nAI চ্যাটবট দিয়ে ২৪/৭ অটো-রিপ্লাই সেটআপ, ৩টা ধাপ 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-06-01.png",
       "when": "2026-08-06T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: কমন ১০-১৫টা প্রশ্ন ও উত্তর লিস্ট করুন।**\n**ধাপ ২: Meta Business Suite এর Automated Responses এ সেটআপ করুন।**\n**ধাপ ৩: জটিল প্রশ্নের জন্য 'হিউম্যান এজেন্ট' এ হ্যান্ডঅফ অপশন রাখুন।**"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: কমন ১০-১৫টা প্রশ্ন ও উত্তর লিস্ট করুন।**\n**ধাপ ২: Meta Business Suite এর Automated Responses এ সেটআপ করুন।**\n**ধাপ ৩: জটিল প্রশ্নের জন্য 'হিউম্যান এজেন্ট' এ হ্যান্ডঅফ অপশন রাখুন।**",
+      "result": {
+        "id": "1364397759174075",
+        "post_id": "102695371717364_1364397782507406",
+        "first_comment_id": "1364397782507406_1053708353816661"
+      },
+      "posted_at": "2026-08-09T07:13:03+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-06-04",
@@ -12709,8 +12784,14 @@
       "message": "আপনার প্রতিদিনের অনলাইন কেনাকাটার ডেটা\nআসলে কোন কোন কোম্পানির কাছে বিক্রি হচ্ছে জানেন? ৩টা জায়গা চেক করুন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-06-04.png",
       "when": "2026-08-06T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**অ্যাপের Privacy Policy তে 'Third-Party Sharing' সেকশন** — বেশিরভাগ মানুষ এটা কখনো পড়েই না।\n**Ad Personalization সেটিংস** — Google/Facebook একাউন্টে গিয়ে দেখুন কী কী ক্যাটাগরিতে টার্গেট করা হচ্ছে।\n**লয়্যালটি কার্ড/অ্যাপ পারমিশন** — অনেক লয়্যালটি প্রোগ্রাম কেনাকাটার ডেটা থার্ড-পার্টির সাথে শেয়ার করে।"
+      "status": "posted",
+      "first_comment": "**অ্যাপের Privacy Policy তে 'Third-Party Sharing' সেকশন** — বেশিরভাগ মানুষ এটা কখনো পড়েই না।\n**Ad Personalization সেটিংস** — Google/Facebook একাউন্টে গিয়ে দেখুন কী কী ক্যাটাগরিতে টার্গেট করা হচ্ছে।\n**লয়্যালটি কার্ড/অ্যাপ পারমিশন** — অনেক লয়্যালটি প্রোগ্রাম কেনাকাটার ডেটা থার্ড-পার্টির সাথে শেয়ার করে।",
+      "result": {
+        "id": "1364397919174059",
+        "post_id": "102695371717364_1364397935840724",
+        "first_comment_id": "1364397935840724_1834969227668687"
+      },
+      "posted_at": "2026-08-09T07:13:16+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-06-10",
@@ -12720,8 +12801,14 @@
       "message": "প্রফেশনাল হেডশট AI দিয়ে বানানোর সেরা ৫টি টুল 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-06-10.png",
       "when": "2026-08-06T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Remini** — সাধারণ ছবি থেকে হাই-কোয়ালিটি প্রফেশনাল হেডশট।\n**Aragon AI** — LinkedIn-রেডি হেডশট নির্দিষ্টভাবে।\n**Canva Photo Editor** — ব্যাকগ্রাউন্ড+লাইটিং ম্যানুয়ালি ঠিক করতে।\n**Headshot Pro** — মাল্টিপল স্টাইল ভ্যারিয়েশন।\n**PhotoAI** — বিভিন্ন প্রফেশনাল সেটিং-এ নিজের ছবি জেনারেট করে।"
+      "status": "posted",
+      "first_comment": "**Remini** — সাধারণ ছবি থেকে হাই-কোয়ালিটি প্রফেশনাল হেডশট।\n**Aragon AI** — LinkedIn-রেডি হেডশট নির্দিষ্টভাবে।\n**Canva Photo Editor** — ব্যাকগ্রাউন্ড+লাইটিং ম্যানুয়ালি ঠিক করতে।\n**Headshot Pro** — মাল্টিপল স্টাইল ভ্যারিয়েশন।\n**PhotoAI** — বিভিন্ন প্রফেশনাল সেটিং-এ নিজের ছবি জেনারেট করে।",
+      "result": {
+        "id": "1364398075840710",
+        "post_id": "102695371717364_1364398099174041",
+        "first_comment_id": "1364398099174041_1086501930707957"
+      },
+      "posted_at": "2026-08-09T07:13:28+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-06-13",
@@ -12731,8 +12818,14 @@
       "message": "রেজুমে পাঠিয়ে পাঠিয়ে কোনো রিপ্লাই পাচ্ছেন না?\nAI দিয়ে রেজুমে অপ্টিমাইজ করার ৪টা ধাপ 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-06-13.png",
       "when": "2026-08-06T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**প্রতিটা জব পোস্টের জন্য আলাদা করে কাস্টমাইজ করুন** — একই রেজুমে সব জায়গায় পাঠানো সবচেয়ে বড় ভুল।\n**জব পোস্টের কীওয়ার্ড রেজুমেতে যোগ করুন** — AI দিয়ে ম্যাচ করিয়ে দেখুন কী মিসিং।\n**সংখ্যা দিয়ে অর্জন লিখুন** — 'সেলস বাড়িয়েছি' না, '৩ মাসে সেলস ৩০% বাড়িয়েছি'।\n**AI দিয়ে ২-৩ বার প্রুফরিড করান** — ছোট ভুলও রিজেকশনের কারণ হতে পারে।"
+      "status": "posted",
+      "first_comment": "**প্রতিটা জব পোস্টের জন্য আলাদা করে কাস্টমাইজ করুন** — একই রেজুমে সব জায়গায় পাঠানো সবচেয়ে বড় ভুল।\n**জব পোস্টের কীওয়ার্ড রেজুমেতে যোগ করুন** — AI দিয়ে ম্যাচ করিয়ে দেখুন কী মিসিং।\n**সংখ্যা দিয়ে অর্জন লিখুন** — 'সেলস বাড়িয়েছি' না, '৩ মাসে সেলস ৩০% বাড়িয়েছি'।\n**AI দিয়ে ২-৩ বার প্রুফরিড করান** — ছোট ভুলও রিজেকশনের কারণ হতে পারে।",
+      "result": {
+        "id": "1364398205840697",
+        "post_id": "102695371717364_1364398215840696",
+        "first_comment_id": "1364398215840696_1397042692527694"
+      },
+      "posted_at": "2026-08-09T07:13:39+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-07-01",
@@ -12742,8 +12835,14 @@
       "message": "AI দিয়ে বানানো ভুয়া ভয়েস/ভিডিও এখন এত রিয়েল\nযে চেনার উপায় প্রায় নেই! ৪টা সাইন দেখে বুঝে নিন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-07-01.png",
       "when": "2026-08-07T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**চোখের পলক অস্বাভাবিক** — খুব কম বা খুব বেশি পলক পড়া একটা কমন AI-জেনারেটেড সাইন।\n**আওয়াজ আর ঠোঁটের নড়াচড়া সামান্য মিসম্যাচ** — খুব মনোযোগ দিলে বোঝা যায়।\n**ব্যাকগ্রাউন্ড লাইট/শ্যাডো অসামঞ্জস্যপূর্ণ** — মুখের আলো আর চারপাশের আলো মিলছে না।\n**অস্বাভাবিক আর্জেন্সি** — 'এখনই টাকা পাঠাও' টাইপ ভিডিও/কল হলে সবসময় সন্দেহ করুন, সরাসরি ফোনে যাচাই করুন।"
+      "status": "posted",
+      "first_comment": "**চোখের পলক অস্বাভাবিক** — খুব কম বা খুব বেশি পলক পড়া একটা কমন AI-জেনারেটেড সাইন।\n**আওয়াজ আর ঠোঁটের নড়াচড়া সামান্য মিসম্যাচ** — খুব মনোযোগ দিলে বোঝা যায়।\n**ব্যাকগ্রাউন্ড লাইট/শ্যাডো অসামঞ্জস্যপূর্ণ** — মুখের আলো আর চারপাশের আলো মিলছে না।\n**অস্বাভাবিক আর্জেন্সি** — 'এখনই টাকা পাঠাও' টাইপ ভিডিও/কল হলে সবসময় সন্দেহ করুন, সরাসরি ফোনে যাচাই করুন।",
+      "result": {
+        "id": "1364398365840681",
+        "post_id": "102695371717364_1364398379174013",
+        "first_comment_id": "1364398379174013_1088923683560197"
+      },
+      "posted_at": "2026-08-09T07:13:52+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-07-04",
@@ -12753,8 +12852,14 @@
       "message": "মার্কেট রিসার্চের জন্য এজেন্সি হায়ার করার দিন শেষ।\nAI দিয়ে নিজেই ১ দিনে কাস্টমার-পারসোনা বানান 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-07-04.png",
       "when": "2026-08-07T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: Perplexity/Reddit দিয়ে টার্গেট কাস্টমারের আসল সমস্যা খুঁজুন।**\n**ধাপ ২: ChatGPT কে বলুন এইসব ডেটা থেকে ৩টা কাস্টমার-পারসোনা বানাতে।**\n**ধাপ ৩: প্রতিটা পারসোনার জন্য আলাদা মেসেজিং টেস্ট করুন।**"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: Perplexity/Reddit দিয়ে টার্গেট কাস্টমারের আসল সমস্যা খুঁজুন।**\n**ধাপ ২: ChatGPT কে বলুন এইসব ডেটা থেকে ৩টা কাস্টমার-পারসোনা বানাতে।**\n**ধাপ ৩: প্রতিটা পারসোনার জন্য আলাদা মেসেজিং টেস্ট করুন।**",
+      "result": {
+        "id": "1364398555840662",
+        "post_id": "102695371717364_1364398572507327",
+        "first_comment_id": "1364398572507327_908489358979668"
+      },
+      "posted_at": "2026-08-09T07:14:04+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-07-10",
@@ -12764,8 +12869,14 @@
       "message": "মানুষ আপনার কথা শোনে না?\nসমস্যাটা আপনার Content-এ না, আপনার Delivery-তে! ৩টা পয়েন্ট 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-07-10.png",
       "when": "2026-08-07T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**প্রথম ১০ সেকেন্ডে হুক না থাকলে মানুষ শোনাই বন্ধ করে দেয়।**\n**অতিরিক্ত ডিটেইলে চলে গেলে মূল পয়েন্ট হারিয়ে যায়** — একটা কথায় একটাই মূল বার্তা রাখুন।\n**কনফিডেন্ট টোন ছাড়া সঠিক কথাও দুর্বল শোনায়** — কণ্ঠস্বর আর বডি ল্যাংগুয়েজ কনটেন্টের সমান গুরুত্বপূর্ণ।"
+      "status": "posted",
+      "first_comment": "**প্রথম ১০ সেকেন্ডে হুক না থাকলে মানুষ শোনাই বন্ধ করে দেয়।**\n**অতিরিক্ত ডিটেইলে চলে গেলে মূল পয়েন্ট হারিয়ে যায়** — একটা কথায় একটাই মূল বার্তা রাখুন।\n**কনফিডেন্ট টোন ছাড়া সঠিক কথাও দুর্বল শোনায়** — কণ্ঠস্বর আর বডি ল্যাংগুয়েজ কনটেন্টের সমান গুরুত্বপূর্ণ।",
+      "result": {
+        "id": "1364398675840650",
+        "post_id": "102695371717364_1364398692507315",
+        "first_comment_id": "1364398692507315_1901234941252641"
+      },
+      "posted_at": "2026-08-09T07:14:17+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-07-13",
@@ -12774,7 +12885,11 @@
       "type": "text",
       "message": "Microsoft Copilot অফিস সফটওয়্যারে যেভাবে ঢুকে গেছে, আগামী ২ বছরে এক্সেল/ওয়ার্ড স্কিল শেখার সংজ্ঞাই বদলে যাবে।",
       "when": "2026-08-07T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "102695371717364_1364398795840638"
+      },
+      "posted_at": "2026-08-09T07:14:27+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-08-01",
@@ -12784,8 +12899,14 @@
       "message": "ফ্রিল্যান্সিং প্রোফাইল বানিয়েও কোনো অর্ডার পাচ্ছেন না?\n৫টা কারণ ও সমাধান 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-08-01.png",
       "when": "2026-08-08T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**প্রোফাইল ফটো প্রফেশনাল না** — সেলফি না, ক্লিন ব্যাকগ্রাউন্ডের ছবি ব্যবহার করুন।\n**Bio জেনেরিক ('I am a hard worker')** — নির্দিষ্ট রেজাল্ট আর নিশ উল্লেখ করুন।\n**পোর্টফোলিও খালি বা কম** — নিজে থেকে ২-৩টা স্যাম্পল প্রজেক্ট বানিয়ে যোগ করুন।\n**সব ক্যাটাগরিতে অ্যাপ্লাই করা** — একটা নির্দিষ্ট নিশে ফোকাস করলে ভালো রেজাল্ট আসে।\n**প্রথম কয়েকটা প্রপোজাল কপি-পেস্ট টেমপ্লেট** — ক্লায়েন্ট সাথে সাথেই বুঝে ফেলে।"
+      "status": "posted",
+      "first_comment": "**প্রোফাইল ফটো প্রফেশনাল না** — সেলফি না, ক্লিন ব্যাকগ্রাউন্ডের ছবি ব্যবহার করুন।\n**Bio জেনেরিক ('I am a hard worker')** — নির্দিষ্ট রেজাল্ট আর নিশ উল্লেখ করুন।\n**পোর্টফোলিও খালি বা কম** — নিজে থেকে ২-৩টা স্যাম্পল প্রজেক্ট বানিয়ে যোগ করুন।\n**সব ক্যাটাগরিতে অ্যাপ্লাই করা** — একটা নির্দিষ্ট নিশে ফোকাস করলে ভালো রেজাল্ট আসে।\n**প্রথম কয়েকটা প্রপোজাল কপি-পেস্ট টেমপ্লেট** — ক্লায়েন্ট সাথে সাথেই বুঝে ফেলে।",
+      "result": {
+        "id": "1364398905840627",
+        "post_id": "102695371717364_1364398935840624",
+        "first_comment_id": "1364398935840624_27433836132962455"
+      },
+      "posted_at": "2026-08-09T07:14:40+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-08-04",
@@ -12795,8 +12916,14 @@
       "message": "নিজের বিজনেসের জন্য ফ্রি লোগো ও ব্র্যান্ডিং রিসোর্স-\n৬টি সাইট 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-08-04.png",
       "when": "2026-08-08T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Canva** — লোগো, ব্র্যান্ড কিট, সবকিছু এক জায়গায়।\n**Coolors** — কালার প্যালেট জেনারেট করতে।\n**Google Fonts** — ফ্রি প্রফেশনাল ফন্টের জন্য।\n**Unsplash/Pexels** — ফ্রি হাই-কোয়ালিটি স্টক ফটো।\n**Looka** — AI-জেনারেটেড লোগো অপশন।\n**Brandmark.io** — সম্পূর্ণ ব্র্যান্ড আইডেন্টিটি প্যাকেজ।"
+      "status": "posted",
+      "first_comment": "**Canva** — লোগো, ব্র্যান্ড কিট, সবকিছু এক জায়গায়।\n**Coolors** — কালার প্যালেট জেনারেট করতে।\n**Google Fonts** — ফ্রি প্রফেশনাল ফন্টের জন্য।\n**Unsplash/Pexels** — ফ্রি হাই-কোয়ালিটি স্টক ফটো।\n**Looka** — AI-জেনারেটেড লোগো অপশন।\n**Brandmark.io** — সম্পূর্ণ ব্র্যান্ড আইডেন্টিটি প্যাকেজ।",
+      "result": {
+        "id": "1364399079173943",
+        "post_id": "102695371717364_1364399099173941",
+        "first_comment_id": "1364399099173941_1679951686446935"
+      },
+      "posted_at": "2026-08-09T07:14:54+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-08-10",
@@ -12806,8 +12933,14 @@
       "message": "লোগো ডিজাইনের জন্য হাজার টাকা খরচ করার দরকার নাই।\nAI দিয়ে প্রফেশনাল লোগো বানানোর ৩টা ধাপ 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-08-10.png",
       "when": "2026-08-08T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: Looka/Canva তে নিজের বিজনেসের নাম + স্টাইল দিন।**\n**ধাপ ২: ৫-৬টা ভ্যারিয়েশন জেনারেট করান, বেছে নিন।**\n**ধাপ ৩: ভেক্টর ফরম্যাটে ডাউনলোড করুন যাতে যেকোনো সাইজে ব্যবহার করা যায়।**"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: Looka/Canva তে নিজের বিজনেসের নাম + স্টাইল দিন।**\n**ধাপ ২: ৫-৬টা ভ্যারিয়েশন জেনারেট করান, বেছে নিন।**\n**ধাপ ৩: ভেক্টর ফরম্যাটে ডাউনলোড করুন যাতে যেকোনো সাইজে ব্যবহার করা যায়।**",
+      "result": {
+        "id": "1364399245840593",
+        "post_id": "102695371717364_1364399272507257",
+        "first_comment_id": "1364399272507257_1536618900882153"
+      },
+      "posted_at": "2026-08-09T07:15:06+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-08-13",
@@ -12817,8 +12950,14 @@
       "message": "আপনার সোশ্যাল মিডিয়া প্রোফাইল থেকে অচেনা মানুষ\nঠিক কতটুকু তথ্য বের করতে পারে, দেখলে অবাক হবেন! ৩টা সেটিংস আজই চেক করুন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-08-13.png",
       "when": "2026-08-08T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Friends List Visibility** — কে কে আপনার বন্ধু তালিকা দেখতে পারে, সেটা লিমিট করুন।\n**Past Posts Privacy** — পুরনো পাবলিক পোস্টগুলো একসাথে প্রাইভেট করার অপশন আছে, ব্যবহার করুন।\n**Tagged Photos Review** — অন্য কেউ ট্যাগ করার আগে আপনার অনুমতি লাগবে এমন সেটিংস অন করুন।"
+      "status": "posted",
+      "first_comment": "**Friends List Visibility** — কে কে আপনার বন্ধু তালিকা দেখতে পারে, সেটা লিমিট করুন।\n**Past Posts Privacy** — পুরনো পাবলিক পোস্টগুলো একসাথে প্রাইভেট করার অপশন আছে, ব্যবহার করুন।\n**Tagged Photos Review** — অন্য কেউ ট্যাগ করার আগে আপনার অনুমতি লাগবে এমন সেটিংস অন করুন।",
+      "result": {
+        "id": "1364399429173908",
+        "post_id": "102695371717364_1364399449173906",
+        "first_comment_id": "1364399449173906_2303540213782601"
+      },
+      "posted_at": "2026-08-09T07:15:18+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-09-01",
@@ -12828,8 +12967,14 @@
       "message": "প্রোডাক্টিভিটি বাড়ানোর জন্য সেরা ৬টি অ্যাপ, বেশিরভাগ ফ্রি 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-09-01.png",
       "when": "2026-08-09T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Notion** — নোট, টাস্ক, ডকুমেন্ট সব একসাথে।\n**Todoist** — সিম্পল অথচ শক্তিশালী টাস্ক ম্যানেজার।\n**Forest** — ফোকাস টাইমার, ডিস্ট্র্যাকশন কমাতে সাহায্য করে।\n**Google Calendar** — টাইম-ব্লকিং এর জন্য সেরা ফ্রি টুল।\n**RescueTime** — কোথায় সময় যাচ্ছে ট্র্যাক করে দেখায়।\n**Freedom** — ডিস্ট্র্যাক্টিং ওয়েবসাইট নির্দিষ্ট সময়ের জন্য ব্লক করে।"
+      "status": "posted",
+      "first_comment": "**Notion** — নোট, টাস্ক, ডকুমেন্ট সব একসাথে।\n**Todoist** — সিম্পল অথচ শক্তিশালী টাস্ক ম্যানেজার।\n**Forest** — ফোকাস টাইমার, ডিস্ট্র্যাকশন কমাতে সাহায্য করে।\n**Google Calendar** — টাইম-ব্লকিং এর জন্য সেরা ফ্রি টুল।\n**RescueTime** — কোথায় সময় যাচ্ছে ট্র্যাক করে দেখায়।\n**Freedom** — ডিস্ট্র্যাক্টিং ওয়েবসাইট নির্দিষ্ট সময়ের জন্য ব্লক করে।",
+      "result": {
+        "id": "1364399622507222",
+        "post_id": "102695371717364_1364399635840554",
+        "first_comment_id": "1364399635840554_927223680422886"
+      },
+      "posted_at": "2026-08-09T07:15:31+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-09-04",
@@ -12839,8 +12984,14 @@
       "message": "প্রতিদিন কনটেন্ট বানাতে গিয়ে বার্নআউট হয়ে যাচ্ছেন?\nAI দিয়ে ব্যাচ-প্রোডাকশনের ৪টা ধাপ 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-09-04.png",
       "when": "2026-08-09T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**সপ্তাহে ১ দিন শুধু আইডিয়া জেনারেশনের জন্য রাখুন** — AI দিয়ে ২০টা আইডিয়া বের করে সপ্তাহভর ব্যবহার করুন।\n**একসাথে সব ক্যাপশন লিখে ফেলুন** — প্রতিদিন আলাদা করে বসার দরকার নাই।\n**একই ফরম্যাটে টেমপ্লেট বানিয়ে রাখুন** — শুধু কনটেন্ট বদলালেই হবে।\n**শিডিউলিং টুল দিয়ে আগে থেকেই সব প্ল্যান করে রাখুন।**"
+      "status": "posted",
+      "first_comment": "**সপ্তাহে ১ দিন শুধু আইডিয়া জেনারেশনের জন্য রাখুন** — AI দিয়ে ২০টা আইডিয়া বের করে সপ্তাহভর ব্যবহার করুন।\n**একসাথে সব ক্যাপশন লিখে ফেলুন** — প্রতিদিন আলাদা করে বসার দরকার নাই।\n**একই ফরম্যাটে টেমপ্লেট বানিয়ে রাখুন** — শুধু কনটেন্ট বদলালেই হবে।\n**শিডিউলিং টুল দিয়ে আগে থেকেই সব প্ল্যান করে রাখুন।**",
+      "result": {
+        "id": "1364399949173856",
+        "post_id": "102695371717364_1364399969173854",
+        "first_comment_id": "1364399969173854_1991874935140201"
+      },
+      "posted_at": "2026-08-09T07:15:44+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-09-10",
@@ -14168,7 +14319,12 @@
       "message": "☀️ Natural light within minutes of waking is the strongest signal your body clock reads all day — it steadies your energy and helps you fall asleep easier tonight.\n\n→ Open curtains before you check your phone\n→ Even a cloudy sky counts\n→ Balcony or window, 2 minutes is enough\n\n💚 Bookmark this. You'll need it later.\n💬 First thing you do after opening your eyes? 👇",
       "image_url": "images/health_refill1/00_0.png",
       "when": "2026-08-08T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715518727130292",
+        "post_id": "152206688762695_1715518747130290"
+      },
+      "posted_at": "2026-08-09T07:15:56+00:00"
     },
     {
       "id": "hd-refill1-00-0-ig",
@@ -14178,7 +14334,12 @@
       "message": "☀️ Natural light within minutes of waking is the strongest signal your body clock reads all day — it steadies your energy and helps you fall asleep easier tonight.\n\n→ Open curtains before you check your phone\n→ Even a cloudy sky counts\n→ Balcony or window, 2 minutes is enough\n\n💚 Bookmark this. You'll need it later.\n💬 First thing you do after opening your eyes? 👇",
       "image_url": "images/health_refill1/00_0.png",
       "when": "2026-08-08T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18021495464893744",
+        "permalink": "https://www.instagram.com/p/Dbz4XXRifn0/"
+      },
+      "posted_at": "2026-08-09T07:16:15+00:00"
     },
     {
       "id": "hd-refill1-00-1-fb",
@@ -14188,7 +14349,12 @@
       "message": "🍵 'Detox tea' is one of the most successful myths ever marketed. Your organs already do this job continuously — what actually changes is that you're drinking less soda that week.\n\n→ Save the money\n→ Water + real food does the same job\n→ If it works, it's usually the diet change, not the tea\n\n💚 Bookmark this. You'll need it later.\n💬 Ever tried a 'detox' product? 👇",
       "image_url": "images/health_refill1/00_1.png",
       "when": "2026-08-08T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715519110463587",
+        "post_id": "152206688762695_1715519130463585"
+      },
+      "posted_at": "2026-08-09T07:16:27+00:00"
     },
     {
       "id": "hd-refill1-00-1-ig",
@@ -14198,7 +14364,12 @@
       "message": "🍵 'Detox tea' is one of the most successful myths ever marketed. Your organs already do this job continuously — what actually changes is that you're drinking less soda that week.\n\n→ Save the money\n→ Water + real food does the same job\n→ If it works, it's usually the diet change, not the tea\n\n💚 Bookmark this. You'll need it later.\n💬 Ever tried a 'detox' product? 👇",
       "image_url": "images/health_refill1/00_1.png",
       "when": "2026-08-08T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18100879277241816",
+        "permalink": "https://www.instagram.com/p/Dbz4bBQjrvh/"
+      },
+      "posted_at": "2026-08-09T07:16:44+00:00"
     },
     {
       "id": "hd-refill1-00-2-fb",
@@ -14208,7 +14379,12 @@
       "message": "🦴 Bone tissue is constantly being broken down and rebuilt — which is why weight-bearing movement (walking, lifting) matters at every age, not just for athletes.\n\n→ Movement signals bones to stay strong\n→ Calcium + vitamin D support the rebuild\n→ Bone density peaks in your 20s-30s, so build it early\n\n💚 Bookmark this. You'll need it later.\n💬 Do you do any weight-bearing exercise? 👇",
       "image_url": "images/health_refill1/00_2.png",
       "when": "2026-08-08T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715519537130211",
+        "post_id": "152206688762695_1715519553796876"
+      },
+      "posted_at": "2026-08-09T07:16:56+00:00"
     },
     {
       "id": "hd-refill1-00-2-ig",
@@ -14218,7 +14394,12 @@
       "message": "🦴 Bone tissue is constantly being broken down and rebuilt — which is why weight-bearing movement (walking, lifting) matters at every age, not just for athletes.\n\n→ Movement signals bones to stay strong\n→ Calcium + vitamin D support the rebuild\n→ Bone density peaks in your 20s-30s, so build it early\n\n💚 Bookmark this. You'll need it later.\n💬 Do you do any weight-bearing exercise? 👇",
       "image_url": "images/health_refill1/00_2.png",
       "when": "2026-08-08T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18132630952618426",
+        "permalink": "https://www.instagram.com/p/Dbz4embjP2l/"
+      },
+      "posted_at": "2026-08-09T07:17:14+00:00"
     },
     {
       "id": "hd-refill1-00-3-fb",
@@ -14228,7 +14409,12 @@
       "message": "🌰 A small handful of walnuts covers a meaningful chunk of your daily plant-based omega-3s — genuinely good for heart and brain health.\n\n→ A small handful (not a bowlful) is the right portion\n→ Great plain or in oatmeal/salad\n→ One of the best snacks if you're not eating fish\n\n💚 Bookmark this. You'll need it later.\n💬 Do you snack on nuts or reach for chips? 👇",
       "image_url": "images/health_refill1/00_3.png",
       "when": "2026-08-08T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715519973796834",
+        "post_id": "152206688762695_1715519997130165"
+      },
+      "posted_at": "2026-08-09T07:17:26+00:00"
     },
     {
       "id": "hd-refill1-00-3-ig",
@@ -14238,7 +14424,12 @@
       "message": "🌰 A small handful of walnuts covers a meaningful chunk of your daily plant-based omega-3s — genuinely good for heart and brain health.\n\n→ A small handful (not a bowlful) is the right portion\n→ Great plain or in oatmeal/salad\n→ One of the best snacks if you're not eating fish\n\n💚 Bookmark this. You'll need it later.\n💬 Do you snack on nuts or reach for chips? 👇",
       "image_url": "images/health_refill1/00_3.png",
       "when": "2026-08-08T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18091451114435731",
+        "permalink": "https://www.instagram.com/p/Dbz4iJzGy3i/"
+      },
+      "posted_at": "2026-08-09T07:17:42+00:00"
     },
     {
       "id": "hd-refill1-00-4-fb",
@@ -14248,7 +14439,12 @@
       "message": "💡 Bright ceiling lights tell your brain it's still daytime, delaying your sleep hormone. Dimming an hour before bed is one of the simplest sleep upgrades there is.\n\n→ Switch to lamps in the evening\n→ Warm light beats bright white\n→ It's the whole room, not just your phone screen\n\n💚 Bookmark this. You'll need it later.\n💬 What time do the lights go down in your house? 👇",
       "image_url": "images/health_refill1/00_4.png",
       "when": "2026-08-08T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715520390463459",
+        "post_id": "152206688762695_1715520453796786"
+      },
+      "posted_at": "2026-08-09T07:17:53+00:00"
     },
     {
       "id": "hd-refill1-00-4-ig",
@@ -14258,7 +14454,12 @@
       "message": "💡 Bright ceiling lights tell your brain it's still daytime, delaying your sleep hormone. Dimming an hour before bed is one of the simplest sleep upgrades there is.\n\n→ Switch to lamps in the evening\n→ Warm light beats bright white\n→ It's the whole room, not just your phone screen\n\n💚 Bookmark this. You'll need it later.\n💬 What time do the lights go down in your house? 👇",
       "image_url": "images/health_refill1/00_4.png",
       "when": "2026-08-08T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18615862522065191",
+        "permalink": "https://www.instagram.com/p/Dbz4lj9DaTy/"
+      },
+      "posted_at": "2026-08-09T07:18:12+00:00"
     },
     {
       "id": "hd-refill1-00-5",
@@ -14267,7 +14468,11 @@
       "type": "text",
       "message": "Quick check-in 👇\n\nOn a scale of 1-10, how rested do you feel right now?\n\nDrop your number — and one thing that would move it up a point 👇",
       "when": "2026-08-08T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "152206688762695_1715521060463392"
+      },
+      "posted_at": "2026-08-09T07:18:22+00:00"
     },
     {
       "id": "hd-refill1-00-6-fb",
@@ -14277,7 +14482,12 @@
       "message": "😮‍💨 In for 4 seconds, out for 6. That long exhale flips you from stress mode into rest mode — heart rate drops, shoulders loosen. Costs nothing, works in minutes.\n\n→ Try five rounds right now\n→ Works anywhere, no equipment\n→ One of the fastest free stress tools there is\n\n💚 Bookmark this. You'll need it later.\n💬 Feel calmer after 5 rounds? 👇",
       "image_url": "images/health_refill1/00_6.png",
       "when": "2026-08-08T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715521167130048",
+        "post_id": "152206688762695_1715521183796713"
+      },
+      "posted_at": "2026-08-09T07:18:34+00:00"
     },
     {
       "id": "hd-refill1-00-6-ig",
@@ -14287,7 +14497,12 @@
       "message": "😮‍💨 In for 4 seconds, out for 6. That long exhale flips you from stress mode into rest mode — heart rate drops, shoulders loosen. Costs nothing, works in minutes.\n\n→ Try five rounds right now\n→ Works anywhere, no equipment\n→ One of the fastest free stress tools there is\n\n💚 Bookmark this. You'll need it later.\n💬 Feel calmer after 5 rounds? 👇",
       "image_url": "images/health_refill1/00_6.png",
       "when": "2026-08-08T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17864841534646073",
+        "permalink": "https://www.instagram.com/p/Dbz4qeqDTHN/"
+      },
+      "posted_at": "2026-08-09T07:18:50+00:00"
     },
     {
       "id": "hd-refill1-01-0-fb",
@@ -14297,7 +14512,12 @@
       "message": "🍳 Skipping breakfast for hours often backfires by lunchtime — you overeat, reach for sugar, or crash by 11. Eating within 90 minutes keeps blood sugar (and mood) steadier all morning.\n\n→ Doesn't need to be big, just balanced\n→ Protein + fiber beats plain toast\n→ Intermittent fasting? Fine — just don't skip the plan entirely\n\n💚 Bookmark this. You'll need it later.\n💬 What time was your first bite today? 👇",
       "image_url": "images/health_refill1/01_0.png",
       "when": "2026-08-09T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715521503796681",
+        "post_id": "152206688762695_1715521523796679"
+      },
+      "posted_at": "2026-08-09T07:19:01+00:00"
     },
     {
       "id": "hd-refill1-01-0-ig",
@@ -14307,7 +14527,12 @@
       "message": "🍳 Skipping breakfast for hours often backfires by lunchtime — you overeat, reach for sugar, or crash by 11. Eating within 90 minutes keeps blood sugar (and mood) steadier all morning.\n\n→ Doesn't need to be big, just balanced\n→ Protein + fiber beats plain toast\n→ Intermittent fasting? Fine — just don't skip the plan entirely\n\n💚 Bookmark this. You'll need it later.\n💬 What time was your first bite today? 👇",
       "image_url": "images/health_refill1/01_0.png",
       "when": "2026-08-09T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18106467388986222",
+        "permalink": "https://www.instagram.com/p/Dbz4tzJEXjO/"
+      },
+      "posted_at": "2026-08-09T07:19:18+00:00"
     },
     {
       "id": "hd-refill1-01-1-fb",
@@ -14317,7 +14542,12 @@
       "message": "💧 The '8 glasses' rule is a decades-old estimate, not a medical law. Someone active in a hot climate needs more; someone smaller and sedentary may need less.\n\n→ Pale yellow urine = well hydrated\n→ Thirst is a real signal, not a failure\n→ Food (fruit, soup) counts toward intake too\n\n💚 Bookmark this. You'll need it later.\n💬 Do you track your water or just drink when thirsty? 👇",
       "image_url": "images/health_refill1/01_1.png",
       "when": "2026-08-09T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715521870463311",
+        "post_id": "152206688762695_1715521893796642"
+      },
+      "posted_at": "2026-08-09T07:19:29+00:00"
     },
     {
       "id": "hd-refill1-01-1-ig",
@@ -14327,7 +14557,12 @@
       "message": "💧 The '8 glasses' rule is a decades-old estimate, not a medical law. Someone active in a hot climate needs more; someone smaller and sedentary may need less.\n\n→ Pale yellow urine = well hydrated\n→ Thirst is a real signal, not a failure\n→ Food (fruit, soup) counts toward intake too\n\n💚 Bookmark this. You'll need it later.\n💬 Do you track your water or just drink when thirsty? 👇",
       "image_url": "images/health_refill1/01_1.png",
       "when": "2026-08-09T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17876885460652908",
+        "permalink": "https://www.instagram.com/p/Dbz4xR-DWXY/"
+      },
+      "posted_at": "2026-08-09T07:19:47+00:00"
     },
     {
       "id": "hd-refill1-01-2-fb",
@@ -14337,7 +14572,12 @@
       "message": "😂 A real laugh measurably drops cortisol (your stress hormone) within minutes — which is why a funny video sometimes helps more than 'trying to calm down.'\n\n→ It's a genuine physiological reset, not just a mood thing\n→ Even forced laughter has some effect\n→ Cheap, fast, and completely free\n\n💚 Bookmark this. You'll need it later.\n💬 What's the last thing that made you really laugh? 👇",
       "image_url": "images/health_refill1/01_2.png",
       "when": "2026-08-09T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1715522263796605",
+        "post_id": "152206688762695_1715522280463270"
+      },
+      "posted_at": "2026-08-09T07:19:58+00:00"
     },
     {
       "id": "hd-refill1-01-2-ig",
@@ -14347,7 +14587,12 @@
       "message": "😂 A real laugh measurably drops cortisol (your stress hormone) within minutes — which is why a funny video sometimes helps more than 'trying to calm down.'\n\n→ It's a genuine physiological reset, not just a mood thing\n→ Even forced laughter has some effect\n→ Cheap, fast, and completely free\n\n💚 Bookmark this. You'll need it later.\n💬 What's the last thing that made you really laugh? 👇",
       "image_url": "images/health_refill1/01_2.png",
       "when": "2026-08-09T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18151358239507155",
+        "permalink": "https://www.instagram.com/p/Dbz40zsDvMc/"
+      },
+      "posted_at": "2026-08-09T07:20:15+00:00"
     },
     {
       "id": "hd-refill1-01-3-fb",
