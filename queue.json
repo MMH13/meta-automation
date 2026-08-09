@@ -3672,7 +3672,12 @@
       "message": "🚀 AI দিয়ে ইনকামের রাস্তা এখন অনেক — কিন্তু শুরু করতে হবে একটা দিয়ে:\n\n→ Faceless Content (AI Voice + AI Video)\n→ AI দিয়ে দ্রুত Freelancing (Writing, Design, VA)\n→ ছোট Business-এর জন্য AI Automation সেটআপ করে দেওয়া\n→ Prompt বিক্রি / AI Consulting\n\nসবগুলোর ভিত্তি একটাই — AI-কে ভালোভাবে ব্যবহার করতে শেখা।\n\nদিনে 20 মিনিট শিখুন। 3 মাস পরে নিজের পার্থক্য নিজেই দেখবেন।\n\n💬 কোন রাস্তাটা আপনার জন্য সবচেয়ে বেশি Interesting? 👇\n\nFollow 👉 Mamun Hossain — প্রতিদিন নতুন AI টিপস, Tool আর Prompt।",
       "image_url": "images/mamun_block/p18.png",
       "when": "2026-07-31T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1356793519934499",
+        "post_id": "102695371717364_1356793546601163"
+      },
+      "posted_at": "2026-07-31T08:06:49+00:00"
     },
     {
       "id": "mb-19",
@@ -3682,7 +3687,12 @@
       "message": "🎁 নতুন যারা এসেছেন — পরিচিত হয়ে যাই।\n\nআমি মামুন। এই পেজে শেয়ার করি:\n→ Free AI Tool-এর খোঁজ — যেগুলো আসলেই কাজের\n→ Copy-paste রেডি Prompt — প্রথম কমেন্টে পাবেন\n→ Skill আর ইনকামের Practical Idea — Hype ছাড়া\n→ Productivity System — যা নিজে ব্যবহার করি\n\nলক্ষ্য একটাই: AI-কে ভয় না পেয়ে কাজে লাগানো শিখি, একসাথে।\n\n💬 আপনি কী নিয়ে সবচেয়ে বেশি জানতে চান? কমেন্টে বলুন — কনটেন্ট প্ল্যানে ঢুকিয়ে নেবো 👇\n\nআর ভালো লাগলে পেজটা Follow করে রাখুন 👊",
       "image_url": "images/mamun_block/p19.png",
       "when": "2026-07-31T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1357080879905763",
+        "post_id": "102695371717364_1357080896572428"
+      },
+      "posted_at": "2026-07-31T15:27:03+00:00"
     },
     {
       "id": "rr-00",
@@ -4525,9 +4535,13 @@
       "account": "radio-deshal",
       "network": "facebook",
       "when": "2026-07-31T02:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "type": "text",
-      "message": "একটা শব্দে বলুন 👇\n\nআপনার জীবনের সবচেয়ে অদ্ভুত অভ্যাসটা কী?\n\nআমরা শুরু করি: ঘুমানোর আগে ফোনের চার্জ 100% না হলে শান্তি লাগে না 😅\n\nআপনারটা বলুন 👇\n\n😂 ফলো 👉 রেডিও দেশাল"
+      "message": "একটা শব্দে বলুন 👇\n\nআপনার জীবনের সবচেয়ে অদ্ভুত অভ্যাসটা কী?\n\nআমরা শুরু করি: ঘুমানোর আগে ফোনের চার্জ 100% না হলে শান্তি লাগে না 😅\n\nআপনারটা বলুন 👇\n\n😂 ফলো 👉 রেডিও দেশাল",
+      "result": {
+        "id": "1191612787659871_1348513444065226"
+      },
+      "posted_at": "2026-07-31T04:32:36+00:00"
     },
     {
       "account": "health-daily",
@@ -5841,22 +5855,32 @@
     {
       "account": "health-daily",
       "when": "2026-07-30T21:00:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hr-6-6",
       "network": "facebook",
       "type": "photo",
       "message": "🌱 One healthy choice today beats a perfect plan starting 'Monday.' Your health is built in ordinary days, not grand resets.\n\n💬 What small habit are you sticking to? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_6.png"
+      "image_url": "images/hd_rf/d6_6.png",
+      "result": {
+        "id": "1706474848034680",
+        "post_id": "152206688762695_1706474858034679"
+      },
+      "posted_at": "2026-07-30T22:15:45+00:00"
     },
     {
       "account": "health-daily",
       "when": "2026-07-30T21:05:00+00:00",
-      "status": "pending",
+      "status": "posted",
       "id": "hrig-6-6",
       "network": "instagram",
       "type": "image",
       "message": "🌱 One healthy choice today beats a perfect plan starting 'Monday.' Your health is built in ordinary days, not grand resets.\n\n💬 What small habit are you sticking to? 👇\n\n💚 Follow Health Daily for daily evidence-based health tips.",
-      "image_url": "images/hd_rf/d6_6.png"
+      "image_url": "images/hd_rf/d6_6.png",
+      "result": {
+        "media_id": "18136950349603565",
+        "permalink": "https://www.instagram.com/p/DbbvY5YncBh/"
+      },
+      "posted_at": "2026-07-30T22:16:05+00:00"
     },
     {
       "id": "mr-00",
@@ -6171,7 +6195,12 @@
       "image_url": "images/movie_rf/m19.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-30T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199369110787954",
+        "post_id": "628257647029140_122199369128787954"
+      },
+      "posted_at": "2026-07-30T20:22:49+00:00"
     },
     {
       "id": "mr-20",
@@ -6182,7 +6211,12 @@
       "image_url": "images/movie_rf/m20.png",
       "geo_countries": "US,GB,IE,DE,FR,NL,BE,SE,NO,DK,FI,ES,IT,PT,AT,CH,PL,CZ",
       "when": "2026-07-30T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199398912787954",
+        "post_id": "628257647029140_122199398930787954"
+      },
+      "posted_at": "2026-07-31T00:12:34+00:00"
     },
     {
       "id": "ahd-d7-1-fb",
@@ -6192,7 +6226,12 @@
       "message": "🐸 Your focus and self-control are highest early. Spend them on the task you dread most, and the rest of the day feels downhill instead of a looming cloud.\n\n→ Pick the one thing you keep avoiding\n→ Do it before email and messages\n→ 'Eat the frog' first, coast after\n\n💚 Bookmark this. You'll need it later.\n💬 What task do you keep pushing back? 👇",
       "image_url": "images/aug_hd/d7_1.png",
       "when": "2026-08-07T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713497963999035",
+        "post_id": "152206688762695_1713497987332366"
+      },
+      "posted_at": "2026-08-07T03:57:37+00:00"
     },
     {
       "id": "ahd-d7-1-ig",
@@ -6202,7 +6241,12 @@
       "message": "🐸 Your focus and self-control are highest early. Spend them on the task you dread most, and the rest of the day feels downhill instead of a looming cloud.\n\n→ Pick the one thing you keep avoiding\n→ Do it before email and messages\n→ 'Eat the frog' first, coast after\n\n💚 Bookmark this. You'll need it later.\n💬 What task do you keep pushing back? 👇",
       "image_url": "images/aug_hd/d7_1.png",
       "when": "2026-08-07T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18458489140141605",
+        "permalink": "https://www.instagram.com/p/DbuYE_9HL1W/"
+      },
+      "posted_at": "2026-08-07T03:57:54+00:00"
     },
     {
       "id": "ahd-d7-2-fb",
@@ -6212,7 +6256,12 @@
       "message": "🧖 The 'sweating out toxins' idea sells a lot of saunas and wraps, but it isn't how the body works. Your organs do the detoxing, for free.\n\n→ Sweat = cooling, not cleansing\n→ Saunas are fine for relaxation\n→ Drink water — you're losing fluid, not 'toxins'\n\n💚 Bookmark this. You'll need it later.\n💬 Ever bought a 'detox' product? 👇",
       "image_url": "images/aug_hd/d7_2.png",
       "when": "2026-08-07T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713539607328204",
+        "post_id": "152206688762695_1713539617328203"
+      },
+      "posted_at": "2026-08-07T05:01:13+00:00"
     },
     {
       "id": "ahd-d7-2-ig",
@@ -6222,7 +6271,12 @@
       "message": "🧖 The 'sweating out toxins' idea sells a lot of saunas and wraps, but it isn't how the body works. Your organs do the detoxing, for free.\n\n→ Sweat = cooling, not cleansing\n→ Saunas are fine for relaxation\n→ Drink water — you're losing fluid, not 'toxins'\n\n💚 Bookmark this. You'll need it later.\n💬 Ever bought a 'detox' product? 👇",
       "image_url": "images/aug_hd/d7_2.png",
       "when": "2026-08-07T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18009432974934692",
+        "permalink": "https://www.instagram.com/p/DbufW1UjkJ3/"
+      },
+      "posted_at": "2026-08-07T05:01:31+00:00"
     },
     {
       "id": "ahd-d7-3-fb",
@@ -6232,7 +6286,12 @@
       "message": "💚 Connection is a genuine health input — like food and sleep. Long-term isolation strains the body in measurable ways, while a good conversation eases it.\n\nOne call, one message, today. It counts more than you think.\n\n💚 Bookmark this. You'll need it later.\n💬 Tag someone you've been meaning to check on 👇",
       "image_url": "images/aug_hd/d7_3.png",
       "when": "2026-08-07T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713645517317613",
+        "post_id": "152206688762695_1713645540650944"
+      },
+      "posted_at": "2026-08-07T07:37:27+00:00"
     },
     {
       "id": "ahd-d7-3-ig",
@@ -6242,7 +6301,12 @@
       "message": "💚 Connection is a genuine health input — like food and sleep. Long-term isolation strains the body in measurable ways, while a good conversation eases it.\n\nOne call, one message, today. It counts more than you think.\n\n💚 Bookmark this. You'll need it later.\n💬 Tag someone you've been meaning to check on 👇",
       "image_url": "images/aug_hd/d7_3.png",
       "when": "2026-08-07T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18002490476781257",
+        "permalink": "https://www.instagram.com/p/DbuxPW-gJ1Q/"
+      },
+      "posted_at": "2026-08-07T07:37:53+00:00"
     },
     {
       "id": "ahd-d7-4-fb",
@@ -6252,7 +6316,12 @@
       "message": "🫒 Not all fat is the enemy. Extra-virgin olive oil is rich in the kind linked to better heart health — a smarter everyday choice than heavily refined oils.\n\n→ Great drizzled raw over salad or dal\n→ A little goes a long way (still calorie-dense)\n→ Real EVOO tastes peppery, not flat\n\n💚 Bookmark this. You'll need it later.\n💬 What oil do you cook with? 👇",
       "image_url": "images/aug_hd/d7_4.png",
       "when": "2026-08-07T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713787980636700",
+        "post_id": "152206688762695_1713788000636698"
+      },
+      "posted_at": "2026-08-07T11:02:40+00:00"
     },
     {
       "id": "ahd-d7-4-ig",
@@ -6262,7 +6331,12 @@
       "message": "🫒 Not all fat is the enemy. Extra-virgin olive oil is rich in the kind linked to better heart health — a smarter everyday choice than heavily refined oils.\n\n→ Great drizzled raw over salad or dal\n→ A little goes a long way (still calorie-dense)\n→ Real EVOO tastes peppery, not flat\n\n💚 Bookmark this. You'll need it later.\n💬 What oil do you cook with? 👇",
       "image_url": "images/aug_hd/d7_4.png",
       "when": "2026-08-07T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18136268449612143",
+        "permalink": "https://www.instagram.com/p/DbvIuKym3RA/"
+      },
+      "posted_at": "2026-08-07T11:03:01+00:00"
     },
     {
       "id": "ahd-d7-5-fb",
@@ -6272,7 +6346,12 @@
       "message": "⏰ Sleeping till noon Saturday then 6 AM Monday is like flying across time zones every week — your body never settles. A steady bedtime beats trying to 'catch up.'\n\n→ Same sleep/wake time, even weekends\n→ Consistency > total hours banked\n→ Your mornings get easier within a week\n\n💚 Bookmark this. You'll need it later.\n💬 Fixed bedtime or all over the place? 👇",
       "image_url": "images/aug_hd/d7_5.png",
       "when": "2026-08-07T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713901110625387",
+        "post_id": "152206688762695_1713901150625383"
+      },
+      "posted_at": "2026-08-07T13:24:07+00:00"
     },
     {
       "id": "ahd-d7-5-ig",
@@ -6282,7 +6361,12 @@
       "message": "⏰ Sleeping till noon Saturday then 6 AM Monday is like flying across time zones every week — your body never settles. A steady bedtime beats trying to 'catch up.'\n\n→ Same sleep/wake time, even weekends\n→ Consistency > total hours banked\n→ Your mornings get easier within a week\n\n💚 Bookmark this. You'll need it later.\n💬 Fixed bedtime or all over the place? 👇",
       "image_url": "images/aug_hd/d7_5.png",
       "when": "2026-08-07T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18112159048990651",
+        "permalink": "https://www.instagram.com/p/DbvY6X8Fnlh/"
+      },
+      "posted_at": "2026-08-07T13:24:26+00:00"
     },
     {
       "id": "ahd-d7-6",
@@ -6293,7 +6377,11 @@
         "Last check-in of the week 👇\n\nOne word: how do you WANT to feel next week?\n\nWe'll start: \"Lighter.\" Your turn — then let's make it happen 👇"
       ],
       "when": "2026-08-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "152206688762695_1714033433945488"
+      },
+      "posted_at": "2026-08-07T16:05:40+00:00"
     },
     {
       "id": "ahd-d7-7-fb",
@@ -6303,7 +6391,12 @@
       "message": "🌱 One healthy choice today beats a perfect plan that starts 'Monday.' Health is built in ordinary days, not dramatic resets you can't sustain.\n\n→ Pick one small habit you can't fail at\n→ Repeat it daily, boringly\n→ Let it get easier before you add the next\n\n💚 Bookmark this. You'll need it later.\n💬 What small habit are you sticking to? 👇",
       "image_url": "images/aug_hd/d7_7.png",
       "when": "2026-08-07T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1714170697265095",
+        "post_id": "152206688762695_1714170740598424"
+      },
+      "posted_at": "2026-08-07T19:09:40+00:00"
     },
     {
       "id": "ahd-d7-7-ig",
@@ -6313,7 +6406,12 @@
       "message": "🌱 One healthy choice today beats a perfect plan that starts 'Monday.' Health is built in ordinary days, not dramatic resets you can't sustain.\n\n→ Pick one small habit you can't fail at\n→ Repeat it daily, boringly\n→ Let it get easier before you add the next\n\n💚 Bookmark this. You'll need it later.\n💬 What small habit are you sticking to? 👇",
       "image_url": "images/aug_hd/d7_7.png",
       "when": "2026-08-07T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18025134113687510",
+        "permalink": "https://www.instagram.com/p/DbwAc9jD3Db/"
+      },
+      "posted_at": "2026-08-07T19:10:01+00:00"
     },
     {
       "id": "amn-d1-1",
@@ -6323,8 +6421,14 @@
       "message": "📧 AI-এর লেখা ইমেইল রোবটের মতো শোনায় কেন? কারণ আমরা শুধু বলি \"একটা ইমেইল লেখো\"।\n\nসমাধান — এই ৩টা জিনিস দিন:\n→ টোন: বন্ধুত্বপূর্ণ / প্রফেশনাল / সংক্ষিপ্ত\n→ কে পড়বে: বস / ক্লায়েন্ট / সহকর্মী\n→ শেষে কী চান: রিপ্লাই / মিটিং / পেমেন্ট\n\nউদাহরণ: \"ক্লায়েন্টকে বিনয়ীভাবে পেমেন্ট রিমাইন্ডার, সংক্ষিপ্ত, শেষে পরিশোধের তারিখ চাই।\" — ফল রাতদিন তফাত।\n\n🎁 রেডি Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি AI দিয়ে কী কী লেখান? 👇",
       "image_url": "images/aug_mamun/d1_1.png",
       "when": "2026-08-01T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Email Prompt (কপি করুন):\n\n\"You are my email assistant. Write a [tone: friendly/professional] email in Bengali to [recipient]. Context: [আপনার পরিস্থিতি]. Goal of the email: [reply/meeting/payment]. Keep it under 120 words, polite, with a clear call-to-action at the end.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Email Prompt (কপি করুন):\n\n\"You are my email assistant. Write a [tone: friendly/professional] email in Bengali to [recipient]. Context: [আপনার পরিস্থিতি]. Goal of the email: [reply/meeting/payment]. Keep it under 120 words, polite, with a clear call-to-action at the end.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1357690386511479",
+        "post_id": "102695371717364_1357690506511467",
+        "first_comment_id": "1357690506511467_1764067625568277"
+      },
+      "posted_at": "2026-08-01T09:14:37+00:00"
     },
     {
       "id": "amn-d1-2",
@@ -6334,7 +6438,12 @@
       "message": "🎁 নতুন যারা এসেছেন — পরিচিত হয়ে যাই।\n\nআমি মামুন। এই পেজে প্রতিদিন শেয়ার করি:\n→ Free AI Tool — যেগুলো আসলেই কাজের\n→ Copy-paste রেডি Prompt — প্রথম কমেন্টে\n→ Skill আর ইনকামের Practical Idea — Hype ছাড়া\n→ Productivity System — যা নিজে ব্যবহার করি\n\nলক্ষ্য একটাই: AI-কে ভয় না পেয়ে কাজে লাগাতে শেখা, একসাথে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি কী নিয়ে সবচেয়ে বেশি জানতে চান? কমেন্টে বলুন 👇",
       "image_url": "images/aug_mamun/d1_2.png",
       "when": "2026-08-01T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1357931363154048",
+        "post_id": "102695371717364_1357931373154047"
+      },
+      "posted_at": "2026-08-01T15:11:37+00:00"
     },
     {
       "id": "amn-d2-1",
@@ -6344,7 +6453,12 @@
       "message": "⚙️ পেইড টুলের পেছনে টাকা ঢালার আগে — এই ৫টা ফ্রি টুল ট্রাই করুন:\n\n→ লেখা ও আইডিয়া: ChatGPT / Gemini (ফ্রি ভার্সন)\n→ ছবি: Bing Image Creator, Leonardo (ফ্রি ক্রেডিট)\n→ নোট/সারাংশ: NotebookLM\n→ প্রেজেন্টেশন: Gamma\n→ ভয়েস/সাবটাইটেল: CapCut\n\nএকটা দিয়ে শুরু করুন, মাস্টার করুন, তারপর পরেরটা।\n\nউদাহরণ: শুধু NotebookLM দিয়ে একটা ৩০ পেজের PDF ১০ মিনিটে বুঝে ফেলা যায়।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোনটা আগে ট্রাই করবেন? 👇",
       "image_url": "images/aug_mamun/d2_1.png",
       "when": "2026-08-02T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1358551943091990",
+        "post_id": "102695371717364_1358551959758655"
+      },
+      "posted_at": "2026-08-02T09:18:05+00:00"
     },
     {
       "id": "amn-d2-2",
@@ -6354,8 +6468,14 @@
       "message": "🎨 AI ছবি বাজে আসে কেন? কারণ আমরা শুধু লিখি \"একটা সুন্দর ছবি\"।\n\nভালো ছবির Prompt ফর্মুলা:\n→ Subject: কী/কে (একটা লাল দরজা)\n→ Style: বাস্তব / কার্টুন / 3D / oil painting\n→ Light & Mood: সকালের নরম আলো, শান্ত\n→ Detail: ক্যামেরা অ্যাঙ্গেল, রং, ব্যাকগ্রাউন্ড\n\nএই ৪টা জোড়া লাগালেই ছবি ১০ গুণ ভালো।\n\n🎁 রেডি ফর্মুলা Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোন কাজে AI ছবি বানাতে চান? 👇",
       "image_url": "images/aug_mamun/d2_2.png",
       "when": "2026-08-02T15:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Image Prompt ফর্মুলা (কপি করুন):\n\n\"[Subject] , [Style: photorealistic/3D/watercolor] , [Lighting & mood: soft morning light, calm] , [Details: camera angle, colors, background] , high detail, 4k\"\n\nউদাহরণ: \"A red wooden door on an old brick wall, photorealistic, soft morning light, warm mood, slight vintage tone, high detail, 4k\"\n\nসেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Image Prompt ফর্মুলা (কপি করুন):\n\n\"[Subject] , [Style: photorealistic/3D/watercolor] , [Lighting & mood: soft morning light, calm] , [Details: camera angle, colors, background] , high detail, 4k\"\n\nউদাহরণ: \"A red wooden door on an old brick wall, photorealistic, soft morning light, warm mood, slight vintage tone, high detail, 4k\"\n\nসেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1358780339735817",
+        "post_id": "102695371717364_1358780353069149",
+        "first_comment_id": "1358780353069149_1079265434668308"
+      },
+      "posted_at": "2026-08-02T15:13:00+00:00"
     },
     {
       "id": "amn-d3-1",
@@ -6365,8 +6485,14 @@
       "message": "📅 রবিবার রাতে ১০ মিনিট প্ল্যান = পুরো সপ্তাহ ক্লিয়ার মাথায় কাজ।\n\nকিন্তু প্ল্যান করাটাই ঝামেলা লাগে, তাই না?\n\nএই Prompt আপনার Goal, সময় আর Energy অনুযায়ী পুরো সপ্তাহের বাস্তব প্ল্যান বানায় — বিশ্রামসহ। Robot-এর মতো না, মানুষের মতো।\n\nউদাহরণ: \"৩টা লক্ষ্য + সকালে এনার্জি বেশি\" দিলে ও কঠিন কাজগুলো সকালে বসিয়ে দেয়।\n\n🎁 Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি প্ল্যান করে চলেন, নাকি যা আসে তাই সামলান? 😄👇",
       "image_url": "images/aug_mamun/d3_1.png",
       "when": "2026-08-03T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Weekly Planner Prompt (কপি করুন):\n\n\"You are my productivity coach. My 3 main goals this week: [৩টা লক্ষ্য]. Fixed commitments: [জব/ক্লাস/পরিবার]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign goals to days & time blocks, 2) keep hard tasks in peak energy hours, 3) add rest/buffer, 4) one small daily habit. Format as a day-by-day table.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Weekly Planner Prompt (কপি করুন):\n\n\"You are my productivity coach. My 3 main goals this week: [৩টা লক্ষ্য]. Fixed commitments: [জব/ক্লাস/পরিবার]. My peak energy time: [সকাল/দুপুর/রাত]. Create a realistic weekly plan in Bengali: 1) assign goals to days & time blocks, 2) keep hard tasks in peak energy hours, 3) add rest/buffer, 4) one small daily habit. Format as a day-by-day table.\"\n\nস্ক্রিনশট সেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1359323003014884",
+        "post_id": "102695371717364_1359323026348215",
+        "first_comment_id": "1359323026348215_1042554494824348"
+      },
+      "posted_at": "2026-08-03T07:40:22+00:00"
     },
     {
       "id": "amn-d3-2",
@@ -6376,7 +6502,12 @@
       "message": "🧠 খেয়াল করেছেন — নতুন AI আগের চেয়ে অনেক ভালো উত্তর দেয়?\n\nকারণ এখন Reasoning ডিফল্ট। আগে AI সাথে সাথে উত্তর দিত। এখন প্রশ্নটা নিয়ে আগে \"ভাবে\", ধাপে ধাপে চিন্তা করে, তারপর উত্তর দেয় — অনেকটা মানুষের মতো।\n\nমানে জটিল কাজে (অঙ্ক, Coding, Analysis, Planning) ভুল অনেক কমে গেছে।\n\nকাজে লাগান: কঠিন প্রশ্নে বলুন \"ধাপে ধাপে ভেবে উত্তর দাও\" — ফল ভালো হবে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি কোন AI বেশি ব্যবহার করেন? 👇",
       "image_url": "images/aug_mamun/d3_2.png",
       "when": "2026-08-03T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1359616746318843",
+        "post_id": "102695371717364_1359616769652174"
+      },
+      "posted_at": "2026-08-03T15:10:43+00:00"
     },
     {
       "id": "amn-d4-1",
@@ -6386,8 +6517,14 @@
       "message": "📚 পড়া মনে থাকে না? কারণ আমরা শুধু পড়ি, নিজেকে যাচাই করি না।\n\nAI দিয়ে স্মার্ট পড়ার ৪ ধাপ:\n→ টপিকটা AI-কে সহজ ভাষায় বোঝাতে বলুন\n→ ওকে দিয়ে ৫টা প্রশ্ন বানান, নিজে উত্তর দিন\n→ যেটা পারলেন না, সেটা আবার বোঝান\n→ ২ দিন পর একই প্রশ্নে নিজেকে টেস্ট করুন\n\nএটাই Active Recall — মুখস্থের চেয়ে ১০ গুণ শক্তিশালী।\n\n🎁 রেডি Study Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 পরীক্ষা সামনে কার? 👇",
       "image_url": "images/aug_mamun/d4_1.png",
       "when": "2026-08-04T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Study Prompt (কপি করুন):\n\n\"You are my study tutor. Topic: [টপিক]. 1) Explain it in simple Bengali with one everyday example. 2) Then quiz me with 5 questions, one at a time, waiting for my answer. 3) After each answer, tell me if I'm right and explain briefly. 4) At the end, list what I should revise.\"\n\nসেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Study Prompt (কপি করুন):\n\n\"You are my study tutor. Topic: [টপিক]. 1) Explain it in simple Bengali with one everyday example. 2) Then quiz me with 5 questions, one at a time, waiting for my answer. 3) After each answer, tell me if I'm right and explain briefly. 4) At the end, list what I should revise.\"\n\nসেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1360244852922699",
+        "post_id": "102695371717364_1360244879589363",
+        "first_comment_id": "1360244879589363_824102604025182"
+      },
+      "posted_at": "2026-08-04T09:45:31+00:00"
     },
     {
       "id": "amn-d4-2",
@@ -6397,7 +6534,12 @@
       "message": "🚀 AI দিয়ে ইনকামের রাস্তা এখন অনেক — কিন্তু শুরু করতে হবে একটা দিয়ে:\n\n→ Faceless Content (AI Voice + AI Video)\n→ AI দিয়ে দ্রুত Freelancing (Writing, Design, VA)\n→ ছোট Business-এর জন্য AI Automation সেটআপ\n→ Prompt বিক্রি / AI Consulting\n\nসবগুলোর ভিত্তি একটাই — AI-কে ভালোভাবে ব্যবহার করতে শেখা।\n\nদিনে ২০ মিনিট শিখুন। ৩ মাস পরে নিজের পার্থক্য নিজেই দেখবেন।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোন রাস্তাটা আপনার জন্য সবচেয়ে Interesting? 👇",
       "image_url": "images/aug_mamun/d4_2.png",
       "when": "2026-08-04T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1360475609566290",
+        "post_id": "102695371717364_1360475632899621"
+      },
+      "posted_at": "2026-08-04T15:32:14+00:00"
     },
     {
       "id": "amn-d5-1",
@@ -6407,7 +6549,12 @@
       "message": "💼 AI ফ্রিল্যান্সারের চাকরি খাচ্ছে না — যে AI ব্যবহার করছে সে এগিয়ে যাচ্ছে।\n\nকীভাবে কাজে লাগাবেন:\n→ Writing: প্রথম ড্রাফট AI দিয়ে, তারপর নিজের হাতে ঘষামাজা\n→ Design: আইডিয়া ও ভ্যারিয়েশন AI দিয়ে, ফাইনাল টাচ আপনার\n→ Client কাজ: রিসার্চ ও আউটলাইন AI দিয়ে, ডেলিভারি দ্বিগুণ দ্রুত\n\nউদাহরণ: ১টা আর্টিকেলে আগে ৩ ঘণ্টা লাগত, এখন ১ ঘণ্টা — কোয়ালিটি ঠিক রেখে।\n\nমনে রাখুন: AI টুল, আপনি ড্রাইভার।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আপনি কী কাজ করেন / করতে চান? 👇",
       "image_url": "images/aug_mamun/d5_1.png",
       "when": "2026-08-05T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1361100206170497",
+        "post_id": "102695371717364_1361100226170495"
+      },
+      "posted_at": "2026-08-05T09:43:41+00:00"
     },
     {
       "id": "amn-d5-2",
@@ -6417,8 +6564,14 @@
       "message": "🔑 একই AI, কারও কাছে জাদু, কারও কাছে বাজে — পার্থক্য শুধু প্রশ্নে।\n\nভালো Prompt-এর ৪টা অংশ:\n→ Role: \"তুমি একজন অভিজ্ঞ ...\" (কার মতো ভাববে)\n→ Task: ঠিক কী চাও, স্পষ্ট করে\n→ Context: তোমার পরিস্থিতি / দর্শক\n→ Format: লিস্ট / টেবিল / ছোট প্যারা\n\nউদাহরণ: \"তুমি একজন নিউট্রিশনিস্ট। আমার (context) জন্য ৭ দিনের সহজ বাজেট মিল প্ল্যান দাও, টেবিল আকারে।\"\n\n🎁 টেমপ্লেট প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোন কাজে Prompt বানাতে চান? বলুন, সাহায্য করি 👇",
       "image_url": "images/aug_mamun/d5_2.png",
       "when": "2026-08-05T15:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Master Prompt টেমপ্লেট (কপি করুন):\n\n\"Role: You are a [expert]. Task: [ঠিক কী চান]. Context: [আপনার পরিস্থিতি/দর্শক]. Format: [list/table/short paragraphs]. Language: Bengali. Ask me one question first if anything is unclear.\"\n\nসেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Master Prompt টেমপ্লেট (কপি করুন):\n\n\"Role: You are a [expert]. Task: [ঠিক কী চান]. Context: [আপনার পরিস্থিতি/দর্শক]. Format: [list/table/short paragraphs]. Language: Bengali. Ask me one question first if anything is unclear.\"\n\nসেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1361339646146553",
+        "post_id": "102695371717364_1361339676146550",
+        "first_comment_id": "1361339676146550_869153156066517"
+      },
+      "posted_at": "2026-08-05T15:23:36+00:00"
     },
     {
       "id": "amn-d6-1",
@@ -6428,7 +6581,12 @@
       "message": "📈 বড় কোর্স, বড় প্ল্যান — বেশিরভাগ মানুষ ২ সপ্তাহে ছেড়ে দেয়।\n\nসহজ পথ: দিনে মাত্র ২০ মিনিট।\n→ সপ্তাহ ১-২: একটা টুল রোজ ব্যবহার (ChatGPT)\n→ সপ্তাহ ৩-৪: ভালো Prompt লেখা শিখুন\n→ মাস ২: নিজের কাজে অটোমেশন বসান\n→ মাস ৩: একটা ছোট ইনকাম স্কিল দাঁড় করান\n\nউদাহরণ: রোজ একটা রিয়েল কাজ AI দিয়ে করা — এটাই সেরা কোর্স।\n\nPerfect Plan না, চালু রাখাটাই আসল।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 আজ থেকে ২০ মিনিট — কে কে রাজি? 👇",
       "image_url": "images/aug_mamun/d6_1.png",
       "when": "2026-08-06T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1361966086083909",
+        "post_id": "102695371717364_1361966099417241"
+      },
+      "posted_at": "2026-08-06T09:46:38+00:00"
     },
     {
       "id": "amn-d6-2",
@@ -6438,7 +6596,12 @@
       "message": "❌ AI থেকে ভালো ফল না পাওয়ার আসল কারণ — এই ৩টা ভুল:\n\n→ ভুল ১: এক লাইনের অস্পষ্ট প্রশ্ন। সমাধান: Role + Context দিন।\n→ ভুল ২: প্রথম উত্তরেই থেমে যাওয়া। সমাধান: \"আরও সংক্ষিপ্ত করো / উদাহরণ দাও\" বলে ঘষুন।\n→ ভুল ৩: চোখ বন্ধ করে বিশ্বাস। সমাধান: তথ্য যাচাই করুন, বিশেষত সংখ্যা ও রেফারেন্স।\n\nউদাহরণ: একই প্রশ্ন ৩ বার রিফাইন করলে উত্তর প্রায় প্রফেশনাল লেভেলে চলে যায়।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোন ভুলটা আপনি করতেন? 👇",
       "image_url": "images/aug_mamun/d6_2.png",
       "when": "2026-08-06T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1362200869393764",
+        "post_id": "102695371717364_1362200906060427"
+      },
+      "posted_at": "2026-08-06T15:24:14+00:00"
     },
     {
       "id": "amn-d7-1",
@@ -6448,8 +6611,14 @@
       "message": "📄 লম্বা আর্টিকেল, PDF, রিপোর্ট — সময় নেই পড়ার?\n\nAI দিয়ে স্মার্ট সারাংশ:\n→ \"৫টা মূল পয়েন্টে সারাংশ করো\"\n→ \"একজন ব্যস্ত মানুষের জন্য ৩ লাইনে বলো\"\n→ \"কী করণীয় (action) সেটা আলাদা লিস্ট করো\"\n→ \"কঠিন শব্দগুলো সহজ ভাষায় বুঝিয়ে দাও\"\n\nউদাহরণ: ৩০ পেজের রিপোর্ট → ৫ পয়েন্ট + ৩টা করণীয়, ২ মিনিটে।\n\n🎁 রেডি Summary Prompt প্রথম কমেন্টে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কী পড়তে সবচেয়ে বেশি সময় নষ্ট হয় আপনার? 👇",
       "image_url": "images/aug_mamun/d7_1.png",
       "when": "2026-08-07T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎁 Summary Prompt (কপি করুন):\n\n\"Summarize the text below in Bengali: 1) 5 key points as bullets, 2) a 3-line version for a busy person, 3) a separate list of action items, 4) explain any hard terms simply. Text: [এখানে পেস্ট করুন]\"\n\nসেভ করে রাখুন 📌👇"
+      "status": "posted",
+      "first_comment": "🎁 Summary Prompt (কপি করুন):\n\n\"Summarize the text below in Bengali: 1) 5 key points as bullets, 2) a 3-line version for a busy person, 3) a separate list of action items, 4) explain any hard terms simply. Text: [এখানে পেস্ট করুন]\"\n\nসেভ করে রাখুন 📌👇",
+      "result": {
+        "id": "1362759592671225",
+        "post_id": "102695371717364_1362759622671222",
+        "first_comment_id": "1362759622671222_1938976803455032"
+      },
+      "posted_at": "2026-08-07T07:38:17+00:00"
     },
     {
       "id": "amn-d7-2",
@@ -6459,7 +6628,12 @@
       "message": "🎁 পুরো সপ্তাহের সারমর্ম, এক জায়গায় — সেভ করে রাখুন:\n\n→ ইমেইল/লেখা: টোন + কে পড়বে + শেষে কী চান — দিন\n→ ছবি: Subject + Style + Light + Detail\n→ পড়া: বোঝাও → কুইজ → রিভিশন (Active Recall)\n→ প্ল্যান: Goal + সময় + Energy দিয়ে AI প্ল্যান\n→ Prompt সূত্র: Role + Task + Context + Format\n→ অভ্যাস: দিনে ২০ মিনিট, চালু রাখুন\n\nএই ৬টা জানলে আপনি বেশিরভাগ মানুষের চেয়ে এগিয়ে।\n\n📌 কাজে লাগলে সেভ করে রাখুন — পরে দরকার হবে।\n💬 কোনটা এই সপ্তাহে সবচেয়ে কাজে লাগল? 👇",
       "image_url": "images/aug_mamun/d7_2.png",
       "when": "2026-08-07T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363047505975767",
+        "post_id": "102695371717364_1363047539309097"
+      },
+      "posted_at": "2026-08-07T15:04:05+00:00"
     },
     {
       "id": "ard-d1-1",
@@ -6469,7 +6643,12 @@
       "message": "😅 চার্জার কই, চার্জার কই! কে কে relate করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_1.png",
       "when": "2026-08-01T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349320917317812",
+        "post_id": "1191612787659871_1349320940651143"
+      },
+      "posted_at": "2026-08-01T03:44:33+00:00"
     },
     {
       "id": "ard-d1-2",
@@ -6479,7 +6658,12 @@
       "message": "😂 এই ৫ মিনিট পৃথিবীর সবচেয়ে বড় মিথ্যা। ট্যাগ করুন সেই বন্ধুকে 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_2.png",
       "when": "2026-08-01T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349401027309801",
+        "post_id": "1191612787659871_1349401063976464"
+      },
+      "posted_at": "2026-08-01T06:07:21+00:00"
     },
     {
       "id": "ard-d1-3",
@@ -6489,7 +6673,12 @@
       "message": "😄 এই অভ্যাস সবার আছে, স্বীকার করেন কে কে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_3.png",
       "when": "2026-08-01T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349401183976452",
+        "post_id": "1191612787659871_1349401207309783"
+      },
+      "posted_at": "2026-08-01T06:07:34+00:00"
     },
     {
       "id": "ard-d1-4",
@@ -6499,7 +6688,12 @@
       "message": "😂 অনলাইন শপিং = লটারি। আপনার সবচেয়ে বড় ধরা কী ছিল? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_4.png",
       "when": "2026-08-01T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349507000632537",
+        "post_id": "1191612787659871_1349507023965868"
+      },
+      "posted_at": "2026-08-01T09:14:50+00:00"
     },
     {
       "id": "ard-d1-5",
@@ -6509,7 +6703,12 @@
       "message": "😩 নেট গেলে জীবন থেমে যায়। কোন operator চালান? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_5.png",
       "when": "2026-08-01T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349674460615791",
+        "post_id": "1191612787659871_1349674487282455"
+      },
+      "posted_at": "2026-08-01T13:47:18+00:00"
     },
     {
       "id": "ard-d1-6",
@@ -6519,7 +6718,12 @@
       "message": "😄 ডায়েটের আয়ু গড়ে ১ রাত 😂 কে কে দলে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_6.png",
       "when": "2026-08-01T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349732963943274",
+        "post_id": "1191612787659871_1349732987276605"
+      },
+      "posted_at": "2026-08-01T15:11:49+00:00"
     },
     {
       "id": "ard-d1-7",
@@ -6529,7 +6733,12 @@
       "message": "🥵 এই গরমে আপনার এলাকার অবস্থা কেমন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d1_7.png",
       "when": "2026-08-01T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349813070601930",
+        "post_id": "1191612787659871_1349813103935260"
+      },
+      "posted_at": "2026-08-01T17:11:15+00:00"
     },
     {
       "id": "ard-d1-8",
@@ -6538,7 +6747,11 @@
       "type": "text",
       "message": "সত্যি বলুন 👇\n\nসকালে ঘুম থেকে উঠে আপনার *প্রথম* কাজ কী?\n\n📱 ফোন চেক\n🕌 নামাজ\n☕ চা\n😴 আবার ঘুম\n\nকমেন্টে বলুন — কেউ লজ্জা পাবেন না 😄\n\n📻 রেডিও দেশাল",
       "when": "2026-08-01T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1349893023927268"
+      },
+      "posted_at": "2026-08-01T19:23:14+00:00"
     },
     {
       "id": "ard-d2-1",
@@ -6548,7 +6761,12 @@
       "message": "😅 বাঙালির '৫ মিনিট' = গ্লোবাল রহস্য। কে সবচেয়ে বড় দেরিবাজ? ট্যাগ করুন 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_1.png",
       "when": "2026-08-02T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350152043901366",
+        "post_id": "1191612787659871_1350152073901363"
+      },
+      "posted_at": "2026-08-02T03:45:20+00:00"
     },
     {
       "id": "ard-d2-2",
@@ -6558,7 +6776,12 @@
       "message": "🤤 বৃষ্টির দিনে আপনার প্রিয় খাবার কী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_2.png",
       "when": "2026-08-02T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350233983893172",
+        "post_id": "1191612787659871_1350233997226504"
+      },
+      "posted_at": "2026-08-02T06:10:39+00:00"
     },
     {
       "id": "ard-d2-3",
@@ -6568,7 +6791,12 @@
       "message": "😂 এই কষ্ট ভাষায় বলা যায় না। কে কে ভুক্তভোগী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_3.png",
       "when": "2026-08-02T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350234117226492",
+        "post_id": "1191612787659871_1350234130559824"
+      },
+      "posted_at": "2026-08-02T06:10:50+00:00"
     },
     {
       "id": "ard-d2-4",
@@ -6578,7 +6806,12 @@
       "message": "😅 বেতন যেন হাওয়া। মাসের কত তারিখে পকেট ফাঁকা হয় আপনার? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_4.png",
       "when": "2026-08-02T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350344567215447",
+        "post_id": "1191612787659871_1350344583882112"
+      },
+      "posted_at": "2026-08-02T09:18:16+00:00"
     },
     {
       "id": "ard-d2-5",
@@ -6588,7 +6821,12 @@
       "message": "😄 এটাকে বলে 'ম্যানেজমেন্ট' 😎 কে কে এভাবে ঘর গোছান? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_5.png",
       "when": "2026-08-02T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350511057198798",
+        "post_id": "1191612787659871_1350511097198794"
+      },
+      "posted_at": "2026-08-02T13:47:51+00:00"
     },
     {
       "id": "ard-d2-6",
@@ -6598,7 +6836,12 @@
       "message": "😂 নাপিতের 'অল্প' আর আমাদের 'অল্প' এক না। কার সাথে হয়েছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_6.png",
       "when": "2026-08-02T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350566893859881",
+        "post_id": "1191612787659871_1350566923859878"
+      },
+      "posted_at": "2026-08-02T15:13:13+00:00"
     },
     {
       "id": "ard-d2-7",
@@ -6608,7 +6851,12 @@
       "message": "☕ দিনে কয় কাপ চা লাগে আপনার? সত্যি বলুন 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d2_7.png",
       "when": "2026-08-02T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350648823851688",
+        "post_id": "1191612787659871_1350648853851685"
+      },
+      "posted_at": "2026-08-02T17:11:18+00:00"
     },
     {
       "id": "ard-d2-8",
@@ -6617,7 +6865,11 @@
       "type": "text",
       "message": "একটা শব্দে বলুন 👇\n\nআপনার জীবনের সবচেয়ে *অলস* মুহূর্তটা কী ছিল?\n\nআমরা শুরু করি: রিমোট হাতের কাছে নেই বলে পুরো সিনেমা একই চ্যানেলে দেখেছি 😅\n\nআপনারটা বলুন 👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-02T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1350727333843837"
+      },
+      "posted_at": "2026-08-02T19:23:50+00:00"
     },
     {
       "id": "ard-d3-1",
@@ -6627,7 +6879,12 @@
       "message": "😄 রিমোট আর মোজা — দুটোই হারায় রহস্যজনকভাবে। কে কে relate? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_1.png",
       "when": "2026-08-03T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1350976757152228",
+        "post_id": "1191612787659871_1350976770485560"
+      },
+      "posted_at": "2026-08-03T03:47:44+00:00"
     },
     {
       "id": "ard-d3-2",
@@ -6637,7 +6894,12 @@
       "message": "😅 প্ল্যান হয়, বের হওয়া হয় না। ট্যাগ করুন সেই বন্ধুকে 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_2.png",
       "when": "2026-08-03T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351063023810268",
+        "post_id": "1191612787659871_1351063033810267"
+      },
+      "posted_at": "2026-08-03T06:32:47+00:00"
     },
     {
       "id": "ard-d3-3",
@@ -6647,7 +6909,12 @@
       "message": "😩 এই 'শেষ ভিডিও' কখনো শেষ হয় না। কে কে আটকে যান? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_3.png",
       "when": "2026-08-03T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351063120476925",
+        "post_id": "1191612787659871_1351063140476923"
+      },
+      "posted_at": "2026-08-03T06:32:59+00:00"
     },
     {
       "id": "ard-d3-4",
@@ -6657,7 +6924,12 @@
       "message": "😂 ইউটিউব দেখে রান্না vs বাস্তব রান্না। আপনার রান্নার সবচেয়ে বড় দুর্ঘটনা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_4.png",
       "when": "2026-08-03T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351237963792774",
+        "post_id": "1191612787659871_1351237987126105"
+      },
+      "posted_at": "2026-08-03T11:38:56+00:00"
     },
     {
       "id": "ard-d3-5",
@@ -6667,7 +6939,12 @@
       "message": "😩 রাতের মশা একটা আলাদা লেভেলের শত্রু। আপনার এলাকায় অবস্থা কেমন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_5.png",
       "when": "2026-08-03T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351383380444899",
+        "post_id": "1191612787659871_1351383410444896"
+      },
+      "posted_at": "2026-08-03T15:10:56+00:00"
     },
     {
       "id": "ard-d3-6",
@@ -6677,7 +6954,12 @@
       "message": "😄 পারফেক্ট সেলফির খোঁজে গ্যালারি ভর্তি। কে কে এমন করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_6.png",
       "when": "2026-08-03T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351383577111546",
+        "post_id": "1191612787659871_1351383600444877"
+      },
+      "posted_at": "2026-08-03T15:11:08+00:00"
     },
     {
       "id": "ard-d3-7",
@@ -6687,7 +6969,12 @@
       "message": "😩 MB সবসময় ভুল টাইমে শেষ হয়। মাসে কত টাকার MB কেনেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d3_7.png",
       "when": "2026-08-03T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351493240433913",
+        "post_id": "1191612787659871_1351493263767244"
+      },
+      "posted_at": "2026-08-03T18:01:23+00:00"
     },
     {
       "id": "ard-d3-8",
@@ -6696,7 +6983,11 @@
       "type": "text",
       "message": "মজার প্রশ্ন 👇\n\nছোটবেলায় কোন *মিথ্যা অজুহাত* দিয়ে স্কুল ফাঁকি দিতেন?\n\nআমরা শুরু করি: 'পেট ব্যথা' 🤕 (শুধু পরীক্ষার দিন)\n\nআপনারটা বলুন 😄👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-03T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1351493433767227"
+      },
+      "posted_at": "2026-08-03T18:01:34+00:00"
     },
     {
       "id": "ard-d4-1",
@@ -6706,7 +6997,12 @@
       "message": "😄 বাথরুম সিঙ্গার সবাই। আপনার সিগনেচার গানটা কী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_1.png",
       "when": "2026-08-04T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351795320403705",
+        "post_id": "1191612787659871_1351795343737036"
+      },
+      "posted_at": "2026-08-04T03:30:34+00:00"
     },
     {
       "id": "ard-d4-2",
@@ -6716,7 +7012,12 @@
       "message": "😂 মেশিনটা মনে হয় শত্রুতা করে। কে কে relate? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_2.png",
       "when": "2026-08-04T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351879670395270",
+        "post_id": "1191612787659871_1351879723728598"
+      },
+      "posted_at": "2026-08-04T06:02:45+00:00"
     },
     {
       "id": "ard-d4-3",
@@ -6726,7 +7027,12 @@
       "message": "😄 ঢাকার বাস = ফ্রি জিম। আপনার সবচেয়ে খারাপ বাস অভিজ্ঞতা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_3.png",
       "when": "2026-08-04T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351879867061917",
+        "post_id": "1191612787659871_1351880087061895"
+      },
+      "posted_at": "2026-08-04T06:03:10+00:00"
     },
     {
       "id": "ard-d4-4",
@@ -6736,7 +7042,12 @@
       "message": "😄 রাতে ঘুম আসে না, সকালে উঠতে পারি না। কে কে এই দলে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_4.png",
       "when": "2026-08-04T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1351999013716669",
+        "post_id": "1191612787659871_1351999067049997"
+      },
+      "posted_at": "2026-08-04T09:45:47+00:00"
     },
     {
       "id": "ard-d4-5",
@@ -6746,7 +7057,12 @@
       "message": "😅 কালকের কাজ কালই থেকে যায়। সবচেয়ে বড় procrastination কী করেছেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_5.png",
       "when": "2026-08-04T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352085827041321",
+        "post_id": "1191612787659871_1352085837041320"
+      },
+      "posted_at": "2026-08-04T12:09:44+00:00"
     },
     {
       "id": "ard-d4-6",
@@ -6756,7 +7072,12 @@
       "message": "😂 চায়ের দোকান = ফ্রি পার্লামেন্ট। আপনার আড্ডার আসল জায়গা কোনটা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_6.png",
       "when": "2026-08-04T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352222033694367",
+        "post_id": "1191612787659871_1352222043694366"
+      },
+      "posted_at": "2026-08-04T15:32:26+00:00"
     },
     {
       "id": "ard-d4-7",
@@ -6766,7 +7087,12 @@
       "message": "😅 সিঁড়িই আসল সত্য বলে দেয়। কয় তলা উঠলে আপনার দম শেষ? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d4_7.png",
       "when": "2026-08-04T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352317467018157",
+        "post_id": "1191612787659871_1352317483684822"
+      },
+      "posted_at": "2026-08-04T18:00:02+00:00"
     },
     {
       "id": "ard-d4-8",
@@ -6775,7 +7101,11 @@
       "type": "text",
       "message": "সত্যি বলুন 👇\n\nআপনার ফোনের গ্যালারিতে সবচেয়ে বেশি কীসের ছবি?\n\n🍛 খাবার\n🤳 সেলফি\n🌇 আকাশ/প্রকৃতি\n😹 মিম/স্ক্রিনশট\n\nকমেন্টে বলুন 👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-04T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1352379380345299"
+      },
+      "posted_at": "2026-08-04T19:50:40+00:00"
     },
     {
       "id": "ard-d5-1",
@@ -6785,7 +7115,12 @@
       "message": "😩 লোডশেডিং ফিরছে। আপনার এলাকায় দিনে কতবার যায়? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_1.png",
       "when": "2026-08-05T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352617766988127",
+        "post_id": "1191612787659871_1352617816988122"
+      },
+      "posted_at": "2026-08-05T03:25:42+00:00"
     },
     {
       "id": "ard-d5-2",
@@ -6795,7 +7130,12 @@
       "message": "😂 আগে ফোন খায়, পরে আমরা। কে কে এই অভ্যাসের? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_2.png",
       "when": "2026-08-05T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352703943646176",
+        "post_id": "1191612787659871_1352703973646173"
+      },
+      "posted_at": "2026-08-05T05:54:21+00:00"
     },
     {
       "id": "ard-d5-3",
@@ -6805,7 +7145,12 @@
       "message": "😅 বিপদে আসল বন্ধু চেনা যায়। ট্যাগ করুন যে সত্যিই পাশে ছিল 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_3.png",
       "when": "2026-08-05T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352727756977128",
+        "post_id": "1191612787659871_1352727773643793"
+      },
+      "posted_at": "2026-08-05T06:37:40+00:00"
     },
     {
       "id": "ard-d5-4",
@@ -6815,7 +7160,12 @@
       "message": "😂 চাওয়া বদলাতে সময় লাগে না। আপনি কোন দলে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_4.png",
       "when": "2026-08-05T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352832796966624",
+        "post_id": "1191612787659871_1352832810299956"
+      },
+      "posted_at": "2026-08-05T09:43:57+00:00"
     },
     {
       "id": "ard-d5-5",
@@ -6825,7 +7175,12 @@
       "message": "😄 WiFi পাসওয়ার্ড = বন্ধুত্বের পরীক্ষা। কে কে দেন না? 🙈👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_5.png",
       "when": "2026-08-05T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1352922236957680",
+        "post_id": "1191612787659871_1352922260291011"
+      },
+      "posted_at": "2026-08-05T12:07:40+00:00"
     },
     {
       "id": "ard-d5-6",
@@ -6835,7 +7190,12 @@
       "message": "😅 ব্যস্ততা আছে, ফলাফল নাই। কে কে relate করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_6.png",
       "when": "2026-08-05T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353060566943847",
+        "post_id": "1191612787659871_1353060596943844"
+      },
+      "posted_at": "2026-08-05T15:23:50+00:00"
     },
     {
       "id": "ard-d5-7",
@@ -6845,7 +7205,12 @@
       "message": "🏏 শেষ ওভারের টেনশন অন্যরকম। সবচেয়ে টানটান ম্যাচ মনে আছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d5_7.png",
       "when": "2026-08-05T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353168446933059",
+        "post_id": "1191612787659871_1353168463599724"
+      },
+      "posted_at": "2026-08-05T17:50:57+00:00"
     },
     {
       "id": "ard-d5-8",
@@ -6854,7 +7219,11 @@
       "type": "text",
       "message": "একটা শব্দে বলুন 👇\n\nআজকের দিনটা কেমন যাচ্ছে — *এক শব্দে*?\n\nআমরা শুরু করি: টেনশন 😅\n\nআপনারটা বলুন, কেউ একা না 👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-05T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1353241200259117"
+      },
+      "posted_at": "2026-08-05T19:49:32+00:00"
     },
     {
       "id": "ard-d6-1",
@@ -6864,7 +7233,12 @@
       "message": "😌 ছুটির দিনের ঘুম আলাদা শান্তি। আপনার ছুটির দিন কীভাবে কাটে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_1.png",
       "when": "2026-08-06T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353472783569292",
+        "post_id": "1191612787659871_1353472796902624"
+      },
+      "posted_at": "2026-08-06T03:29:01+00:00"
     },
     {
       "id": "ard-d6-2",
@@ -6874,7 +7248,12 @@
       "message": "😄 কে কে এমন 'না চাইতেই বক্তা'? নিজেকে ট্যাগ করুন 😂👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_2.png",
       "when": "2026-08-06T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353554433561127",
+        "post_id": "1191612787659871_1353554486894455"
+      },
+      "posted_at": "2026-08-06T06:03:00+00:00"
     },
     {
       "id": "ard-d6-3",
@@ -6884,7 +7263,12 @@
       "message": "😅 এই লাইনটা সবচেয়ে বড় মিথ্যা। কে কে বলেছেন? 🙋 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_3.png",
       "when": "2026-08-06T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353554610227776",
+        "post_id": "1191612787659871_1353554633561107"
+      },
+      "posted_at": "2026-08-06T06:03:17+00:00"
     },
     {
       "id": "ard-d6-4",
@@ -6894,7 +7278,12 @@
       "message": "😄 প্রতিবছর একই গল্প। আপনার এবারের রেজোলিউশন টিকল? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_4.png",
       "when": "2026-08-06T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353677733548797",
+        "post_id": "1191612787659871_1353677746882129"
+      },
+      "posted_at": "2026-08-06T09:46:49+00:00"
     },
     {
       "id": "ard-d6-5",
@@ -6904,7 +7293,12 @@
       "message": "😂 ইন্ট্রোভার্টদের জাতীয় কৌশল। কে কে এটা করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_5.png",
       "when": "2026-08-06T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353773993539171",
+        "post_id": "1191612787659871_1353774033539167"
+      },
+      "posted_at": "2026-08-06T12:10:20+00:00"
     },
     {
       "id": "ard-d6-6",
@@ -6914,7 +7308,12 @@
       "message": "😄 ভদ্রতা vs লোভ — চিরন্তন যুদ্ধ। কে জেতে আপনার? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_6.png",
       "when": "2026-08-06T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1353907113525859",
+        "post_id": "1191612787659871_1353907153525855"
+      },
+      "posted_at": "2026-08-06T15:24:29+00:00"
     },
     {
       "id": "ard-d6-7",
@@ -6924,7 +7323,12 @@
       "message": "😴 প্রতিদিনের প্রতিজ্ঞা, প্রতিদিন ভাঙে। কে কে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d6_7.png",
       "when": "2026-08-06T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354201760163061",
+        "post_id": "1191612787659871_1354201783496392"
+      },
+      "posted_at": "2026-08-07T00:11:17+00:00"
     },
     {
       "id": "ard-d6-8",
@@ -6933,7 +7337,11 @@
       "type": "text",
       "message": "মজার প্রশ্ন 👇\n\nআপনার সবচেয়ে *অকাজের* কিন্তু প্রিয় অভ্যাসটা কী?\n\nআমরা শুরু করি: বিছানায় শুয়ে ঘণ্টার পর ঘণ্টা রিলস 📱\n\nআপনারটা বলুন 😄👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-06T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1354201876829716"
+      },
+      "posted_at": "2026-08-07T00:11:28+00:00"
     },
     {
       "id": "ard-d7-1",
@@ -6943,7 +7351,12 @@
       "message": "😂 লিস্ট এক, কেনা আরেক। বাজারে গিয়ে কী বেশি কেনেন অকারণে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_1.png",
       "when": "2026-08-07T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354322323484338",
+        "post_id": "1191612787659871_1354322340151003"
+      },
+      "posted_at": "2026-08-07T03:58:06+00:00"
     },
     {
       "id": "ard-d7-2",
@@ -6953,7 +7366,12 @@
       "message": "😅 রাত ২টায় দার্শনিক হয়ে যাই সবাই। কে কে রাত জাগেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_2.png",
       "when": "2026-08-07T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354358843480686",
+        "post_id": "1191612787659871_1354358873480683"
+      },
+      "posted_at": "2026-08-07T05:01:43+00:00"
     },
     {
       "id": "ard-d7-3",
@@ -6963,7 +7381,12 @@
       "message": "😩 বিনজ ওয়াচিং একটা রোগ। শেষ কোন সিরিজ রাত জেগে শেষ করলেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_3.png",
       "when": "2026-08-07T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354445236805380",
+        "post_id": "1191612787659871_1354445286805375"
+      },
+      "posted_at": "2026-08-07T07:38:39+00:00"
     },
     {
       "id": "ard-d7-4",
@@ -6973,7 +7396,12 @@
       "message": "😂 ছবি vs ভিডিওর পার্থক্য নিষ্ঠুর। কে কে relate করেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_4.png",
       "when": "2026-08-07T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354500580133179",
+        "post_id": "1191612787659871_1354500603466510"
+      },
+      "posted_at": "2026-08-07T09:12:28+00:00"
     },
     {
       "id": "ard-d7-5",
@@ -6983,7 +7411,12 @@
       "message": "😩 অকারণ মিটিং = সময়ের অপচয়। আপনার সবচেয়ে দীর্ঘ অকাজের মিটিং কত ঘণ্টা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_5.png",
       "when": "2026-08-07T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354661143450456",
+        "post_id": "1191612787659871_1354661160117121"
+      },
+      "posted_at": "2026-08-07T13:24:38+00:00"
     },
     {
       "id": "ard-d7-6",
@@ -6993,7 +7426,12 @@
       "message": "😂 সবাই মিথ্যা বলে এই এক জায়গায়। কে সবচেয়ে বড় ওস্তাদ? ট্যাগ করুন 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_6.png",
       "when": "2026-08-07T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354730840110153",
+        "post_id": "1191612787659871_1354730870110150"
+      },
+      "posted_at": "2026-08-07T15:04:18+00:00"
     },
     {
       "id": "ard-d7-7",
@@ -7003,7 +7441,12 @@
       "message": "😄 সপ্তাহান্ত দ্রুত, কর্মদিবস ধীর — অদ্ভুত না? আপনার সপ্তাহ কেমন গেল? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/aug_deshal/d7_7.png",
       "when": "2026-08-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1354778460105391",
+        "post_id": "1191612787659871_1354778516772052"
+      },
+      "posted_at": "2026-08-07T16:05:53+00:00"
     },
     {
       "id": "ard-d7-8",
@@ -7012,7 +7455,11 @@
       "type": "text",
       "message": "সপ্তাহ শেষের প্রশ্ন 👇\n\nএই সপ্তাহে সবচেয়ে বেশি কোন জিনিসটা আপনাকে *হাসিয়েছে*?\n\nএকটা মিম, একটা ঘটনা, একটা মানুষ — কমেন্টে শেয়ার করুন 😄👇\n\n📻 রেডিও দেশাল",
       "when": "2026-08-07T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1191612787659871_1354893463427224"
+      },
+      "posted_at": "2026-08-07T19:10:13+00:00"
     },
     {
       "id": "asu-d1-1",
@@ -7022,8 +7469,14 @@
       "message": "🧠 90% get this wrong. Comment your answer before you check the pinned one 👇",
       "image_url": "images/aug_suspense/d1_1.png",
       "when": "2026-08-01T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🗺️ ANSWER: A map. Did you get it? 😏"
+      "status": "posted",
+      "first_comment": "🗺️ ANSWER: A map. Did you get it? 😏",
+      "result": {
+        "id": "1479582310860130",
+        "post_id": "2642505565823038_1479582330860128",
+        "first_comment_id": "1479582330860128_1393806242668208"
+      },
+      "posted_at": "2026-08-01T11:26:29+00:00"
     },
     {
       "id": "asu-d1-2",
@@ -7032,7 +7485,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI always tuck my daughter in at night.\n\nTonight she whispered, \"Daddy, check the closet — there's another daddy in there.\"\n\n😳 React with 😱 if that got you.",
       "when": "2026-08-01T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1479679574183737"
+      },
+      "posted_at": "2026-08-01T13:47:30+00:00"
     },
     {
       "id": "asu-d1-3",
@@ -7042,8 +7499,14 @@
       "message": "🕵️ You have all the clues. Solve it in the comments before you look 👇",
       "image_url": "images/aug_suspense/d1_3.png",
       "when": "2026-08-01T16:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🔍 ANSWER: She stood on a block of ice to hang herself — it melted, leaving only the puddle. 🧊"
+      "status": "posted",
+      "first_comment": "🔍 ANSWER: She stood on a block of ice to hang herself — it melted, leaving only the puddle. 🧊",
+      "result": {
+        "id": "1479824277502600",
+        "post_id": "2642505565823038_1479824304169264",
+        "first_comment_id": "1479824304169264_1579355003572294"
+      },
+      "posted_at": "2026-08-01T17:11:34+00:00"
     },
     {
       "id": "asu-d1-4",
@@ -7053,8 +7516,14 @@
       "message": "👀 Only sharp eyes catch it fast. Which row? 👇",
       "image_url": "images/aug_suspense/d1_4.png",
       "when": "2026-08-01T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "👀 ANSWER: Row 2. The one looking back at you. 🕵️"
+      "status": "posted",
+      "first_comment": "👀 ANSWER: Row 2. The one looking back at you. 🕵️",
+      "result": {
+        "id": "1479913970826964",
+        "post_id": "2642505565823038_1479913990826962",
+        "first_comment_id": "1479913990826962_1404886658174160"
+      },
+      "posted_at": "2026-08-01T19:23:30+00:00"
     },
     {
       "id": "asu-d1-5",
@@ -7064,8 +7533,14 @@
       "message": "🕵️ Same trick, new room. Figure out the puddle 👇",
       "image_url": "images/aug_suspense/d1_5.png",
       "when": "2026-08-01T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🧊 ANSWER: He stood on a block of ice that has since melted. ❄️"
+      "status": "posted",
+      "first_comment": "🧊 ANSWER: He stood on a block of ice that has since melted. ❄️",
+      "result": {
+        "id": "1479974304154264",
+        "post_id": "2642505565823038_1479974330820928",
+        "first_comment_id": "1479974330820928_1115462224497392"
+      },
+      "posted_at": "2026-08-01T21:05:55+00:00"
     },
     {
       "id": "asu-d1-6",
@@ -7074,7 +7549,11 @@
       "type": "text",
       "message": "911 transcript, never explained:\n\nOperator: \"911, what's your emergency?\"\nCaller (whispering): \"He's in the house.\"\nOperator: \"Where are you?\"\nCaller: \"Under the bed.\"\nOperator: \"...ma'am, we traced the call. It's coming from under the bed too.\"\n\n😳 React 😱",
       "when": "2026-08-01T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1480040644147630"
+      },
+      "posted_at": "2026-08-01T23:08:24+00:00"
     },
     {
       "id": "asu-d2-1",
@@ -7084,8 +7563,14 @@
       "message": "🧠 Simpler than it looks. Answer in the comments before the pin 👇",
       "image_url": "images/aug_suspense/d2_1.png",
       "when": "2026-08-02T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "👣 ANSWER: Footsteps. 🚶"
+      "status": "posted",
+      "first_comment": "👣 ANSWER: Footsteps. 🚶",
+      "result": {
+        "id": "1480469874104707",
+        "post_id": "2642505565823038_1480469900771371",
+        "first_comment_id": "1480469900771371_1775980190095778"
+      },
+      "posted_at": "2026-08-02T11:24:59+00:00"
     },
     {
       "id": "asu-d2-2",
@@ -7094,7 +7579,11 @@
       "type": "text",
       "message": "Hotel review, 1 star:\n\n\"Clean room, polite staff. But every night at 3:07 AM, the phone rang. Front desk swore no calls were made. On night three, I picked up.\n\nIt was my own voice.\"\n\n😳 Would you check out?",
       "when": "2026-08-02T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1480570130761348"
+      },
+      "posted_at": "2026-08-02T13:48:05+00:00"
     },
     {
       "id": "asu-d2-3",
@@ -7104,8 +7593,14 @@
       "message": "🎩 Think carefully. It's not a crime. Comment your guess 👇",
       "image_url": "images/aug_suspense/d2_3.png",
       "when": "2026-08-02T16:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎲 ANSWER: He's playing Monopoly. 🏨"
+      "status": "posted",
+      "first_comment": "🎲 ANSWER: He's playing Monopoly. 🏨",
+      "result": {
+        "id": "1480720657412962",
+        "post_id": "2642505565823038_1480720727412955",
+        "first_comment_id": "1480720727412955_944096418408767"
+      },
+      "posted_at": "2026-08-02T17:11:35+00:00"
     },
     {
       "id": "asu-d2-4",
@@ -7115,7 +7610,12 @@
       "message": "📱 The last text is why I don't sleep with my phone on. React 😱 👇",
       "image_url": "images/aug_suspense/d2_4.png",
       "when": "2026-08-02T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1480807227404305",
+        "post_id": "2642505565823038_1480807274070967"
+      },
+      "posted_at": "2026-08-02T19:24:08+00:00"
     },
     {
       "id": "asu-d2-5",
@@ -7125,8 +7625,14 @@
       "message": "🧠 You're probably wearing the answer. Comment it 👇",
       "image_url": "images/aug_suspense/d2_5.png",
       "when": "2026-08-02T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "👕 ANSWER: A shirt. 🧵"
+      "status": "posted",
+      "first_comment": "👕 ANSWER: A shirt. 🧵",
+      "result": {
+        "id": "1480866624065032",
+        "post_id": "2642505565823038_1480866690731692",
+        "first_comment_id": "1480866690731692_2161457127784476"
+      },
+      "posted_at": "2026-08-02T21:06:44+00:00"
     },
     {
       "id": "asu-d2-6",
@@ -7136,8 +7642,14 @@
       "message": "👀 Quick — which row breaks the pattern? 👇",
       "image_url": "images/aug_suspense/d2_6.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🟠 ANSWER: Row 3 — the orange one. 🟠"
+      "status": "posted",
+      "first_comment": "🟠 ANSWER: Row 3 — the orange one. 🟠",
+      "result": {
+        "id": "1480932990725062",
+        "post_id": "2642505565823038_1480933014058393",
+        "first_comment_id": "1480933014058393_1283973256981206"
+      },
+      "posted_at": "2026-08-02T23:08:22+00:00"
     },
     {
       "id": "asu-d3-1",
@@ -7147,8 +7659,14 @@
       "message": "🧠 Easy one — but say it before you scroll to the pin 👇",
       "image_url": "images/aug_suspense/d3_1.png",
       "when": "2026-08-03T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🥚 ANSWER: An egg. 🍳"
+      "status": "posted",
+      "first_comment": "🥚 ANSWER: An egg. 🍳",
+      "result": {
+        "id": "1481384044013290",
+        "post_id": "2642505565823038_1481384057346622",
+        "first_comment_id": "1481384057346622_1095020846212959"
+      },
+      "posted_at": "2026-08-03T11:39:11+00:00"
     },
     {
       "id": "asu-d3-2",
@@ -7158,8 +7676,14 @@
       "message": "🕵️ One detail gives it away. Solve it in the comments 👇",
       "image_url": "images/aug_suspense/d3_2.png",
       "when": "2026-08-03T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎙️ ANSWER: Someone rewound the tape to the start. A man who just shot himself couldn't have. 🔎"
+      "status": "posted",
+      "first_comment": "🎙️ ANSWER: Someone rewound the tape to the start. A man who just shot himself couldn't have. 🔎",
+      "result": {
+        "id": "1481534893998205",
+        "post_id": "2642505565823038_1481534910664870",
+        "first_comment_id": "1481534910664870_1577352667771318"
+      },
+      "posted_at": "2026-08-03T15:11:25+00:00"
     },
     {
       "id": "asu-d3-3",
@@ -7168,7 +7692,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy smartwatch counts how many people are in the room.\n\nIt's just me at home tonight — but it keeps saying 2.\n\n😳 Drop a 😱 and tag someone brave.",
       "when": "2026-08-03T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1481655570652804"
+      },
+      "posted_at": "2026-08-03T18:01:45+00:00"
     },
     {
       "id": "asu-d3-4",
@@ -7178,8 +7706,14 @@
       "message": "👀 Harder than it looks on a small screen. Which row? 👇",
       "image_url": "images/aug_suspense/d3_4.png",
       "when": "2026-08-03T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🌙 ANSWER: Row 2 — the one with no face. 🌑"
+      "status": "posted",
+      "first_comment": "🌙 ANSWER: Row 2 — the one with no face. 🌑",
+      "result": {
+        "id": "1481728857312142",
+        "post_id": "2642505565823038_1481728870645474",
+        "first_comment_id": "1481728870645474_904946462665636"
+      },
+      "posted_at": "2026-08-03T19:51:19+00:00"
     },
     {
       "id": "asu-d3-5",
@@ -7189,7 +7723,12 @@
       "message": "📱 Which line made you cold? React 😱 👇",
       "image_url": "images/aug_suspense/d3_5.png",
       "when": "2026-08-03T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1481775203974174",
+        "post_id": "2642505565823038_1481775217307506"
+      },
+      "posted_at": "2026-08-03T21:16:03+00:00"
     },
     {
       "id": "asu-d3-6",
@@ -7199,8 +7738,14 @@
       "message": "🧠 It's right there. Comment your answer 👇",
       "image_url": "images/aug_suspense/d3_6.png",
       "when": "2026-08-03T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🔮 ANSWER: The future. ⏳"
+      "status": "posted",
+      "first_comment": "🔮 ANSWER: The future. ⏳",
+      "result": {
+        "id": "1481836097301418",
+        "post_id": "2642505565823038_1481836117301416",
+        "first_comment_id": "1481836117301416_1615281753518477"
+      },
+      "posted_at": "2026-08-03T23:14:34+00:00"
     },
     {
       "id": "asu-d4-1",
@@ -7210,8 +7755,14 @@
       "message": "🧠 A classic. Answer before the pin 👇",
       "image_url": "images/aug_suspense/d4_1.png",
       "when": "2026-08-04T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🍃 ANSWER: An echo. 🗣️"
+      "status": "posted",
+      "first_comment": "🍃 ANSWER: An echo. 🗣️",
+      "result": {
+        "id": "1482297407255287",
+        "post_id": "2642505565823038_1482297433921951",
+        "first_comment_id": "1482297433921951_1062324916732738"
+      },
+      "posted_at": "2026-08-04T12:10:01+00:00"
     },
     {
       "id": "asu-d4-2",
@@ -7220,7 +7771,11 @@
       "type": "text",
       "message": "911 transcript, unexplained:\n\nCaller: \"Someone's in my house.\"\nOperator: \"Are you safe?\"\nCaller: \"I'm hiding under the bed.\"\nOperator: \"Officers are 2 minutes away.\"\nCaller: \"...they just whispered, 'they're not coming for you.'\"\n\n😳 React 😱",
       "when": "2026-08-04T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1482443130574048"
+      },
+      "posted_at": "2026-08-04T15:32:38+00:00"
     },
     {
       "id": "asu-d4-3",
@@ -7230,8 +7785,14 @@
       "message": "🕵️ Same drink, different fate. Figure out why 👇",
       "image_url": "images/aug_suspense/d4_3.png",
       "when": "2026-08-04T16:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🧊 ANSWER: The ice was poisoned. The slow drinker's ice didn't melt in time; the fast drinker's did. 🥶"
+      "status": "posted",
+      "first_comment": "🧊 ANSWER: The ice was poisoned. The slow drinker's ice didn't melt in time; the fast drinker's did. 🥶",
+      "result": {
+        "id": "1482544853897209",
+        "post_id": "2642505565823038_1482544873897207",
+        "first_comment_id": "1482544873897207_1067576789304441"
+      },
+      "posted_at": "2026-08-04T18:00:21+00:00"
     },
     {
       "id": "asu-d4-4",
@@ -7241,8 +7802,14 @@
       "message": "👀 The fake smile is close. Comment the row 👇",
       "image_url": "images/aug_suspense/d4_4.png",
       "when": "2026-08-04T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🙂 ANSWER: Row 2 — the one that isn't really happy. 🙂"
+      "status": "posted",
+      "first_comment": "🙂 ANSWER: Row 2 — the one that isn't really happy. 🙂",
+      "result": {
+        "id": "1482611057223922",
+        "post_id": "2642505565823038_1482611083890586",
+        "first_comment_id": "1482611083890586_1615706963450999"
+      },
+      "posted_at": "2026-08-04T19:51:01+00:00"
     },
     {
       "id": "asu-d4-5",
@@ -7252,8 +7819,14 @@
       "message": "🧠 Dark, but famous. Answer in the comments 👇",
       "image_url": "images/aug_suspense/d4_5.png",
       "when": "2026-08-04T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⚰️ ANSWER: A coffin. 🪦"
+      "status": "posted",
+      "first_comment": "⚰️ ANSWER: A coffin. 🪦",
+      "result": {
+        "id": "1482660710552290",
+        "post_id": "2642505565823038_1482660737218954",
+        "first_comment_id": "1482660737218954_1396684829028064"
+      },
+      "posted_at": "2026-08-04T21:22:18+00:00"
     },
     {
       "id": "asu-d4-6",
@@ -7262,7 +7835,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI got a notification: \"Your photo memories from today.\"\n\nI hadn't taken any photos. It was 14 pictures of me, asleep, from above.\n\n😳 React 😱 and tag someone.",
       "when": "2026-08-04T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1482716207213407"
+      },
+      "posted_at": "2026-08-04T23:13:52+00:00"
     },
     {
       "id": "asu-d5-1",
@@ -7272,8 +7849,14 @@
       "message": "🧠 Old-school clever. Say it before the pin 👇",
       "image_url": "images/aug_suspense/d5_1.png",
       "when": "2026-08-05T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "📮 ANSWER: A stamp. ✉️"
+      "status": "posted",
+      "first_comment": "📮 ANSWER: A stamp. ✉️",
+      "result": {
+        "id": "1483181480500213",
+        "post_id": "2642505565823038_1483181510500210",
+        "first_comment_id": "1483181510500210_1067149988987888"
+      },
+      "posted_at": "2026-08-05T12:07:58+00:00"
     },
     {
       "id": "asu-d5-2",
@@ -7283,8 +7866,14 @@
       "message": "🕵️ The answer is simpler than you think. Comment your solve 👇",
       "image_url": "images/aug_suspense/d5_2.png",
       "when": "2026-08-05T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "☔ ANSWER: She was carried there after the rain — or arrived under cover. The 'dry victim' is the whole clue. 🌧️"
+      "status": "posted",
+      "first_comment": "☔ ANSWER: She was carried there after the rain — or arrived under cover. The 'dry victim' is the whole clue. 🌧️",
+      "result": {
+        "id": "1483328543818840",
+        "post_id": "2642505565823038_1483328567152171",
+        "first_comment_id": "1483328567152171_2136588003931270"
+      },
+      "posted_at": "2026-08-05T15:24:09+00:00"
     },
     {
       "id": "asu-d5-3",
@@ -7293,7 +7882,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy toddler keeps giggling at the baby monitor and waving.\n\nHer crib is in the same room as us tonight — the monitor's been unplugged for a week.\n\n😳 Sleep well.",
       "when": "2026-08-05T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1483439313807763"
+      },
+      "posted_at": "2026-08-05T17:51:08+00:00"
     },
     {
       "id": "asu-d5-4",
@@ -7303,7 +7896,12 @@
       "message": "📱 Which text made your stomach drop? React 😱 👇",
       "image_url": "images/aug_suspense/d5_4.png",
       "when": "2026-08-05T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1483514907133537",
+        "post_id": "2642505565823038_1483514923800202"
+      },
+      "posted_at": "2026-08-05T19:49:44+00:00"
     },
     {
       "id": "asu-d5-5",
@@ -7313,8 +7911,14 @@
       "message": "🕵️ Only one keeps him alive. Which room, and why? 👇",
       "image_url": "images/aug_suspense/d5_5.png",
       "when": "2026-08-05T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🦁 ANSWER: The lions' room — after 3 years without food, they'd be long dead. 💀"
+      "status": "posted",
+      "first_comment": "🦁 ANSWER: The lions' room — after 3 years without food, they'd be long dead. 💀",
+      "result": {
+        "id": "1483565413795153",
+        "post_id": "2642505565823038_1483565430461818",
+        "first_comment_id": "1483565430461818_996629830031220"
+      },
+      "posted_at": "2026-08-05T21:21:45+00:00"
     },
     {
       "id": "asu-d5-6",
@@ -7324,8 +7928,14 @@
       "message": "👀 Quick eyes only. Which row? 👇",
       "image_url": "images/aug_suspense/d5_6.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "✨ ANSWER: Row 3 — the sparkle, not the star. ✨"
+      "status": "posted",
+      "first_comment": "✨ ANSWER: Row 3 — the sparkle, not the star. ✨",
+      "result": {
+        "id": "1483624107122617",
+        "post_id": "2642505565823038_1483624123789282",
+        "first_comment_id": "1483624123789282_2838516163191168"
+      },
+      "posted_at": "2026-08-05T23:12:55+00:00"
     },
     {
       "id": "asu-d6-1",
@@ -7335,8 +7945,14 @@
       "message": "🧠 Dark but famous. Answer in the comments 👇",
       "image_url": "images/aug_suspense/d6_1.png",
       "when": "2026-08-06T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⚰️ ANSWER: A coffin. 🪦"
+      "status": "posted",
+      "first_comment": "⚰️ ANSWER: A coffin. 🪦",
+      "result": {
+        "id": "1484084230409938",
+        "post_id": "2642505565823038_1484084250409936",
+        "first_comment_id": "1484084250409936_1074613138557709"
+      },
+      "posted_at": "2026-08-06T12:10:38+00:00"
     },
     {
       "id": "asu-d6-2",
@@ -7346,8 +7962,14 @@
       "message": "🕵️ The classic. If you know it, don't spoil it — let others guess 👇",
       "image_url": "images/aug_suspense/d6_2.png",
       "when": "2026-08-06T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🛗 ANSWER: He's short and can only reach the 10th-floor button — unless he has an umbrella to press the 20th. ☔"
+      "status": "posted",
+      "first_comment": "🛗 ANSWER: He's short and can only reach the 10th-floor button — unless he has an umbrella to press the 20th. ☔",
+      "result": {
+        "id": "1484231573728537",
+        "post_id": "2642505565823038_1484231590395202",
+        "first_comment_id": "1484231590395202_2053331258610290"
+      },
+      "posted_at": "2026-08-06T15:24:48+00:00"
     },
     {
       "id": "asu-d6-3",
@@ -7356,7 +7978,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI live alone, so I set two plates out sometimes just to feel less lonely.\n\nLast night, both plates were empty in the morning.\n\n😳 React 😱 if you'd move out.",
       "when": "2026-08-06T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1484549810363380"
+      },
+      "posted_at": "2026-08-07T00:11:43+00:00"
     },
     {
       "id": "asu-d6-4",
@@ -7366,8 +7992,14 @@
       "message": "👀 Quick — which row breaks the pattern? 👇",
       "image_url": "images/aug_suspense/d6_4.png",
       "when": "2026-08-06T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "♠️ ANSWER: Row 2 — the club at the end. ♣️"
+      "status": "posted",
+      "first_comment": "♠️ ANSWER: Row 2 — the club at the end. ♣️",
+      "result": {
+        "id": "1484549913696703",
+        "post_id": "2642505565823038_1484549943696700",
+        "first_comment_id": "1484549943696700_3680008875470371"
+      },
+      "posted_at": "2026-08-07T00:12:03+00:00"
     },
     {
       "id": "asu-d6-5",
@@ -7377,7 +8009,12 @@
       "message": "📱 So who's at the window? React 😱 👇",
       "image_url": "images/aug_suspense/d6_5.png",
       "when": "2026-08-06T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1484550097030018",
+        "post_id": "2642505565823038_1484550123696682"
+      },
+      "posted_at": "2026-08-07T00:12:20+00:00"
     },
     {
       "id": "asu-d6-6",
@@ -7387,8 +8024,14 @@
       "message": "🧠 Simple but sneaky. Comment your answer 👇",
       "image_url": "images/aug_suspense/d6_6.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🧺 ANSWER: A towel. 🚿"
+      "status": "posted",
+      "first_comment": "🧺 ANSWER: A towel. 🚿",
+      "result": {
+        "id": "1484550223696672",
+        "post_id": "2642505565823038_1484550250363336",
+        "first_comment_id": "1484550250363336_1642642847863593"
+      },
+      "posted_at": "2026-08-07T00:12:42+00:00"
     },
     {
       "id": "asu-d7-1",
@@ -7398,8 +8041,14 @@
       "message": "🧠 Nice and simple. Answer before the pin 👇",
       "image_url": "images/aug_suspense/d7_1.png",
       "when": "2026-08-07T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🕯️ ANSWER: A candle. 🔥"
+      "status": "posted",
+      "first_comment": "🕯️ ANSWER: A candle. 🔥",
+      "result": {
+        "id": "1484933966991631",
+        "post_id": "2642505565823038_1484933990324962",
+        "first_comment_id": "1484933990324962_1947978452518418"
+      },
+      "posted_at": "2026-08-07T11:03:19+00:00"
     },
     {
       "id": "asu-d7-2",
@@ -7409,8 +8058,14 @@
       "message": "🕵️ Think about the windows. Solve it 👇",
       "image_url": "images/aug_suspense/d7_2.png",
       "when": "2026-08-07T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🏢 ANSWER: Every window was locked from the inside — no one could have pushed him and re-locked it. 🔒"
+      "status": "posted",
+      "first_comment": "🏢 ANSWER: Every window was locked from the inside — no one could have pushed him and re-locked it. 🔒",
+      "result": {
+        "id": "1485030743648620",
+        "post_id": "2642505565823038_1485030773648617",
+        "first_comment_id": "1485030773648617_1380033663485025"
+      },
+      "posted_at": "2026-08-07T13:24:56+00:00"
     },
     {
       "id": "asu-d7-3",
@@ -7419,7 +8074,11 @@
       "type": "text",
       "message": "Chill of the week 👇\n\nMy phone's photo app made a 'memories' video titled *'You & Him ❤️'*.\n\nEvery photo was of me sleeping. I live alone.\n\n😳 React 😱 and tag someone who needs to lose sleep tonight.",
       "when": "2026-08-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1485156023636092"
+      },
+      "posted_at": "2026-08-07T16:06:04+00:00"
     },
     {
       "id": "asu-d7-4",
@@ -7429,8 +8088,14 @@
       "message": "👀 One door is open. Which row? 👇",
       "image_url": "images/aug_suspense/d7_4.png",
       "when": "2026-08-07T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🔓 ANSWER: Row 2 — the unlocked one. Hope it wasn't yours. 🔓"
+      "status": "posted",
+      "first_comment": "🔓 ANSWER: Row 2 — the unlocked one. Hope it wasn't yours. 🔓",
+      "result": {
+        "id": "1485279106957117",
+        "post_id": "2642505565823038_1485279150290446",
+        "first_comment_id": "1485279150290446_1063637142799730"
+      },
+      "posted_at": "2026-08-07T19:10:31+00:00"
     },
     {
       "id": "asu-d7-5",
@@ -7440,8 +8105,14 @@
       "message": "🧠 Read it literally. Comment your answer 👇",
       "image_url": "images/aug_suspense/d7_5.png",
       "when": "2026-08-07T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎣 ANSWER: The word 'ton' — backward it's 'not.' 🔤"
+      "status": "posted",
+      "first_comment": "🎣 ANSWER: The word 'ton' — backward it's 'not.' 🔤",
+      "result": {
+        "id": "1485363180282043",
+        "post_id": "2642505565823038_1485363196948708",
+        "first_comment_id": "1485363196948708_1778984733255631"
+      },
+      "posted_at": "2026-08-07T21:51:01+00:00"
     },
     {
       "id": "asu-d7-6",
@@ -7450,7 +8121,11 @@
       "type": "text",
       "message": "Last two-line horror of the week 👇\n\nEvery night my dog barks at the empty hallway.\n\nTonight he came and hid behind me — and something in the hallway kept barking back.\n\n😳 React 😱. Sleep tight.",
       "when": "2026-08-07T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1485414946943533"
+      },
+      "posted_at": "2026-08-07T23:42:18+00:00"
     },
     {
       "id": "tmr-w1-d1-1",
@@ -7460,7 +8135,12 @@
       "message": "🧩 Five emojis. One modern classic.\n\nIf you get it instantly you've seen it more than once — and you know exactly which scene we mean.\n\nToo easy? Prove it. Too hard? Guess anyway.\n\n👇 Comment your answer.\n\n🔁 Share this with the friend who claims they know every movie.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d1_1.png",
       "when": "2026-08-01T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199587570787954",
+        "post_id": "628257647029140_122199587588787954"
+      },
+      "posted_at": "2026-08-01T15:12:00+00:00"
     },
     {
       "id": "tmr-w1-d1-2",
@@ -7470,7 +8150,12 @@
       "message": "🎬 PARASITE (2019) — the film that finally broke the Oscars' language barrier\n\nSome films win awards because the industry feels it ought to reward them. This one won because there was genuinely nothing else like it that year.\n\n━━━━━━━━━━━━━━━━━━━━\n\n📌 THE BASICS\n\nWHAT: A South Korean dark comedy that quietly becomes a thriller. A poor family talks its way, one member at a time, into working for a rich one.\n\nWHO: Directed by Bong Joon-ho, who co-wrote it with Han Jin-won. Song Kang-ho leads as the father, with Choi Woo-shik and Park So-dam as the son and daughter, Jang Hye-jin as the mother, and Lee Sun-kyun, Cho Yeo-jeong, Park Myung-hoon and Lee Jung-eun on the other side of the story. Shot by Hong Kyung-pyo, cut by Yang Jin-mo, scored by Jung Jae-il.\n\nWHEN: Premiered at Cannes on 21 May 2019, where it became the first Korean film ever to win the Palme d'Or. Runtime is about 2 hours 12 minutes.\n\nHOW MUCH: Made for roughly $11.4 million. Earned about $257.6 million worldwide — more than twenty times its cost.\n\nTHE RECORD: Four Academy Awards, including Best Picture, Best Director and Best Original Screenplay. The first film not in the English language to win Best Picture in the Academy's history.\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 THE STORY (no spoilers)\n\nThe Kim family lives in a semi-basement flat where the window looks out at street level. They fold pizza boxes for money and hunt for a neighbour's wifi signal from the bathroom.\n\nThen the son gets a chance: tutoring the daughter of the wealthy Park family, in a house on a hill designed by a famous architect. He takes it. And then he starts finding reasons why his family should work there too.\n\nThat's all you should know. The film is built on a turn that arrives roughly halfway through, and knowing it in advance costs you the best hour of cinema in a decade.\n\nWhat makes the script remarkable is the fairness of it. There's no villain. The rich family isn't cruel — they're pleasant, distracted, and insulated. The poor family isn't noble — they're funny, resourceful and willing to hurt people with less than them. Bong refuses to let you settle into rooting for anyone, and that discomfort is the whole point.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎭 THE ACTING\n\nSong Kang-ho gives one of the great screen performances of the century, and he does most of it with his face at rest. There's a moment late in the film — a single reaction to a small, thoughtless gesture — that carries more weight than any speech in the script. You watch a man's dignity break in real time.\n\nPark So-dam is the film's secret weapon: completely composed, the smartest person in every room she enters. Cho Yeo-jeong makes the wealthy mother genuinely likeable rather than a caricature, which is much harder and matters much more — the film only works if her kindness feels real.\n\nLee Jung-eun has the single most demanding stretch in the film. Anyone who has seen it knows exactly which scene, and knows she carries it alone.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎥 THE CAMERA\n\nHong Kyung-pyo shoots the two houses as opposing arguments. The Park house is wide, horizontal, full of glass and framed light — the camera has room to breathe. The Kim flat is cramped, vertical, always looking up toward a window at pavement height.\n\nWatch the staircases. The entire film is people moving up and down them, and by the end you'll notice you've been reading the story geographically without anyone explaining it. Nobody in the film ever gives a speech about inequality. The set does it for them — the house was purpose-built for the production so the geometry would land exactly this way.\n\nAnd it rains. When it rains, the film's whole structure tilts, and the same water means two completely different things depending on which house you're standing in.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎵 THE MUSIC\n\nJung Jae-il's score is doing something clever: it's mostly light, mannered, almost baroque. It sounds like polite company. It plays under scenes of people lying to each other with beautiful manners, and the mismatch is deliberately unsettling. Then in the last act it drops the politeness entirely.\n\nIf you rewatch, listen to the piano in the first hour. It's telling you what kind of film this is going to become before the film admits it.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎬 THE DIRECTION\n\nThis is Bong's best control of tone, and tone is the hardest thing in filmmaking. Parasite is a comedy for forty minutes. Genuinely funny — the family's schemes play like a heist. Then it turns, and it never turns back, and you can't point to the exact frame where it happened.\n\nMost directors who attempt that leave a visible seam. There is no seam here.\n\n━━━━━━━━━━━━━━━━━━━━\n\n✅ STRENGTHS\n\n• A screenplay with no wasted scene — everything planted pays off\n• Song Kang-ho, at the peak of his powers\n• Production design that argues the film's thesis without dialogue\n• Tonal control that shouldn't be possible\n• Rewatch value: the second viewing is a different film\n\n⚠️ WEAKNESSES\n\n• The final act asks a lot of you emotionally, and not everyone wants to be asked\n• Some viewers find the turn abrupt — fair, though we'd argue the abruptness is the argument\n• If you need a character to root for, this film will refuse you for two hours\n• The last ten minutes divide people sharply, and always have\n\n━━━━━━━━━━━━━━━━━━━━\n\n⭐ FINAL VERDICT: 9.5 / 10\n\nThe rare film that swept everything AND deserved it. Not a difficult watch, not homework, not medicine — it's tense and funny and moves fast. It just happens to be about something.\n\n👥 WATCH IT IF: you like thrillers with real ideas, you enjoy films that reward a second viewing, or you've been meaning to get past the subtitle barrier and want the best possible reason to.\n\n🚫 MAYBE SKIP IF: you want a comfort watch, or you need a clean, comfortable ending.\n\n━━━━━━━━━━━━━━━━━━━━\n\n👇 COMMENT: Did the ending land for you — or lose you? We've seen this argument split entire friendships, so be honest.\n\n🔁 SHARE this with the person who still says \"I don't watch films with subtitles.\" This is the one that changes their mind.\n\n#MovieReview #Parasite #BongJoonHo #FilmTwitter #Cinephile #MustWatch #KoreanCinema #OscarWinner #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic #BestPicture\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d1_2.png",
       "when": "2026-08-01T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199610010787954",
+        "post_id": "628257647029140_122199610040787954"
+      },
+      "posted_at": "2026-08-01T19:23:43+00:00"
     },
     {
       "id": "tmr-w1-d1-3",
@@ -7480,7 +8165,12 @@
       "message": "🦈 One of cinema's greatest scares was an accident.\n\nThe mechanical shark on Jaws failed constantly in the salt water. Spielberg couldn't show it — so he suggested it instead. A fin. A barrel. That score.\n\nThe result is a masterclass: what you don't see is scarier than what you do. Half of modern horror is still copying a broken prop.\n\nLimitation forced imagination. It usually does.\n\n👇 Comment: what's the scariest thing you never actually saw on screen?\n\n🔁 Share this with a film nerd who'll appreciate it.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d1_3.png",
       "when": "2026-08-01T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199625712787954",
+        "post_id": "628257647029140_122199625730787954"
+      },
+      "posted_at": "2026-08-01T23:08:35+00:00"
     },
     {
       "id": "tmr-w1-d2-1",
@@ -7490,7 +8180,12 @@
       "message": "🧩 Yesterday's emoji puzzle was THE GRAND BUDAPEST HOTEL. If you got it — respect.\n\nToday's is easier. Or is it?\n\nFive emojis, one film that changed its entire genre.\n\n👇 Comment your answer. Reveal tomorrow.\n\n🔁 Share this with someone who'll get it in two seconds.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d2_1.png",
       "when": "2026-08-02T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199697538787954",
+        "post_id": "628257647029140_122199697556787954"
+      },
+      "posted_at": "2026-08-02T15:13:26+00:00"
     },
     {
       "id": "tmr-w1-d2-2",
@@ -7500,7 +8195,12 @@
       "message": "🎭 MATT DAMON — the screenplay that built a career.\n\nStruggling to get cast in anything worthwhile, Damon started writing a script as a class assignment at Harvard. He and Ben Affleck kept working on it for years.\n\nThat script became Good Will Hunting. In 1998 the two of them won the Academy Award for Best Original Screenplay — Damon was 27.\n\nWhat followed: the Bourne trilogy redefined the modern action hero, The Martian carried an entire film on one performance, and Ford v Ferrari proved he'd become a genuine character actor. This year he leads Christopher Nolan's The Odyssey.\n\nThe lesson holds up: if the door won't open, build your own.\n\n👇 Comment: what's YOUR favourite Matt Damon performance?\n\n🔁 Share this with someone who needs to hear 'write your own door' today.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d2_2.png",
       "when": "2026-08-02T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199719420787954",
+        "post_id": "628257647029140_122199719444787954"
+      },
+      "posted_at": "2026-08-02T19:24:25+00:00"
     },
     {
       "id": "tmr-w1-d2-3",
@@ -7510,7 +8210,12 @@
       "message": "🧠 MOVIE RIDDLE — medium difficulty.\n\nRead it twice. The clue is in what's missing, not what's there.\n\nMost people guess wrong on the first try. The ones who get it, get it instantly.\n\n👇 Comment your answer. No spoilers for others — just the title.\n\n🔁 Share this with the friend who thinks they're unbeatable at these.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d2_3.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199733064787954",
+        "post_id": "628257647029140_122199733082787954"
+      },
+      "posted_at": "2026-08-02T23:08:40+00:00"
     },
     {
       "id": "tmr-w1-d3-1",
@@ -7520,7 +8225,12 @@
       "message": "🎯 Yesterday: THE DARK KNIGHT and WALL·E. How many did you get?\n\nToday's is a character, not a film. One of the most quoted lines of the century — and one of the great screen monsters.\n\n👇 Comment the character's name (and the film if you know it).\n\n🔁 Share this with someone who quotes movies constantly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d3_1.png",
       "when": "2026-08-03T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199818114787954",
+        "post_id": "628257647029140_122199818138787954"
+      },
+      "posted_at": "2026-08-03T15:11:37+00:00"
     },
     {
       "id": "tmr-w1-d3-2",
@@ -7530,7 +8240,12 @@
       "message": "⚔️ THE ODYSSEY (2026) — released July 17, and nobody agrees on it.\n\nThe facts: Christopher Nolan directing Homer, roughly $250 million, and a cast most studios couldn't assemble — Matt Damon, Tom Holland, Zendaya, Robert Pattinson, Lupita Nyong'o, Anne Hathaway, Charlize Theron.\n\nThe critics split hard. Variety called it a genuinely grand, gutsy vision. Roger Ebert's site praised its view of human nature. TIME went the other way entirely, calling it underwhelming to look at. Audiences are just as divided — 'masterpiece' and 'violent mess' in the same comment section.\n\nWe're not giving a verdict on a film this fresh. We want yours.\n\n👇 Comment: seen it? Masterpiece or misfire — and why?\n\n🔁 Share this and tag the friend you argued with about it.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema #MovieOpinions #FilmLovers #UnpopularOpinion\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d3_2.png",
       "when": "2026-08-03T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199841538787954",
+        "post_id": "628257647029140_122199841556787954"
+      },
+      "posted_at": "2026-08-03T19:51:52+00:00"
     },
     {
       "id": "tmr-w1-d3-3",
@@ -7540,7 +8255,12 @@
       "message": "🦖 Jurassic Park is over thirty years old and the T-rex still looks more real than most of what's released now.\n\nThe argument for practical: it's actually there. Light hits it. Actors react to something physical. It ages like a photograph.\n\nThe argument for CGI: it lets you tell stories you simply couldn't otherwise. Nobody's building a real Middle-earth.\n\nThe honest answer is probably 'the best films use both, invisibly.' But that's a boring comment, so:\n\n👇 Comment: PRACTICAL or CGI — pick a side.\n\n🔁 Share this with someone who has strong opinions about this.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema #MovieOpinions #FilmLovers #UnpopularOpinion\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d3_3.png",
       "when": "2026-08-03T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199856328787954",
+        "post_id": "628257647029140_122199856346787954"
+      },
+      "posted_at": "2026-08-03T23:14:46+00:00"
     },
     {
       "id": "tmr-w1-d4-1",
@@ -7550,7 +8270,12 @@
       "message": "🎓 Yesterday: Daniel Plainview, There Will Be Blood. Day-Lewis at his most terrifying.\n\nTODAY'S QUIZ — 5 questions, answer in the comments:\n\n1. Which film won Best Picture the same year it won Best International Feature?\n2. Who has the most Best Director Oscars ever?\n3. Which actor played both a Marvel and a DC lead?\n4. What's the highest-grossing film that never had a sequel?\n5. Which director has never used a single CGI shot?\n\n👇 Comment your answers 1-5. Score yourself tomorrow.\n\n🔁 Share this with the friend who thinks they'd win a film quiz.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d4_1.png",
       "when": "2026-08-04T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199923246787954",
+        "post_id": "628257647029140_122199923264787954"
+      },
+      "posted_at": "2026-08-04T15:32:51+00:00"
     },
     {
       "id": "tmr-w1-d4-2",
@@ -7560,7 +8285,12 @@
       "message": "🎬 MAD MAX: FURY ROAD (2015) — the greatest action film of the century, and it's barely close\n\nA studio spent over $150 million on a two-hour car chase with almost no dialogue, directed by a 70-year-old man who also made Happy Feet. It should have been a disaster. Instead it won six Academy Awards.\n\n━━━━━━━━━━━━━━━━━━━━\n\n📌 THE BASICS\n\nWHAT: A war rig goes one way across the desert, then turns around and comes back. That is genuinely the entire plot — and it's one of the most acclaimed films of the last twenty years.\n\nWHO: Directed and co-written by George Miller, who made the original Mad Max in 1979. Tom Hardy plays Max, Charlize Theron plays Furiosa, Nicholas Hoult plays Nux, and Hugh Keays-Byrne plays Immortan Joe — the same actor who played the villain Toecutter in the 1979 original. Shot by John Seale, who came out of retirement to do it. Cut by Margaret Sixel. Scored by Junkie XL.\n\nWHEN: Released in 2015, roughly thirty years after the previous Mad Max film. Runtime is about 2 hours.\n\nHOW MUCH: Budget reported between $154 million and $185 million. Earned about $380 million worldwide.\n\nTHE RECORD: Six Academy Awards — Film Editing, Costume Design, Production Design, Makeup and Hairstyling, Sound Editing and Sound Mixing. It was also nominated for Best Picture, Best Director and Best Cinematography, and lost all three. Ten nominations, six wins, and an argument that's still running about the three it didn't get.\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 THE STORY (no spoilers)\n\nIn a desert wasteland, one man controls the water and therefore controls everyone. Furiosa, his most trusted driver, takes a war rig out on a supply run and quietly goes off-route with something he desperately wants back. Max, captured and being used as a human blood supply, ends up strapped to the front of a pursuing car.\n\nThat's the setup. The rest is the chase.\n\nWhat's remarkable is how much story fits inside it. Furiosa gets a complete character arc with maybe forty lines of dialogue. Nux — a minor henchman — has a more convincing redemption than most protagonists get in three films. And Max barely speaks at all.\n\nMiller told the story visually because he had to: he storyboarded the film before writing a script, and the film reads like something drawn rather than written. You always know exactly where every vehicle is in relation to every other one, which sounds basic until you watch almost any other modern action film and realise you have no idea.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎭 THE ACTING\n\nCharlize Theron is the lead of this film. Not Tom Hardy — Theron. Furiosa carries the entire emotional weight, and Theron plays her with a kind of exhausted fury that never tips into speechmaking. The moment in the desert, on her knees, is one of the great wordless performances of the decade.\n\nTom Hardy makes an interesting choice: he plays Max as barely verbal, closer to an animal than a hero, and lets the film be someone else's story. It takes confidence to be the title character and step back.\n\nNicholas Hoult is the surprise. Nux starts as a disposable fanatic and becomes the most human person on screen, and Hoult does it without a single scene of explanation.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎥 THE CAMERA\n\nJohn Seale came out of retirement for this and shot it like nothing else in the genre.\n\nThe key decision: the point of interest sits in the centre of the frame, almost always. Sounds trivial. It means that in a film cut this fast, your eye never has to hunt for what matters — so you can cut quickly without confusing anyone. Most modern action is incoherent precisely because it ignores this.\n\nThen there's the crucial fact: the vehicles are real. Real cars, real desert, real stunt performers on poles swinging over moving trucks. There is CGI in the film, but it's mostly removing wires and extending backgrounds. When something crashes, something crashed. That physical weight is why it still looks better than films made a decade later.\n\nNote the colour too — deep orange days and cold blue nights, pushed far past realism, which is why a single frame of this film is instantly recognisable.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎵 THE MUSIC\n\nJunkie XL's score is essentially a drum and guitar assault, and the film puts the guitar on screen — a blind man on a truck of speakers with a flamethrowing instrument. The score has a character playing it inside the world of the film.\n\nIt's relentless by design. There are almost no quiet moments, and the few there are land harder because of the noise around them.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎬 THE DIRECTION\n\nMiller was 70 when this was released and he out-directed everyone half his age.\n\nThe editing deserves its own note. Margaret Sixel — who had never cut an action film — assembled around 480 hours of footage into 120 minutes. Miller's reasoning for hiring her was that if a man cut it, it would look like every other action film. She won the Oscar, and became the first South African-born editor to do so.\n\n━━━━━━━━━━━━━━━━━━━━\n\n✅ STRENGTHS\n\n• Practical stunt work that CGI still hasn't matched\n• Charlize Theron's Furiosa — a genuinely new kind of action lead\n• Visual storytelling so clear you could follow it with the sound off\n• Editing that's fast without ever being confusing\n• World-building done entirely through design, never exposition\n\n⚠️ WEAKNESSES\n\n• If you need plot complexity, there isn't any — it's a straight line\n• Character backstory is almost entirely withheld; some viewers find that cold\n• The relentlessness is exhausting by design, and not everyone wants that\n• Max himself is arguably the least interesting person in his own film\n\n━━━━━━━━━━━━━━━━━━━━\n\n⭐ FINAL VERDICT: 9.5 / 10\n\nThe best action film since the turn of the century, and the clearest proof that spectacle and craft aren't opposites. Every action director since has been trying to copy it, and almost none have understood that the secret isn't the crashes — it's the clarity.\n\n👥 WATCH IT IF: you like action with actual craft, you're tired of CGI weightlessness, or you want to see what a director does when a studio finally lets him build the thing for real.\n\n🚫 MAYBE SKIP IF: you want a dialogue-driven story, or a quiet night in.\n\n━━━━━━━━━━━━━━━━━━━━\n\n👇 COMMENT: Is this the best action film ever made — or is there something you'd put above it? Name it and defend it.\n\n🔁 SHARE this with the friend who still hasn't seen it. They've had ten years.\n\n#MovieReview #MadMax #FuryRoad #GeorgeMiller #FilmTwitter #Cinephile #MustWatch #ActionMovies #CharlizeTheron #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d4_2.png",
       "when": "2026-08-04T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199940352787954",
+        "post_id": "628257647029140_122199940370787954"
+      },
+      "posted_at": "2026-08-04T19:51:13+00:00"
     },
     {
       "id": "tmr-w1-d4-3",
@@ -7570,7 +8300,12 @@
       "message": "❄️ The script said 'I love you too.'\n\nHarrison Ford argued it was wrong for Han Solo — the man doesn't say things like that. On the day, he said 'I know' instead. Irvin Kershner kept it.\n\nIt's now one of the most famous lines in film history, and it works precisely because it's not the expected one. Character over sentiment.\n\nThe best improvised lines aren't jokes. They're moments an actor understood better than the page did.\n\n👇 Comment: best improvised movie line you can think of?\n\n🔁 Share this with a Star Wars fan.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d4_3.png",
       "when": "2026-08-04T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199951860787954",
+        "post_id": "628257647029140_122199951878787954"
+      },
+      "posted_at": "2026-08-04T23:14:05+00:00"
     },
     {
       "id": "tmr-w1-d5-1",
@@ -7580,7 +8315,12 @@
       "message": "🎓 How did you score?\n\n(4 is the fun one — Titanic ran for decades without a sequel, which for a film that size is almost unheard of now.)\n\nTODAY'S RIDDLE:\n\nI am a film where the twist is revealed in the first scene — you just don't know you're looking at it. Two men, one city, and a promise that can't be kept.\n\n👇 Comment your answer. Reveal tomorrow.\n\n🔁 Share this with someone who loves a good twist.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d5_1.png",
       "when": "2026-08-05T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200031498787954",
+        "post_id": "628257647029140_122200031516787954"
+      },
+      "posted_at": "2026-08-05T15:24:21+00:00"
     },
     {
       "id": "tmr-w1-d5-2",
@@ -7590,7 +8330,12 @@
       "message": "⭐ LUPITA NYONG'O — the long game.\n\nShe won the Academy Award for Best Supporting Actress for 12 Years a Slave in 2014 — for her first major film role. That almost never happens.\n\nWhat she did next is the interesting part. Instead of cashing it in immediately, she moved between huge films and small ones: motion-capture work in Star Wars, Black Panther, then Jordan Peele's Us — where she played two roles in one film and carried the entire thing.\n\nThis year she appears in Christopher Nolan's The Odyssey.\n\nThe pattern: she picks directors, not paycheques. It's why her filmography holds up.\n\n👇 Comment: Us or Black Panther — which performance hit harder?\n\n🔁 Share this with someone who appreciates real range.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d5_2.png",
       "when": "2026-08-05T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200055300787954",
+        "post_id": "628257647029140_122200055318787954"
+      },
+      "posted_at": "2026-08-05T19:49:55+00:00"
     },
     {
       "id": "tmr-w1-d5-3",
@@ -7600,7 +8345,12 @@
       "message": "🤔 One or the other. For the rest of your life.\n\nOption A: unlimited rewatches. Your comfort films, forever. But nothing new, ever again.\n\nOption B: everything you watch is new. Constant discovery — but you never see your favourite film again.\n\nMost people say A instantly, then think about it and switch. Some never switch.\n\n👇 Comment A or B — and the one film that made the choice hard.\n\n🔁 Share this and see which one your friends pick.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema #MovieOpinions #FilmLovers #UnpopularOpinion\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d5_3.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200069928787954",
+        "post_id": "628257647029140_122200069946787954"
+      },
+      "posted_at": "2026-08-05T23:13:07+00:00"
     },
     {
       "id": "tmr-w1-d6-1",
@@ -7610,7 +8360,12 @@
       "message": "🎬 Yesterday: THE PRESTIGE. The whole trick is shown to you in the opening minute.\n\nTODAY — finish these three:\n\n1. \"You either die a hero, or ______\"\n2. \"Why so ______?\"\n3. \"I'm going to make him an offer ______\"\n\nNo Googling. Half the fun is arguing about the exact wording.\n\n👇 Comment your three.\n\n🔁 Share this with someone who quotes films badly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d6_1.png",
       "when": "2026-08-06T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200148654787954",
+        "post_id": "628257647029140_122200148672787954"
+      },
+      "posted_at": "2026-08-06T15:25:02+00:00"
     },
     {
       "id": "tmr-w1-d6-2",
@@ -7620,7 +8375,12 @@
       "message": "🕰️ 1999 — the year film broke open.\n\nThe Matrix rewrote action. Fight Club rewired a generation's sense of humour. The Sixth Sense made the twist ending a genre. Being John Malkovich proved weird could be mainstream. Magnolia went for broke. The Blair Witch Project invented modern found footage on almost no money.\n\nOne year. All of them still argued about today.\n\nWhat made it possible: studios were still funding mid-budget films for adults. That's the part we actually lost.\n\n👇 Comment: which 1999 film holds up best?\n\n🔁 Share this with someone who was there for it.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d6_2.png",
       "when": "2026-08-06T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200190258787954",
+        "post_id": "628257647029140_122200190276787954"
+      },
+      "posted_at": "2026-08-07T00:12:55+00:00"
     },
     {
       "id": "tmr-w1-d6-3",
@@ -7630,7 +8390,12 @@
       "message": "⚔️ Honest question, and people get heated about this one.\n\nThe case for TRUE: you spend two hours in the film and five minutes in the ending. Great characters and craft carry more weight than the landing.\n\nThe case for FALSE: the ending is what you leave with. It rewrites everything before it. A bad one genuinely ruins the rewatch.\n\nThere are famous films on both sides — you're probably already thinking of one.\n\n👇 Comment TRUE or FALSE — and name the film that proves your point.\n\n🔁 Share this and let the comments fight it out.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema #MovieOpinions #FilmLovers #UnpopularOpinion\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d6_3.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200190318787954",
+        "post_id": "628257647029140_122200190342787954"
+      },
+      "posted_at": "2026-08-07T00:13:08+00:00"
     },
     {
       "id": "tmr-w1-d7-1",
@@ -7640,7 +8405,12 @@
       "message": "✅ All three: The Dark Knight, The Dark Knight, The Godfather.\n\nIf you got all three without looking — you've earned the film-buff title.\n\nOne more for the weekend: which single movie line do you quote most in real life? Not the most famous one. The one you actually say.\n\n👇 Comment yours.\n\n🔁 Share this with the person you quote movies at constantly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #FilmQuiz #NameThatMovie #MovieLovers #TriviaTime\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d7_1.png",
       "when": "2026-08-07T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200258238787954",
+        "post_id": "628257647029140_122200258256787954"
+      },
+      "posted_at": "2026-08-07T15:04:31+00:00"
     },
     {
       "id": "tmr-w1-d7-2",
@@ -7650,7 +8420,12 @@
       "message": "🔁 Some films hide their best work in plain sight.\n\nThese five are built so the second viewing is a different experience — you stop watching the plot and start watching the construction. Every one of them plants the ending in the opening.\n\nSave this for a weekend when you don't want to gamble on something new.\n\n👇 Comment: which film did you understand completely differently the second time?\n\n🔁 Share this with someone who says rewatching is a waste of time.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d7_2.png",
       "when": "2026-08-07T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200275134787954",
+        "post_id": "628257647029140_122200275152787954"
+      },
+      "posted_at": "2026-08-07T19:10:44+00:00"
     },
     {
       "id": "tmr-w1-d7-3",
@@ -7660,7 +8435,12 @@
       "message": "🗳️ End of week one. Thanks to everyone who actually commented — you're the reason this page works.\n\nQuick round-up of where you landed: the practical-vs-CGI thread was the closest fight, and The Odyssey split the room exactly like the critics did.\n\nNow you pick the agenda. What should this page cover next week?\n\n→ A review of a specific film (name it)\n→ A deep dive on one actor or director\n→ More quizzes and riddles\n→ Underrated films nobody talks about\n\n👇 Comment what you want. We'll build next week around the top answers.\n\n🔁 Share this if you want the page to keep going.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema #MovieRecommendation #FilmCritic\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_w1/d7_3.png",
       "when": "2026-08-07T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200292606787954",
+        "post_id": "628257647029140_122200292624787954"
+      },
+      "posted_at": "2026-08-07T23:42:29+00:00"
     },
     {
       "id": "tmrs-0731-13",
@@ -7670,7 +8450,12 @@
       "message": "🧩 Five emojis, one film almost everyone has seen.\n\nIf you get it in under two seconds, you're not alone — but say it anyway.\n\n👇 Comment your answer.\n\n🔁 Share this with someone who cries at it.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0731_13.png",
       "when": "2026-07-31T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199469676787954",
+        "post_id": "628257647029140_122199469694787954"
+      },
+      "posted_at": "2026-07-31T13:04:15+00:00"
     },
     {
       "id": "tmrs-0731-15",
@@ -7680,7 +8465,12 @@
       "message": "🎬 THE PRESTIGE (2006) — 4.5/5\n\n\"Are you watching closely?\" It asks in the first line, and it means it.\n\nNolan's most underrated film is about obsession disguised as a magic-trick mystery. Two rivals ruin themselves trying to out-perform each other, and the film is structured exactly like the trick it describes — pledge, turn, prestige.\n\nBale and Jackman are both excellent, but the real achievement is the construction. The answer is on screen in the first sixty seconds. You just won't see it.\n\nWeakness: it's cold. You admire it more than you love it, and some viewers never warm to anyone in it.\n\nVerdict: the best film about the cost of being the best.\n\n👇 Did you spot it on first watch? Honestly?\n\n🔁 Share this with someone who needs a rewatch.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0731_15.png",
       "when": "2026-07-31T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199483026787954",
+        "post_id": "628257647029140_122199483044787954"
+      },
+      "posted_at": "2026-07-31T15:27:14+00:00"
     },
     {
       "id": "tmrs-0731-19",
@@ -7690,7 +8480,12 @@
       "message": "🔊 It's a stock sound effect recorded in 1951, and sound designers have been sneaking it into films as an in-joke for decades.\n\nStar Wars. Indiana Jones. Lord of the Rings. Once someone points it out, you start catching it everywhere — and it slightly ruins dramatic death scenes forever.\n\nSorry in advance.\n\n👇 Have you ever noticed it?\n\n🔁 Share this and ruin it for a friend.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0731_19.png",
       "when": "2026-07-31T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199502232787954",
+        "post_id": "628257647029140_122199502250787954"
+      },
+      "posted_at": "2026-07-31T19:47:33+00:00"
     },
     {
       "id": "tmrs-0731-23",
@@ -7700,7 +8495,12 @@
       "message": "🔥 Awards reward a certain kind of film: released late in the year, serious in tone, with a campaign budget behind it.\n\nPlenty of genuinely great films don't fit that shape — genre films, comedies, animation, anything released in February.\n\nThe trophy measures a season. It doesn't measure a film.\n\n👇 Name a film you love that got zero recognition.\n\n🔁 Share this if you've got one.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0731_23.png",
       "when": "2026-07-31T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199515486787954",
+        "post_id": "628257647029140_122199515504787954"
+      },
+      "posted_at": "2026-07-31T23:12:47+00:00"
     },
     {
       "id": "tmrs-0801-13",
@@ -7710,7 +8510,12 @@
       "message": "🎯 Yesterday's emoji puzzle was TITANIC.\n\nToday's is a line rather than a picture — and it's one of the most quoted in film history.\n\n👇 Comment the film (and the character if you know it).\n\n🔁 Share this with someone who quotes movies constantly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0801_13.png",
       "when": "2026-08-01T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199582554787954",
+        "post_id": "628257647029140_122199582572787954"
+      },
+      "posted_at": "2026-08-01T13:47:43+00:00"
     },
     {
       "id": "tmrs-0802-13",
@@ -7720,7 +8525,12 @@
       "message": "🔥 Flawless cinematography, immaculate sound design, precise editing — and somehow you don't care about anyone in it.\n\nCraft is necessary. It just isn't sufficient. A messy film that makes you feel something beats a perfect one that doesn't, every time.\n\n👇 Name a beautiful film that left you cold.\n\n🔁 Share this and see who agrees.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0802_13.png",
       "when": "2026-08-02T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199688946787954",
+        "post_id": "628257647029140_122199688970787954"
+      },
+      "posted_at": "2026-08-02T13:48:21+00:00"
     },
     {
       "id": "tmrs-0803-13",
@@ -7730,7 +8540,12 @@
       "message": "⏳ Three-hour runtimes used to be reserved for epics. Now they're routine.\n\nThe argument for: streaming trained us to binge, and directors have more freedom than ever.\n\nThe argument against: length is often a substitute for editing. Plenty of long films are 100-minute stories wearing a bigger coat.\n\n👇 Would you rather a tight 95 minutes or a sprawling 3 hours?\n\n🔁 Share this with someone who always falls asleep.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0803_13.png",
       "when": "2026-08-03T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199818186787954",
+        "post_id": "628257647029140_122199818204787954"
+      },
+      "posted_at": "2026-08-03T15:11:50+00:00"
     },
     {
       "id": "tmrs-0804-13",
@@ -7740,7 +8555,12 @@
       "message": "🧩 Five emojis — and unusually, two different films fit this one perfectly.\n\nName either. Name both if you spot it.\n\n👇 Comment your answer.\n\n🔁 Share this with a sci-fi fan.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0804_13.png",
       "when": "2026-08-04T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122199923324787954",
+        "post_id": "628257647029140_122199923342787954"
+      },
+      "posted_at": "2026-08-04T15:33:03+00:00"
     },
     {
       "id": "tmrs-0805-13",
@@ -7750,7 +8570,12 @@
       "message": "😈 The best antagonists aren't evil for fun. They have an argument — and the film makes you sit with it.\n\nThat discomfort is the whole point. If you never waver, the film isn't doing its job.\n\n👇 Which movie villain were you uncomfortably close to agreeing with?\n\n🔁 Save this list.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0805_13.png",
       "when": "2026-08-05T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200031576787954",
+        "post_id": "628257647029140_122200031594787954"
+      },
+      "posted_at": "2026-08-05T15:24:32+00:00"
     },
     {
       "id": "tmrs-0806-13",
@@ -7760,7 +8585,12 @@
       "message": "🔥 Directors spend months on framing, sound design and colour — and then it gets watched on a 6-inch screen with one earbud in, at 1.5x speed, while someone scrolls.\n\nThe counter-argument is fair: a film watched badly still beats a film not watched at all.\n\nBut something is genuinely lost.\n\n👇 Phone, laptop, TV or cinema — where do you actually watch?\n\n🔁 Share this with a serial phone-watcher.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0806_13.png",
       "when": "2026-08-06T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200148720787954",
+        "post_id": "628257647029140_122200148738787954"
+      },
+      "posted_at": "2026-08-06T15:25:14+00:00"
     },
     {
       "id": "tmrs-0807-13",
@@ -7770,7 +8600,12 @@
       "message": "🚪 Jump scares are cheap and they work for about a second. Dread lasts for days.\n\nThe films people still can't shake — Alien, The Blair Witch Project, Hereditary — mostly withhold. Your imagination builds something far worse than any effects budget could.\n\nHorror learned the wrong lesson from jump scares.\n\n👇 What's the scariest film you've genuinely never recovered from?\n\n🔁 Share this with someone brave.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0807_13.png",
       "when": "2026-08-07T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200246478787954",
+        "post_id": "628257647029140_122200246496787954"
+      },
+      "posted_at": "2026-08-07T13:25:09+00:00"
     },
     {
       "id": "tmrs-0808-13",
@@ -7780,7 +8615,12 @@
       "message": "🎬 Both answers counted yesterday — that's why it was a good puzzle.\n\nToday, finish three:\n\n1. \"I'm going to make him an offer ______\"\n2. \"Here's looking at ______\"\n3. \"You can't handle ______\"\n\n👇 Comment all three. No Googling.\n\n🔁 Share this with someone who'll get two out of three.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0808_13.png",
       "when": "2026-08-08T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200349984787954",
+        "post_id": "628257647029140_122200350002787954"
+      },
+      "posted_at": "2026-08-08T13:06:52+00:00"
     },
     {
       "id": "tmrs-0808-15",
@@ -7790,7 +8630,12 @@
       "message": "🎬 ARRIVAL (2016) — 4.5/5\n\nTwelve objects appear around the world. A linguist is asked to talk to what's inside.\n\nWhat lands: it's a first-contact film where the weapon is grammar. Villeneuve builds enormous tension out of people slowly understanding each other, which should be impossible and isn't.\n\nAmy Adams carries the entire film on restraint. The score does half the emotional work. And the structure — which I won't spoil — reframes everything the second time you watch it.\n\nWeakness: the middle sags slightly under the military subplot, which is the least interesting thread.\n\nVerdict: science fiction that's actually about being a person.\n\n👇 Did you see the ending coming?\n\n🔁 Share this with someone who thinks sci-fi is all spaceships.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0808_15.png",
       "when": "2026-08-08T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200365734787954",
+        "post_id": "628257647029140_122200365758787954"
+      },
+      "posted_at": "2026-08-08T15:38:45+00:00"
     },
     {
       "id": "tmrs-0808-19",
@@ -7800,7 +8645,12 @@
       "message": "🎈 A character who is certain about their place → something breaks the certainty → they resist → they let go → the ending reframes the beginning.\n\nToy Story. Up. Inside Out. Ratatouille. Coco.\n\nKnowing the formula doesn't stop it working. That's the interesting part — structure isn't a trick, it's a delivery system.\n\n👇 Which Pixar film hit you hardest?\n\n🔁 Share this with someone who cried at Up.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0808_19.png",
       "when": "2026-08-08T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200381580787954",
+        "post_id": "628257647029140_122200381598787954"
+      },
+      "posted_at": "2026-08-08T19:38:33+00:00"
     },
     {
       "id": "tmrs-0808-23",
@@ -7810,7 +8660,12 @@
       "message": "🔥 Nobody actually has one favourite. You have a sad-night film, a background film, a show-off film, and a film you'd defend in an argument but rarely rewatch.\n\nThe \"what's your favourite film\" question is unanswerable because it's the wrong question.\n\n👇 Give us all four of yours instead.\n\n🔁 Share this and compare lists.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0808_23.png",
       "when": "2026-08-08T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200398500787954",
+        "post_id": "628257647029140_122200398518787954"
+      },
+      "posted_at": "2026-08-08T23:38:17+00:00"
     },
     {
       "id": "tmrs-0809-13",
@@ -8100,7 +8955,12 @@
       "message": "\"Eating fat makes you fat\" — one of the most persistent food myths.\n\nFat is essential. Your body needs it for hormones, brain function and to absorb vitamins A, D, E and K. Weight gain comes from consistently taking in more energy than you use — not from one nutrient. Unsaturated fats from nuts, olive oil, oily fish and avocado are actively linked with better heart health.\n\nDid you grow up avoiding all fats?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #nutrition #healthyeating #healthyfats #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026073111.png",
       "when": "2026-07-31T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1707059494642882",
+        "post_id": "152206688762695_1707059524642879"
+      },
+      "posted_at": "2026-07-31T13:04:28+00:00"
     },
     {
       "id": "hdw1-2026073111-ig",
@@ -8110,7 +8970,12 @@
       "message": "\"Eating fat makes you fat\" — one of the most persistent food myths.\n\nFat is essential. Your body needs it for hormones, brain function and to absorb vitamins A, D, E and K. Weight gain comes from consistently taking in more energy than you use — not from one nutrient. Unsaturated fats from nuts, olive oil, oily fish and avocado are actively linked with better heart health.\n\nDid you grow up avoiding all fats?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #nutrition #healthyeating #healthyfats #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026073111.png",
       "when": "2026-07-31T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18612398032035048",
+        "permalink": "https://www.instagram.com/p/DbdVGFVGoYf/"
+      },
+      "posted_at": "2026-07-31T13:04:48+00:00"
     },
     {
       "id": "hdw1-2026073117-fb",
@@ -8120,7 +8985,12 @@
       "message": "Sitting for hours affects your health even if you exercise daily.\n\nLong unbroken sitting is associated with health risks that regular exercise doesn't fully cancel out. The fix is small and repeatable: stand, stretch or walk for a couple of minutes every half hour. Set a timer if you work at a desk — the point is breaking up the sitting, not the intensity.\n\nHow long do you usually sit without a break?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #deskjob #movement #wellness #dailyhealthtips #healthylifestyle #officehealth\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026073117.png",
       "when": "2026-07-31T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1707286567953508",
+        "post_id": "152206688762695_1707286584620173"
+      },
+      "posted_at": "2026-07-31T17:49:56+00:00"
     },
     {
       "id": "hdw1-2026073117-ig",
@@ -8130,7 +9000,12 @@
       "message": "Sitting for hours affects your health even if you exercise daily.\n\nLong unbroken sitting is associated with health risks that regular exercise doesn't fully cancel out. The fix is small and repeatable: stand, stretch or walk for a couple of minutes every half hour. Set a timer if you work at a desk — the point is breaking up the sitting, not the intensity.\n\nHow long do you usually sit without a break?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #deskjob #movement #wellness #dailyhealthtips #healthylifestyle #officehealth\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026073117.png",
       "when": "2026-07-31T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18276677698293347",
+        "permalink": "https://www.instagram.com/p/Dbd1w2-AX88/"
+      },
+      "posted_at": "2026-07-31T17:50:19+00:00"
     },
     {
       "id": "hdw1-2026073123-fb",
@@ -8140,7 +9015,12 @@
       "message": "I have no mouth, but I can tell your health.\n\nTake a guess before you scroll. It's something almost every check-up includes, it's completely painless, and it can flag a serious problem years before you'd ever feel symptoms.\n\nWhat's your answer? Comment below — I'll reveal it tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #guessit #dailyhealthtips #wellness #healthawareness #bloodpressure\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026073123.png",
       "when": "2026-07-31T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1707479737934191",
+        "post_id": "152206688762695_1707479751267523"
+      },
+      "posted_at": "2026-07-31T23:13:02+00:00"
     },
     {
       "id": "hdw1-2026073123-ig",
@@ -8150,7 +9030,12 @@
       "message": "I have no mouth, but I can tell your health.\n\nTake a guess before you scroll. It's something almost every check-up includes, it's completely painless, and it can flag a serious problem years before you'd ever feel symptoms.\n\nWhat's your answer? Comment below — I'll reveal it tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #guessit #dailyhealthtips #wellness #healthawareness #bloodpressure\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026073123.png",
       "when": "2026-07-31T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18074122985343539",
+        "permalink": "https://www.instagram.com/p/Dbeavz3iQ8a/"
+      },
+      "posted_at": "2026-07-31T23:13:25+00:00"
     },
     {
       "id": "hdw1-2026080111-fb",
@@ -8160,7 +9045,12 @@
       "message": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #potassium #hearthealth #healthyeating #dailyhealthtips #bloodpressure #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080111.png",
       "when": "2026-08-01T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1707929994555832",
+        "post_id": "152206688762695_1707930021222496"
+      },
+      "posted_at": "2026-08-01T11:26:41+00:00"
     },
     {
       "id": "hdw1-2026080111-ig",
@@ -8170,7 +9060,12 @@
       "message": "Bananas get the credit — but these have more potassium.\n\nPotassium helps balance the effects of sodium and supports healthy blood pressure, and most people get less than recommended. Bananas are the famous source, but potatoes with skin, white beans, spinach, lentils and plain yoghurt all deliver more per serving. Note: if you have kidney disease, check with your doctor before increasing potassium.\n\nWhich of these do you eat most often?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #potassium #hearthealth #healthyeating #dailyhealthtips #bloodpressure #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080111.png",
       "when": "2026-08-01T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18069642215460281",
+        "permalink": "https://www.instagram.com/p/Dbfus24DUb6/"
+      },
+      "posted_at": "2026-08-01T11:27:00+00:00"
     },
     {
       "id": "hdw1-2026080117-fb",
@@ -8180,7 +9075,12 @@
       "message": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#eyehealth #screentime #digitaleyestrain #healthyhabits #dailyhealthtips #wellness #worklife\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080117.png",
       "when": "2026-08-01T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1708193254529506",
+        "post_id": "152206688762695_1708193274529504"
+      },
+      "posted_at": "2026-08-01T17:11:47+00:00"
     },
     {
       "id": "hdw1-2026080117-ig",
@@ -8190,7 +9090,12 @@
       "message": "Your eyes burn by evening because you blink far less at a screen.\n\nWhen you focus on a screen you blink much less often, so your eyes dry out and sting. The standard advice is simple: every 20 minutes, look at something about 20 feet away for 20 seconds. Blink fully while you do it. Position your screen slightly below eye level to reduce strain further.\n\nHow many hours a day are you on a screen?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#eyehealth #screentime #digitaleyestrain #healthyhabits #dailyhealthtips #wellness #worklife\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080117.png",
       "when": "2026-08-01T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17901250878474396",
+        "permalink": "https://www.instagram.com/p/DbgWMg5H83K/"
+      },
+      "posted_at": "2026-08-01T17:12:11+00:00"
     },
     {
       "id": "hdw1-2026080123-fb",
@@ -8200,7 +9105,12 @@
       "message": "High blood pressure usually has no symptoms at all.\n\nThis is why it's often called a silent condition. Many people with high blood pressure feel completely normal, which is exactly what makes it dangerous — it can quietly raise the risk of heart attack, stroke and kidney damage over years. The only reliable way to know is to measure it. Most pharmacies will check it free.\n\nWhen did you last have your blood pressure checked?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #checkup\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080123.png",
       "when": "2026-08-01T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1708414477840717",
+        "post_id": "152206688762695_1708414494507382"
+      },
+      "posted_at": "2026-08-01T23:08:46+00:00"
     },
     {
       "id": "hdw1-2026080123-ig",
@@ -8210,7 +9120,12 @@
       "message": "High blood pressure usually has no symptoms at all.\n\nThis is why it's often called a silent condition. Many people with high blood pressure feel completely normal, which is exactly what makes it dangerous — it can quietly raise the risk of heart attack, stroke and kidney damage over years. The only reliable way to know is to measure it. Most pharmacies will check it free.\n\nWhen did you last have your blood pressure checked?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #checkup\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080123.png",
       "when": "2026-08-01T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18072652895397646",
+        "permalink": "https://www.instagram.com/p/Dbg_DLTnfAo/"
+      },
+      "posted_at": "2026-08-01T23:09:04+00:00"
     },
     {
       "id": "hdw1-2026080211-fb",
@@ -8220,7 +9135,12 @@
       "message": "\"Cracking your knuckles causes arthritis\" — it doesn't.\n\nStudies have not found a link between knuckle cracking and arthritis. The sound comes from gas bubbles in the fluid that cushions your joints. It may annoy people around you, but it isn't damaging your hands. If cracking is painful or accompanied by swelling, that's different — see a doctor.\n\nAre you a knuckle cracker?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #jointhealth #arthritis #dailyhealthtips #wellness #healthfacts #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080211.png",
       "when": "2026-08-02T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1708876607794504",
+        "post_id": "152206688762695_1708876644461167"
+      },
+      "posted_at": "2026-08-02T11:25:14+00:00"
     },
     {
       "id": "hdw1-2026080211-ig",
@@ -8230,7 +9150,12 @@
       "message": "\"Cracking your knuckles causes arthritis\" — it doesn't.\n\nStudies have not found a link between knuckle cracking and arthritis. The sound comes from gas bubbles in the fluid that cushions your joints. It may annoy people around you, but it isn't damaging your hands. If cracking is painful or accompanied by swelling, that's different — see a doctor.\n\nAre you a knuckle cracker?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#myths #jointhealth #arthritis #dailyhealthtips #wellness #healthfacts #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080211.png",
       "when": "2026-08-02T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18062640812746947",
+        "permalink": "https://www.instagram.com/p/DbiTVH6gVM9/"
+      },
+      "posted_at": "2026-08-02T11:25:36+00:00"
     },
     {
       "id": "hdw1-2026080217-fb",
@@ -8240,7 +9165,12 @@
       "message": "One daily sugary drink adds up faster than almost anything else.\n\nA single sugar-sweetened drink a day is one of the easiest sources of excess calories to remove, and regular consumption is associated with higher risk of type 2 diabetes and weight gain. Water, sparkling water with lemon, or unsweetened tea all work. If you drink one daily, swapping even half of them is progress.\n\nWhat's your usual drink with meals?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #sugar #healthyswaps #diabetes #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080217.png",
       "when": "2026-08-02T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1709139121101586",
+        "post_id": "152206688762695_1709139164434915"
+      },
+      "posted_at": "2026-08-02T17:11:50+00:00"
     },
     {
       "id": "hdw1-2026080217-ig",
@@ -8250,7 +9180,8 @@
       "message": "One daily sugary drink adds up faster than almost anything else.\n\nA single sugar-sweetened drink a day is one of the easiest sources of excess calories to remove, and regular consumption is associated with higher risk of type 2 diabetes and weight gain. Water, sparkling water with lemon, or unsweetened tea all work. If you drink one daily, swapping even half of them is progress.\n\nWhat's your usual drink with meals?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#nutrition #sugar #healthyswaps #diabetes #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080217.png",
       "when": "2026-08-02T17:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Media ID is not available (type=OAuthException, code=9007, subcode=2207027)"
     },
     {
       "id": "hdw1-2026080223-fb",
@@ -8260,7 +9191,12 @@
       "message": "A racing mind at bedtime is often just your brain afraid it'll forget.\n\nIf you lie awake mentally rehearsing tomorrow, writing it down helps. Research on bedtime writing suggests that noting down upcoming tasks can help people fall asleep faster than journaling about the day. Keep it to three items — the goal is emptying your head, not planning your year.\n\nDoes your mind race when you lie down?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#mentalhealth #sleep #stressrelief #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080223.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1709361654412666",
+        "post_id": "152206688762695_1709361697745995"
+      },
+      "posted_at": "2026-08-02T23:08:56+00:00"
     },
     {
       "id": "hdw1-2026080223-ig",
@@ -8270,7 +9206,12 @@
       "message": "A racing mind at bedtime is often just your brain afraid it'll forget.\n\nIf you lie awake mentally rehearsing tomorrow, writing it down helps. Research on bedtime writing suggests that noting down upcoming tasks can help people fall asleep faster than journaling about the day. Keep it to three items — the goal is emptying your head, not planning your year.\n\nDoes your mind race when you lie down?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#mentalhealth #sleep #stressrelief #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080223.png",
       "when": "2026-08-02T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18210794950345769",
+        "permalink": "https://www.instagram.com/p/Dbjj3vrjxBH/"
+      },
+      "posted_at": "2026-08-02T23:09:22+00:00"
     },
     {
       "id": "hdw1-2026080311-fb",
@@ -8280,7 +9221,12 @@
       "message": "I'm the only organ in your body that can regrow itself.\n\nA clue: it filters your blood, stores energy, and does the detox work that expensive teas claim to do. Take a guess before you scroll past.\n\nWhat's your answer? Comment below — reveal tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #liverhealth #dailyhealthtips #wellness #guessit #healthawareness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080311.png",
       "when": "2026-08-03T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1709843134364518",
+        "post_id": "152206688762695_1709843161031182"
+      },
+      "posted_at": "2026-08-03T11:39:23+00:00"
     },
     {
       "id": "hdw1-2026080311-ig",
@@ -8290,7 +9236,12 @@
       "message": "I'm the only organ in your body that can regrow itself.\n\nA clue: it filters your blood, stores energy, and does the detox work that expensive teas claim to do. Take a guess before you scroll past.\n\nWhat's your answer? Comment below — reveal tomorrow.\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthriddle #healthquiz #liverhealth #dailyhealthtips #wellness #guessit #healthawareness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080311.png",
       "when": "2026-08-03T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18133960330613553",
+        "permalink": "https://www.instagram.com/p/Dbk5vmBjCJj/"
+      },
+      "posted_at": "2026-08-03T11:39:41+00:00"
     },
     {
       "id": "hdw1-2026080317-fb",
@@ -8300,7 +9251,12 @@
       "message": "You don't need an hour. You need to stop sitting for eight.\n\nShort bursts of activity spread across the day count toward your weekly total. Guidelines now recognise that any movement is better than none, and activity accumulated in short bouts still provides benefit. Take the stairs, walk during calls, stretch between tasks. The best workout is the one you'll actually repeat.\n\nWhat's one movement snack you could add today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#exercise #movement #healthyhabits #fitness #dailyhealthtips #wellness #activelifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080317.png",
       "when": "2026-08-03T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1710139487668216",
+        "post_id": "152206688762695_1710139564334875"
+      },
+      "posted_at": "2026-08-03T18:02:05+00:00"
     },
     {
       "id": "hdw1-2026080317-ig",
@@ -8310,7 +9266,12 @@
       "message": "You don't need an hour. You need to stop sitting for eight.\n\nShort bursts of activity spread across the day count toward your weekly total. Guidelines now recognise that any movement is better than none, and activity accumulated in short bouts still provides benefit. Take the stairs, walk during calls, stretch between tasks. The best workout is the one you'll actually repeat.\n\nWhat's one movement snack you could add today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#exercise #movement #healthyhabits #fitness #dailyhealthtips #wellness #activelifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080317.png",
       "when": "2026-08-03T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17984474661019104",
+        "permalink": "https://www.instagram.com/p/DblljGdgG8d/"
+      },
+      "posted_at": "2026-08-03T18:02:30+00:00"
     },
     {
       "id": "hdw1-2026080323-fb",
@@ -8320,7 +9281,12 @@
       "message": "Sleeping in on Saturday doesn't cancel a short week.\n\nSleeping until noon on Saturday after five short nights shifts your body clock, a bit like flying across time zones every weekend. You can recover some function, but it isn't a clean reset. A consistent sleep and wake time — even at weekends — works better than trying to catch up.\n\nIs your weekend sleep very different from weekdays?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#sleep #sleephealth #circadianrhythm #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080323.png",
       "when": "2026-08-03T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1710348190980679",
+        "post_id": "152206688762695_1710348207647344"
+      },
+      "posted_at": "2026-08-03T23:15:00+00:00"
     },
     {
       "id": "hdw1-2026080323-ig",
@@ -8330,7 +9296,12 @@
       "message": "Sleeping in on Saturday doesn't cancel a short week.\n\nSleeping until noon on Saturday after five short nights shifts your body clock, a bit like flying across time zones every weekend. You can recover some function, but it isn't a clean reset. A consistent sleep and wake time — even at weekends — works better than trying to catch up.\n\nIs your weekend sleep very different from weekdays?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#sleep #sleephealth #circadianrhythm #healthyhabits #dailyhealthtips #wellness #bettersleep\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080323.png",
       "when": "2026-08-03T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18092774609576088",
+        "permalink": "https://www.instagram.com/p/DbmJWimDLlb/"
+      },
+      "posted_at": "2026-08-03T23:15:19+00:00"
     },
     {
       "id": "hdw1-2026080411-fb",
@@ -8340,7 +9311,12 @@
       "message": "Vitamin C won't stop you catching a cold.\n\nFor most people, regular vitamin C supplements don't prevent colds. Reviews of the evidence suggest they may slightly shorten how long a cold lasts, but the prevention effect is small and mainly seen in people under extreme physical stress. Sleep, hand hygiene and vaccination do more.\n\nDo you take vitamin C when you feel a cold coming?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#immunity #vitaminc #myths #coldandflu #dailyhealthtips #wellness #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080411.png",
       "when": "2026-08-04T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1710843154264516",
+        "post_id": "152206688762695_1710843170931181"
+      },
+      "posted_at": "2026-08-04T12:10:15+00:00"
     },
     {
       "id": "hdw1-2026080411-ig",
@@ -8350,7 +9326,12 @@
       "message": "Vitamin C won't stop you catching a cold.\n\nFor most people, regular vitamin C supplements don't prevent colds. Reviews of the evidence suggest they may slightly shorten how long a cold lasts, but the prevention effect is small and mainly seen in people under extreme physical stress. Sleep, hand hygiene and vaccination do more.\n\nDo you take vitamin C when you feel a cold coming?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#immunity #vitaminc #myths #coldandflu #dailyhealthtips #wellness #mythbusting\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080411.png",
       "when": "2026-08-04T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18073297214384675",
+        "permalink": "https://www.instagram.com/p/DbniEjsj8B9/"
+      },
+      "posted_at": "2026-08-04T12:10:34+00:00"
     },
     {
       "id": "hdw1-2026080417-fb",
@@ -8360,7 +9341,12 @@
       "message": "Most people have no idea what their blood pressure numbers mean.\n\nThe top number is the pressure when your heart beats. The bottom is the pressure when it rests between beats. Both matter. Readings are generally considered elevated above roughly 130/80, but thresholds vary by guideline and by person — your doctor interprets it alongside your age and risk factors, not as a single number in isolation.\n\nDo you know your numbers?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #healthfacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080417.png",
       "when": "2026-08-04T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1711127074236124",
+        "post_id": "152206688762695_1711127087569456"
+      },
+      "posted_at": "2026-08-04T18:00:36+00:00"
     },
     {
       "id": "hdw1-2026080417-ig",
@@ -8370,7 +9356,12 @@
       "message": "Most people have no idea what their blood pressure numbers mean.\n\nThe top number is the pressure when your heart beats. The bottom is the pressure when it rests between beats. Both matter. Readings are generally considered elevated above roughly 130/80, but thresholds vary by guideline and by person — your doctor interprets it alongside your age and risk factors, not as a single number in isolation.\n\nDo you know your numbers?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bloodpressure #hearthealth #preventivecare #healthawareness #dailyhealthtips #wellness #healthfacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080417.png",
       "when": "2026-08-04T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17981325912061858",
+        "permalink": "https://www.instagram.com/p/DboKKqGn5N5/"
+      },
+      "posted_at": "2026-08-04T18:00:59+00:00"
     },
     {
       "id": "hdw1-2026080423-fb",
@@ -8380,7 +9371,12 @@
       "message": "Your gut bacteria respond to what you feed them within days.\n\nFermented foods like plain yoghurt, kefir, kimchi and sauerkraut contain live cultures, and research suggests regular intake can increase gut microbial diversity. Pair them with fibre — the bacteria need it to thrive. Start small if you're not used to them, and choose unsweetened versions.\n\nDo you eat any fermented foods regularly?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#guthealth #fermentedfoods #probiotics #nutrition #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080423.png",
       "when": "2026-08-04T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1711318384216993",
+        "post_id": "152206688762695_1711318477550317"
+      },
+      "posted_at": "2026-08-04T23:14:24+00:00"
     },
     {
       "id": "hdw1-2026080423-ig",
@@ -8390,7 +9386,12 @@
       "message": "Your gut bacteria respond to what you feed them within days.\n\nFermented foods like plain yoghurt, kefir, kimchi and sauerkraut contain live cultures, and research suggests regular intake can increase gut microbial diversity. Pair them with fibre — the bacteria need it to thrive. Start small if you're not used to them, and choose unsweetened versions.\n\nDo you eat any fermented foods regularly?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#guthealth #fermentedfoods #probiotics #nutrition #dailyhealthtips #healthyeating #wellness\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080423.png",
       "when": "2026-08-04T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18040688072811486",
+        "permalink": "https://www.instagram.com/p/DbouE_RgfGp/"
+      },
+      "posted_at": "2026-08-04T23:14:42+00:00"
     },
     {
       "id": "hdw1-2026080511-fb",
@@ -8400,7 +9401,12 @@
       "message": "Loneliness affects your body, not just your mood.\n\nSocial connection is increasingly recognised as a genuine health factor. Long-term loneliness and social isolation are associated with higher risks of heart disease, stroke and dementia. It sits alongside diet, sleep and movement as something worth deliberately maintaining — one call or one visit counts more than people assume.\n\nWho could you message today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyaging #mentalhealth #loneliness #connection #dailyhealthtips #wellness #wellbeing\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080511.png",
       "when": "2026-08-05T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1711854067496758",
+        "post_id": "152206688762695_1711854084163423"
+      },
+      "posted_at": "2026-08-05T12:08:10+00:00"
     },
     {
       "id": "hdw1-2026080511-ig",
@@ -8410,7 +9416,12 @@
       "message": "Loneliness affects your body, not just your mood.\n\nSocial connection is increasingly recognised as a genuine health factor. Long-term loneliness and social isolation are associated with higher risks of heart disease, stroke and dementia. It sits alongside diet, sleep and movement as something worth deliberately maintaining — one call or one visit counts more than people assume.\n\nWho could you message today?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyaging #mentalhealth #loneliness #connection #dailyhealthtips #wellness #wellbeing\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080511.png",
       "when": "2026-08-05T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18100098278580703",
+        "permalink": "https://www.instagram.com/p/DbqGoDbHRMJ/"
+      },
+      "posted_at": "2026-08-05T12:08:30+00:00"
     },
     {
       "id": "hdw1-2026080517-fb",
@@ -8420,7 +9431,12 @@
       "message": "A day of sitting follows you into the night.\n\nHours at a desk leave hips, back and shoulders tight, and that tension can make it harder to settle at night. A short, gentle stretch signals wind-down and eases stiffness. Keep it slow and never force a position — the goal is release, not flexibility training.\n\nDo you stretch before bed?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #stretching #sleep #mobility #dailyhealthtips #wellness #eveningroutine\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080517.png",
       "when": "2026-08-05T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1712130354135796",
+        "post_id": "152206688762695_1712130370802461"
+      },
+      "posted_at": "2026-08-05T17:51:20+00:00"
     },
     {
       "id": "hdw1-2026080517-ig",
@@ -8430,7 +9446,12 @@
       "message": "A day of sitting follows you into the night.\n\nHours at a desk leave hips, back and shoulders tight, and that tension can make it harder to settle at night. A short, gentle stretch signals wind-down and eases stiffness. Keep it slow and never force a position — the goal is release, not flexibility training.\n\nDo you stretch before bed?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyhabits #stretching #sleep #mobility #dailyhealthtips #wellness #eveningroutine\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080517.png",
       "when": "2026-08-05T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18091632761105154",
+        "permalink": "https://www.instagram.com/p/Dbqt5jek1CW/"
+      },
+      "posted_at": "2026-08-05T17:51:38+00:00"
     },
     {
       "id": "hdw1-2026080523-fb",
@@ -8440,7 +9461,12 @@
       "message": "Your heart beats about 100,000 times a day without a single break.\n\nThat's roughly 35 million beats a year, every year, without pause. The best things you can do for it are unglamorous and well proven: move regularly, don't smoke, watch salt and saturated fat, manage stress, and know your blood pressure numbers.\n\nWhen did you last check your blood pressure?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#hearthealth #healthfacts #cardiovascular #dailyhealthtips #wellness #preventivecare #sciencefacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080523.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1712334724115359",
+        "post_id": "152206688762695_1712334737448691"
+      },
+      "posted_at": "2026-08-05T23:13:20+00:00"
     },
     {
       "id": "hdw1-2026080523-ig",
@@ -8450,7 +9476,12 @@
       "message": "Your heart beats about 100,000 times a day without a single break.\n\nThat's roughly 35 million beats a year, every year, without pause. The best things you can do for it are unglamorous and well proven: move regularly, don't smoke, watch salt and saturated fat, manage stress, and know your blood pressure numbers.\n\nWhen did you last check your blood pressure?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#hearthealth #healthfacts #cardiovascular #dailyhealthtips #wellness #preventivecare #sciencefacts\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080523.png",
       "when": "2026-08-05T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18616260016036370",
+        "permalink": "https://www.instagram.com/p/DbrSwKkl2yG/"
+      },
+      "posted_at": "2026-08-05T23:13:42+00:00"
     },
     {
       "id": "hdw1-2026080611-fb",
@@ -8460,7 +9491,12 @@
       "message": "Doing sit-ups will not burn belly fat specifically.\n\nYou can't choose where your body loses fat. Crunches strengthen the muscles underneath, but the fat above them only reduces through overall energy balance and activity. This is one of the most persistent fitness myths, and it costs people a lot of wasted effort. Whole-body movement plus diet does the work.\n\nWho was told sit-ups were the secret?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#weightloss #fitnessmyths #exercise #mythbusting #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080611.png",
       "when": "2026-08-06T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1712838867398278",
+        "post_id": "152206688762695_1712838890731609"
+      },
+      "posted_at": "2026-08-06T12:10:51+00:00"
     },
     {
       "id": "hdw1-2026080611-ig",
@@ -8470,7 +9506,12 @@
       "message": "Doing sit-ups will not burn belly fat specifically.\n\nYou can't choose where your body loses fat. Crunches strengthen the muscles underneath, but the fat above them only reduces through overall energy balance and activity. This is one of the most persistent fitness myths, and it costs people a lot of wasted effort. Whole-body movement plus diet does the work.\n\nWho was told sit-ups were the secret?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#weightloss #fitnessmyths #exercise #mythbusting #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080611.png",
       "when": "2026-08-06T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17984001945048173",
+        "permalink": "https://www.instagram.com/p/DbsruvFG-2p/"
+      },
+      "posted_at": "2026-08-06T12:11:22+00:00"
     },
     {
       "id": "hdw1-2026080617-fb",
@@ -8480,7 +9521,12 @@
       "message": "The front of the packet is marketing. The back is information.\n\n\"Natural\", \"light\" and \"multigrain\" are marketing terms with little regulated meaning. The ingredients list and nutrition panel tell you what's actually there. Two quick habits: ingredients are listed by weight, so the first few dominate — and check sugar and salt per 100g to compare products fairly.\n\nDo you check labels, or go by the front of the pack?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyeating #nutrition #foodlabels #healthyshopping #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080617.png",
       "when": "2026-08-06T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713352554013576",
+        "post_id": "152206688762695_1713352574013574"
+      },
+      "posted_at": "2026-08-07T00:13:23+00:00"
     },
     {
       "id": "hdw1-2026080617-ig",
@@ -8490,7 +9536,12 @@
       "message": "The front of the packet is marketing. The back is information.\n\n\"Natural\", \"light\" and \"multigrain\" are marketing terms with little regulated meaning. The ingredients list and nutrition panel tell you what's actually there. Two quick habits: ingredients are listed by weight, so the first few dominate — and check sugar and salt per 100g to compare products fairly.\n\nDo you check labels, or go by the front of the pack?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#healthyeating #nutrition #foodlabels #healthyshopping #dailyhealthtips #wellness #healthylifestyle\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080617.png",
       "when": "2026-08-06T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17986138727850716",
+        "permalink": "https://www.instagram.com/p/Dbt-aykjUtp/"
+      },
+      "posted_at": "2026-08-07T00:13:45+00:00"
     },
     {
       "id": "hdw1-2026080623-fb",
@@ -8500,7 +9551,12 @@
       "message": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bonehealth #healthyaging #calcium #vitamind #dailyhealthtips #wellness #strengthtraining\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080623.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1713352950680203",
+        "post_id": "152206688762695_1713352990680199"
+      },
+      "posted_at": "2026-08-07T00:13:58+00:00"
     },
     {
       "id": "hdw1-2026080623-ig",
@@ -8510,7 +9566,12 @@
       "message": "Your skeleton is rebuilding itself right now.\n\nBone isn't fixed scaffolding — it's constantly being broken down and rebuilt throughout your life. That's why what you do now matters later: weight-bearing movement like walking, along with enough calcium and vitamin D, supports bone strength as you age. Strength training helps too, at any age.\n\nDid you know your bones rebuild themselves?\n\nFollow for daily health education. Save this post. Share it with family.\n\n#bonehealth #healthyaging #calcium #vitamind #dailyhealthtips #wellness #strengthtraining\n\nThis content is for educational purposes and is not a substitute for professional medical advice.",
       "image_url": "images/hd_w1/2026080623.png",
       "when": "2026-08-06T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17970510194934954",
+        "permalink": "https://www.instagram.com/p/Dbt-ftkDXtx/"
+      },
+      "posted_at": "2026-08-07T00:14:25+00:00"
     },
     {
       "id": "ard-fresh1-1",
@@ -8520,7 +9581,12 @@
       "message": "😄 বাড়ি পুড়ে গেলেও মা আগে জিজ্ঞেস করবে ভাত খেয়েছি কিনা। কে কে confirm করবেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/1.png",
       "when": "2026-07-31T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1348513620731875",
+        "post_id": "1191612787659871_1348513634065207"
+      },
+      "posted_at": "2026-07-31T04:32:48+00:00"
     },
     {
       "id": "ard-fresh1-2",
@@ -8530,7 +9596,12 @@
       "message": "😂 শেষে ঠিক ৪০ টাকাতেই মিটমাট। এই নাটক ছাড়া রিকশা ভ্রমণ অসম্পূর্ণ। কে কে এক্সপার্ট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/2.png",
       "when": "2026-07-31T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1348573424059228",
+        "post_id": "1191612787659871_1348573440725893"
+      },
+      "posted_at": "2026-07-31T06:22:01+00:00"
     },
     {
       "id": "ard-fresh1-3",
@@ -8540,7 +9611,12 @@
       "message": "😅 যদি হঠাৎ নতুন কিছু গজিয়ে যায়! এই অভ্যাস কার কার আছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/3.png",
       "when": "2026-07-31T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1348727927377111",
+        "post_id": "1191612787659871_1348727940710443"
+      },
+      "posted_at": "2026-07-31T10:49:58+00:00"
     },
     {
       "id": "ard-fresh1-4",
@@ -8550,7 +9626,12 @@
       "message": "😂 দাঁতের ব্যথা ডাক্তার দেখেই ভয়ে পালায়। কে কে এই মিথ্যাবাদী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/4.png",
       "when": "2026-07-31T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1348816034034967",
+        "post_id": "1191612787659871_1348816060701631"
+      },
+      "posted_at": "2026-07-31T13:05:01+00:00"
     },
     {
       "id": "ard-fresh1-5",
@@ -8560,7 +9641,12 @@
       "message": "😩 ছবির লাইটিং আর বাস্তবতার মধ্যে একটা মহাসাগর দূরত্ব। কার সাথে এমন হয়েছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/5.png",
       "when": "2026-07-31T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1348816170701620",
+        "post_id": "1191612787659871_1348816184034952"
+      },
+      "posted_at": "2026-07-31T13:05:12+00:00"
     },
     {
       "id": "ard-fresh1-6",
@@ -8570,7 +9656,12 @@
       "message": "😄 এই স্কিলটা কোনো সার্টিফিকেট কোর্সে শেখানো হয় না, তাও সবাই এক্সপার্ট। কে কে পারেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/6.png",
       "when": "2026-07-31T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349014177348486",
+        "post_id": "1191612787659871_1349014200681817"
+      },
+      "posted_at": "2026-07-31T17:50:32+00:00"
     },
     {
       "id": "ard-fresh1-7",
@@ -8580,7 +9671,12 @@
       "message": "😅 নতুন জামা আর দাগ যেন একসাথেই জন্মায়। কার সাথে আজ বা কালই হয়েছে? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_fresh1/7.png",
       "when": "2026-07-31T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1349078984008672",
+        "post_id": "1191612787659871_1349079037342000"
+      },
+      "posted_at": "2026-07-31T19:47:54+00:00"
     },
     {
       "id": "ard-joke1-1",
@@ -8590,7 +9686,12 @@
       "message": "😂 তিন বছরের প্রতিবেশী, তাও সকাল ৭টায় অচেনা! কে কে এই লেভেলের \"রাত জাগা মানুষ\"? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_joke1/1.png",
       "when": "2026-08-08T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1355167926733111",
+        "post_id": "1191612787659871_1355167946733109"
+      },
+      "posted_at": "2026-08-08T04:17:14+00:00"
     },
     {
       "id": "ard-joke1-2",
@@ -8600,7 +9701,12 @@
       "message": "😄 এই প্রশ্নের কোনো উত্তর নাই, শুধু ক্ষুধা বাড়ে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_joke1/2.png",
       "when": "2026-08-08T08:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1355313940051843",
+        "post_id": "1191612787659871_1355313956718508"
+      },
+      "posted_at": "2026-08-08T08:53:57+00:00"
     },
     {
       "id": "ard-joke1-3",
@@ -8610,7 +9716,12 @@
       "message": "😂 বিয়ে বাড়িতে বন্ধু আনার আগে এক্সপ্লানেশন রেডি রাখা লাগে। কে কে এই পরিস্থিতিতে পড়েছেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_joke1/3.png",
       "when": "2026-08-08T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1355467113369859",
+        "post_id": "1191612787659871_1355467126703191"
+      },
+      "posted_at": "2026-08-08T13:07:03+00:00"
     },
     {
       "id": "ard-joke1-4",
@@ -8620,7 +9731,12 @@
       "message": "😅 লিস্ট নিয়ে বাজারে যাওয়া আর লিস্ট মনে রাখা— দুইটা আলাদা স্কিল। কে কে ভুক্তভোগী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_joke1/4.png",
       "when": "2026-08-08T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1355616613354909",
+        "post_id": "1191612787659871_1355616646688239"
+      },
+      "posted_at": "2026-08-08T16:47:18+00:00"
     },
     {
       "id": "asu-gap1-1",
@@ -8630,8 +9746,14 @@
       "message": "🧠 Simple once you see it. Answer before the pin 👇",
       "image_url": "images/suspense_gap1/1.png",
       "when": "2026-07-30T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⌨️ ANSWER: A keyboard."
+      "status": "posted",
+      "first_comment": "⌨️ ANSWER: A keyboard.",
+      "result": {
+        "id": "1478203700997991",
+        "post_id": "2642505565823038_1478203714331323",
+        "first_comment_id": "1478203714331323_1335587292019780"
+      },
+      "posted_at": "2026-07-30T22:16:20+00:00"
     },
     {
       "id": "asu-gap1-2",
@@ -8641,8 +9763,14 @@
       "message": "🕵️ Nothing else on the scene. Solve it 👇",
       "image_url": "images/suspense_gap1/2.png",
       "when": "2026-07-30T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🏜️ ANSWER: He jumped from a hot air balloon after it caught fire — the match was to see how much fuel he had left. 🎈"
+      "status": "posted",
+      "first_comment": "🏜️ ANSWER: He jumped from a hot air balloon after it caught fire — the match was to see how much fuel he had left. 🎈",
+      "result": {
+        "id": "1478270784324616",
+        "post_id": "2642505565823038_1478270807657947",
+        "first_comment_id": "1478270807657947_2327425847998018"
+      },
+      "posted_at": "2026-07-31T00:12:51+00:00"
     },
     {
       "id": "asu-gap1-3",
@@ -8651,7 +9779,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy smart speaker just said good morning to me.\n\nI never set up a wake word, and I don't own a smart speaker.\n\n😳 React 😱 if that got you.",
       "when": "2026-07-31T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1478648504286844"
+      },
+      "posted_at": "2026-07-31T10:50:09+00:00"
     },
     {
       "id": "asu-gap1-4",
@@ -8661,8 +9793,14 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_gap1/4.png",
       "when": "2026-07-31T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎃 ANSWER: Row 2."
+      "status": "posted",
+      "first_comment": "🎃 ANSWER: Row 2.",
+      "result": {
+        "id": "1478761074275587",
+        "post_id": "2642505565823038_1478761084275586",
+        "first_comment_id": "1478761084275586_1105438245760370"
+      },
+      "posted_at": "2026-07-31T13:05:28+00:00"
     },
     {
       "id": "asu-gap1-5",
@@ -8672,7 +9810,12 @@
       "message": "📱 Which line got you? React 😱 👇",
       "image_url": "images/suspense_gap1/5.png",
       "when": "2026-07-31T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1478958124255882",
+        "post_id": "2642505565823038_1478958147589213"
+      },
+      "posted_at": "2026-07-31T17:50:45+00:00"
     },
     {
       "id": "asu-gap1-6",
@@ -8682,8 +9825,14 @@
       "message": "🧠 Comment your answer before the pin 👇",
       "image_url": "images/suspense_gap1/6.png",
       "when": "2026-07-31T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🕳️ ANSWER: A hole."
+      "status": "posted",
+      "first_comment": "🕳️ ANSWER: A hole.",
+      "result": {
+        "id": "1479030404248654",
+        "post_id": "2642505565823038_1479030424248652",
+        "first_comment_id": "1479030424248652_4521989368083131"
+      },
+      "posted_at": "2026-07-31T19:48:17+00:00"
     },
     {
       "id": "asu-gap1-7",
@@ -8693,8 +9842,14 @@
       "message": "🕵️ One sentence flips the whole race. Solve it 👇",
       "image_url": "images/suspense_gap1/7.png",
       "when": "2026-07-31T21:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother then races the OTHER horse as fast as possible to make his own horse (which determines the loser) finish last."
+      "status": "posted",
+      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother then races the OTHER horse as fast as possible to make his own horse (which determines the loser) finish last.",
+      "result": {
+        "id": "1479085150909846",
+        "post_id": "2642505565823038_1479085174243177",
+        "first_comment_id": "1479085174243177_1278024467591387"
+      },
+      "posted_at": "2026-07-31T21:17:22+00:00"
     },
     {
       "id": "asu-gap1-8",
@@ -8703,7 +9858,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI keep hearing my name called from the kitchen when I'm the only one home.\n\nTonight it said please, for the first time.\n\n😳 Tag someone who wouldn't check.",
       "when": "2026-07-31T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1479148794236815"
+      },
+      "posted_at": "2026-07-31T23:13:37+00:00"
     },
     {
       "id": "deshal-vjoke1-1",
