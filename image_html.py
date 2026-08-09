@@ -317,9 +317,12 @@ TEMPLATES = {
 }
 
 
-def _render_html(html: str, out_path: str, size=None) -> str:
+def _render_html(html: str, out_path: str, size=None, transparent=False) -> str:
     """size: optional (width, height); defaults to the 4:5 post canvas.
-    Pass (1080, 1920) for 9:16 reel frames."""
+    Pass (1080, 1920) for 9:16 reel frames.
+    transparent=True: body background must be CSS `transparent` in the passed
+    html; the PNG comes out with a real alpha channel, for compositing this
+    frame (e.g. a caption/vignette overlay) on top of separate footage."""
     rw, rh = size if size else (W, H)
     out = Path(out_path)
     if not out.is_absolute():
@@ -329,23 +332,32 @@ def _render_html(html: str, out_path: str, size=None) -> str:
         out.unlink()  # so we can detect the fresh write, not a stale file
     tmp = out.with_suffix(".html")
     tmp.write_text(html, encoding="utf-8")
-    subprocess.run([
-        EDGE, "--headless=new", "--disable-gpu", "--hide-scrollbars",
-        f"--window-size={rw},{rh}", "--virtual-time-budget=15000",
-        f"--screenshot={out}", tmp.as_uri(),
-    ], check=True, capture_output=True, timeout=120)
-    # --headless=new flushes the screenshot asynchronously AFTER the process
-    # exits, so poll until the file appears and its size stops growing.
-    last = -1
-    for _ in range(40):  # up to ~12s
-        time.sleep(0.3)
-        if out.is_file():
-            size = out.stat().st_size
-            if size > 0 and size == last:
-                break
-            last = size
-    else:
-        raise RuntimeError("Edge produced no screenshot in time")
+    args = [EDGE, "--headless=new", "--disable-gpu", "--hide-scrollbars",
+            f"--window-size={rw},{rh}", "--virtual-time-budget=15000"]
+    if transparent:
+        args.append("--default-background-color=00000000")
+    args += [f"--screenshot={out}", tmp.as_uri()]
+    for attempt in range(3):
+        try:
+            subprocess.run(args, check=True, capture_output=True, timeout=120)
+            # --headless=new flushes the screenshot asynchronously AFTER the
+            # process exits, so poll until the file appears and its size
+            # stops growing.
+            last = -1
+            for _ in range(40):  # up to ~12s
+                time.sleep(0.3)
+                if out.is_file():
+                    size = out.stat().st_size
+                    if size > 0 and size == last:
+                        break
+                    last = size
+            else:
+                raise RuntimeError("Edge produced no screenshot in time")
+            break
+        except (subprocess.TimeoutExpired, RuntimeError):
+            if attempt == 2:
+                raise
+            out.unlink(missing_ok=True)
     tmp.unlink(missing_ok=True)
     return str(out)
 

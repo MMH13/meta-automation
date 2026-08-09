@@ -27,7 +27,7 @@ THEMES = {   # (background, text, accent-for-*stars*)
 }
 
 
-def block_post(text, out_path, theme="crimson", footer="📻 Mamun Hossain",
+def block_post(text, out_path, theme="crimson", footer="🚀 Mamun Hossain",
                size=78):
     bg, fg, ac = THEMES[theme]
     lines = []

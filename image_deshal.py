@@ -324,6 +324,70 @@ def _bn_hl_inline(text, color):
     return re.sub(r"\*(.+?)\*", lambda m: f'<span class="hl">{m.group(1)}</span>', escape(text.strip()))
 
 
+def deshal_vintage_joke(setup, dialogue_lines, punch, out_path, punch_emoji="🙂",
+                        page_name="রেডিও দেশাল"):
+    """Exact-format replica of a reference page's dark-humor dialogue-joke
+    post (2026-08-03, user shared screenshots and asked for this literal
+    style, not just the structure): aged-paper background (tinted with Radio
+    Deshal's own brand gold, not the reference's generic tan — user asked
+    2026-08-03 for "a brandable color" + removed the fake old-book filler
+    text that was sitting in the background), a green-highlighter setup
+    line, a white-highlighter dialogue block, a plain (unboxed) punchline
+    with a trailing emoji, and a small red-circle Facebook-icon + page-name
+    watermark bottom-right, plus a few faint tiled page_name watermarks
+    (top + both vertical edges) like the reference's anti-repost marks.
+
+    setup: one setup sentence ("X said to Y-")
+    dialogue_lines: list of message/dialogue lines (each its own paragraph)
+    punch: the ironic twist/punchline, plain text at the end
+    """
+    dialogue_html = "".join(
+        f'<div class="dline"><span class="dialogue">{escape(ln)}</span></div>'
+        for ln in dialogue_lines)
+    html = f"""<!doctype html><html><head><meta charset="utf-8">{_FONTS_BN}
+<style>
+  * {{ margin:0; padding:0; box-sizing:border-box; }}
+  body {{ width:{W}px; height:{H}px; overflow:hidden; position:relative;
+       background:#f2dda3; font-family:'Hind Siliguri',sans-serif; }}
+  .paper-noise {{ position:absolute; inset:0; opacity:.5; mix-blend-mode:multiply;
+       background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.85 0 0 0 0 0.68 0 0 0 0 0.28 0 0 0 0.18 0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)'/%3E%3C/svg%3E"); }}
+  .wm {{ position:absolute; font-size:15px; font-weight:600; color:#9c7f3f;
+       opacity:.4; font-family:'Hind Siliguri',sans-serif; }}
+  .wm-top {{ top:24px; left:50%; transform:translateX(-50%); }}
+  .wm-left {{ left:18px; top:50%; transform:translateY(-50%) rotate(-90deg); }}
+  .wm-right {{ right:18px; top:50%; transform:translateY(-50%) rotate(90deg); }}
+  .wrap {{ position:absolute; left:64px; right:64px; top:220px; bottom:190px;
+       display:flex; flex-direction:column; justify-content:flex-start; gap:34px; }}
+  .setup {{ display:inline; background:#c6f24d; font-weight:700; color:#111;
+       font-size:34px; line-height:1.6; box-decoration-break:clone;
+       -webkit-box-decoration-break:clone; padding:2px 8px; }}
+  .dialogue-group {{ display:flex; flex-direction:column; gap:18px; }}
+  .dialogue {{ display:inline; background:#fdfdfb; font-weight:700; color:#111;
+       font-size:32px; line-height:1.6; box-decoration-break:clone;
+       -webkit-box-decoration-break:clone; padding:2px 8px; }}
+  .punch {{ font-weight:700; color:#111; font-size:34px; line-height:1.6; }}
+  .foot {{ position:absolute; bottom:36px; right:44px; display:flex;
+       align-items:center; gap:12px; }}
+  .foot .fb {{ width:56px; height:56px; border-radius:50%; background:#e21b1b;
+       border:3px solid #fff; box-shadow:0 2px 8px rgba(0,0,0,.25);
+       display:flex; align-items:center; justify-content:center;
+       color:#fff; font-size:30px; font-weight:800; font-family:Georgia,serif; }}
+  .foot .name {{ font-weight:800; font-size:30px; color:#111; }}
+</style></head><body>
+  <div class="paper-noise"></div>
+  <div class="wm wm-top">{escape(page_name)}</div>
+  <div class="wm wm-left">{escape(page_name)}</div>
+  <div class="wm wm-right">{escape(page_name)}</div>
+  <div class="wrap">
+    <div><span class="setup">{escape(setup)}</span></div>
+    <div class="dialogue-group">{dialogue_html}</div>
+    <div class="punch">{escape(punch)} {punch_emoji}</div>
+  </div>
+  <div class="foot"><div class="fb">f</div><div class="name">{escape(page_name)}</div></div>
+</body></html>"""
+    return _render_html(html, out_path)
+
+
 def _bn_hl(text, color):
     import re
     out = []
