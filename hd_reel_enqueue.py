@@ -89,7 +89,7 @@ def main(module_name, stock=False):
             items.append({
                 "id": fb_id, "account": "health-daily", "network": "facebook",
                 "type": "reel", "message": caption,
-                "video_path": str(video_path.relative_to(_HERE)),
+                "video_path": video_path.relative_to(_HERE).as_posix(),
                 "when": when, "status": "pending",
             })
             n += 1
