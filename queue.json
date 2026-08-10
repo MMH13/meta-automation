@@ -12431,8 +12431,14 @@
       "message": "মাসের পর মাস ধরে ফ্রিল্যান্স ক্লায়েন্ট খোঁজার দিন শেষ।\nএখন AI দিয়ে মাত্র ৩টা ধাপে প্রথম ক্লায়েন্ট পাওয়া সম্ভব 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/04.png",
       "when": "2026-08-10T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: AI-Assisted Proposal** — Upwork/Fiverr এর জব পোস্ট পেস্ট করে ChatGPT দিয়ে কাস্টম প্রপোজাল লিখুন, জেনেরিক টেমপ্লেট না।\n**ধাপ ২: LinkedIn Outreach** — টার্গেট ক্লায়েন্টের প্রোফাইল দিয়ে পার্সোনালাইজড মেসেজ AI দিয়ে ড্রাফট করান।\n**ধাপ ৩: Portfolio Optimization** — AI দিয়ে নিজের পোর্টফোলিওর কেস-স্টাডি লেখাগুলো ক্লায়েন্ট-ফোকাসড করে সাজান।"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: AI-Assisted Proposal** — Upwork/Fiverr এর জব পোস্ট পেস্ট করে ChatGPT দিয়ে কাস্টম প্রপোজাল লিখুন, জেনেরিক টেমপ্লেট না।\n**ধাপ ২: LinkedIn Outreach** — টার্গেট ক্লায়েন্টের প্রোফাইল দিয়ে পার্সোনালাইজড মেসেজ AI দিয়ে ড্রাফট করান।\n**ধাপ ৩: Portfolio Optimization** — AI দিয়ে নিজের পোর্টফোলিওর কেস-স্টাডি লেখাগুলো ক্লায়েন্ট-ফোকাসড করে সাজান।",
+      "result": {
+        "id": "1365259005754617",
+        "post_id": "102695371717364_1365259015754616",
+        "first_comment_id": "1365259015754616_1796453085110643"
+      },
+      "posted_at": "2026-08-10T08:48:06+00:00"
     },
     {
       "id": "mamun-shamim1-02-1",
@@ -14841,7 +14847,12 @@
       "message": "👃 Smell is the only sense with a direct line to your brain's memory and emotion centers — which is why one specific smell can instantly bring back a whole memory.\n\n→ This is why scent-based memories feel so vivid\n→ It's also linked to appetite and mood\n→ Try it: a familiar smell can genuinely calm you down\n\n💚 Bookmark this. You'll need it later.\n💬 What smell instantly takes you back somewhere? 👇",
       "image_url": "images/health_refill1/02_2.png",
       "when": "2026-08-10T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1716487710366727",
+        "post_id": "152206688762695_1716487723700059"
+      },
+      "posted_at": "2026-08-10T08:48:18+00:00"
     },
     {
       "id": "hd-refill1-02-2-ig",
@@ -14851,7 +14862,12 @@
       "message": "👃 Smell is the only sense with a direct line to your brain's memory and emotion centers — which is why one specific smell can instantly bring back a whole memory.\n\n→ This is why scent-based memories feel so vivid\n→ It's also linked to appetite and mood\n→ Try it: a familiar smell can genuinely calm you down\n\n💚 Bookmark this. You'll need it later.\n💬 What smell instantly takes you back somewhere? 👇",
       "image_url": "images/health_refill1/02_2.png",
       "when": "2026-08-10T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18204272290362572",
+        "permalink": "https://www.instagram.com/p/Db2nunWjhU9/"
+      },
+      "posted_at": "2026-08-10T08:48:34+00:00"
     },
     {
       "id": "hd-refill1-02-3-fb",
