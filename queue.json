@@ -10072,7 +10072,12 @@
       "message": "😑 প্রতিটা গ্রুপ চ্যাটেরই এই এক নিয়ম। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/00_7.png",
       "when": "2026-08-10T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1357380739845163",
+        "post_id": "1191612787659871_1357380773178493"
+      },
+      "posted_at": "2026-08-10T21:53:47+00:00"
     },
     {
       "id": "deshal-refill1-01-0",
@@ -17377,7 +17382,12 @@
       "message": "📱 Which line got you? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-10_21.png",
       "when": "2026-08-10T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1487938426691185",
+        "post_id": "2642505565823038_1487938436691184"
+      },
+      "posted_at": "2026-08-10T21:54:00+00:00"
     },
     {
       "id": "asu-refill1-2026-08-10-23",
