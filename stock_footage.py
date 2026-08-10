@@ -71,20 +71,28 @@ def best_file(hit, min_width=800):
     return max(files, key=lambda f: f["width"])["link"]
 
 
-def download_clip(hit, out_path, min_width=800):
+def download_clip(hit, out_path, min_width=800, tries=3):
     out = Path(out_path)
     if out.is_file() and out.stat().st_size > 0:
         return out  # cached
     out.parent.mkdir(parents=True, exist_ok=True)
     url = best_file(hit, min_width=min_width)
-    r = requests.get(url, timeout=120, stream=True)
-    r.raise_for_status()
     tmp = out.with_suffix(".tmp")
-    with open(tmp, "wb") as f:
-        for chunk in r.iter_content(1 << 16):
-            f.write(chunk)
-    tmp.rename(out)
-    return out
+    last_err = None
+    for attempt in range(tries):
+        try:
+            r = requests.get(url, timeout=120, stream=True)
+            r.raise_for_status()
+            with open(tmp, "wb") as f:
+                for chunk in r.iter_content(1 << 16):
+                    f.write(chunk)
+            tmp.rename(out)
+            return out
+        except Exception as e:  # dropped connection mid-download, etc.
+            last_err = e
+            tmp.unlink(missing_ok=True)
+            time.sleep(3 * (attempt + 1))
+    raise last_err
 
 
 def fetch(query, out_path, min_width=800, min_duration=4):

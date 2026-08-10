@@ -354,7 +354,11 @@ def _render_html(html: str, out_path: str, size=None, transparent=False) -> str:
             else:
                 raise RuntimeError("Edge produced no screenshot in time")
             break
-        except (subprocess.TimeoutExpired, RuntimeError):
+        except (subprocess.TimeoutExpired, RuntimeError, subprocess.CalledProcessError):
+            # CalledProcessError covers Edge crashing outright (e.g. an
+            # access-violation exit like 3221225477) rather than hanging -
+            # a distinct failure mode from the timeout/no-screenshot cases
+            # above, and one the retry loop was silently not covering.
             if attempt == 2:
                 raise
             out.unlink(missing_ok=True)

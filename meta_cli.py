@@ -15,7 +15,8 @@ queue.json format (times are ISO-8601; naive = local time):
        "link": "https://... (facebook link posts)",
        "image_url": "https://... (photo/image) OR",
        "image_urls": ["...", "..."] (carousel),
-       "video_url": "https://... (reel)",
+       "video_url": "https://... (IG reel — must be a public URL IG can fetch),
+       "video_path": "images/reels/x.mp4 (FB reel — local file, 3-phase upload)",
        "when": "2026-07-14T09:00:00",
        "status": "pending"}
     ]}
@@ -37,6 +38,7 @@ COMMENTS_FILE = _HERE / "comments.json"
 
 sys.path.insert(0, str(_HERE))
 import meta_mcp_server as meta  # reuse _api/_cfg/_ig_id and the accounts config
+import publish_reel  # FB reels need the 3-phase video_reels upload, not fb_post*
 
 
 def _due(item) -> bool:
@@ -56,6 +58,8 @@ def _post(item) -> dict:
             img = item.get("image") or item["image_url"]  # URL or local path
             r = json.loads(meta.fb_post_photo(img, msg, geo_countries=geo,
                                               account=acct))
+        elif typ == "reel":
+            r = publish_reel.publish(acct, item["video_path"], msg)
         else:  # "link" / "text"
             r = json.loads(meta.fb_post(msg, item.get("link", ""),
                                         geo_countries=geo, account=acct))
