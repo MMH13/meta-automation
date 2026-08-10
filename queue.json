@@ -14979,7 +14979,11 @@
       "type": "text",
       "message": "Fill in the blank 👇\n\n\"My body feels best when I ______.\"\n\nSometimes naming it is the reminder you needed 👇",
       "when": "2026-08-10T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "152206688762695_1716857470329751"
+      },
+      "posted_at": "2026-08-10T17:03:24+00:00"
     },
     {
       "id": "hd-refill1-02-6-fb",
@@ -19725,7 +19729,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy smart speaker just said good morning to me.\n\nI never set up a wake word, and I don't own a smart speaker.\n\n😳 React 😱 if that got you.",
       "when": "2026-08-10T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1487760850042276"
+      },
+      "posted_at": "2026-08-10T17:03:35+00:00"
     },
     {
       "id": "asu-refill1-2026-08-10-19",
