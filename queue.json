@@ -9952,7 +9952,12 @@
       "message": "😅 এই এক লাইনেই বুঝা যায় আসল ছুটি কাকে বলে। কে কে ভুক্তভোগী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/00_0.png",
       "when": "2026-08-10T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1356705949912642",
+        "post_id": "1191612787659871_1356705979912639"
+      },
+      "posted_at": "2026-08-10T02:28:08+00:00"
     },
     {
       "id": "deshal-refill1-00-1",
@@ -13074,8 +13079,14 @@
       "message": "আপনি যদি সবসময় অন্যের অনুমোদনের অপেক্ষায় থাকেন-\nএটাই আপনার সবচেয়ে বড় গ্রোথ-ব্লকার! ৩টা সাইন চিনুন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-10-01.png",
       "when": "2026-08-10T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**সিদ্ধান্ত নেওয়ার আগে ১০ জনের মতামত লাগে** — নিজের বিচার-বুদ্ধিতে ভরসা কমে যাচ্ছে এর সাইন।\n**সমালোচনার ভয়ে কাজ পোস্ট/শেয়ার করতে দেরি করেন** — পারফেক্ট হওয়া পর্যন্ত অপেক্ষা কখনো শেষ হয় না।\n**নিজের সাফল্যকে 'ভাগ্য' বলে উড়িয়ে দেন** — এটা নিজের যোগ্যতা অস্বীকার করার একটা প্যাটার্ন।"
+      "status": "posted",
+      "first_comment": "**সিদ্ধান্ত নেওয়ার আগে ১০ জনের মতামত লাগে** — নিজের বিচার-বুদ্ধিতে ভরসা কমে যাচ্ছে এর সাইন।\n**সমালোচনার ভয়ে কাজ পোস্ট/শেয়ার করতে দেরি করেন** — পারফেক্ট হওয়া পর্যন্ত অপেক্ষা কখনো শেষ হয় না।\n**নিজের সাফল্যকে 'ভাগ্য' বলে উড়িয়ে দেন** — এটা নিজের যোগ্যতা অস্বীকার করার একটা প্যাটার্ন।",
+      "result": {
+        "id": "1365054925775025",
+        "post_id": "102695371717364_1365054962441688",
+        "first_comment_id": "1365054962441688_1982665322383149"
+      },
+      "posted_at": "2026-08-10T02:28:34+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-10-04",
@@ -14756,7 +14767,12 @@
       "message": "🦵 Ten squats sounds small, but it wakes up circulation and muscle before your brain even reaches for the scroll. A genuinely better start than the news feed.\n\n→ Bodyweight only, no equipment needed\n→ Takes under 60 seconds\n→ Try it right when the alarm goes off\n\n💚 Bookmark this. You'll need it later.\n💬 Would you actually try this tomorrow? 👇",
       "image_url": "images/health_refill1/02_0.png",
       "when": "2026-08-10T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1716259333722898",
+        "post_id": "152206688762695_1716259343722897"
+      },
+      "posted_at": "2026-08-10T02:28:49+00:00"
     },
     {
       "id": "hd-refill1-02-0-ig",
@@ -14766,7 +14782,12 @@
       "message": "🦵 Ten squats sounds small, but it wakes up circulation and muscle before your brain even reaches for the scroll. A genuinely better start than the news feed.\n\n→ Bodyweight only, no equipment needed\n→ Takes under 60 seconds\n→ Try it right when the alarm goes off\n\n💚 Bookmark this. You'll need it later.\n💬 Would you actually try this tomorrow? 👇",
       "image_url": "images/health_refill1/02_0.png",
       "when": "2026-08-10T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17896456068591391",
+        "permalink": "https://www.instagram.com/p/Db18TOaEqMT/"
+      },
+      "posted_at": "2026-08-10T02:29:12+00:00"
     },
     {
       "id": "hd-refill1-02-1-fb",
