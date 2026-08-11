@@ -20320,7 +20320,13 @@
       "message": "Cloudy day? UV rays still get through. ☁️\n\nUp to 80% of UV passes through clouds — that's why daily sunscreen beats \"only on sunny days\" sunscreen.\n\n💚 Bookmark this habit.\n\n💬 Do you wear sunscreen on cloudy days?",
       "video_path": "images/health_reels_cadence1/nc1_d1_6_sunscreen_daily.mp4",
       "when": "2026-08-11T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1518546423636067",
+        "permalink": "/reel/1518546423636067/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-11T22:57:19+00:00"
     },
     {
       "id": "hd-cadence-nc2_d5_1_hand_washing-ig",
@@ -22514,7 +22520,11 @@
       "message": "Cloudy day? UV rays still get through. ☁️\n\nUp to 80% of UV passes through clouds — that's why daily sunscreen beats \"only on sunny days\" sunscreen.\n\n💚 Bookmark this habit.\n\n💬 Do you wear sunscreen on cloudy days?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d1_6_sunscreen_daily.mp4",
       "when": "2026-08-11T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17979600348095761"
+      },
+      "posted_at": "2026-08-11T22:57:59+00:00"
     },
     {
       "id": "hd-cadence-nc4_d15_3_lifting_technique-fb",
