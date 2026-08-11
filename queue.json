@@ -10212,7 +10212,12 @@
       "message": "😩 এই টাইমিং কীভাবে জানি সবার অফিসেই এক। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/01_7.png",
       "when": "2026-08-11T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1358214966428407",
+        "post_id": "1191612787659871_1358214989761738"
+      },
+      "posted_at": "2026-08-11T21:59:29+00:00"
     },
     {
       "id": "deshal-refill1-02-0",
@@ -17589,7 +17594,12 @@
       "message": "📱 That reply though. React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-11_21.png",
       "when": "2026-08-11T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1488798633271831",
+        "post_id": "2642505565823038_1488798659938495"
+      },
+      "posted_at": "2026-08-11T21:59:41+00:00"
     },
     {
       "id": "asu-refill1-2026-08-11-23",
