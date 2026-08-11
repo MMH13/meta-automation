@@ -8825,7 +8825,12 @@
       "message": "🔁 Re-reading a novel is considered thoughtful. Re-listening to an album is normal. Rewatching a film somehow gets treated as failure of imagination.\n\nBut films are dense — you physically cannot catch everything in one pass. The second viewing is where you see the construction.\n\n👇 How many times have you seen your most-rewatched film?\n\n🔁 Share this with a serial rewatcher.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0811_19.png",
       "when": "2026-08-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200705268787954",
+        "post_id": "628257647029140_122200705292787954"
+      },
+      "posted_at": "2026-08-11T19:16:40+00:00"
     },
     {
       "id": "tmrs-0811-23",
@@ -10192,7 +10197,12 @@
       "message": "😅 \"কমন পড়বে\" শুনে যারা সারারাত জেগেছেন, হাত তুলুন 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/01_6.png",
       "when": "2026-08-11T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1358109889772248",
+        "post_id": "1191612787659871_1358109916438912"
+      },
+      "posted_at": "2026-08-11T19:16:54+00:00"
     },
     {
       "id": "deshal-refill1-01-7",
@@ -17562,8 +17572,14 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-08-11_19.png",
       "when": "2026-08-11T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "☠️ ANSWER: Row 3."
+      "status": "posted",
+      "first_comment": "☠️ ANSWER: Row 3.",
+      "result": {
+        "id": "1488688759949485",
+        "post_id": "2642505565823038_1488688776616150",
+        "first_comment_id": "1488688776616150_1738978613807197"
+      },
+      "posted_at": "2026-08-11T19:17:11+00:00"
     },
     {
       "id": "asu-refill1-2026-08-11-21",
@@ -21508,7 +21524,13 @@
       "message": "That 3 PM coffee could be wrecking tonight's sleep. ☕\n\nCaffeine has a half-life of about 5-6 hours — by bedtime, a good chunk is still in your system.\n\n💚 Bookmark this cutoff reminder.\n\n💬 What time was your last coffee today?",
       "video_path": "images/health_reels_cadence1/nc1_d1_5_caffeine_cutoff.mp4",
       "when": "2026-08-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1375568620670574",
+        "permalink": "/reel/1375568620670574/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-11T19:17:46+00:00"
     },
     {
       "id": "hd-cadence-nc3_d12_5_teeth_grinding-ig",
@@ -21838,7 +21860,11 @@
       "message": "That 3 PM coffee could be wrecking tonight's sleep. ☕\n\nCaffeine has a half-life of about 5-6 hours — by bedtime, a good chunk is still in your system.\n\n💚 Bookmark this cutoff reminder.\n\n💬 What time was your last coffee today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d1_5_caffeine_cutoff.mp4",
       "when": "2026-08-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17882419059617277"
+      },
+      "posted_at": "2026-08-11T19:18:34+00:00"
     },
     {
       "id": "hd-cadence-nc4_d14_4_dynamic_vs_static_stretch-fb",
