@@ -10107,7 +10107,12 @@
       "message": "😂 বাংলাদেশি টাইম জোনের এই কনভার্সন সবাই জানে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/01_1.png",
       "when": "2026-08-11T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1357577299825507",
+        "post_id": "1191612787659871_1357577323158838"
+      },
+      "posted_at": "2026-08-11T04:36:23+00:00"
     },
     {
       "id": "deshal-refill1-01-2",
@@ -13232,8 +13237,14 @@
       "message": "আপনার ইমেইল ঠিকানা কয়টা ডেটা-ব্রিচে\nফাঁস হয়েছে, ১ মিনিটে নিজেই চেক করুন! পদ্ধতি 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-11-04.png",
       "when": "2026-08-11T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**haveibeenpwned.com এ ইমেইল দিয়ে সার্চ করুন** — কোন কোন ব্রিচে আপনার ডেটা ছিল দেখাবে।\n**ফাঁস হওয়া পাসওয়ার্ড থাকলে সাথে সাথে বদলান** — একই পাসওয়ার্ড অন্য একাউন্টেও ব্যবহার করে থাকলে সেগুলোও বদলান।\n**Two-Factor Authentication চালু করুন** — পাসওয়ার্ড ফাঁস হলেও এটা এক্সট্রা প্রোটেকশন দেয়।"
+      "status": "posted",
+      "first_comment": "**haveibeenpwned.com এ ইমেইল দিয়ে সার্চ করুন** — কোন কোন ব্রিচে আপনার ডেটা ছিল দেখাবে।\n**ফাঁস হওয়া পাসওয়ার্ড থাকলে সাথে সাথে বদলান** — একই পাসওয়ার্ড অন্য একাউন্টেও ব্যবহার করে থাকলে সেগুলোও বদলান।\n**Two-Factor Authentication চালু করুন** — পাসওয়ার্ড ফাঁস হলেও এটা এক্সট্রা প্রোটেকশন দেয়।",
+      "result": {
+        "id": "1365936459020205",
+        "post_id": "102695371717364_1365936469020204",
+        "first_comment_id": "1365936469020204_27937719479180747"
+      },
+      "posted_at": "2026-08-11T04:36:39+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-11-10",
@@ -19507,7 +19518,13 @@
       "message": "Staring at a screen? Your eyes are feeling it. 👀\n\nTry the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds.\n\n💚 Bookmark this for your next work session.\n\n💬 How many hours are you on a screen today?",
       "video_path": "images/health_reels_cadence1/nc1_d1_2_20_20_20_rule.mp4",
       "when": "2026-08-11T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2241764453240944",
+        "permalink": "/reel/2241764453240944/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-11T04:37:18+00:00"
     },
     {
       "id": "hd-cadence-nc6_d25_1_natural_light_workspace-fb",
@@ -22497,7 +22514,11 @@
       "message": "Staring at a screen? Your eyes are feeling it. 👀\n\nTry the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds.\n\n💚 Bookmark this for your next work session.\n\n💬 How many hours are you on a screen today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d1_2_20_20_20_rule.mp4",
       "when": "2026-08-11T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17899294629352108"
+      },
+      "posted_at": "2026-08-11T04:38:00+00:00"
     },
     {
       "id": "hd-cadence-nc3_d8_4_smart_snacking-fb",
