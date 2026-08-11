@@ -10092,7 +10092,12 @@
       "message": "😅 বুয়ার আগে ব্যাচেলর লাইফের আসল পরীক্ষা এই বাজার-হিসাব। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/01_0.png",
       "when": "2026-08-11T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1357506226499281",
+        "post_id": "1191612787659871_1357506263165944"
+      },
+      "posted_at": "2026-08-11T02:22:18+00:00"
     },
     {
       "id": "deshal-refill1-01-1",
@@ -13210,8 +13215,14 @@
       "message": "প্রোডাক্ট ফটোগ্রাফির জন্য স্টুডিও ভাড়া করার দরকার নাই।\nAI দিয়ে প্রফেশনাল প্রোডাক্ট শুট বানানোর পদ্ধতি 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-11-01.png",
       "when": "2026-08-11T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: সাধারণ ফোন ক্যামেরায় প্রোডাক্টের ছবি তুলুন, ভালো আলোতে।**\n**ধাপ ২: AI ব্যাকগ্রাউন্ড রিমুভাল/রিপ্লেসমেন্ট টুল দিয়ে প্রফেশনাল ব্যাকগ্রাউন্ড বসান।**\n**ধাপ ৩: বিভিন্ন সিন/এঙ্গেলের ভ্যারিয়েশন AI দিয়ে জেনারেট করান।**"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: সাধারণ ফোন ক্যামেরায় প্রোডাক্টের ছবি তুলুন, ভালো আলোতে।**\n**ধাপ ২: AI ব্যাকগ্রাউন্ড রিমুভাল/রিপ্লেসমেন্ট টুল দিয়ে প্রফেশনাল ব্যাকগ্রাউন্ড বসান।**\n**ধাপ ৩: বিভিন্ন সিন/এঙ্গেলের ভ্যারিয়েশন AI দিয়ে জেনারেট করান।**",
+      "result": {
+        "id": "1365866595693858",
+        "post_id": "102695371717364_1365866619027189",
+        "first_comment_id": "1365866619027189_2213834266223908"
+      },
+      "posted_at": "2026-08-11T02:22:37+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-11-04",
@@ -20236,7 +20247,11 @@
       "message": "Your gut has its own nervous system, separate from your brain. 🧠\n\nIt's called the enteric nervous system — it's why stress can genuinely upset your stomach, not just as a figure of speech.\n\n💚 Bookmark this gut-brain fact.\n\n💬 Ever felt a stressful day in your stomach?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d1_1_gut_nervous_system.mp4",
       "when": "2026-08-11T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18452802331189113"
+      },
+      "posted_at": "2026-08-11T02:23:22+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_1_sleep_environment-fb",
@@ -22146,7 +22161,13 @@
       "message": "Your gut has its own nervous system, separate from your brain. 🧠\n\nIt's called the enteric nervous system — it's why stress can genuinely upset your stomach, not just as a figure of speech.\n\n💚 Bookmark this gut-brain fact.\n\n💬 Ever felt a stressful day in your stomach?",
       "video_path": "images/health_reels_cadence1/nc1_d1_1_gut_nervous_system.mp4",
       "when": "2026-08-11T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2182873422341362",
+        "permalink": "/reel/2182873422341362/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-11T02:23:58+00:00"
     },
     {
       "id": "hd-cadence-nc4_d13_5_chronotype_basics-ig",
