@@ -12525,8 +12525,14 @@
       "message": "Canva-তে ডিজাইন বানানোর সময় এই ৫টা AI প্রম্পট সেভ করে রাখুন,\nপ্রফেশনাল ডিজাইনারের মতো রেজাল্ট পাবেন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/06.png",
       "when": "2026-08-11T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**\"Minimal poster design, [topic], bold typography, high contrast\"** — Magic Design এর জন্য।\n**\"Remove background, keep shadow natural\"** — প্রোডাক্ট ছবি ক্লিন করতে।\n**\"Generate 3 color palette variations from this image\"** — ব্র্যান্ড কালার বের করতে।\n**\"Resize this design for Instagram Story and Facebook post, keep text readable\"** — মাল্টি-ফরম্যাট এক ক্লিকে।\n**\"Write 3 short headline variations for this design, punchy tone\"** — কপি আইডিয়ার জন্য।"
+      "status": "posted",
+      "first_comment": "**\"Minimal poster design, [topic], bold typography, high contrast\"** — Magic Design এর জন্য।\n**\"Remove background, keep shadow natural\"** — প্রোডাক্ট ছবি ক্লিন করতে।\n**\"Generate 3 color palette variations from this image\"** — ব্র্যান্ড কালার বের করতে।\n**\"Resize this design for Instagram Story and Facebook post, keep text readable\"** — মাল্টি-ফরম্যাট এক ক্লিকে।\n**\"Write 3 short headline variations for this design, punchy tone\"** — কপি আইডিয়ার জন্য।",
+      "result": {
+        "id": "1366019419011909",
+        "post_id": "102695371717364_1366019442345240",
+        "first_comment_id": "1366019442345240_1750284746027961"
+      },
+      "posted_at": "2026-08-11T07:23:27+00:00"
     },
     {
       "id": "mamun-shamim1-03-1",
@@ -15070,7 +15076,12 @@
       "message": "🧍 Standing burns more calories than sitting — not dramatically per minute, but across a full workday it adds up meaningfully. Small shifts, real difference.\n\n→ Standing desk or just standing calls\n→ Set a timer to stand every hour\n→ Movement breaks matter more than one intense workout\n\n💚 Bookmark this. You'll need it later.\n💬 Do you sit most of the day? 👇",
       "image_url": "images/health_refill1/03_2.png",
       "when": "2026-08-11T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1717442580271240",
+        "post_id": "152206688762695_1717442606937904"
+      },
+      "posted_at": "2026-08-11T07:23:41+00:00"
     },
     {
       "id": "hd-refill1-03-2-ig",
@@ -15080,7 +15091,12 @@
       "message": "🧍 Standing burns more calories than sitting — not dramatically per minute, but across a full workday it adds up meaningfully. Small shifts, real difference.\n\n→ Standing desk or just standing calls\n→ Set a timer to stand every hour\n→ Movement breaks matter more than one intense workout\n\n💚 Bookmark this. You'll need it later.\n💬 Do you sit most of the day? 👇",
       "image_url": "images/health_refill1/03_2.png",
       "when": "2026-08-11T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18119360699505337",
+        "permalink": "https://www.instagram.com/p/Db5C2F2mzSc/"
+      },
+      "posted_at": "2026-08-11T07:24:03+00:00"
     },
     {
       "id": "hd-refill1-03-4-fb",
