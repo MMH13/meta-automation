@@ -20247,7 +20247,13 @@
       "message": "Sore after a workout? Moving gently helps more than resting still. 🚶\n\nIt's called active recovery — a slow walk or gentle stretch boosts blood flow, which helps clear out some of the soreness.\n\n💚 Bookmark this recovery tip.\n\n💬 How do you handle post-workout soreness?",
       "video_path": "images/health_reels_cadence1/nc1_d2_6_active_recovery.mp4",
       "when": "2026-08-12T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "990336404026753",
+        "permalink": "/reel/990336404026753/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-12T22:54:58+00:00"
     },
     {
       "id": "hd-cadence-nc2_d3_2_protein_timing-ig",
@@ -21393,7 +21399,11 @@
       "message": "Sore after a workout? Moving gently helps more than resting still. 🚶\n\nIt's called active recovery — a slow walk or gentle stretch boosts blood flow, which helps clear out some of the soreness.\n\n💚 Bookmark this recovery tip.\n\n💬 How do you handle post-workout soreness?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d2_6_active_recovery.mp4",
       "when": "2026-08-12T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17946288888257736"
+      },
+      "posted_at": "2026-08-12T22:56:09+00:00"
     },
     {
       "id": "hd-cadence-nc5_d21_1_music_exercise_performance-fb",
