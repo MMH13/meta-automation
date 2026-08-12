@@ -8855,7 +8855,12 @@
       "message": "✅ The Godfather (1972), Pulp Fiction (1994), Blade Runner (1982), Jaws (1975), The Matrix (1999).\n\nToday's is simple but harder than it sounds:\n\nDescribe your favourite film in exactly ONE word. No title. Let people guess it.\n\n👇 Go.\n\n🔁 Share this and guess someone else's.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0812_13.png",
       "when": "2026-08-12T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200792946787954",
+        "post_id": "628257647029140_122200792970787954"
+      },
+      "posted_at": "2026-08-12T13:37:47+00:00"
     },
     {
       "id": "tmrs-0812-15",
@@ -10292,7 +10297,12 @@
       "message": "😭 এই ফিজিক্স কোনো বইতে লেখা নাই, কিন্তু সবাই জানি। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/02_4.png",
       "when": "2026-08-12T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1358747129708524",
+        "post_id": "1191612787659871_1358747163041854"
+      },
+      "posted_at": "2026-08-12T13:38:01+00:00"
     },
     {
       "id": "deshal-refill1-02-5",
@@ -13426,7 +13436,11 @@
       "type": "text",
       "message": "AI দিয়ে বানানো কনটেন্ট এত বেড়ে গেছে যে আসল, অরিজিনাল ভয়েস এখন আগের চেয়ে বেশি ভ্যালুয়েবল হয়ে উঠছে।",
       "when": "2026-08-12T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "102695371717364_1367101595570358"
+      },
+      "posted_at": "2026-08-12T13:38:12+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-13-01",
@@ -15273,7 +15287,12 @@
       "message": "🧘 Hours hunched at a desk leave hips and back tight — which follows you straight into a restless night. A short, gentle stretch signals the body to wind down.\n\n→ Neck, shoulders, hips, hamstrings\n→ Slow and easy, never forced\n→ Pair it with dimming the lights\n\n💚 Bookmark this. You'll need it later.\n💬 Do you stretch before bed? 👇",
       "image_url": "images/health_refill1/04_4.png",
       "when": "2026-08-12T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1718692606812904",
+        "post_id": "152206688762695_1718692636812901"
+      },
+      "posted_at": "2026-08-12T13:38:26+00:00"
     },
     {
       "id": "hd-refill1-04-4-ig",
@@ -15283,7 +15302,12 @@
       "message": "🧘 Hours hunched at a desk leave hips and back tight — which follows you straight into a restless night. A short, gentle stretch signals the body to wind down.\n\n→ Neck, shoulders, hips, hamstrings\n→ Slow and easy, never forced\n→ Pair it with dimming the lights\n\n💚 Bookmark this. You'll need it later.\n💬 Do you stretch before bed? 👇",
       "image_url": "images/health_refill1/04_4.png",
       "when": "2026-08-12T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18168126964453702",
+        "permalink": "https://www.instagram.com/p/Db8ShmfG2Hb/"
+      },
+      "posted_at": "2026-08-12T13:38:49+00:00"
     },
     {
       "id": "hd-refill1-05-2-fb",
@@ -17702,8 +17726,14 @@
       "message": "🕵️ The 'cabin' is the key detail. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-12_13.png",
       "when": "2026-08-12T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🐠 ANSWER: They were fish — the 'cabin' was an aquarium tank that shattered."
+      "status": "posted",
+      "first_comment": "🐠 ANSWER: They were fish — the 'cabin' was an aquarium tank that shattered.",
+      "result": {
+        "id": "1489405276544500",
+        "post_id": "2642505565823038_1489405293211165",
+        "first_comment_id": "1489405293211165_1392581056164072"
+      },
+      "posted_at": "2026-08-12T13:39:10+00:00"
     },
     {
       "id": "asu-refill1-2026-08-12-16",
