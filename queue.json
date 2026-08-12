@@ -10247,7 +10247,12 @@
       "message": "😂 ওয়াইফাই বন্ধ = জীবন বন্ধ। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/02_1.png",
       "when": "2026-08-12T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1358429326406971",
+        "post_id": "1191612787659871_1358429376406966"
+      },
+      "posted_at": "2026-08-12T04:56:59+00:00"
     },
     {
       "id": "deshal-refill1-02-2",
@@ -13372,8 +13377,14 @@
       "message": "বিজনেস প্ল্যান লিখতে কনসালট্যান্ট হায়ার করার দিন শেষ।\nAI দিয়ে ১ ঘণ্টায় সম্পূর্ণ প্ল্যান বানান 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-12-04.png",
       "when": "2026-08-12T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: AI কে আপনার আইডিয়া, টার্গেট মার্কেট, বাজেট বলুন।**\n**ধাপ ২: সেকশন-বাই-সেকশন লিখতে বলুন (এক্সিকিউটিভ সামারি, মার্কেট অ্যানালাইসিস, ফাইন্যান্স)।**\n**ধাপ ৩: প্রতিটা সেকশন নিজের বাস্তব তথ্য দিয়ে যাচাই ও এডিট করুন।**"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: AI কে আপনার আইডিয়া, টার্গেট মার্কেট, বাজেট বলুন।**\n**ধাপ ২: সেকশন-বাই-সেকশন লিখতে বলুন (এক্সিকিউটিভ সামারি, মার্কেট অ্যানালাইসিস, ফাইন্যান্স)।**\n**ধাপ ৩: প্রতিটা সেকশন নিজের বাস্তব তথ্য দিয়ে যাচাই ও এডিট করুন।**",
+      "result": {
+        "id": "1366786478935203",
+        "post_id": "102695371717364_1366786508935200",
+        "first_comment_id": "1366786508935200_2391638721364674"
+      },
+      "posted_at": "2026-08-12T04:57:21+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-12-10",
@@ -20006,7 +20017,11 @@
       "message": "Flossing isn't just about your teeth. 🦷\n\nIt removes plaque brushing alone can't reach — left alone, that plaque irritates your gums, and gum health is linked to your overall health too.\n\n💚 Bookmark this reminder.\n\n💬 Be honest — did you floss today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d2_2_flossing_matters.mp4",
       "when": "2026-08-12T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17995800590808344"
+      },
+      "posted_at": "2026-08-12T04:58:40+00:00"
     },
     {
       "id": "hd-cadence-nc6_d27_5_food_temperature_digestion-fb",
@@ -22720,7 +22735,13 @@
       "message": "Flossing isn't just about your teeth. 🦷\n\nIt removes plaque brushing alone can't reach — left alone, that plaque irritates your gums, and gum health is linked to your overall health too.\n\n💚 Bookmark this reminder.\n\n💬 Be honest — did you floss today?",
       "video_path": "images/health_reels_cadence1/nc1_d2_2_flossing_matters.mp4",
       "when": "2026-08-12T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2029980217622735",
+        "permalink": "/reel/2029980217622735/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-12T04:59:19+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_4_protein_aging_muscle-ig",
