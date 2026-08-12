@@ -10277,7 +10277,12 @@
       "message": "😂 বাজারের লিস্টেও নিজের জন্য একটা লাইন রাখা লাগে! রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/02_3.png",
       "when": "2026-08-12T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1358611463055424",
+        "post_id": "1191612787659871_1358611493055421"
+      },
+      "posted_at": "2026-08-12T10:17:43+00:00"
     },
     {
       "id": "deshal-refill1-02-4",
@@ -13405,8 +13410,14 @@
       "message": "নিজের কাজ নিয়ে confidence না থাকলে\nসবচেয়ে বড় কারণ এই ৩টার একটা, দেখুন কোনটা আপনার 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-12-10.png",
       "when": "2026-08-12T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**পর্যাপ্ত প্র্যাকটিস না করা** — কনফিডেন্স ট্যালেন্ট থেকে না, রিপিটিশন থেকে আসে।\n**নিজেকে সবসময় সেরাদের সাথে তুলনা করা** — আপনার ৬ মাস আগের নিজের সাথে তুলনা করুন, অন্য কারো সাথে না।\n**ছোট ছোট জয় উদযাপন না করা** — প্রতিটা ছোট প্রগ্রেসই কনফিডেন্স বিল্ড করে।"
+      "status": "posted",
+      "first_comment": "**পর্যাপ্ত প্র্যাকটিস না করা** — কনফিডেন্স ট্যালেন্ট থেকে না, রিপিটিশন থেকে আসে।\n**নিজেকে সবসময় সেরাদের সাথে তুলনা করা** — আপনার ৬ মাস আগের নিজের সাথে তুলনা করুন, অন্য কারো সাথে না।\n**ছোট ছোট জয় উদযাপন না করা** — প্রতিটা ছোট প্রগ্রেসই কনফিডেন্স বিল্ড করে।",
+      "result": {
+        "id": "1366967172250467",
+        "post_id": "102695371717364_1366967218917129",
+        "first_comment_id": "1366967218917129_1814936766327786"
+      },
+      "posted_at": "2026-08-12T10:18:01+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-12-13",
@@ -17674,8 +17685,14 @@
       "message": "🧠 Everyone's holding one right now. Answer 👇",
       "image_url": "images/suspense_refill1/2026-08-12_10.png",
       "when": "2026-08-12T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "💨 ANSWER: Your breath."
+      "status": "posted",
+      "first_comment": "💨 ANSWER: Your breath.",
+      "result": {
+        "id": "1489250256560002",
+        "post_id": "2642505565823038_1489250273226667",
+        "first_comment_id": "1489250273226667_1041654398605628"
+      },
+      "posted_at": "2026-08-12T10:18:16+00:00"
     },
     {
       "id": "asu-refill1-2026-08-12-13",
@@ -19798,7 +19815,11 @@
       "message": "Your bones respond to weight, not just food. 🦴\n\nWeight-bearing exercise — walking, jogging, dancing, stairs — signals your body to keep bones dense. Swimming and cycling are great but don't do this specific job.\n\n💚 Bookmark this bone health tip.\n\n💬 What's your favorite way to move?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d2_3_weight_bearing_bones.mp4",
       "when": "2026-08-12T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18092998886096184"
+      },
+      "posted_at": "2026-08-12T10:19:04+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_5_temperature_workspace_focus-ig",
@@ -21258,7 +21279,13 @@
       "message": "Your bones respond to weight, not just food. 🦴\n\nWeight-bearing exercise — walking, jogging, dancing, stairs — signals your body to keep bones dense. Swimming and cycling are great but don't do this specific job.\n\n💚 Bookmark this bone health tip.\n\n💬 What's your favorite way to move?",
       "video_path": "images/health_reels_cadence1/nc1_d2_3_weight_bearing_bones.mp4",
       "when": "2026-08-12T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2247948329363150",
+        "permalink": "/reel/2247948329363150/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-12T10:19:41+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_2_stress_digestion-ig",
