@@ -8900,7 +8900,12 @@
       "message": "⚔️ Universal approval usually means a film played it safe. The films that split rooms took a swing.\n\nA 6/10 everyone agrees on is far less interesting than a film half the audience calls a masterpiece and half calls a mess.\n\n👇 Name the most divisive film you actually love.\n\n🔁 Share this with someone who disagreed with you about it.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0812_23.png",
       "when": "2026-08-12T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200855658787954",
+        "post_id": "628257647029140_122200855676787954"
+      },
+      "posted_at": "2026-08-12T23:54:21+00:00"
     },
     {
       "id": "tmrs-0813-13",
@@ -17817,8 +17822,14 @@
       "message": "🕵️ You've played this one. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-12_23.png",
       "when": "2026-08-12T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎲 ANSWER: Monopoly."
+      "status": "posted",
+      "first_comment": "🎲 ANSWER: Monopoly.",
+      "result": {
+        "id": "1489812799837081",
+        "post_id": "2642505565823038_1489812823170412",
+        "first_comment_id": "1489812823170412_2820820448279996"
+      },
+      "posted_at": "2026-08-12T23:54:38+00:00"
     },
     {
       "id": "asu-refill1-2026-08-13-10",
