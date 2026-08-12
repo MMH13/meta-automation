@@ -10232,7 +10232,12 @@
       "message": "😂 মিটিং রুমের এই ক্রেডিট-স্টিলার সবার অফিসেই আছে। কে কে চেনেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/02_0.png",
       "when": "2026-08-12T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1358352463081324",
+        "post_id": "1191612787659871_1358352476414656"
+      },
+      "posted_at": "2026-08-12T02:38:12+00:00"
     },
     {
       "id": "deshal-refill1-02-1",
@@ -13350,8 +13355,14 @@
       "message": "চাকরির ইন্টারভিউতে যে ৩টা প্রশ্নের উত্তর ভুল দিলে\nআপনাকে সাথে সাথেই বাদ দেওয়া হয়, বেশিরভাগ মানুষ জানেই না 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-12-01.png",
       "when": "2026-08-12T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**\"আপনার সবচেয়ে বড় দুর্বলতা কী?\"** — জেনেরিক উত্তর ('আমি পারফেকশনিস্ট') সবচেয়ে বড় রেড ফ্ল্যাগ।\n**\"আগের কোম্পানি কেন ছাড়লেন?\"** — আগের বস/কোম্পানির নামে খারাপ বলা সরাসরি বাদ পড়ার কারণ।\n**\"৫ বছর পর নিজেকে কোথায় দেখেন?\"** — সম্পূর্ণ অস্পষ্ট উত্তর দিলে বোঝা যায় প্রস্তুতি নেই।"
+      "status": "posted",
+      "first_comment": "**\"আপনার সবচেয়ে বড় দুর্বলতা কী?\"** — জেনেরিক উত্তর ('আমি পারফেকশনিস্ট') সবচেয়ে বড় রেড ফ্ল্যাগ।\n**\"আগের কোম্পানি কেন ছাড়লেন?\"** — আগের বস/কোম্পানির নামে খারাপ বলা সরাসরি বাদ পড়ার কারণ।\n**\"৫ বছর পর নিজেকে কোথায় দেখেন?\"** — সম্পূর্ণ অস্পষ্ট উত্তর দিলে বোঝা যায় প্রস্তুতি নেই।",
+      "result": {
+        "id": "1366711642276020",
+        "post_id": "102695371717364_1366711658942685",
+        "first_comment_id": "1366711658942685_2520384178373433"
+      },
+      "posted_at": "2026-08-12T02:38:27+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-12-04",
@@ -19525,7 +19536,11 @@
       "message": "Feeling wound up? Try box breathing — it takes 30 seconds. 🫁\n\nIn for 4, hold for 4, out for 4, hold for 4. Repeat 4 times.\n\n💚 Bookmark this for your next stressful moment.\n\n💬 Try it right now — did it help?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc1_d2_1_box_breathing.mp4",
       "when": "2026-08-12T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18088700003562022"
+      },
+      "posted_at": "2026-08-12T02:39:11+00:00"
     },
     {
       "id": "hd-cadence-nc4_d13_1_text_neck-fb",
@@ -20655,7 +20670,13 @@
       "message": "Feeling wound up? Try box breathing — it takes 30 seconds. 🫁\n\nIn for 4, hold for 4, out for 4, hold for 4. Repeat 4 times.\n\n💚 Bookmark this for your next stressful moment.\n\n💬 Try it right now — did it help?",
       "video_path": "images/health_reels_cadence1/nc1_d2_1_box_breathing.mp4",
       "when": "2026-08-12T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1533524577967459",
+        "permalink": "/reel/1533524577967459/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-12T02:39:51+00:00"
     },
     {
       "id": "hd-cadence-nc4_d13_4_moderate_exercise_immunity-fb",
