@@ -10352,7 +10352,12 @@
       "message": "❤️ যতই বাইরে খাই, মায়ের রান্নার কাছে সব হার মানে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/02_7.png",
       "when": "2026-08-12T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1359057133010857",
+        "post_id": "1191612787659871_1359057143010856"
+      },
+      "posted_at": "2026-08-12T21:58:29+00:00"
     },
     {
       "id": "deshal-refill1-03-0",
@@ -17797,7 +17802,12 @@
       "message": "📱 Would you have replied? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-12_21.png",
       "when": "2026-08-12T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1489740219844339",
+        "post_id": "2642505565823038_1489740239844337"
+      },
+      "posted_at": "2026-08-12T21:58:40+00:00"
     },
     {
       "id": "asu-refill1-2026-08-12-23",
