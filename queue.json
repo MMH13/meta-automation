@@ -10372,7 +10372,12 @@
       "message": "😅 ননদ-ভাবির এই খোঁচাখুঁচি চিরকালীন। কে কে দেখেছেন এমন সিন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/03_0.png",
       "when": "2026-08-13T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1359194319663805",
+        "post_id": "1191612787659871_1359194342997136"
+      },
+      "posted_at": "2026-08-13T02:40:24+00:00"
     },
     {
       "id": "deshal-refill1-03-1",
@@ -13484,8 +13489,14 @@
       "message": "প্রতিদিন একই ধরনের সোশ্যাল মিডিয়া ক্যাপশন লিখে লিখে বোরিং লাগছে?\n৫টা AI প্রম্পট ট্রিক 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-13-01.png",
       "when": "2026-08-13T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**\"Write this caption in 3 different tones: funny, professional, emotional\"**\n**\"Turn this caption into a question that starts a conversation\"**\n**\"Rewrite this using a storytelling hook instead of a direct statement\"**\n**\"Give me 5 alternative first lines for this caption\"**\n**\"Make this caption sound like I'm talking to one friend, not a crowd\"**"
+      "status": "posted",
+      "first_comment": "**\"Write this caption in 3 different tones: funny, professional, emotional\"**\n**\"Turn this caption into a question that starts a conversation\"**\n**\"Rewrite this using a storytelling hook instead of a direct statement\"**\n**\"Give me 5 alternative first lines for this caption\"**\n**\"Make this caption sound like I'm talking to one friend, not a crowd\"**",
+      "result": {
+        "id": "1367566668857184",
+        "post_id": "102695371717364_1367566685523849",
+        "first_comment_id": "1367566685523849_1080933134428913"
+      },
+      "posted_at": "2026-08-13T02:40:38+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-13-04",
@@ -22168,7 +22179,13 @@
       "message": "Plain water alone sometimes isn't enough after a hard sweat. 💦\n\nSweat carries out sodium and potassium too — a pinch of salt or an electrolyte mix can help it stick. For a normal walk, water alone is usually plenty.\n\n💚 Bookmark this for your next workout.\n\n💬 Do you use electrolytes after workouts?",
       "video_path": "images/health_reels_cadence2/nc2_d3_1_electrolytes.mp4",
       "when": "2026-08-13T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1757534112096556",
+        "permalink": "/reel/1757534112096556/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-13T02:41:13+00:00"
     },
     {
       "id": "hd-cadence-nc6_d27_1_hydration_travel_altitude-fb",
@@ -23050,7 +23067,11 @@
       "message": "Plain water alone sometimes isn't enough after a hard sweat. 💦\n\nSweat carries out sodium and potassium too — a pinch of salt or an electrolyte mix can help it stick. For a normal walk, water alone is usually plenty.\n\n💚 Bookmark this for your next workout.\n\n💬 Do you use electrolytes after workouts?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d3_1_electrolytes.mp4",
       "when": "2026-08-13T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18030578330837138"
+      },
+      "posted_at": "2026-08-13T02:41:47+00:00"
     },
     {
       "id": "hd-cadence-nc2_d5_2_cold_vs_flu-fb",
