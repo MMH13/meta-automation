@@ -10492,7 +10492,12 @@
       "message": "😅 মাস শেষে সবাই একটু হিসাবি হয়ে যাই। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/03_7.png",
       "when": "2026-08-13T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1359881169595120",
+        "post_id": "1191612787659871_1359881196261784"
+      },
+      "posted_at": "2026-08-13T21:57:07+00:00"
     },
     {
       "id": "deshal-refill1-04-0",
@@ -18009,7 +18014,12 @@
       "message": "📱 Which line got you? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-13_21.png",
       "when": "2026-08-13T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1490641126420915",
+        "post_id": "2642505565823038_1490641136420914"
+      },
+      "posted_at": "2026-08-13T21:57:19+00:00"
     },
     {
       "id": "asu-refill1-2026-08-13-23",
