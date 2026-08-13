@@ -8960,7 +8960,12 @@
       "message": "🎟️ A room full of people gasping at once, or laughing together, changes what the film is. Comedy is measurably funnier in a full room. Horror is worse — in the best way.\n\nYou can't replicate that on a sofa, however good your TV is.\n\n👇 What's the best cinema experience you've ever had?\n\n🔁 Share this with someone you'd go with.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0813_23.png",
       "when": "2026-08-13T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201025248787954",
+        "post_id": "628257647029140_122201025266787954"
+      },
+      "posted_at": "2026-08-13T23:53:10+00:00"
     },
     {
       "id": "tmrs-0814-13",
@@ -18029,8 +18034,14 @@
       "message": "🕵️ One sentence flips the whole race. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-13_23.png",
       "when": "2026-08-13T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother now races the OTHER horse hard, which determines who loses."
+      "status": "posted",
+      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother now races the OTHER horse hard, which determines who loses.",
+      "result": {
+        "id": "1490699046415123",
+        "post_id": "2642505565823038_1490699059748455",
+        "first_comment_id": "1490699059748455_2226961704813719"
+      },
+      "posted_at": "2026-08-13T23:53:25+00:00"
     },
     {
       "id": "asu-refill1-2026-08-14-10",
