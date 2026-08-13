@@ -8930,7 +8930,12 @@
       "message": "🍿 Forty minutes of scrolling and you've picked nothing. It happens to everyone.\n\nScreenshot this. Every one of these is a guaranteed good evening, works for almost any audience, and doesn't demand anything of you.\n\n👇 What's your go-to when you can't decide?\n\n🔁 Save this for next Friday.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0813_15.png",
       "when": "2026-08-13T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122200930544787954",
+        "post_id": "628257647029140_122200930562787954"
+      },
+      "posted_at": "2026-08-13T15:09:06+00:00"
     },
     {
       "id": "tmrs-0813-19",
@@ -10452,7 +10457,12 @@
       "message": "😂 লোডশেডিং একটা কমিউনিটি ইভেন্ট বানিয়ে দেয়। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/03_5.png",
       "when": "2026-08-13T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1359636336286270",
+        "post_id": "1191612787659871_1359636362952934"
+      },
+      "posted_at": "2026-08-13T15:09:17+00:00"
     },
     {
       "id": "deshal-refill1-03-6",
@@ -12741,8 +12751,14 @@
       "message": "৬ ঘণ্টার এডিটিং কাজ এখন ৬ মিনিটে শেষ!\nVideo editing-এ AI কীভাবে ব্যবহার করবেন, ৩টা টুল ও পদ্ধতি 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/11.png",
       "when": "2026-08-13T15:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**CapCut AI** — অটো-সাবটাইটেল, অটো-বি-রোল সাজেশন, ব্যাকগ্রাউন্ড নয়েজ রিমুভাল একসাথে।\n**Descript** — টেক্সট এডিট করলেই ভিডিও এডিট হয়ে যায়, 'um/ah' অটো রিমুভ করে।\n**অটো-ক্যাপশন + অটো-কাট ওয়ার্কফ্লো** — লম্বা র‍কর্ডিং থেকে সবচেয়ে ভালো অংশগুলো AI দিয়ে খুঁজে বের করান, তারপর ম্যানুয়ালি ফাইনাল টাচ দিন।"
+      "status": "posted",
+      "first_comment": "**CapCut AI** — অটো-সাবটাইটেল, অটো-বি-রোল সাজেশন, ব্যাকগ্রাউন্ড নয়েজ রিমুভাল একসাথে।\n**Descript** — টেক্সট এডিট করলেই ভিডিও এডিট হয়ে যায়, 'um/ah' অটো রিমুভ করে।\n**অটো-ক্যাপশন + অটো-কাট ওয়ার্কফ্লো** — লম্বা র‍কর্ডিং থেকে সবচেয়ে ভালো অংশগুলো AI দিয়ে খুঁজে বের করান, তারপর ম্যানুয়ালি ফাইনাল টাচ দিন।",
+      "result": {
+        "id": "1368004095480108",
+        "post_id": "102695371717364_1368004118813439",
+        "first_comment_id": "1368004118813439_887497804118196"
+      },
+      "posted_at": "2026-08-13T15:09:31+00:00"
     },
     {
       "id": "mamun-shamim1-06-0",
