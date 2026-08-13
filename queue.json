@@ -10387,7 +10387,12 @@
       "message": "😂 বৃষ্টি দেখলেই এই এক চিন্তা সবার মাথায় আসে। রিলেট করলে ❤️ দিন\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/03_1.png",
       "when": "2026-08-13T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1359269419656295",
+        "post_id": "1191612787659871_1359269446322959"
+      },
+      "posted_at": "2026-08-13T05:01:10+00:00"
     },
     {
       "id": "deshal-refill1-03-2",
@@ -13506,8 +13511,14 @@
       "message": "ফ্রি স্টক ফটো ও ভিডিওর জন্য সেরা ৬টি ওয়েবসাইট 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-13-04.png",
       "when": "2026-08-13T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Pexels** — হাই-কোয়ালিটি ফ্রি ফটো ও ভিডিও, কমার্শিয়াল ব্যবহারের অনুমতি।\n**Pixabay** — বিশাল লাইব্রেরি, ফটো+ভিডিও+ইলাস্ট্রেশন।\n**Unsplash** — আর্টিস্টিক, হাই-রেজোলিউশন ফটোর জন্য।\n**Coverr** — শুধু ভিডিওর জন্য ডেডিকেটেড।\n**Mixkit** — ভিডিও+মিউজিক+সাউন্ড ইফেক্ট একসাথে।\n**Freepik (ফ্রি টিয়ার)** — ভেক্টর+ইলাস্ট্রেশনের জন্য ভালো।"
+      "status": "posted",
+      "first_comment": "**Pexels** — হাই-কোয়ালিটি ফ্রি ফটো ও ভিডিও, কমার্শিয়াল ব্যবহারের অনুমতি।\n**Pixabay** — বিশাল লাইব্রেরি, ফটো+ভিডিও+ইলাস্ট্রেশন।\n**Unsplash** — আর্টিস্টিক, হাই-রেজোলিউশন ফটোর জন্য।\n**Coverr** — শুধু ভিডিওর জন্য ডেডিকেটেড।\n**Mixkit** — ভিডিও+মিউজিক+সাউন্ড ইফেক্ট একসাথে।\n**Freepik (ফ্রি টিয়ার)** — ভেক্টর+ইলাস্ট্রেশনের জন্য ভালো।",
+      "result": {
+        "id": "1367638988849952",
+        "post_id": "102695371717364_1367639002183284",
+        "first_comment_id": "1367639002183284_3986779128282628"
+      },
+      "posted_at": "2026-08-13T05:01:25+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-13-10",
@@ -19901,7 +19912,13 @@
       "message": "Spreading protein across the day beats one big serving. 🍳\n\nYour body can only use so much at once — a little at breakfast, lunch, and dinner works better than stacking it all into one meal.\n\n💚 Bookmark this for meal planning.\n\n💬 What's your go-to protein source?",
       "video_path": "images/health_reels_cadence2/nc2_d3_2_protein_timing.mp4",
       "when": "2026-08-13T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1048873137526097",
+        "permalink": "/reel/1048873137526097/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-13T05:01:54+00:00"
     },
     {
       "id": "hd-cadence-nc1_d2_3_weight_bearing_bones-ig",
@@ -20285,7 +20302,11 @@
       "message": "Spreading protein across the day beats one big serving. 🍳\n\nYour body can only use so much at once — a little at breakfast, lunch, and dinner works better than stacking it all into one meal.\n\n💚 Bookmark this for meal planning.\n\n💬 What's your go-to protein source?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d3_2_protein_timing.mp4",
       "when": "2026-08-13T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18124699540705237"
+      },
+      "posted_at": "2026-08-13T05:03:19+00:00"
     },
     {
       "id": "hd-cadence-nc6_d30_4_movement_final_reminder-ig",
