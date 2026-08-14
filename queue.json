@@ -20645,7 +20645,11 @@
       "message": "Loud headphones can quietly damage your hearing over years. 🎧\n\nHearing loss from noise is usually permanent — a rough rule: if others can hear it, it's too loud. Try the 60/60 rule: 60% volume, 60 minutes max.\n\n💚 Bookmark this reminder.\n\n💬 How loud do you usually keep your headphones?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d4_6_hearing_protection.mp4",
       "when": "2026-08-14T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17869715433586911"
+      },
+      "posted_at": "2026-08-14T22:35:07+00:00"
     },
     {
       "id": "hd-cadence-nc3_d9_4_desk_microbreaks-fb",
@@ -22775,7 +22779,13 @@
       "message": "Loud headphones can quietly damage your hearing over years. 🎧\n\nHearing loss from noise is usually permanent — a rough rule: if others can hear it, it's too loud. Try the 60/60 rule: 60% volume, 60 minutes max.\n\n💚 Bookmark this reminder.\n\n💬 How loud do you usually keep your headphones?",
       "video_path": "images/health_reels_cadence2/nc2_d4_6_hearing_protection.mp4",
       "when": "2026-08-14T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1053802103673725",
+        "permalink": "/reel/1053802103673725/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-14T22:35:45+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_4_iron_fatigue-ig",
