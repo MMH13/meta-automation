@@ -10632,7 +10632,12 @@
       "message": "🙂 এই মিথ্যা সান্ত্বনা রোজ ছুটির দিনে দিই নিজেকে। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/04_7.png",
       "when": "2026-08-14T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1360690832847487",
+        "post_id": "1191612787659871_1360690862847484"
+      },
+      "posted_at": "2026-08-14T21:35:51+00:00"
     },
     {
       "id": "deshal-refill1-05-0",
@@ -18221,7 +18226,12 @@
       "message": "📱 Would you move out tonight? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-14_21.png",
       "when": "2026-08-14T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1491490786335949",
+        "post_id": "2642505565823038_1491490809669280"
+      },
+      "posted_at": "2026-08-14T21:36:03+00:00"
     },
     {
       "id": "asu-refill1-2026-08-14-23",
