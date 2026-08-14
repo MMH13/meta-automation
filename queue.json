@@ -9020,7 +9020,12 @@
       "message": "🌍 Roughly 50,000 films get made every year. You might watch 100. Even a devoted cinephile will miss almost everything.\n\nThe watchlist guilt is pointless. You're not falling behind — there is no behind. Watch what you're drawn to, and let the rest go.\n\n👇 How many films are on your watchlist right now? Honestly.\n\n🔁 Share this with someone whose list is out of control.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0814_23.png",
       "when": "2026-08-14T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201136626787954",
+        "post_id": "628257647029140_122201136644787954"
+      },
+      "posted_at": "2026-08-14T23:32:06+00:00"
     },
     {
       "id": "tmrs-0815-13",
@@ -18241,8 +18246,14 @@
       "message": "🕵️ Think temperature, not just light. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-14_23.png",
       "when": "2026-08-14T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "💡 ANSWER: Turn on switch 1, wait a few minutes, turn it off, turn on switch 2, then enter. Lit bulb = switch 2. Warm-but-off bulb = switch 1. Cold bulb = switch 3."
+      "status": "posted",
+      "first_comment": "💡 ANSWER: Turn on switch 1, wait a few minutes, turn it off, turn on switch 2, then enter. Lit bulb = switch 2. Warm-but-off bulb = switch 1. Cold bulb = switch 3.",
+      "result": {
+        "id": "1491545792997115",
+        "post_id": "2642505565823038_1491545819663779",
+        "first_comment_id": "1491545819663779_1006208145776270"
+      },
+      "posted_at": "2026-08-14T23:32:28+00:00"
     },
     {
       "id": "asu-refill1-2026-08-15-10",
