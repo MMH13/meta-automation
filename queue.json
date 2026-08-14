@@ -18180,7 +18180,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy dog won't stop staring at the empty chair across the room.\n\nWe don't have an empty chair.\n\n😳 React 😱 if that got you.",
       "when": "2026-08-14T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1491280916356936"
+      },
+      "posted_at": "2026-08-14T16:01:32+00:00"
     },
     {
       "id": "asu-refill1-2026-08-14-19",
@@ -22775,7 +22779,11 @@
       "message": "A cold shower blast can genuinely wake up your whole system. 🚿\n\nEven 30 seconds of cold water can boost alertness — you don't need an ice bath, just end your shower cold.\n\n💚 Bookmark this for tomorrow morning.\n\n💬 Would you try a cold shower finish?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d4_4_cold_exposure.mp4",
       "when": "2026-08-14T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18095311577376184"
+      },
+      "posted_at": "2026-08-14T16:02:11+00:00"
     },
     {
       "id": "hd-cadence-nc4_d17_1_pollen_allergies-fb",
@@ -23561,7 +23569,13 @@
       "message": "A cold shower blast can genuinely wake up your whole system. 🚿\n\nEven 30 seconds of cold water can boost alertness — you don't need an ice bath, just end your shower cold.\n\n💚 Bookmark this for tomorrow morning.\n\n💬 Would you try a cold shower finish?",
       "video_path": "images/health_reels_cadence2/nc2_d4_4_cold_exposure.mp4",
       "when": "2026-08-14T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1078461364710693",
+        "permalink": "/reel/1078461364710693/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-14T16:02:44+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_3_mindful_eating-fb",
