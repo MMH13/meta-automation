@@ -10527,7 +10527,12 @@
       "message": "😂 এইভাবেই কতজন মায়ের জন্মদিন মুখস্থ রাখে! কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/04_1.png",
       "when": "2026-08-14T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1360092506240653",
+        "post_id": "1191612787659871_1360092532907317"
+      },
+      "posted_at": "2026-08-14T04:57:27+00:00"
     },
     {
       "id": "deshal-refill1-04-2",
@@ -13646,8 +13651,14 @@
       "message": "নতুন স্কিল শিখতে চান কিন্তু সময় বের করতে পারছেন না?\nAI দিয়ে ফাস্ট-লার্নিং এর ৪টা পদ্ধতি 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-14-04.png",
       "when": "2026-08-14T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**AI কে বলুন টপিকটা ৫টা সহজ ধাপে ভেঙে দিতে** — পুরো কোর্স না, শুধু দরকারি অংশটুকু শিখুন।\n**শেখার সাথে সাথে AI কে প্রশ্ন করুন** — বোঝা না বোঝা সাথে সাথে ক্লিয়ার করে নিন।\n**২০ মিনিটের ছোট সেশনে ভাগ করুন** — বড় ব্লক টাইমের অপেক্ষায় থাকলে শুরুই হবে না।\n**AI দিয়ে নিজেকে কুইজ করান** — শেখাটা আসলে মনে থাকছে কিনা যাচাই করুন।"
+      "status": "posted",
+      "first_comment": "**AI কে বলুন টপিকটা ৫টা সহজ ধাপে ভেঙে দিতে** — পুরো কোর্স না, শুধু দরকারি অংশটুকু শিখুন।\n**শেখার সাথে সাথে AI কে প্রশ্ন করুন** — বোঝা না বোঝা সাথে সাথে ক্লিয়ার করে নিন।\n**২০ মিনিটের ছোট সেশনে ভাগ করুন** — বড় ব্লক টাইমের অপেক্ষায় থাকলে শুরুই হবে না।\n**AI দিয়ে নিজেকে কুইজ করান** — শেখাটা আসলে মনে থাকছে কিনা যাচাই করুন।",
+      "result": {
+        "id": "1368477012099483",
+        "post_id": "102695371717364_1368477025432815",
+        "first_comment_id": "1368477025432815_1757153815623034"
+      },
+      "posted_at": "2026-08-14T04:57:44+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-14-10",
@@ -20666,7 +20677,11 @@
       "message": "Fiber does more than just keep you regular. 🥦\n\nIt slows digestion, keeping you fuller for longer — most adults fall short of the daily target. Beans, oats, fruit with the skin on, and vegetables all count.\n\n💚 Bookmark this reminder.\n\n💬 What's your favorite high-fiber food?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d4_2_fiber_fullness.mp4",
       "when": "2026-08-14T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18456249277142557"
+      },
+      "posted_at": "2026-08-14T04:58:27+00:00"
     },
     {
       "id": "hd-cadence-nc1_d1_6_sunscreen_daily-fb",
@@ -22886,7 +22901,13 @@
       "message": "Fiber does more than just keep you regular. 🥦\n\nIt slows digestion, keeping you fuller for longer — most adults fall short of the daily target. Beans, oats, fruit with the skin on, and vegetables all count.\n\n💚 Bookmark this reminder.\n\n💬 What's your favorite high-fiber food?",
       "video_path": "images/health_reels_cadence2/nc2_d4_2_fiber_fullness.mp4",
       "when": "2026-08-14T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2281947915779022",
+        "permalink": "/reel/2281947915779022/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-14T04:59:02+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_1_gratitude_mental-fb",
