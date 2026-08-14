@@ -9005,7 +9005,12 @@
       "message": "💬 Not explosions. Not chases. Conversations.\n\nThe Heat diner scene. The Pulp Fiction breakfast. The Good Will Hunting bench. Before Sunrise, which is nothing but talking.\n\nSpectacle gets you into the cinema. Dialogue is what people replay for twenty years.\n\n👇 What's the best two-hander conversation scene in film?\n\n🔁 Share this with someone who values a good script.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0814_19.png",
       "when": "2026-08-14T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201116178787954",
+        "post_id": "628257647029140_122201116196787954"
+      },
+      "posted_at": "2026-08-14T19:08:07+00:00"
     },
     {
       "id": "tmrs-0814-23",
@@ -18199,8 +18204,14 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-08-14_19.png",
       "when": "2026-08-14T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🩸 ANSWER: Row 2."
+      "status": "posted",
+      "first_comment": "🩸 ANSWER: Row 2.",
+      "result": {
+        "id": "1491409829677378",
+        "post_id": "2642505565823038_1491409846344043",
+        "first_comment_id": "1491409846344043_4573629126294276"
+      },
+      "posted_at": "2026-08-14T19:08:23+00:00"
     },
     {
       "id": "asu-refill1-2026-08-14-21",
@@ -20500,7 +20511,11 @@
       "message": "A few slow stretches before bed can ease you into sleep. 🧘\n\nIt signals your nervous system to downshift — neck rolls, forward folds, and deep breaths work well, and five minutes is genuinely enough.\n\n💚 Bookmark this for tonight.\n\n💬 Do you stretch before bed?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d4_5_bedtime_stretch.mp4",
       "when": "2026-08-14T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18135686893716265"
+      },
+      "posted_at": "2026-08-14T19:10:03+00:00"
     },
     {
       "id": "hd-cadence-nc3_d12_2_cooking_oil_smoke_point-ig",
@@ -21956,7 +21971,13 @@
       "message": "A few slow stretches before bed can ease you into sleep. 🧘\n\nIt signals your nervous system to downshift — neck rolls, forward folds, and deep breaths work well, and five minutes is genuinely enough.\n\n💚 Bookmark this for tonight.\n\n💬 Do you stretch before bed?",
       "video_path": "images/health_reels_cadence2/nc2_d4_5_bedtime_stretch.mp4",
       "when": "2026-08-14T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1756552638701482",
+        "permalink": "/reel/1756552638701482/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-14T19:10:45+00:00"
     },
     {
       "id": "hd-cadence-nc5_d20_5_hobbies_mental_health-ig",
