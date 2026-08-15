@@ -13820,8 +13820,14 @@
       "message": "ইনভয়েস আর পেমেন্ট ট্র্যাক করতে করতে হিসাব গুলিয়ে ফেলছেন?\n৩টা ফ্রি টুল যা কাজ সহজ করবে 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-15-10.png",
       "when": "2026-08-15T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Wave Accounting** — ফ্রি ইনভয়েসিং + বেসিক অ্যাকাউন্টিং একসাথে।\n**Google Sheets + টেমপ্লেট** — সিম্পল ট্র্যাকিং এর জন্য যথেষ্ট, কাস্টমাইজও সহজ।\n**PayPal/bKash এর নিজস্ব ট্রানজেকশন হিস্টোরি এক্সপোর্ট** — মাস শেষে রিকনসাইল করা সহজ হয়।"
+      "status": "posted",
+      "first_comment": "**Wave Accounting** — ফ্রি ইনভয়েসিং + বেসিক অ্যাকাউন্টিং একসাথে।\n**Google Sheets + টেমপ্লেট** — সিম্পল ট্র্যাকিং এর জন্য যথেষ্ট, কাস্টমাইজও সহজ।\n**PayPal/bKash এর নিজস্ব ট্রানজেকশন হিস্টোরি এক্সপোর্ট** — মাস শেষে রিকনসাইল করা সহজ হয়।",
+      "result": {
+        "id": "1369562281990956",
+        "post_id": "102695371717364_1369562305324287",
+        "first_comment_id": "1369562305324287_1508521437698305"
+      },
+      "posted_at": "2026-08-15T10:34:23+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-15-13",
@@ -18309,8 +18315,14 @@
       "message": "🧠 Simple once you see it. Answer 👇",
       "image_url": "images/suspense_refill1/2026-08-15_10.png",
       "when": "2026-08-15T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⏳ ANSWER: The future."
+      "status": "posted",
+      "first_comment": "⏳ ANSWER: The future.",
+      "result": {
+        "id": "1491983709619990",
+        "post_id": "2642505565823038_1491983726286655",
+        "first_comment_id": "1491983726286655_2076789013713132"
+      },
+      "posted_at": "2026-08-15T10:34:40+00:00"
     },
     {
       "id": "asu-refill1-2026-08-15-13",
@@ -20568,7 +20580,11 @@
       "message": "That energy crash an hour after eating? It might be a sugar spike. 🍞\n\nRefined carbs alone spike blood sugar fast, then it drops just as fast. Pairing carbs with protein or fat slows that spike down.\n\n💚 Bookmark this for your next meal.\n\n💬 Do you get an afternoon energy crash?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d5_3_blood_sugar_spikes.mp4",
       "when": "2026-08-15T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18106944776602410"
+      },
+      "posted_at": "2026-08-15T10:35:24+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_5_bedtime_stretch-ig",
@@ -22752,7 +22768,13 @@
       "message": "That energy crash an hour after eating? It might be a sugar spike. 🍞\n\nRefined carbs alone spike blood sugar fast, then it drops just as fast. Pairing carbs with protein or fat slows that spike down.\n\n💚 Bookmark this for your next meal.\n\n💬 Do you get an afternoon energy crash?",
       "video_path": "images/health_reels_cadence2/nc2_d5_3_blood_sugar_spikes.mp4",
       "when": "2026-08-15T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1377842417254269",
+        "permalink": "/reel/1377842417254269/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-15T10:36:08+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_1_probiotics_basics-ig",
