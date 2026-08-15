@@ -12897,8 +12897,14 @@
       "message": "প্রতিদিনের ইমেইল লেখার সময় বাঁচাতে\nএই ৫টা প্রম্পট ChatGPT-তে সেভ করে রাখুন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/14.png",
       "when": "2026-08-15T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**\"Turn these bullet points into a professional email, [tone: friendly/formal]\"**\n**\"Shorten this email to 3 sentences without losing the main point\"**\n**\"Write a polite follow-up for an email I sent 3 days ago with no reply\"**\n**\"Rewrite this email to sound more confident, remove unnecessary apologies\"**\n**\"Draft a decline email for this request, keep the relationship positive\"**"
+      "status": "posted",
+      "first_comment": "**\"Turn these bullet points into a professional email, [tone: friendly/formal]\"**\n**\"Shorten this email to 3 sentences without losing the main point\"**\n**\"Write a polite follow-up for an email I sent 3 days ago with no reply\"**\n**\"Rewrite this email to sound more confident, remove unnecessary apologies\"**\n**\"Draft a decline email for this request, keep the relationship positive\"**",
+      "result": {
+        "id": "1369454648668386",
+        "post_id": "102695371717364_1369454738668377",
+        "first_comment_id": "1369454738668377_1365769455531696"
+      },
+      "posted_at": "2026-08-15T07:38:37+00:00"
     },
     {
       "id": "mamun-shamim1-07-1",
@@ -15688,7 +15694,12 @@
       "message": "🚿 A short burst of cold water can spike alertness faster than a cup of coffee — no caffeine crash afterward either.\n\n→ Even 20-30 seconds at the end of a shower counts\n→ It's a genuine nervous-system reset\n→ Great for an afternoon slump without more caffeine\n\n💚 Bookmark this. You'll need it later.\n💬 Could you handle a cold shower finish? 👇",
       "image_url": "images/health_refill1/07_2.png",
       "when": "2026-08-15T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1721398899875608",
+        "post_id": "152206688762695_1721398919875606"
+      },
+      "posted_at": "2026-08-15T07:38:51+00:00"
     },
     {
       "id": "hd-refill1-07-2-ig",
@@ -15698,7 +15709,12 @@
       "message": "🚿 A short burst of cold water can spike alertness faster than a cup of coffee — no caffeine crash afterward either.\n\n→ Even 20-30 seconds at the end of a shower counts\n→ It's a genuine nervous-system reset\n→ Great for an afternoon slump without more caffeine\n\n💚 Bookmark this. You'll need it later.\n💬 Could you handle a cold shower finish? 👇",
       "image_url": "images/health_refill1/07_2.png",
       "when": "2026-08-15T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17944456665267763",
+        "permalink": "https://www.instagram.com/p/DcDXwVvH4KA/"
+      },
+      "posted_at": "2026-08-15T07:39:13+00:00"
     },
     {
       "id": "hd-refill1-07-4-fb",
