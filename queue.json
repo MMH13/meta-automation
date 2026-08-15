@@ -9080,7 +9080,12 @@
       "message": "🗳️ End of two weeks. Everything on this page from here is shaped by what you ask for.\n\nSo pick:\n\n→ A specific film reviewed properly (name it)\n→ A deep dive on one director or actor\n→ More quizzes, riddles and puzzles\n→ Underrated films nobody talks about\n→ Something else entirely\n\n👇 Comment what you want next. Top answers get built.\n\n🔁 Share this if you want the page to keep going.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0815_23.png",
       "when": "2026-08-15T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201248010787954",
+        "post_id": "628257647029140_122201248028787954"
+      },
+      "posted_at": "2026-08-15T23:29:57+00:00"
     },
     {
       "id": "hdw1-2026073111-fb",
@@ -18449,8 +18454,14 @@
       "message": "🕵️ Split into groups first. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-15_23.png",
       "when": "2026-08-15T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "⚖️ ANSWER: Split 3/3/2. Weigh the two 3s — if balanced, weigh the remaining 2. If unbalanced, take the heavier 3, weigh 2 of them — heavier wins, or the third is heavier if those balance."
+      "status": "posted",
+      "first_comment": "⚖️ ANSWER: Split 3/3/2. Weigh the two 3s — if balanced, weigh the remaining 2. If unbalanced, take the heavier 3, weigh 2 of them — heavier wins, or the third is heavier if those balance.",
+      "result": {
+        "id": "1492488946236133",
+        "post_id": "2642505565823038_1492488959569465",
+        "first_comment_id": "1492488959569465_1431695078817521"
+      },
+      "posted_at": "2026-08-15T23:30:16+00:00"
     },
     {
       "id": "asu-refill1-2026-08-16-10",
