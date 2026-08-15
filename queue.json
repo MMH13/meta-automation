@@ -18388,7 +18388,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI got a text from my mother today.\n\nShe passed away three years ago.\n\n😳 Tag someone who'd call the number back.",
       "when": "2026-08-15T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1492239686261059"
+      },
+      "posted_at": "2026-08-15T16:36:39+00:00"
     },
     {
       "id": "asu-refill1-2026-08-15-19",
@@ -20226,7 +20230,11 @@
       "message": "You don't need a whole Sunday to meal prep well. 🍱\n\nStart with just one component — cook a big batch of grains, then add fresh protein and veggies day-of for variety.\n\n💚 Bookmark this for your next grocery trip.\n\n💬 Do you meal prep at all?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d5_4_meal_prep_basics.mp4",
       "when": "2026-08-15T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18071396978448314"
+      },
+      "posted_at": "2026-08-15T16:37:19+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_3_weekend_catchup_myth-fb",
@@ -20590,7 +20598,13 @@
       "message": "You don't need a whole Sunday to meal prep well. 🍱\n\nStart with just one component — cook a big batch of grains, then add fresh protein and veggies day-of for variety.\n\n💚 Bookmark this for your next grocery trip.\n\n💬 Do you meal prep at all?",
       "video_path": "images/health_reels_cadence2/nc2_d5_4_meal_prep_basics.mp4",
       "when": "2026-08-15T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1036455186025617",
+        "permalink": "/reel/1036455186025617/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-15T16:38:06+00:00"
     },
     {
       "id": "hd-cadence-nc2_d3_4_blue_light_night-fb",
