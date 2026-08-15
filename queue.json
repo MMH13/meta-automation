@@ -13790,7 +13790,11 @@
       "type": "text",
       "message": "Freelancing মার্কেটে যারা শুধু 'বেসিক টাস্ক' করেন তাদের রেট কমছে, যারা AI-কে টুল হিসেবে ব্যবহার করে বেশি ভ্যালু দিচ্ছেন তাদের রেট বাড়ছে।",
       "when": "2026-08-15T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "102695371717364_1369343012012883"
+      },
+      "posted_at": "2026-08-15T04:41:38+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-15-10",
@@ -23418,7 +23422,11 @@
       "message": "A cold and the flu aren't the same thing, and feel different too. 🤧\n\nColds build slowly: sniffles, sore throat, mild fatigue. Flu tends to hit suddenly: fever, body aches, exhaustion.\n\n💚 Bookmark this for cold season.\n\n💬 How do you usually tell the two apart?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d5_2_cold_vs_flu.mp4",
       "when": "2026-08-15T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18108364385029197"
+      },
+      "posted_at": "2026-08-15T04:42:18+00:00"
     },
     {
       "id": "hd-cadence-nc6_d26_3_cardio_strength_balance-ig",
@@ -23492,7 +23500,13 @@
       "message": "A cold and the flu aren't the same thing, and feel different too. 🤧\n\nColds build slowly: sniffles, sore throat, mild fatigue. Flu tends to hit suddenly: fever, body aches, exhaustion.\n\n💚 Bookmark this for cold season.\n\n💬 How do you usually tell the two apart?",
       "video_path": "images/health_reels_cadence2/nc2_d5_2_cold_vs_flu.mp4",
       "when": "2026-08-15T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1684989772585302",
+        "permalink": "/reel/1684989772585302/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-15T04:42:49+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_4_hydrating_foods-fb",
