@@ -9065,7 +9065,12 @@
       "message": "🎯 \"They just didn't know how to end it\" is usually wrong. Leaving a question open is a deliberate, difficult choice — and much harder to land than a tidy resolution.\n\nAn answered film is over. An open one keeps running in your head for years.\n\n👇 Which ambiguous ending do you think about most?\n\n🔁 Share this with someone who hates open endings.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_aug/0815_19.png",
       "when": "2026-08-15T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201228918787954",
+        "post_id": "628257647029140_122201228936787954"
+      },
+      "posted_at": "2026-08-15T19:30:02+00:00"
     },
     {
       "id": "tmrs-0815-23",
@@ -18407,8 +18412,14 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-08-15_19.png",
       "when": "2026-08-15T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🐦‍⬛ ANSWER: Row 3."
+      "status": "posted",
+      "first_comment": "🐦‍⬛ ANSWER: Row 3.",
+      "result": {
+        "id": "1492363416248686",
+        "post_id": "2642505565823038_1492363432915351",
+        "first_comment_id": "1492363432915351_1040967685228740"
+      },
+      "posted_at": "2026-08-15T19:30:20+00:00"
     },
     {
       "id": "asu-refill1-2026-08-15-21",
@@ -21979,7 +21990,13 @@
       "message": "A consistent bedtime matters almost as much as total sleep hours. 🕒\n\nYour body runs on an internal clock — irregular sleep confuses it. Even keeping weekends within an hour of your usual time helps.\n\n💚 Bookmark this reminder.\n\n💬 Is your bedtime consistent day to day?",
       "video_path": "images/health_reels_cadence2/nc2_d5_5_same_bedtime.mp4",
       "when": "2026-08-15T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2272065773608608",
+        "permalink": "/reel/2272065773608608/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-15T19:31:00+00:00"
     },
     {
       "id": "hd-cadence-nc6_d27_2_desk_snack_mindless-ig",
@@ -22375,7 +22392,11 @@
       "message": "A consistent bedtime matters almost as much as total sleep hours. 🕒\n\nYour body runs on an internal clock — irregular sleep confuses it. Even keeping weekends within an hour of your usual time helps.\n\n💚 Bookmark this reminder.\n\n💬 Is your bedtime consistent day to day?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d5_5_same_bedtime.mp4",
       "when": "2026-08-15T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18000020396794218"
+      },
+      "posted_at": "2026-08-15T19:31:42+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_2_desk_hydration_reminder-fb",
