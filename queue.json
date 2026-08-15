@@ -10772,7 +10772,12 @@
       "message": "😅 এই প্রশ্ন থেকে বাঁচার কোনো উপায় নাই। কে কে ভুক্তভোগী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/05_7.png",
       "when": "2026-08-15T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1361582916091612",
+        "post_id": "1191612787659871_1361582936091610"
+      },
+      "posted_at": "2026-08-15T21:30:55+00:00"
     },
     {
       "id": "deshal-refill1-06-0",
@@ -18429,7 +18434,12 @@
       "message": "📱 Would you open the door? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-15_21.png",
       "when": "2026-08-15T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1492431166241911",
+        "post_id": "2642505565823038_1492431186241909"
+      },
+      "posted_at": "2026-08-15T21:31:09+00:00"
     },
     {
       "id": "asu-refill1-2026-08-15-23",
