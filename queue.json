@@ -16816,7 +16816,12 @@
       "message": "🧩 This one's got more than one right answer. Name any of them.\n\n👇 Comment your pick.\n\n🔁 Share this with a comic-book fan.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-16_19.png",
       "when": "2026-08-16T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201346920787954",
+        "post_id": "628257647029140_122201346938787954"
+      },
+      "posted_at": "2026-08-16T19:29:22+00:00"
     },
     {
       "id": "tmrr1-2026-08-16-23",
@@ -18619,8 +18624,14 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-08-16_19.png",
       "when": "2026-08-16T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🖤 ANSWER: Row 2."
+      "status": "posted",
+      "first_comment": "🖤 ANSWER: Row 2.",
+      "result": {
+        "id": "1493302576154770",
+        "post_id": "2642505565823038_1493302592821435",
+        "first_comment_id": "1493302592821435_1544430230031160"
+      },
+      "posted_at": "2026-08-16T19:29:39+00:00"
     },
     {
       "id": "asu-refill1-2026-08-16-21",
@@ -21182,7 +21193,13 @@
       "message": "Most people get plenty of omega-6 but not enough omega-3. 🐟\n\nThat balance matters for inflammation and heart health — fatty fish, walnuts, and flaxseed are strong sources.\n\n💚 Bookmark this for your next grocery trip.\n\n💬 How often do you eat fatty fish?",
       "video_path": "images/health_reels_cadence2/nc2_d6_5_omega3_basics.mp4",
       "when": "2026-08-16T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1090600376633935",
+        "permalink": "/reel/1090600376633935/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-16T19:30:14+00:00"
     },
     {
       "id": "hd-cadence-nc1_d1_1_gut_nervous_system-ig",
@@ -22996,7 +23013,11 @@
       "message": "Most people get plenty of omega-6 but not enough omega-3. 🐟\n\nThat balance matters for inflammation and heart health — fatty fish, walnuts, and flaxseed are strong sources.\n\n💚 Bookmark this for your next grocery trip.\n\n💬 How often do you eat fatty fish?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d6_5_omega3_basics.mp4",
       "when": "2026-08-16T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17939395257341091"
+      },
+      "posted_at": "2026-08-16T19:30:57+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_6_portion_awareness-fb",
