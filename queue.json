@@ -18600,7 +18600,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nThe nightlight in my daughter's room turns off every night at exactly 3 AM.\n\nWe don't have a timer on it.\n\n😳 React 😱 if that got you.",
       "when": "2026-08-16T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1493172336167794"
+      },
+      "posted_at": "2026-08-16T16:37:14+00:00"
     },
     {
       "id": "asu-refill1-2026-08-16-19",
@@ -21825,7 +21829,13 @@
       "message": "Constant tiredness isn't always about sleep. 🩸\n\nLow iron is a common, often-missed cause — more common in women than people expect. A simple blood test can check it.\n\n💚 Bookmark this reminder.\n\n💬 Have you ever had your iron levels checked?",
       "video_path": "images/health_reels_cadence2/nc2_d6_4_iron_fatigue.mp4",
       "when": "2026-08-16T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2013155352669678",
+        "permalink": "/reel/2013155352669678/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-16T16:37:44+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_2_stress_digestion-fb",
@@ -23127,7 +23137,11 @@
       "message": "Constant tiredness isn't always about sleep. 🩸\n\nLow iron is a common, often-missed cause — more common in women than people expect. A simple blood test can check it.\n\n💚 Bookmark this reminder.\n\n💬 Have you ever had your iron levels checked?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d6_4_iron_fatigue.mp4",
       "when": "2026-08-16T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18124575886691956"
+      },
+      "posted_at": "2026-08-16T16:38:25+00:00"
     },
     {
       "id": "hd-cadence-nc5_d18_5_posture_phone_calls-ig",
