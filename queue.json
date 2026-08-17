@@ -10897,7 +10897,12 @@
       "message": "🙂 অফিসে এই যুদ্ধ রোজ করতে হয়। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/06_7.png",
       "when": "2026-08-16T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1362782012638369",
+        "post_id": "1191612787659871_1362782035971700"
+      },
+      "posted_at": "2026-08-17T08:37:08+00:00"
     },
     {
       "id": "deshal-refill1-07-0",
@@ -10907,7 +10912,12 @@
       "message": "😂 অনলাইন শপিং মানেই এক ধরনের \"লটারি\"। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/07_0.png",
       "when": "2026-08-17T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1362782232638347",
+        "post_id": "1191612787659871_1362782315971672"
+      },
+      "posted_at": "2026-08-17T08:37:20+00:00"
     },
     {
       "id": "deshal-refill1-07-1",
@@ -10917,7 +10927,12 @@
       "message": "🥹 এই একটা প্রশ্নেই মায়ের সব ভালোবাসা বোঝা যায়। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/07_1.png",
       "when": "2026-08-17T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1362782479304989",
+        "post_id": "1191612787659871_1362782562638314"
+      },
+      "posted_at": "2026-08-17T08:37:32+00:00"
     },
     {
       "id": "deshal-refill1-07-2",
@@ -10927,7 +10942,12 @@
       "message": "😂 এই জেনারেশন গ্যাপ প্রতিটা পরিবারেই আছে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/07_2.png",
       "when": "2026-08-17T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1362782739304963",
+        "post_id": "1191612787659871_1362782769304960"
+      },
+      "posted_at": "2026-08-17T08:37:44+00:00"
     },
     {
       "id": "deshal-refill1-07-3",
@@ -13041,8 +13061,14 @@
       "message": "মার্কেট রিসার্চের জন্য সপ্তাহখানেক সময় লাগানোর দিন শেষ।\nAI দিয়ে ২ ঘণ্টায় সম্পূর্ণ কম্পিটিটর অ্যানালাইসিস করার পদ্ধতি 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim1/18.png",
       "when": "2026-08-17T07:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: Perplexity দিয়ে রিসার্চ** — কম্পিটিটরদের নাম দিয়ে সোর্স-সহ তথ্য জোগাড় করুন।\n**ধাপ ২: ChatGPT দিয়ে SWOT** — জোগাড় করা তথ্য পেস্ট করে প্রতিটা কম্পিটিটরের Strength/Weakness বের করান।\n**ধাপ ৩: Notion এ কম্পাইল** — সব একটা টেবিলে সাজিয়ে টিমের সাথে শেয়ার করুন।"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: Perplexity দিয়ে রিসার্চ** — কম্পিটিটরদের নাম দিয়ে সোর্স-সহ তথ্য জোগাড় করুন।\n**ধাপ ২: ChatGPT দিয়ে SWOT** — জোগাড় করা তথ্য পেস্ট করে প্রতিটা কম্পিটিটরের Strength/Weakness বের করান।\n**ধাপ ৩: Notion এ কম্পাইল** — সব একটা টেবিলে সাজিয়ে টিমের সাথে শেয়ার করুন।",
+      "result": {
+        "id": "1371191235161394",
+        "post_id": "102695371717364_1371191251828059",
+        "first_comment_id": "1371191251828059_1525316665574301"
+      },
+      "posted_at": "2026-08-17T08:38:01+00:00"
     },
     {
       "id": "mamun-shamim1-09-1",
@@ -14013,8 +14039,14 @@
       "message": "আপনার সেভ করা পাসওয়ার্ড ব্রাউজারে যেভাবে পড়ে থাকে,\nযে কেউ ২ মিনিটে দেখে ফেলতে পারে! কীভাবে সেফ রাখবেন 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-17-01.png",
       "when": "2026-08-17T01:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**Browser Saved Passwords চেক করুন** — Settings → Passwords এ গিয়ে দেখুন কী কী সেভ আছে।\n**Master Password/Lock সেট করুন** — বেশিরভাগ ব্রাউজার এই অপশন দেয়, কিন্তু ডিফল্টে অফ থাকে।\n**পাবলিক/শেয়ার্ড কম্পিউটারে কখনো 'Save Password' চাপবেন না।**\n**একটা প্রপার Password Manager ব্যবহার করুন** — ব্রাউজারের বদলে আলাদা অ্যাপে সেভ করুন।"
+      "status": "posted",
+      "first_comment": "**Browser Saved Passwords চেক করুন** — Settings → Passwords এ গিয়ে দেখুন কী কী সেভ আছে।\n**Master Password/Lock সেট করুন** — বেশিরভাগ ব্রাউজার এই অপশন দেয়, কিন্তু ডিফল্টে অফ থাকে।\n**পাবলিক/শেয়ার্ড কম্পিউটারে কখনো 'Save Password' চাপবেন না।**\n**একটা প্রপার Password Manager ব্যবহার করুন** — ব্রাউজারের বদলে আলাদা অ্যাপে সেভ করুন।",
+      "result": {
+        "id": "1371191391828045",
+        "post_id": "102695371717364_1371191405161377",
+        "first_comment_id": "1371191405161377_1005519412530217"
+      },
+      "posted_at": "2026-08-17T08:38:15+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-17-04",
@@ -14024,8 +14056,14 @@
       "message": "গ্রাফিক ডিজাইনার হায়ার করে সপ্তাহ অপেক্ষা করার দিন শেষ।\nAI দিয়ে ১০ মিনিটে সোশ্যাল মিডিয়া কিট বানান 👇\n\n👉 এমন আরও AI টিপস পেতে ফলো করুন Mamun Hossain",
       "image_url": "images/mamun_shamim_scale1/mamun-scale1-2026-08-17-04.png",
       "when": "2026-08-17T04:00:00+00:00",
-      "status": "pending",
-      "first_comment": "**ধাপ ১: Canva Magic Design এ ব্র্যান্ড কালার+লোগো আপলোড করুন।**\n**ধাপ ২: টেমপ্লেট সিলেক্ট করে টেক্সট বসান।**\n**ধাপ ৩: এক ক্লিকে সব সাইজে (পোস্ট/স্টোরি/কভার) রিসাইজ করে ডাউনলোড করুন।**"
+      "status": "posted",
+      "first_comment": "**ধাপ ১: Canva Magic Design এ ব্র্যান্ড কালার+লোগো আপলোড করুন।**\n**ধাপ ২: টেমপ্লেট সিলেক্ট করে টেক্সট বসান।**\n**ধাপ ৩: এক ক্লিকে সব সাইজে (পোস্ট/স্টোরি/কভার) রিসাইজ করে ডাউনলোড করুন।**",
+      "result": {
+        "id": "1371191558494695",
+        "post_id": "102695371717364_1371191571828027",
+        "first_comment_id": "1371191571828027_1774531910554708"
+      },
+      "posted_at": "2026-08-17T08:38:28+00:00"
     },
     {
       "id": "mamun-scale1-2026-08-17-10",
@@ -15946,7 +15984,12 @@
       "message": "🦠 Your gut has almost 500 million neurons of its own — enough that scientists call it the 'second brain.' It's a real part of why stress and digestion are so connected.\n\n→ This is the gut-brain connection in action\n→ Fiber and fermented foods support this system\n→ Stress genuinely shows up in your stomach first for many people\n\n💚 Bookmark this. You'll need it later.\n💬 Does stress hit your stomach first for you? 👇",
       "image_url": "images/health_refill1/09_2.png",
       "when": "2026-08-17T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1723406899674808",
+        "post_id": "152206688762695_1723406933008138"
+      },
+      "posted_at": "2026-08-17T08:38:45+00:00"
     },
     {
       "id": "hd-refill1-09-2-ig",
@@ -15956,7 +15999,12 @@
       "message": "🦠 Your gut has almost 500 million neurons of its own — enough that scientists call it the 'second brain.' It's a real part of why stress and digestion are so connected.\n\n→ This is the gut-brain connection in action\n→ Fiber and fermented foods support this system\n→ Stress genuinely shows up in your stomach first for many people\n\n💚 Bookmark this. You'll need it later.\n💬 Does stress hit your stomach first for you? 👇",
       "image_url": "images/health_refill1/09_2.png",
       "when": "2026-08-17T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18017875376740641",
+        "permalink": "https://www.instagram.com/p/DcIoM9mIKn1/"
+      },
+      "posted_at": "2026-08-17T08:39:07+00:00"
     },
     {
       "id": "hd-refill1-09-4-fb",
@@ -16831,7 +16879,12 @@
       "message": "🎬 One of the most quoted lines in modern film history. Everyone knows it.\n\n👇 Comment the full line.\n\n🔁 Share this with a Spider-Man fan.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-16_23.png",
       "when": "2026-08-16T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201417366787954",
+        "post_id": "628257647029140_122201417384787954"
+      },
+      "posted_at": "2026-08-17T08:39:20+00:00"
     },
     {
       "id": "tmrr1-2026-08-17-13",
@@ -18641,7 +18694,12 @@
       "message": "📱 Which line got you? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-16_21.png",
       "when": "2026-08-16T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1493735176111510",
+        "post_id": "2642505565823038_1493735189444842"
+      },
+      "posted_at": "2026-08-17T08:39:32+00:00"
     },
     {
       "id": "asu-refill1-2026-08-16-23",
@@ -18651,8 +18709,14 @@
       "message": "🕵️ Think spelling, not math. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-16_23.png",
       "when": "2026-08-16T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🔢 ANSWER: Seven — remove the 's' and it becomes 'even'."
+      "status": "posted",
+      "first_comment": "🔢 ANSWER: Seven — remove the 's' and it becomes 'even'.",
+      "result": {
+        "id": "1493735349444826",
+        "post_id": "2642505565823038_1493735359444825",
+        "first_comment_id": "1493735359444825_1710934323353139"
+      },
+      "posted_at": "2026-08-17T08:39:48+00:00"
     },
     {
       "id": "asu-refill1-2026-08-17-10",
@@ -21223,7 +21287,13 @@
       "message": "Your bedroom temperature could be ruining your sleep. 🌡️\n\nA slightly cool room (around 65-68°F) helps your body drop into deep sleep — dark and quiet matter just as much.\n\n💚 Bookmark this for tonight.\n\n💬 Is your bedroom on the cooler side?",
       "video_path": "images/health_reels_cadence2/nc2_d7_1_sleep_environment.mp4",
       "when": "2026-08-17T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1243374287881884",
+        "permalink": "/reel/1243374287881884/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T08:40:24+00:00"
     },
     {
       "id": "hd-cadence-nc3_d10_2_nail_health_signal-ig",
@@ -21867,7 +21937,13 @@
       "message": "Eating while stressed changes how well you actually digest. 😮‍💨\n\nStress redirects blood flow away from digestion — it's part of why a tense meal can feel heavy. A few calm breaths before eating can genuinely help.\n\n💚 Bookmark this for your next meal.\n\n💬 Do you eat while stressed often?",
       "video_path": "images/health_reels_cadence2/nc2_d7_2_stress_digestion.mp4",
       "when": "2026-08-17T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1436015138578913",
+        "permalink": "/reel/1436015138578913/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T08:40:55+00:00"
     },
     {
       "id": "hd-cadence-nc5_d20_4_food_variety_kids-ig",
@@ -22067,7 +22143,11 @@
       "message": "Eating while stressed changes how well you actually digest. 😮‍💨\n\nStress redirects blood flow away from digestion — it's part of why a tense meal can feel heavy. A few calm breaths before eating can genuinely help.\n\n💚 Bookmark this for your next meal.\n\n💬 Do you eat while stressed often?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d7_2_stress_digestion.mp4",
       "when": "2026-08-17T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18619927999049296"
+      },
+      "posted_at": "2026-08-17T08:41:32+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_1_gratitude_mental-ig",
@@ -23003,7 +23083,13 @@
       "message": "A short walk right after eating does more than you'd think. 🚶\n\nEven 10 minutes helps your body process blood sugar better, and eases that heavy, sluggish after-meal feeling.\n\n💚 Bookmark this for after dinner.\n\n💬 Do you walk after meals?",
       "video_path": "images/health_reels_cadence2/nc2_d6_6_walk_after_meals.mp4",
       "when": "2026-08-16T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1019960774343924",
+        "permalink": "/reel/1019960774343924/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T08:42:08+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_5_omega3_basics-ig",
@@ -23893,7 +23979,11 @@
       "message": "Your bedroom temperature could be ruining your sleep. 🌡️\n\nA slightly cool room (around 65-68°F) helps your body drop into deep sleep — dark and quiet matter just as much.\n\n💚 Bookmark this for tonight.\n\n💬 Is your bedroom on the cooler side?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d7_1_sleep_environment.mp4",
       "when": "2026-08-17T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17926223400404537"
+      },
+      "posted_at": "2026-08-17T08:43:36+00:00"
     },
     {
       "id": "hd-cadence-nc6_d24_6_hydration_skin_workout-ig",
@@ -23989,7 +24079,11 @@
       "message": "A short walk right after eating does more than you'd think. 🚶\n\nEven 10 minutes helps your body process blood sugar better, and eases that heavy, sluggish after-meal feeling.\n\n💚 Bookmark this for after dinner.\n\n💬 Do you walk after meals?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d6_6_walk_after_meals.mp4",
       "when": "2026-08-16T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18005923922994378"
+      },
+      "posted_at": "2026-08-17T08:44:18+00:00"
     },
     {
       "id": "hd-cadence-nc6_d28_1_recovery_day_importance-ig",
