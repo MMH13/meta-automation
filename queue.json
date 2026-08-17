@@ -10972,7 +10972,12 @@
       "message": "😆 এই লজিক সবার সংসারেই একবার না একবার চলে। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/07_4.png",
       "when": "2026-08-17T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363099269273310",
+        "post_id": "1191612787659871_1363099299273307"
+      },
+      "posted_at": "2026-08-17T16:42:43+00:00"
     },
     {
       "id": "deshal-refill1-07-5",
@@ -10982,7 +10987,12 @@
       "message": "😂 এই কম্পিটিশনে সবাই সিরিয়াস। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/07_5.png",
       "when": "2026-08-17T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363099442606626",
+        "post_id": "1191612787659871_1363099462606624"
+      },
+      "posted_at": "2026-08-17T16:42:55+00:00"
     },
     {
       "id": "deshal-refill1-07-6",
@@ -16123,7 +16133,12 @@
       "message": "⏰ Sleeping till noon Saturday, then 6 AM Monday, is like flying across time zones every week — your body clock never settles. A steady bedtime beats trying to 'catch up.'\n\n→ Same sleep/wake time, even weekends\n→ Consistency beats total hours banked\n→ Mornings get noticeably easier within a week\n\n💚 Bookmark this. You'll need it later.\n💬 Fixed bedtime, or all over the place? 👇",
       "image_url": "images/health_refill1/09_4.png",
       "when": "2026-08-17T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1723783599637138",
+        "post_id": "152206688762695_1723783629637135"
+      },
+      "posted_at": "2026-08-17T16:43:10+00:00"
     },
     {
       "id": "hd-refill1-09-4-ig",
@@ -16133,7 +16148,12 @@
       "message": "⏰ Sleeping till noon Saturday, then 6 AM Monday, is like flying across time zones every week — your body clock never settles. A steady bedtime beats trying to 'catch up.'\n\n→ Same sleep/wake time, even weekends\n→ Consistency beats total hours banked\n→ Mornings get noticeably easier within a week\n\n💚 Bookmark this. You'll need it later.\n💬 Fixed bedtime, or all over the place? 👇",
       "image_url": "images/health_refill1/09_4.png",
       "when": "2026-08-17T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17892435810668150",
+        "permalink": "https://www.instagram.com/p/DcJfpAjG6wx/"
+      },
+      "posted_at": "2026-08-17T16:43:35+00:00"
     },
     {
       "id": "hd-refill1-10-2-fb",
@@ -17003,7 +17023,12 @@
       "message": "🏆 Awards measure a committee's taste in one specific season. They don't measure what actually stuck with you.\n\nPlenty of Best Picture winners are forgotten faster than the films they beat.\n\n👇 Name a Best Picture winner that isn't even your favourite from that YEAR.\n\n🔁 Share this and start an argument.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-17_13.png",
       "when": "2026-08-17T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201459300787954",
+        "post_id": "628257647029140_122201459324787954"
+      },
+      "posted_at": "2026-08-17T16:43:48+00:00"
     },
     {
       "id": "tmrr1-2026-08-17-15",
@@ -17013,7 +17038,12 @@
       "message": "🌀 Some endings don't just surprise you — they make you want to start the film over immediately.\n\n1️⃣ THE SIXTH SENSE — the one that made everyone rewind\n2️⃣ FIGHT CLUB — every scene means something different now\n3️⃣ THE USUAL SUSPECTS — that coffee cup\n4️⃣ SHUTTER ISLAND — the final line changes everything\n5️⃣ PARASITE — the letter that will never arrive\n\n👇 Which one made you immediately rewatch it?\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-17_15.png",
       "when": "2026-08-17T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201459390787954",
+        "post_id": "628257647029140_122201459408787954"
+      },
+      "posted_at": "2026-08-17T16:44:01+00:00"
     },
     {
       "id": "tmrr1-2026-08-17-19",
@@ -18852,8 +18882,14 @@
       "message": "🕵️ Think small. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-17_13.png",
       "when": "2026-08-17T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🐟 ANSWER: He was a goldfish — his bowl had run dry."
+      "status": "posted",
+      "first_comment": "🐟 ANSWER: He was a goldfish — his bowl had run dry.",
+      "result": {
+        "id": "1494069982744696",
+        "post_id": "2642505565823038_1494070009411360",
+        "first_comment_id": "1494070009411360_1764622848298151"
+      },
+      "posted_at": "2026-08-17T16:44:20+00:00"
     },
     {
       "id": "asu-refill1-2026-08-17-16",
@@ -18862,7 +18898,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI heard someone whisper my name as I fell asleep.\n\nIt sounded exactly like my own voice.\n\n😳 Tag someone who won't sleep tonight.",
       "when": "2026-08-17T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1494070246078003"
+      },
+      "posted_at": "2026-08-17T16:44:30+00:00"
     },
     {
       "id": "asu-refill1-2026-08-17-19",
@@ -21498,7 +21538,11 @@
       "message": "Hydration isn't just about what you drink. 🍉\n\nCucumber, watermelon, oranges, and soup are mostly water too — food can cover a meaningful share of your daily fluids.\n\n💚 Bookmark this reminder.\n\n💬 What's your favorite hydrating food?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d7_4_hydrating_foods.mp4",
       "when": "2026-08-17T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18135919276611068"
+      },
+      "posted_at": "2026-08-17T16:45:05+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_2_smiling_mood-fb",
@@ -24064,7 +24108,13 @@
       "message": "Hydration isn't just about what you drink. 🍉\n\nCucumber, watermelon, oranges, and soup are mostly water too — food can cover a meaningful share of your daily fluids.\n\n💚 Bookmark this reminder.\n\n💬 What's your favorite hydrating food?",
       "video_path": "images/health_reels_cadence2/nc2_d7_4_hydrating_foods.mp4",
       "when": "2026-08-17T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2664411400623333",
+        "permalink": "/reel/2664411400623333/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:45:47+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_1_posture_confidence-ig",
@@ -24280,7 +24330,13 @@
       "message": "😳 A family hired me to babysit and said they have no kids. I found a full nursery upstairs. Their reply: \"Please don't go in there again.\"\n\n👇 Would you have stayed?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d6_s2_babysitting_job.mp4",
       "when": "2026-08-16T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2631098173991168",
+        "permalink": "/reel/2631098173991168/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:46:17+00:00"
     },
     {
       "id": "sa-cadence-sa_d11_s2_late_text-fb",
@@ -24310,7 +24366,13 @@
       "message": "😳 The same car has sat in a reserved spot for 6 years, never towed. Tonight the hood was warm — but the dust hadn't been touched in years.\n\n👇 Would you have looked inside?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d6_s1_parking_spot.mp4",
       "when": "2026-08-16T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2273362556756944",
+        "permalink": "/reel/2273362556756944/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:46:53+00:00"
     },
     {
       "id": "sa-cadence-sa_d12_s1_smart_speaker-fb",
@@ -24330,7 +24392,13 @@
       "message": "😳 My running app logged a 4-mile route at 3:12 AM. I was asleep — the route passed my house twice, slowing down each time.\n\n👇 Would you check the map?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d7_s1_running_app.mp4",
       "when": "2026-08-17T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1355958093185827",
+        "permalink": "/reel/1355958093185827/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:47:28+00:00"
     },
     {
       "id": "sa-cadence-sa_d1_lf_apartment_upstairs-fb",
@@ -24340,7 +24408,13 @@
       "message": "😳 \"The Apartment Upstairs\" — a Suspense Ahead original.\n\nFootsteps pacing above a top-floor apartment, every night at midnight — except there's nothing above it but a sealed, dust-covered roof door.\n\n👇 Would you have told the new tenant?\n\n🔁 Share this with someone who's ever heard footsteps that shouldn't be there.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content1/sa_d1_lf_apartment_upstairs.mp4",
       "when": "2026-08-11T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1085596793923437",
+        "permalink": "/reel/1085596793923437/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:48:25+00:00"
     },
     {
       "id": "sa-cadence-sa_d7_s2_office_badge-fb",
@@ -24350,7 +24424,13 @@
       "message": "😳 My badge logged an office entry at 4 AM. I was home asleep. My desk chair was pulled out, facing the door — I always push it in.\n\n👇 Would you ask for the raw footage?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d7_s2_office_badge.mp4",
       "when": "2026-08-17T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2149894525741205",
+        "permalink": "/reel/2149894525741205/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:48:55+00:00"
     },
     {
       "id": "sa-cadence-sa_d17_s3_air_vent-fb",
@@ -24380,7 +24460,13 @@
       "message": "😳 A \"wrong number\" texted me: \"Nice jacket today\" — I was wearing it. Then: \"You should close your blinds.\" I was standing right at the window.\n\n👇 Would you have closed them?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d6_s3_text_thread.mp4",
       "when": "2026-08-16T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1576641250784095",
+        "permalink": "/reel/1576641250784095/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:49:31+00:00"
     },
     {
       "id": "sa-cadence-sa_d1_s1_babysitter_app-fb",
@@ -24390,7 +24476,13 @@
       "message": "😳 The baby monitor app shows movement in a room that's been empty for three years.\n\n👇 Would you go check?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d1_s1_babysitter_app.mp4",
       "when": "2026-08-11T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1396493179278991",
+        "permalink": "/reel/1396493179278991/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:50:07+00:00"
     },
     {
       "id": "sa-cadence-sa_d15_s1_streetlight-fb",
@@ -24440,7 +24532,13 @@
       "message": "😳 My GPS reroutes me through an abandoned road every night at 2 AM. Tonight I ignored it — it wouldn't stop recalculating.\n\n👇 Would you have taken the detour?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d3_s2_gps_detour.mp4",
       "when": "2026-08-13T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1457636146198921",
+        "permalink": "/reel/1457636146198921/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:50:50+00:00"
     },
     {
       "id": "sa-cadence-sa_d11_lf_the_storage_unit-fb",
@@ -24470,7 +24568,13 @@
       "message": "😳 My video call froze on my friend not looking at her camera — but past it, at something behind me, with a look of fear.\n\n👇 Would you have turned around first?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d5_s3_video_call_freeze.mp4",
       "when": "2026-08-15T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1537734054278816",
+        "permalink": "/reel/1537734054278816/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:51:27+00:00"
     },
     {
       "id": "sa-cadence-sa_d16_s2_neighbor_greeting-fb",
@@ -24490,7 +24594,13 @@
       "message": "😳 \"The Late Checkout\" — a Suspense Ahead original.\n\nA guest who overstayed by a week, an emptied attic nest, and a five-star review that says \"can't wait to come back.\"\n\n👇 Would you have accepted the booking?\n\n🔁 Share this with anyone who hosts a rental.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content2/sa_d5_lf_late_checkout.mp4",
       "when": "2026-08-15T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1738986740686972",
+        "permalink": "/reel/1738986740686972/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:52:22+00:00"
     },
     {
       "id": "sa-cadence-sa_d10_s3_shadow_lag-fb",
@@ -24510,7 +24620,13 @@
       "message": "😳 My reflection was half a second behind every movement. Then I stood still — it kept moving.\n\n👇 Would you have looked away?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d2_s3_reflection_lag.mp4",
       "when": "2026-08-12T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2162207970991679",
+        "permalink": "/reel/2162207970991679/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:52:53+00:00"
     },
     {
       "id": "sa-cadence-sa_d7_lf_the_intercom-fb",
@@ -24550,7 +24666,13 @@
       "message": "😳 Someone adds one song to our group playlist every night at 3 AM, always as \"Unknown\". Tonight I stayed up to watch — my own name started typing.\n\n👇 Would you have stayed up to watch?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d3_s3_shared_playlist.mp4",
       "when": "2026-08-13T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1044110405263313",
+        "permalink": "/reel/1044110405263313/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:53:22+00:00"
     },
     {
       "id": "sa-cadence-sa_d1_s2_elevator_button-fb",
@@ -24560,7 +24682,13 @@
       "message": "😳 My office building has 12 floors. The elevator has 13 buttons.\n\n👇 Would you press it?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d1_s2_elevator_button.mp4",
       "when": "2026-08-11T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1266128872206631",
+        "permalink": "/reel/1266128872206631/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:53:50+00:00"
     },
     {
       "id": "sa-cadence-sa_d3_lf_inherited_house-fb",
@@ -24570,7 +24698,13 @@
       "message": "😳 \"The Inherited House\" — a Suspense Ahead original.\n\nA locked room, a will that begs you never to open it, and a journal about keeping something \"fed.\"\n\n👇 Would you have opened the door, or sold the house?\n\n🔁 Share this with someone who just inherited a family home.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content1/sa_d3_lf_inherited_house.mp4",
       "when": "2026-08-13T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2534348833654224",
+        "permalink": "/reel/2534348833654224/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:54:35+00:00"
     },
     {
       "id": "sa-cadence-sa_d14_s2_house_key-fb",
@@ -24600,7 +24734,13 @@
       "message": "😳 My delivery photo looked normal — until I noticed a second person reflected in the window behind the driver. I live alone. Drivers deliver alone.\n\n👇 Would you have zoomed in?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d4_s3_delivery_photo.mp4",
       "when": "2026-08-14T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2573981356406765",
+        "permalink": "/reel/2573981356406765/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:55:04+00:00"
     },
     {
       "id": "sa-cadence-sa_d8_s1_streaming_history-fb",
@@ -24660,7 +24800,13 @@
       "message": "😳 An old photo booth strip from my birthday. I was completely alone. In the last photo, there's a hand on my shoulder.\n\n👇 Would you keep it?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d3_s1_photo_booth.mp4",
       "when": "2026-08-13T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1734379847802879",
+        "permalink": "/reel/1734379847802879/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:55:46+00:00"
     },
     {
       "id": "sa-cadence-sa_d17_s2_elevator_mirror-fb",
@@ -24710,7 +24856,13 @@
       "message": "😳 I had one new voicemail. From my own number.\n\n👇 Would you save it or delete it?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d1_s3_voicemail.mp4",
       "when": "2026-08-11T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2181221782796535",
+        "permalink": "/reel/2181221782796535/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:56:22+00:00"
     },
     {
       "id": "sa-cadence-sa_d5_s1_smart_lock-fb",
@@ -24720,7 +24872,13 @@
       "message": "😳 My smart lock logged an unlock at 3:14 AM. No one on camera, no motion — and the app says it was unlocked from the inside.\n\n👇 Would you check the house tonight?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d5_s1_smart_lock.mp4",
       "when": "2026-08-15T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1684002887066542",
+        "permalink": "/reel/1684002887066542/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:56:57+00:00"
     },
     {
       "id": "sa-cadence-sa_d4_s1_group_chat-fb",
@@ -24730,7 +24888,13 @@
       "message": "😳 A message appeared in our group chat from someone who left months ago: \"Don't trust the new guy.\" We'd just added someone new that afternoon.\n\n👇 Would you ask him about it?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d4_s1_group_chat.mp4",
       "when": "2026-08-14T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1583570487115046",
+        "permalink": "/reel/1583570487115046/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:57:26+00:00"
     },
     {
       "id": "sa-cadence-sa_d6_lf_family_portrait-fb",
@@ -24740,7 +24904,13 @@
       "message": "😳 \"The Family Portrait\" — a Suspense Ahead original.\n\nSix generations of family portraits, each with the same background figure standing a little closer than before.\n\n👇 Would you go through with the sitting?\n\n🔁 Share this with someone whose family has an old house full of portraits.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content2/sa_d6_lf_family_portrait.mp4",
       "when": "2026-08-16T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1392571116311569",
+        "permalink": "/reel/1392571116311569/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:58:11+00:00"
     },
     {
       "id": "sa-cadence-sa_d17_s1_dog_barking-fb",
@@ -24820,7 +24990,13 @@
       "message": "😳 My thermostat logs every change. Someone dropped it ten degrees at 2 AM from \"downstairs.\" I live alone — and was upstairs the whole time.\n\n👇 Would you have gone down to check?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d7_s3_thermostat.mp4",
       "when": "2026-08-17T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1076369348412251",
+        "permalink": "/reel/1076369348412251/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:58:41+00:00"
     },
     {
       "id": "sa-cadence-sa_d5_s2_wrong_apartment-fb",
@@ -24830,7 +25006,13 @@
       "message": "😳 Mail keeps arriving with current postmarks for a tenant who moved out 3 years ago. Today's letter was postmarked from this building itself.\n\n👇 Would you have opened it?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d5_s2_wrong_apartment.mp4",
       "when": "2026-08-15T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1365362589044012",
+        "permalink": "/reel/1365362589044012/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:59:18+00:00"
     },
     {
       "id": "sa-cadence-sa_d9_s2_baby_monitor_static-fb",
@@ -24860,7 +25042,13 @@
       "message": "😳 A note taped inside my kitchen cabinet from the previous tenant said \"check the date\" — the date written was today's, years before I moved in.\n\n👇 Would you have kept living there?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content2/sa_d4_s2_security_deposit.mp4",
       "when": "2026-08-14T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1740122507260820",
+        "permalink": "/reel/1740122507260820/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T16:59:51+00:00"
     },
     {
       "id": "sa-cadence-sa_d13_lf_the_online_seller-fb",
@@ -24890,7 +25078,13 @@
       "message": "😳 My doorbell camera caught the same person walking by every night at 11:47 PM. Last night, they stopped.\n\n👇 Would you open the door tonight?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d2_s1_doorbell_camera.mp4",
       "when": "2026-08-12T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1373375434771830",
+        "permalink": "/reel/1373375434771830/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T17:00:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d18_lf_the_apartment_listing-fb",
@@ -24940,7 +25134,13 @@
       "message": "😳 \"The Recurring Guest\" — a Suspense Ahead original.\n\nA hotel guest who's checked in and vanished from the same room for eleven years — longer than the hotel has had computers.\n\n👇 Would you have looked closer at the photo?\n\n🔁 Share this with someone who works a night shift.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content1/sa_d2_lf_recurring_guest.mp4",
       "when": "2026-08-12T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "4570011429877386",
+        "permalink": "/reel/4570011429877386/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T17:01:19+00:00"
     },
     {
       "id": "sa-cadence-sa_d2_s2_new_roommate-fb",
@@ -24950,7 +25150,13 @@
       "message": "😳 My roommate's door is always locked — she works night shifts. Tonight I heard footsteps behind it. She clocked in four hours ago.\n\n👇 Would you knock?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content1/sa_d2_s2_new_roommate.mp4",
       "when": "2026-08-12T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "28542350588706444",
+        "permalink": "/reel/28542350588706444/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T17:01:49+00:00"
     },
     {
       "id": "sa-cadence-sa_d8_s2_car_alarm-fb",
@@ -25010,7 +25216,13 @@
       "message": "😳 \"The Substitute Teacher\" — a Suspense Ahead original.\n\nA substitute who appears in the school's yearbooks going back to 1911 — always the same face, never aging, never in the system.\n\n👇 Would you have kept digging?\n\n🔁 Share this with a teacher you know.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content2/sa_d4_lf_substitute_teacher.mp4",
       "when": "2026-08-14T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2031304134188057",
+        "permalink": "/reel/2031304134188057/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T17:02:40+00:00"
     },
     {
       "id": "sa-cadence-sa_d10_lf_the_rideshare-fb",
