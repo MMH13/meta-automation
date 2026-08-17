@@ -11002,7 +11002,12 @@
       "message": "😅 এই দেশের আবহাওয়ার পূর্বাভাস নিয়ে সবার একই অভিজ্ঞতা। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/07_6.png",
       "when": "2026-08-17T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363183395931564",
+        "post_id": "1191612787659871_1363183405931563"
+      },
+      "posted_at": "2026-08-17T18:52:31+00:00"
     },
     {
       "id": "deshal-refill1-07-7",
@@ -24636,7 +24641,13 @@
       "message": "😳 \"The Intercom\" — a Suspense Ahead original.\n\nAn old building intercom that buzzes from a wiring loop sealed off since the 1980s — and somehow knows the new tenant's full name.\n\n👇 Would you have moved out?\n\n🔁 Share this with someone who lives in an old building.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content3/sa_d7_lf_the_intercom.mp4",
       "when": "2026-08-17T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1032138516296596",
+        "permalink": "/reel/1032138516296596/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T18:53:16+00:00"
     },
     {
       "id": "sa-cadence-sa_d9_lf_the_babysitter_note-fb",
