@@ -66,9 +66,17 @@ def _save_state(state_path, s):
 def _tts(profile, text, out_mp3):
     wav = out_mp3.with_suffix(".wav")
     speak(profile, text, str(wav), engine="kokoro")
-    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(wav), "-b:a", "192k",
-                    str(out_mp3)], check=True, capture_output=True, timeout=180)
-    wav.unlink(missing_ok=True)
+    last_err = None
+    for attempt in range(3):
+        try:
+            subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", str(wav), "-b:a", "192k",
+                            str(out_mp3)], check=True, capture_output=True, timeout=180)
+            wav.unlink(missing_ok=True)
+            return
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired) as e:
+            last_err = e
+            print(f"    ffmpeg (tts encode) attempt {attempt+1}/3 failed, retrying...")
+    raise last_err
 
 
 def _dur(p):
@@ -86,7 +94,7 @@ def _clip(footage, overlay_png, mp3, out):
           f"eq=brightness=-0.03:contrast=1.06:saturation=0.82,"
           f"fade=t=in:st=0:d={FADE},fade=t=out:st={max(d-FADE,0):.3f}:d={FADE},"
           f"format=yuv420p")
-    subprocess.run([
+    cmd = [
         "ffmpeg", "-y", "-v", "error",
         "-stream_loop", "-1", "-i", str(footage),
         "-loop", "1", "-i", str(overlay_png),
@@ -97,8 +105,16 @@ def _clip(footage, overlay_png, mp3, out):
         "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-r", str(FPS),
         "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-ac", "2",
         "-t", f"{d:.3f}", str(out),
-    ], check=True, capture_output=True, timeout=900)
-    return d
+    ]
+    last_err = None
+    for attempt in range(3):
+        try:
+            subprocess.run(cmd, check=True, capture_output=True, timeout=900)
+            return d
+        except subprocess.CalledProcessError as e:
+            last_err = e
+            print(f"    ffmpeg attempt {attempt+1}/3 failed (exit {e.returncode}), retrying...")
+    raise last_err
 
 
 def build(beats, out_mp4, work_dir, state_path, lock_path, voice_profile,
@@ -107,6 +123,7 @@ def build(beats, out_mp4, work_dir, state_path, lock_path, voice_profile,
     work.mkdir(parents=True, exist_ok=True)
     footage_dir = work / "footage"
     footage_dir.mkdir(exist_ok=True)
+    state_path, lock_path = Path(state_path), Path(lock_path)
 
     _acquire_lock(lock_path)
     try:

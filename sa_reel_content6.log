@@ -1,0 +1,365 @@
+
+=== building sa_d16_s1_credit_card (5 beats) ===
+    footage[b01]: pexels #6406032 (24s) <- 'credit card statement closeup dark'
+  b01/5  5.2s  (running total 5.2s)  A charge appeared on my credit card for a sto
+    footage[b02]: pexels #30718267 (5s) <- 'phone banking app screen dark'
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1338, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1384, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1333, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1093, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1037, in send
+    self.connect()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1003, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 865, in create_connection
+    raise exceptions[0]
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 850, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Mamun\fb-ig-automation\sa_reel_enqueue.py", line 101, in <module>
+    main(sys.argv[1])
+  File "C:\Users\Mamun\fb-ig-automation\sa_reel_enqueue.py", line 73, in main
+    build_reel(beats, str(video_path), str(work_dir), str(video_state), str(lock),
+  File "C:\Users\Mamun\fb-ig-automation\video_suspense_stock.py", line 162, in build
+    _tts(profile, b["narration"], mp3)
+  File "C:\Users\Mamun\fb-ig-automation\video_suspense_stock.py", line 68, in _tts
+    speak(profile, text, str(wav), engine="kokoro")
+  File "C:\Users\Mamun\fb-ig-automation\voicebox_client.py", line 118, in speak
+    gen = _req("POST", "/generate", body)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mamun\fb-ig-automation\voicebox_client.py", line 51, in _req
+    with urllib.request.urlopen(r, timeout=timeout) as resp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 1373, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\urllib\request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+
+=== building sa_d16_s1_credit_card (5 beats) ===
+  b01: already built, skipping
+  b02/5  4.3s  (running total 9.6s)  I moved away from that town seven years ago.
+    footage[b03]: pexels #5378125 (21s) <- 'wallet credit card closeup dark'
+  b03/5  3.8s  (running total 13.3s)  The card never left my wallet that day.
+    footage[b04]: pexels #7592049 (33s) <- 'person phone call bank worried dark'
+  b04/5  5.7s  (running total 19.0s)  I called the bank. They confirmed it was a ph
+    footage[b05]: pexels #4077514 (15s) <- 'old storefront closed dark night'
+  b05/5  4.2s  (running total 23.2s)  The store closed down the same year I moved a
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d16_s1_credit_card.mp4  total narration ~23.2s
+  queued sa_d16_s1_credit_card for 2026-08-26T00:00:00+00:00
+
+=== building sa_d16_s2_neighbor_greeting (5 beats) ===
+    footage[b01]: pexels #7646535 (26s) <- 'neighbor greeting outside house day'
+  b01/5  5.0s  (running total 5.0s)  My new neighbor always greets me by a name th
+    footage[b02]: pexels #6170435 (12s) <- 'person talking outside house neighbor'
+  b02/5  5.6s  (running total 10.6s)  I've corrected him twice. He apologizes, forg
+    footage[b03]: pexels #38410501 (21s) <- 'phone search records screen dark'
+  b03/5  3.8s  (running total 14.4s)  I looked up who lived in my house before me.
+    footage[b04]: pexels #34596730 (27s) <- 'old property document closeup dark'
+  b04/5  4.8s  (running total 19.2s)  Property records showed the exact name he kee
+    footage[b05]: pexels #32116905 (16s) <- 'house exterior day quiet neighborhood'
+  b05/5  5.0s  (running total 24.3s)  That owner never officially moved out accordi
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d16_s2_neighbor_greeting.mp4  total narration ~24.3s
+  queued sa_d16_s2_neighbor_greeting for 2026-08-26T06:00:00+00:00
+
+=== building sa_d16_s3_office_plant (5 beats) ===
+    footage[b01]: pexels #31663925 (59s) <- 'office desk plant dark night'
+  b01/5  5.1s  (running total 5.1s)  The plant on my office desk was moved two inc
+    footage[b02]: pexels #36178907 (21s) <- 'empty office desk night dark'
+  b02/5  4.8s  (running total 9.9s)  I'm the last one to leave. First one in, most
+    footage[b03]: pexels #3664072 (26s) <- 'office cleaning night empty dark'
+  b03/5  5.2s  (running total 15.1s)  Cleaning crew says they never touch personal 
+    footage[b04]: pexels #34719380 (25s) <- 'office desk plant closeup dark'
+  b04/5  5.5s  (running total 20.6s)  It kept happening. Always the same two inches
+    footage[b05]: pexels #14144344 (11s) <- 'phone camera recording desk dark'
+  b05/5  5.0s  (running total 25.6s)  Tonight, I set up my phone to record the desk
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d16_s3_office_plant.mp4  total narration ~25.6s
+  queued sa_d16_s3_office_plant for 2026-08-26T15:00:00+00:00
+
+=== building sa_d16_lf_the_moving_boxes (28 beats) ===
+    footage[moving_boxes]: pexels #7205541 (27s) <- 'apartment moving boxes stacked'
+  b01/28  5.7s  (running total 5.7s)  We're moving out of our first apartment. A bo
+    footage[box_label]: pexels #6169102 (18s) <- 'cardboard box label closeup dark'
+  b02/28  5.0s  (running total 10.7s)  Sealed, labeled in handwriting neither of us 
+    footage[cardboard_box]: pexels #7647447 (20s) <- 'cardboard box closeup apartment'
+  b03/28  4.5s  (running total 15.1s)  It just said kitchen like any normal moving b
+    footage[apartment_moving_day]: pexels #4554448 (45s) <- 'apartment empty room moving day'
+  b04/28  4.5s  (running total 19.6s)  We assumed it was left over from the previous
+    footage[apartment_interior_boxes]: pexels #7217133 (10s) <- 'apartment interior moving boxes'
+  b05/28  5.1s  (running total 24.7s)  We'd lived there three years. We'd never seen
+    footage[opening_box_kitchen]: pexels #4440955 (5s) <- 'person opening box kitchen day'
+  b06/28  4.0s  (running total 28.7s)  Curious, my partner opened it in the kitchen.
+    footage[old_kitchenware]: pexels #4440955 (5s) <- 'old kitchenware dusty box'
+  b07/28  4.4s  (running total 33.1s)  Old kitchenware. Dusty. Decades out of style.
+    footage[old_kitchen_photo]: pexels #27917218 (15s) <- 'old photograph kitchen vintage dark'
+  b08/28  5.3s  (running total 38.4s)  At the bottom, a photograph of our kitchen. F
+    footage[vintage_kitchen_photo]: pexels #7213872 (17s) <- 'old photograph vintage kitchen closeup'
+  b09/28  4.9s  (running total 43.3s)  Same layout. Same window. Different decade, c
+    footage[old_family_photo]: pexels #34760499 (32s) <- 'old family photo vintage kitchen'
+  b10/28  4.5s  (running total 47.8s)  A family stood in the photo, smiling at the c
+    footage[blurred_figure_photo]: pexels #4727543 (34s) <- 'old photograph blurred figure dark'
+  b11/28  4.9s  (running total 52.7s)  Except one figure, blurred, standing just beh
+    footage[building_super]: pexels #31961382 (38s) <- 'building super talking hallway day'
+  b12/28  4.8s  (running total 57.5s)  We asked the building super about the apartme
+    footage[old_building_exterior]: pexels #4727642 (49s) <- 'old building exterior day archive'
+  b13/28  4.5s  (running total 62.0s)  He said the building had a small fire decades
+    footage[super_talking_serious]: pexels #6998323 (24s) <- 'building super talking serious hallway'
+  b14/28  4.7s  (running total 66.7s)  Contained to one unit. Ours, as it turned out
+    footage[talking_serious_hallway]: pexels #34725297 (51s) <- 'person talking serious hallway dark'
+  b15/28  5.2s  (running total 71.8s)  A family lost some belongings. Nothing more, 
+    footage[packing_box]: pexels #7647447 (20s) <- 'person packing box apartment day'
+  b16/28  4.4s  (running total 76.2s)  We packed the box back up to leave for the ne
+    footage[empty_apt_night]: pexels #36601677 (23s) <- 'empty apartment night dark quiet'
+  b17/28  4.9s  (running total 81.2s)  That night, our last night in the apartment, 
+    footage[kitchen_boxes_night]: pexels #4440955 (5s) <- 'kitchen boxes dark night stacked'
+  b18/28  4.1s  (running total 85.2s)  From the kitchen, where all our boxes were st
+    footage[checking_kitchen]: pexels #15749909 (40s) <- 'person checking kitchen dark night'
+  b19/28  4.8s  (running total 90.0s)  We checked. No radio. No phone playing anythi
+    footage[kitchen_dark_quiet]: pexels #26617030 (56s) <- 'kitchen dark night quiet empty'
+  b20/28  3.8s  (running total 93.8s)  The humming stopped the moment we entered.
+    footage[moving_truck]: pexels #13743501 (26s) <- 'moving truck loading night dark'
+  b21/28  4.3s  (running total 98.2s)  We finished loading the truck faster than pla
+    footage[empty_apt_box]: pexels #7647444 (12s) <- 'empty apartment single box dark'
+  b22/28  5.1s  (running total 103.3s)  The mystery box was the last thing left in th
+    footage[box_kitchen_floor]: pexels #7647329 (14s) <- 'cardboard box kitchen floor dark'
+  b23/28  3.9s  (running total 107.1s)  We left it exactly where we'd found it.
+    footage[chance_meeting]: pexels #8125816 (20s) <- 'person talking street day chance meeting'
+  b24/28  4.9s  (running total 112.0s)  A few months later, we ran into the new tenan
+    footage[talking_curious]: pexels #7681926 (26s) <- 'person talking curious street day'
+  b25/28  4.4s  (running total 116.4s)  We asked, carefully, if they'd found anything
+    footage[talking_serious_street]: pexels #7681926 (26s) <- 'person talking serious street day'
+  b26/28  4.5s  (running total 120.8s)  They said the kitchen sometimes smells like s
+    footage[kitchen_quiet_day]: pexels #6337009 (29s) <- 'kitchen dark quiet apartment day'
+  b27/28  4.7s  (running total 125.6s)  Faint, but unmistakable. No source they could
+    footage[apt_building_day]: pexels #33481584 (29s) <- 'apartment building exterior day quiet'
+  b28/28  4.8s  (running total 130.3s)  We didn't mention the box, or the humming, or
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d16_lf_the_moving_boxes.mp4  total narration ~130.3s
+  queued sa_d16_lf_the_moving_boxes for 2026-08-26T18:00:00+00:00
+
+=== building sa_d17_s1_dog_barking (5 beats) ===
+    footage[b01]: pexels #28829625 (51s) <- 'dog barking living room dark'
+  b01/5  5.1s  (running total 5.1s)  My dog barks at the same corner of the living
+    footage[b02]: pexels #30912265 (35s) <- 'empty corner living room dark night'
+  b02/5  4.2s  (running total 9.2s)  Nothing's there. I've checked hundreds of tim
+    footage[b03]: pexels #13933369 (33s) <- 'dog alert staring dark room'
+  b03/5  4.1s  (running total 13.3s)  He's never done this anywhere else in the hou
+    footage[b04]: pexels #30157094 (60s) <- 'dog growling dark room night'
+  b04/5  4.7s  (running total 18.0s)  Tonight, he wouldn't stop. Growling, not just
+    footage[b05]: pexels #13933369 (33s) <- 'dog staring corner dark room'
+  b05/5  4.0s  (running total 22.0s)  He was staring at a spot exactly my height.
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d17_s1_dog_barking.mp4  total narration ~22.0s
+  queued sa_d17_s1_dog_barking for 2026-08-27T00:00:00+00:00
+
+=== building sa_d17_s2_elevator_mirror (5 beats) ===
+    footage[b01]: pexels #35216571 (32s) <- 'elevator mirror interior night'
+  b01/5  6.3s  (running total 6.3s)  My office elevator has a mirror. Tonight, wor
+    footage[b02]: pexels #7269654 (27s) <- 'person elevator mirror closeup dark'
+  b02/5  4.7s  (running total 10.9s)  My reflection blinked a half-second after I d
+    footage[b03]: pexels #7269654 (27s) <- 'person blinking mirror closeup dark'
+  b03/5  4.3s  (running total 15.3s)  I blinked again, deliberately, watching close
+    footage[b04]: pexels #10855365 (29s) <- 'elevator mirror reflection dark'
+  b04/5  4.8s  (running total 20.1s)  Same delay. Consistent. Not my imagination.
+    footage[b05]: pexels #36248857 (23s) <- 'elevator doors opening dark night'
+  b05/5  3.9s  (running total 23.9s)  My reflection stayed facing forward.
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d17_s2_elevator_mirror.mp4  total narration ~23.9s
+  queued sa_d17_s2_elevator_mirror for 2026-08-27T06:00:00+00:00
+
+=== building sa_d17_s3_air_vent (5 beats) ===
+    footage[b01]: pexels #35457949 (56s) <- 'air vent ceiling dark closeup'
+  b01/5  5.0s  (running total 5.0s)  My air vent has been making a tapping sound f
+    footage[b02]: pexels #34918463 (24s) <- 'hvac technician ceiling ladder'
+  b02/5  3.9s  (running total 8.8s)  I called an HVAC tech to check it out.
+    footage[b03]: pexels #6585110 (12s) <- 'person looking vent ceiling serious'
+  b03/5  4.9s  (running total 13.8s)  He opened the vent, looked inside, and went v
+    footage[b04]: pexels #7277919 (57s) <- 'person talking serious ceiling dark'
+  b04/5  4.5s  (running total 18.2s)  There's nothing wrong with the system, he sai
+    footage[b05]: pexels #11318637 (246s) <- 'air vent ceiling dark closeup night'
+  b05/5  4.5s  (running total 22.6s)  But something's living in there. It's not a r
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d17_s3_air_vent.mp4  total narration ~22.6s
+  queued sa_d17_s3_air_vent for 2026-08-27T15:00:00+00:00
+
+=== building sa_d17_lf_the_family_group_call (25 beats) ===
+    footage[family_video_call]: pexels #5725462 (21s) <- 'family video call laptop evening'
+  b01/25  6.5s  (running total 6.5s)  My family does a weekly video call. My grandf
+    footage[family_laptop_talking]: pexels #6586056 (19s) <- 'family laptop call talking evening'
+  b02/25  4.3s  (running total 10.9s)  We kept doing the calls, it helped us stay cl
+    footage[call_participants]: pexels #8522975 (18s) <- 'video call screen participants dark'
+  b03/25  5.2s  (running total 16.0s)  Last week, an extra participant joined the ca
+    footage[blank_call_tile]: pexels #6611940 (34s) <- 'video call blank screen dark'
+  b04/25  4.2s  (running total 20.2s)  Camera off. No name. Just a blank tile.
+    footage[family_confused_call]: pexels #5725447 (19s) <- 'family confused laptop call evening'
+  b05/25  4.5s  (running total 24.7s)  We assumed someone's kid had joined by accide
+    footage[family_video_confused]: pexels #6265853 (14s) <- 'family video call talking confused'
+  b06/25  5.0s  (running total 29.8s)  No one claimed it. Everyone on the call was a
+    footage[person_laughing_call]: pexels #5212611 (26s) <- 'person laughing video call evening'
+  b07/25  4.0s  (running total 33.8s)  My aunt joked it was Grandpa checking in.
+  b08/25  4.3s  (running total 38.1s)  Everyone laughed, uncomfortably, and moved on
+  b09/25  4.8s  (running total 42.8s)  The blank tile stayed for the entire hour-lon
+  b10/25  4.3s  (running total 47.2s)  This week, it joined again. Same blank tile.
+    footage[checking_laptop]: pexels #7778491 (21s) <- 'person checking laptop screen call'
+  b11/25  4.5s  (running total 51.7s)  I checked the participant list more carefully
+    footage[email_account]: pexels #6963412 (25s) <- 'laptop screen email account dark'
+  b12/25  4.7s  (running total 56.4s)  The account was linked to my grandfather's ol
+    footage[shocked_laptop]: pexels #19532053 (19s) <- 'person shocked laptop screen dark'
+  b13/25  4.7s  (running total 61.1s)  An email we'd deactivated months after he pas
+    footage[phone_call_quiet_worried]: pexels #36149629 (16s) <- 'person phone call quiet worried'
+  b14/25  3.9s  (running total 64.9s)  I told my mother quietly, off the call.
+    footage[person_serious_phone]: pexels #7277919 (57s) <- 'person serious phone worried evening'
+  b15/25  4.5s  (running total 69.4s)  She went pale and said she'd handle it after 
+  b16/25  5.0s  (running total 74.5s)  We finished the call normally, trying not to 
+    footage[phone_support_call]: pexels #7592049 (33s) <- 'person phone call support dark'
+  b17/25  4.8s  (running total 79.3s)  Afterward, my mother called the video service
+    footage[listening_phone_serious]: pexels #7261927 (59s) <- 'person listening phone call serious'
+  b18/25  4.8s  (running total 84.1s)  They confirmed the account had been deactivat
+    footage[laptop_error]: pexels #19532053 (19s) <- 'laptop screen error dark night'
+  b19/25  5.2s  (running total 89.2s)  No way for it to join any call. Technically i
+    footage[family_deciding]: pexels #6653838 (19s) <- 'family talking serious evening decision'
+  b20/25  4.4s  (running total 93.6s)  My mother asked if we should stop the weekly 
+    footage[family_discussing]: pexels #5814427 (16s) <- 'family talking discussing evening'
+  b21/25  4.3s  (running total 98.0s)  We took a vote. Most of us wanted to continue
+    footage[checking_nervous]: pexels #28154735 (31s) <- 'person checking laptop nervous evening'
+  b22/25  6.0s  (running total 103.9s)  This week's call is tonight. I'm nervous, che
+    footage[call_normal_participants]: pexels #8522975 (18s) <- 'video call screen participants normal'
+  b23/25  4.1s  (running total 108.0s)  So far, only family members have joined.
+    footage[laptop_clock]: pexels #5725851 (30s) <- 'laptop clock time evening dark'
+  b24/25  3.5s  (running total 111.5s)  Five minutes until the call starts.
+  b25/25  4.7s  (running total 116.2s)  A new tile just appeared. Camera off. No name
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d17_lf_the_family_group_call.mp4  total narration ~116.2s
+  queued sa_d17_lf_the_family_group_call for 2026-08-27T18:00:00+00:00
+
+=== building sa_d18_s1_bus_stop (5 beats) ===
+    footage[b01]: pexels #7251426 (27s) <- 'bus stop person standing night'
+  b01/5  5.2s  (running total 5.2s)  The same person has been standing at my bus s
+    footage[b02]: pexels #36138611 (24s) <- 'bus stop empty night street dark'
+  b02/5  5.0s  (running total 10.2s)  Never boards a bus. Just stands there, watchi
+    footage[b03]: pexels #7251426 (27s) <- 'person standing bus stop day watching'
+  b03/5  5.3s  (running total 15.5s)  I've seen them at different times. Morning, e
+    footage[b04]: pexels #38631861 (29s) <- 'person staring closeup unsettling dark'
+  b04/5  3.8s  (running total 19.4s)  Today I made eye contact by accident.
+    footage[b05]: pexels #7251426 (27s) <- 'bus stop street person night dark'
+  b05/5  4.1s  (running total 23.5s)  They smiled and mouthed something I couldn't 
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d18_s1_bus_stop.mp4  total narration ~23.5s
+  queued sa_d18_s1_bus_stop for 2026-08-28T00:00:00+00:00
+
+=== building sa_d18_s2_fridge_light (5 beats) ===
+    footage[b01]: pexels #3538273 (4s) <- 'fridge light glowing kitchen dark'
+  b01/5  4.7s  (running total 4.7s)  My fridge light turns on when the door is ful
+    footage[b02]: pexels #5555476 (52s) <- 'kitchen dark night quiet glow'
+  b02/5  4.0s  (running total 8.7s)  I noticed it walking past the kitchen at nigh
+    footage[b03]: pexels #35782210 (27s) <- 'fridge door seal glow dark closeup'
+  b03/5  4.2s  (running total 12.9s)  A faint glow under the door, door sealed shut
+    footage[b04]: pexels #7525448 (12s) <- 'fridge opening light kitchen dark'
+  b04/5  5.4s  (running total 18.2s)  I opened it to check. Light came on normally,
+    footage[b05]: pexels #7394192 (13s) <- 'fridge closed kitchen dark night'
+  b05/5  3.8s  (running total 22.1s)  The glow returned within ten seconds.
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d18_s2_fridge_light.mp4  total narration ~22.1s
+  queued sa_d18_s2_fridge_light for 2026-08-28T06:00:00+00:00
+
+=== building sa_d18_s3_voice_memo (5 beats) ===
+    footage[b01]: pexels #38410498 (32s) <- 'phone voice memo app dark'
+  b01/5  4.7s  (running total 4.7s)  I found a voice memo on my phone I never reco
+    footage[b02]: pexels #7277930 (42s) <- 'phone screen recording dark night'
+  b02/5  4.1s  (running total 8.8s)  Timestamped last night, while I was asleep.
+    footage[b03]: pexels #38410499 (27s) <- 'person holding phone hesitant dark'
+  b03/5  4.5s  (running total 13.4s)  Three minutes long. I hesitated before playin
+    footage[b04]: pexels #7214644 (11s) <- 'person sleeping bed dark quiet'
+  b04/5  5.3s  (running total 18.7s)  Mostly silence. Room tone. My own breathing, 
+    footage[b05]: pexels #6851615 (17s) <- 'dark bedroom night quiet unsettling'
+  b05/5  5.5s  (running total 24.2s)  At two forty-seven in, a second breathing pat
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d18_s3_voice_memo.mp4  total narration ~24.2s
+  queued sa_d18_s3_voice_memo for 2026-08-28T15:00:00+00:00
+
+=== building sa_d18_lf_the_apartment_listing (27 beats) ===
+    footage[apartment_listing]: pexels #6611940 (34s) <- 'apartment listing phone screen night'
+  b01/27  6.0s  (running total 6.0s)  I was apartment hunting and found a listing f
+    footage[real_estate_app]: pexels #38410498 (32s) <- 'phone real estate app screen dark'
+  b02/27  4.2s  (running total 10.3s)  Half the price of anything else in that neigh
+    footage[apt_photos_listing]: pexels #7239168 (20s) <- 'apartment interior photos listing'
+  b03/27  4.3s  (running total 14.6s)  The photos looked normal. Maybe a little date
+    footage[scheduling_phone]: pexels #38096973 (24s) <- 'person scheduling phone calendar'
+  b04/27  3.7s  (running total 18.3s)  I scheduled a viewing for that weekend.
+    footage[eager_phone_call]: pexels #7592049 (33s) <- 'person phone call eager talking'
+  b05/27  5.0s  (running total 23.3s)  The landlord was oddly eager to show it same-
+    footage[walking_apt_building]: pexels #28177186 (16s) <- 'person walking apartment building day'
+  b06/27  4.8s  (running total 28.1s)  I agreed, figuring it was just good customer 
+    footage[apt_building_nice]: pexels #33481584 (29s) <- 'apartment building exterior day nice'
+  b07/27  4.5s  (running total 32.6s)  The building looked fine from the outside. We
+    footage[greeting_lobby]: pexels #7821407 (28s) <- 'person greeting lobby apartment day'
+  b08/27  4.3s  (running total 37.0s)  The landlord met me in the lobby, very friend
+    footage[apt_stairwell]: pexels #32121240 (11s) <- 'apartment stairwell walking day'
+  b09/27  5.3s  (running total 42.3s)  We took the stairs up. He mentioned the eleva
+    footage[apt_bright_empty]: pexels #7226842 (30s) <- 'apartment interior bright empty day'
+  b10/27  5.7s  (running total 48.0s)  The unit itself was nice. Spacious, good ligh
+    footage[asking_landlord]: pexels #8922056 (28s) <- 'person asking apartment landlord day'
+  b11/27  3.4s  (running total 51.4s)  I asked why it was priced so low.
+    footage[explaining_landlord]: pexels #3694908 (28s) <- 'person explaining apartment landlord'
+  b12/27  6.0s  (running total 57.4s)  He said the previous tenant left in a hurry. 
+    footage[considering_apt]: pexels #6474144 (25s) <- 'person considering apartment interior'
+  b13/27  4.3s  (running total 61.6s)  Reasonable enough. I almost signed on the spo
+    footage[closet_door_lock]: pexels #12183252 (29s) <- 'closet door lock closeup apartment'
+  b14/27  5.5s  (running total 67.1s)  Then I noticed the closet door had a new lock
+    footage[asking_closet]: pexels #5704976 (19s) <- 'person asking closet apartment day'
+  b15/27  4.6s  (running total 71.7s)  Strange for a closet. I asked about it, casua
+    footage[explaining_awkward]: pexels #3694908 (28s) <- 'person explaining awkward apartment'
+  b16/27  4.6s  (running total 76.3s)  He said it was just a precaution, nothing imp
+    footage[nervous_landlord]: pexels #7227119 (24s) <- 'person nervous apartment landlord'
+  b17/27  4.5s  (running total 80.8s)  His tone had changed, slightly, but noticeabl
+    footage[asking_closet_interested]: pexels #37356839 (14s) <- 'person asking closet interested apartment'
+  b18/27  4.3s  (running total 85.0s)  I asked to see inside the closet, just curiou
+    footage[hesitant_landlord]: pexels #7480482 (15s) <- 'person hesitant apartment landlord'
+  b19/27  3.9s  (running total 89.0s)  He said he didn't have that key on him today.
+    footage[leaving_apt_building]: pexels #29973149 (33s) <- 'person leaving apartment building day'
+  b20/27  4.3s  (running total 93.3s)  I thanked him for his time and said I'd think
+    footage[phone_search_night_apt]: pexels #7279035 (26s) <- 'phone search browser screen night'
+  b21/27  4.6s  (running total 97.9s)  That night, I searched the address online, mo
+    footage[phone_forum]: pexels #7277930 (42s) <- 'phone forum screen dark night'
+  b22/27  4.3s  (running total 102.2s)  A local forum mentioned the building, briefly
+    footage[phone_news_article]: pexels #19162466 (36s) <- 'phone news article screen dark'
+  b23/27  5.2s  (running total 107.4s)  A tenant had gone missing from that exact uni
+    footage[newspaper_missing]: pexels #11384843 (15s) <- 'old newspaper missing article dark'
+  b24/27  4.7s  (running total 112.1s)  Case still open. Never found, no explanation.
+    footage[phone_blocking]: pexels #6611940 (34s) <- 'person phone blocking contact dark'
+  b25/27  4.7s  (running total 116.8s)  I didn't sign the lease. I blocked the landlo
+  b26/27  4.5s  (running total 121.3s)  A month later, the listing was still up. Same
+  b27/27  5.8s  (running total 127.1s)  New photos had been added. The closet door wa
+
+=> C:\Users\Mamun\fb-ig-automation\images\suspense_reels_content6\sa_d18_lf_the_apartment_listing.mp4  total narration ~127.1s
+  queued sa_d18_lf_the_apartment_listing for 2026-08-28T18:00:00+00:00
+
+queued 12 new items

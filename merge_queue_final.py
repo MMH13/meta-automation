@@ -7,7 +7,7 @@ local (this session's new content) get appended. Reports the diff before
 writing so it can be sanity-checked."""
 import json
 
-ORIGIN_PATH = r"C:\Users\Mamun\AppData\Local\Temp\claude\C--Users-Mamun\342921e7-8b70-4b1e-a567-64dceeb06cda\scratchpad\origin_queue.json"
+ORIGIN_PATH = r"C:\Users\Mamun\AppData\Local\Temp\claude\C--Users-Mamun\342921e7-8b70-4b1e-a567-64dceeb06cda\scratchpad\origin_queue_latest.json"
 STATUS_FIELDS = ("status", "posted_at", "error", "result", "first_comment_id", "first_comment_error")
 
 
