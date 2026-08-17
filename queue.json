@@ -22306,7 +22306,11 @@
       "message": "Plate size alone can change how much you eat. 🍽️\n\nA bigger plate makes the same portion look smaller, which can lead to genuinely eating more. A smaller plate is a simple, no-willpower fix.\n\n💚 Bookmark this for dinner tonight.\n\n💬 What size plate do you usually use?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc2_d7_6_portion_awareness.mp4",
       "when": "2026-08-17T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18075983504368708"
+      },
+      "posted_at": "2026-08-17T22:37:33+00:00"
     },
     {
       "id": "hd-cadence-nc4_d15_2_forest_bathing-fb",
@@ -23318,7 +23322,13 @@
       "message": "Plate size alone can change how much you eat. 🍽️\n\nA bigger plate makes the same portion look smaller, which can lead to genuinely eating more. A smaller plate is a simple, no-willpower fix.\n\n💚 Bookmark this for dinner tonight.\n\n💬 What size plate do you usually use?",
       "video_path": "images/health_reels_cadence2/nc2_d7_6_portion_awareness.mp4",
       "when": "2026-08-17T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2294049661331313",
+        "permalink": "/reel/2294049661331313/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-17T22:38:10+00:00"
     },
     {
       "id": "hd-cadence-nc4_d15_6_hydration_aging-fb",
