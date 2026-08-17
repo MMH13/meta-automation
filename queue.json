@@ -11017,7 +11017,12 @@
       "message": "🙂 ছোট মুহূর্তগুলাই আসল প্রশান্তি। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/07_7.png",
       "when": "2026-08-17T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363272719255965",
+        "post_id": "1191612787659871_1363272732589297"
+      },
+      "posted_at": "2026-08-17T21:34:53+00:00"
     },
     {
       "id": "deshal-refill1-08-0",
@@ -18939,7 +18944,12 @@
       "message": "📱 That last line though. React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-17_21.png",
       "when": "2026-08-17T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1494249662726728",
+        "post_id": "2642505565823038_1494249682726726"
+      },
+      "posted_at": "2026-08-17T21:35:11+00:00"
     },
     {
       "id": "asu-refill1-2026-08-17-23",
