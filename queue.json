@@ -17078,7 +17078,12 @@
       "message": "🎭 Certain actors have a persona so strong that every role becomes a variation on it. Sometimes that's a criticism. Sometimes it's exactly why you buy a ticket.\n\n👇 Name an actor who's 'always the same guy' — and you still love it.\n\n🔁 Share this and see who agrees.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-17_23.png",
       "when": "2026-08-17T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201491364787954",
+        "post_id": "628257647029140_122201491382787954"
+      },
+      "posted_at": "2026-08-17T23:32:12+00:00"
     },
     {
       "id": "tmrr1-2026-08-18-13",
@@ -18959,8 +18964,14 @@
       "message": "🕵️ Read it twice. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-17_23.png",
       "when": "2026-08-17T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🖼️ ANSWER: His own son."
+      "status": "posted",
+      "first_comment": "🖼️ ANSWER: His own son.",
+      "result": {
+        "id": "1494306449387716",
+        "post_id": "2642505565823038_1494306466054381",
+        "first_comment_id": "1494306466054381_1575877181222371"
+      },
+      "posted_at": "2026-08-17T23:32:26+00:00"
     },
     {
       "id": "asu-refill1-2026-08-18-10",
