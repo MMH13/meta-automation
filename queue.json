@@ -11062,7 +11062,12 @@
       "message": "😂 এই গ্যাপ কমানোর কোনো উপায় নাই এখনো। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/08_2.png",
       "when": "2026-08-18T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363551789228058",
+        "post_id": "1191612787659871_1363551809228056"
+      },
+      "posted_at": "2026-08-18T06:58:20+00:00"
     },
     {
       "id": "deshal-refill1-08-3",
@@ -25265,7 +25270,13 @@
       "message": "😳 My car alarm goes off at exactly 3 AM, every night. The dashcam shows the door handle being tried from outside — every single time.\n\n👇 Would you have watched the full footage?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d8_s2_car_alarm.mp4",
       "when": "2026-08-18T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1946086983445050",
+        "permalink": "/reel/1946086983445050/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-18T06:58:59+00:00"
     },
     {
       "id": "sa-cadence-sa_d12_s3_calendar_event-fb",
