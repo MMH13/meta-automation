@@ -11107,7 +11107,12 @@
       "message": "😂 এই \"রোগ\" এর কোনো ওষুধ এখনো বের হয়নি। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/08_5.png",
       "when": "2026-08-18T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363876199195617",
+        "post_id": "1191612787659871_1363876222528948"
+      },
+      "posted_at": "2026-08-18T15:42:17+00:00"
     },
     {
       "id": "deshal-refill1-08-6",
@@ -17149,7 +17154,12 @@
       "message": "🎬 THE DARK KNIGHT (2008) — 5/5\n\nThe film that proved a comic-book movie could be a genuine crime epic, not a lesser genre wearing a cape.\n\nHeath Ledger's Joker isn't just a great villain performance — it's a philosophical argument the whole film has to answer. He doesn't want money or power. He wants to prove chaos always wins, and Nolan builds every set piece around testing that theory.\n\nThe ferry scene alone justifies the whole runtime. Two boats, one choice, and the film trusts the audience to sit with the tension instead of rushing past it.\n\nWeakness: Two-Face's turn happens fast, almost too fast for how much the film asks you to feel about it.\n\nVerdict: still the ceiling for what a blockbuster can be.\n\n👇 Best Joker performance — Ledger, or does someone else even come close?\n\n🔁 Share this with someone who still hasn't seen it.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-18_15.png",
       "when": "2026-08-18T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201565668787954",
+        "post_id": "628257647029140_122201565686787954"
+      },
+      "posted_at": "2026-08-18T15:42:30+00:00"
     },
     {
       "id": "tmrr1-2026-08-18-19",
@@ -25127,7 +25137,13 @@
       "message": "😳 My elderly neighbor has waved from her window every morning for two years. I just found out she passed away last month. This morning I looked anyway.\n\n👇 Would you have looked?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d8_s3_neighbor_wave.mp4",
       "when": "2026-08-18T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1937764846828753",
+        "permalink": "/reel/1937764846828753/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-18T15:43:00+00:00"
     },
     {
       "id": "sa-cadence-sa_d14_s3_shared_location-fb",
