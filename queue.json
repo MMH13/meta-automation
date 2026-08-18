@@ -17194,7 +17194,12 @@
       "message": "😂 Drama has a formula. Comedy has timing, and timing either works or it completely doesn't — there's no partial credit.\n\nThat's why great comedic performances get overlooked at awards season constantly.\n\n👇 A comedic performance that deserved more recognition?\n\n🔁 Share this with someone who underrates comedy.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-18_23.png",
       "when": "2026-08-18T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201603990787954",
+        "post_id": "628257647029140_122201604008787954"
+      },
+      "posted_at": "2026-08-18T23:30:45+00:00"
     },
     {
       "id": "tmrr1-2026-08-19-13",
@@ -19131,8 +19136,14 @@
       "message": "🕵️ Count the gaps, not the strikes. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-18_23.png",
       "when": "2026-08-18T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🕐 ANSWER: 12 seconds — there are only 12 gaps between 13 strikes."
+      "status": "posted",
+      "first_comment": "🕐 ANSWER: 12 seconds — there are only 12 gaps between 13 strikes.",
+      "result": {
+        "id": "1495165159301845",
+        "post_id": "2642505565823038_1495165169301844",
+        "first_comment_id": "1495165169301844_1975787953122710"
+      },
+      "posted_at": "2026-08-18T23:31:00+00:00"
     },
     {
       "id": "asu-refill1-2026-08-19-10",
