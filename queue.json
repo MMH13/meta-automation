@@ -11032,7 +11032,12 @@
       "message": "😆 মেস লাইফের এই ইউনিভার্সাল সল্যুশন সবাই চেনেন। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/08_0.png",
       "when": "2026-08-18T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363387559244481",
+        "post_id": "1191612787659871_1363387579244479"
+      },
+      "posted_at": "2026-08-18T01:45:30+00:00"
     },
     {
       "id": "deshal-refill1-08-1",
@@ -21453,7 +21458,11 @@
       "message": "A 20-minute nap can help — but timing matters a lot. 😴\n\nPast 20-30 minutes you risk grogginess, and late naps can mess with tonight's sleep. Early-to-mid afternoon is the sweet spot.\n\n💚 Bookmark this for your next slump.\n\n💬 Are you a napper?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d8_1_power_naps.mp4",
       "when": "2026-08-18T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18095707478426283"
+      },
+      "posted_at": "2026-08-18T01:46:14+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_5_omega3_basics-fb",
@@ -24025,7 +24034,13 @@
       "message": "A 20-minute nap can help — but timing matters a lot. 😴\n\nPast 20-30 minutes you risk grogginess, and late naps can mess with tonight's sleep. Early-to-mid afternoon is the sweet spot.\n\n💚 Bookmark this for your next slump.\n\n💬 Are you a napper?",
       "video_path": "images/health_reels_cadence3/nc3_d8_1_power_naps.mp4",
       "when": "2026-08-18T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1542290090911907",
+        "permalink": "/reel/1542290090911907/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-18T01:46:51+00:00"
     },
     {
       "id": "hd-cadence-nc1_d1_4_sleep_immune-fb",
@@ -24813,7 +24828,13 @@
       "message": "😳 My streaming history shows I watched a documentary at 3 AM. I was asleep by 11 — it was about people who vanished from their own homes.\n\n👇 Would you have rewatched it?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d8_s1_streaming_history.mp4",
       "when": "2026-08-18T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1735618447703410",
+        "permalink": "/reel/1735618447703410/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-18T01:47:20+00:00"
     },
     {
       "id": "sa-cadence-sa_d9_s3_locked_car-fb",
