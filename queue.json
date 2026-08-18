@@ -21001,7 +21001,13 @@
       "message": "Dumping your worries on paper can quiet a racing mind. 📓\n\nIt's called a brain dump — no structure, no filter, five minutes. Just getting it out of your head helps.\n\n💚 Bookmark this for a stressful night.\n\n💬 Do you journal at all?",
       "video_path": "images/health_reels_cadence3/nc3_d8_6_journaling_stress.mp4",
       "when": "2026-08-18T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1380135747444137",
+        "permalink": "/reel/1380135747444137/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-18T22:35:06+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_3_weekend_catchup_myth-ig",
@@ -24439,7 +24445,11 @@
       "message": "Dumping your worries on paper can quiet a racing mind. 📓\n\nIt's called a brain dump — no structure, no filter, five minutes. Just getting it out of your head helps.\n\n💚 Bookmark this for a stressful night.\n\n💬 Do you journal at all?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d8_6_journaling_stress.mp4",
       "when": "2026-08-18T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18145204690558459"
+      },
+      "posted_at": "2026-08-18T22:35:48+00:00"
     },
     {
       "id": "hd-cadence-nc5_d20_4_food_variety_kids-fb",
