@@ -11122,7 +11122,12 @@
       "message": "😂 গ্রুপ প্রজেক্টের এই এক নিয়ম কখনো বদলায় না। রিলেট করলে ট্যাগ করুন 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/08_6.png",
       "when": "2026-08-18T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1363999715849932",
+        "post_id": "1191612787659871_1363999729183264"
+      },
+      "posted_at": "2026-08-18T18:51:50+00:00"
     },
     {
       "id": "deshal-refill1-08-7",
@@ -25399,7 +25404,13 @@
       "message": "😳 \"The Waiting Room\" — a Suspense Ahead original.\n\nA night-shift patient with no record, waiting decades for a name that was never called — until his chair is finally empty.\n\n👇 Would you have called the name back?\n\n🔁 Share this with anyone who's ever worked a night shift.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content3/sa_d8_lf_the_waiting_room.mp4",
       "when": "2026-08-18T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1037911475727787",
+        "permalink": "/reel/1037911475727787/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-18T18:52:38+00:00"
     },
     {
       "id": "sa-cadence-sa_d4_lf_substitute_teacher-fb",
