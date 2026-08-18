@@ -23187,7 +23187,11 @@
       "message": "Blue light glasses might help less than the marketing suggests. 👓\n\nEvidence for reduced eye strain is mixed — what actually helps is breaks, blinking more, and screen distance.\n\n💚 Bookmark this reality check.\n\n💬 Do you use blue light glasses?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d8_2_blue_light_glasses.mp4",
       "when": "2026-08-18T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17902950258540132"
+      },
+      "posted_at": "2026-08-18T04:46:36+00:00"
     },
     {
       "id": "hd-cadence-nc2_d3_1_electrolytes-fb",
@@ -23723,7 +23727,13 @@
       "message": "Blue light glasses might help less than the marketing suggests. 👓\n\nEvidence for reduced eye strain is mixed — what actually helps is breaks, blinking more, and screen distance.\n\n💚 Bookmark this reality check.\n\n💬 Do you use blue light glasses?",
       "video_path": "images/health_reels_cadence3/nc3_d8_2_blue_light_glasses.mp4",
       "when": "2026-08-18T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2160768324781423",
+        "permalink": "/reel/2160768324781423/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-18T04:47:15+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_1_positive_environment_people-ig",
