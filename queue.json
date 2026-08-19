@@ -11152,7 +11152,12 @@
       "message": "😂 মায়েদের এই \"শান্ত মেয়ে\" ন্যারেটিভ সবার বাসাতেই আছে। কে কে চেনেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/09_0.png",
       "when": "2026-08-19T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1364204162496154",
+        "post_id": "1191612787659871_1364204229162814"
+      },
+      "posted_at": "2026-08-19T01:48:02+00:00"
     },
     {
       "id": "deshal-refill1-09-1",
@@ -21002,7 +21007,11 @@
       "message": "Long drives can quietly wreck your lower back. 🚗\n\nSlouched seats put extra strain on your spine — a small lumbar cushion and stretch stops every couple hours make a real difference.\n\n💚 Bookmark this for your next road trip.\n\n💬 Do long drives hurt your back?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d9_1_driving_posture.mp4",
       "when": "2026-08-19T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18105910682162356"
+      },
+      "posted_at": "2026-08-19T01:48:43+00:00"
     },
     {
       "id": "hd-cadence-nc3_d8_6_journaling_stress-fb",
@@ -21974,7 +21983,13 @@
       "message": "Long drives can quietly wreck your lower back. 🚗\n\nSlouched seats put extra strain on your spine — a small lumbar cushion and stretch stops every couple hours make a real difference.\n\n💚 Bookmark this for your next road trip.\n\n💬 Do long drives hurt your back?",
       "video_path": "images/health_reels_cadence3/nc3_d9_1_driving_posture.mp4",
       "when": "2026-08-19T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1732863607932044",
+        "permalink": "/reel/1732863607932044/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T01:49:19+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_5_gut_serotonin-fb",
@@ -25436,7 +25451,13 @@
       "message": "😳 My smartwatch logged 6,000 steps overnight — while charging on my nightstand. The route traced a perfect loop around my house.\n\n👇 Would you check the doors and windows?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d9_s1_step_counter.mp4",
       "when": "2026-08-19T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1039050232254736",
+        "permalink": "/reel/1039050232254736/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T01:49:48+00:00"
     },
     {
       "id": "sa-cadence-sa_d19_s1_laundry_room-fb",
