@@ -11227,7 +11227,12 @@
       "message": "😂 বাংলাদেশি টাইম জোনের এই কনভার্সন সবাই জানে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/09_5.png",
       "when": "2026-08-19T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1364698385780065",
+        "post_id": "1191612787659871_1364698405780063"
+      },
+      "posted_at": "2026-08-19T15:41:14+00:00"
     },
     {
       "id": "deshal-refill1-09-6",
@@ -17269,7 +17274,12 @@
       "message": "🎤 A great monologue needs no music, no cuts, no help. Just an actor and a room.\n\n1️⃣ ON THE WATERFRONT — Brando's coulda-been-a-contender\n2️⃣ A FEW GOOD MEN — Nicholson at full volume\n3️⃣ PULP FICTION — Jules before he pulls the trigger\n4️⃣ THERE WILL BE BLOOD — Day-Lewis unravels completely\n5️⃣ WALL STREET — Gekko's whole philosophy in ninety seconds\n\n👇 Which one do you know word for word?\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-19_15.png",
       "when": "2026-08-19T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201698160787954",
+        "post_id": "628257647029140_122201698184787954"
+      },
+      "posted_at": "2026-08-19T15:41:27+00:00"
     },
     {
       "id": "tmrr1-2026-08-19-19",
@@ -25090,7 +25100,13 @@
       "message": "😳 My locked car's driver seat was pulled forward this morning, and the mirror angled toward the back seat. Nothing stolen. Still locked.\n\n👇 Would you have checked the back seat first?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d9_s3_locked_car.mp4",
       "when": "2026-08-19T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1917674232479779",
+        "permalink": "/reel/1917674232479779/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T15:42:05+00:00"
     },
     {
       "id": "sa-cadence-sa_d11_s3_umbrella-fb",
