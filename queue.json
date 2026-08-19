@@ -19246,7 +19246,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI woke up with my bedroom door locked from the inside.\n\nI don't own a key that fits it.\n\n😳 Tag someone who checks their locks now.",
       "when": "2026-08-19T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1495835365901491"
+      },
+      "posted_at": "2026-08-19T16:41:22+00:00"
     },
     {
       "id": "asu-refill1-2026-08-19-19",
@@ -20856,7 +20860,11 @@
       "message": "You don't need a full workout to undo desk stiffness. 💺\n\nA 60-second shoulder roll and neck stretch, done every hour (not just at day's end), makes a real difference.\n\n💚 Bookmark this for your next work block.\n\n💬 How stiff do you feel by end of day?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d9_4_desk_microbreaks.mp4",
       "when": "2026-08-19T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18208212070362089"
+      },
+      "posted_at": "2026-08-19T16:42:18+00:00"
     },
     {
       "id": "hd-cadence-nc3_d12_4_breathing_blood_pressure-ig",
@@ -21430,7 +21438,13 @@
       "message": "You don't need a full workout to undo desk stiffness. 💺\n\nA 60-second shoulder roll and neck stretch, done every hour (not just at day's end), makes a real difference.\n\n💚 Bookmark this for your next work block.\n\n💬 How stiff do you feel by end of day?",
       "video_path": "images/health_reels_cadence3/nc3_d9_4_desk_microbreaks.mp4",
       "when": "2026-08-19T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2117858125824372",
+        "permalink": "/reel/2117858125824372/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T16:43:03+00:00"
     },
     {
       "id": "hd-cadence-nc2_d5_1_hand_washing-fb",
