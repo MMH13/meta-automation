@@ -17294,7 +17294,12 @@
       "message": "🎬 One of the most quoted duos in movie history said this together.\n\n👇 Comment the full line — and the film.\n\n🔁 Share this with someone who quotes '80s action films.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-19_19.png",
       "when": "2026-08-19T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201720978787954",
+        "post_id": "628257647029140_122201720996787954"
+      },
+      "posted_at": "2026-08-19T19:34:16+00:00"
     },
     {
       "id": "tmrr1-2026-08-19-23",
@@ -19265,8 +19270,14 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-08-19_19.png",
       "when": "2026-08-19T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🌚 ANSWER: Row 3."
+      "status": "posted",
+      "first_comment": "🌚 ANSWER: Row 3.",
+      "result": {
+        "id": "1495951829223178",
+        "post_id": "2642505565823038_1495951845889843",
+        "first_comment_id": "1495951845889843_1582439450283662"
+      },
+      "posted_at": "2026-08-19T19:34:32+00:00"
     },
     {
       "id": "asu-refill1-2026-08-19-21",
@@ -20667,7 +20678,11 @@
       "message": "Vitamin C probably won't stop a cold from happening. 🍊\n\nFor most people it doesn't reduce how often you catch one — but it may slightly shorten how long it lasts. Still worth eating daily.\n\n💚 Bookmark this reality check.\n\n💬 Do you load up on vitamin C when sick?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d9_5_vitamin_c_myth.mp4",
       "when": "2026-08-19T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18347691634221437"
+      },
+      "posted_at": "2026-08-19T19:35:18+00:00"
     },
     {
       "id": "hd-cadence-nc5_d23_6_gratitude_relationships-ig",
@@ -23289,7 +23304,13 @@
       "message": "Vitamin C probably won't stop a cold from happening. 🍊\n\nFor most people it doesn't reduce how often you catch one — but it may slightly shorten how long it lasts. Still worth eating daily.\n\n💚 Bookmark this reality check.\n\n💬 Do you load up on vitamin C when sick?",
       "video_path": "images/health_reels_cadence3/nc3_d9_5_vitamin_c_myth.mp4",
       "when": "2026-08-19T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1041285925473559",
+        "permalink": "/reel/1041285925473559/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T19:35:52+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_5_morning_light-fb",
