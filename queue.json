@@ -11242,7 +11242,12 @@
       "message": "😆 বিয়ের বাজেট দেখে সবাই একবার এই লাইনই বলে। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/09_6.png",
       "when": "2026-08-19T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1364823975767506",
+        "post_id": "1191612787659871_1364823999100837"
+      },
+      "posted_at": "2026-08-19T18:55:01+00:00"
     },
     {
       "id": "deshal-refill1-09-7",
@@ -24994,7 +24999,13 @@
       "message": "😳 \"The Babysitter's Note\" — a Suspense Ahead original.\n\nA note slides out from under a locked basement door: \"They're asleep. Good. Don't wake them.\"\n\n👇 Would you have gone down to check?\n\n🔁 Share this with anyone who babysits.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content3/sa_d9_lf_the_babysitter_note.mp4",
       "when": "2026-08-19T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "27905353985813457",
+        "permalink": "/reel/27905353985813457/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T18:56:20+00:00"
     },
     {
       "id": "sa-cadence-sa_d16_s1_credit_card-fb",
