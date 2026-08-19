@@ -21958,7 +21958,11 @@
       "message": "That jittery feeling after coffee might be more than just energy. ☕\n\nCaffeine can mimic physical signs of anxiety — racing heart, restlessness. If you're prone to anxiety, cutting back is worth testing.\n\n💚 Bookmark this reminder.\n\n💬 Does caffeine ever make you feel jittery?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d9_2_caffeine_anxiety.mp4",
       "when": "2026-08-19T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17953826832013250"
+      },
+      "posted_at": "2026-08-19T04:46:54+00:00"
     },
     {
       "id": "hd-cadence-nc6_d24_5_positive_self_talk-ig",
@@ -22320,7 +22324,13 @@
       "message": "That jittery feeling after coffee might be more than just energy. ☕\n\nCaffeine can mimic physical signs of anxiety — racing heart, restlessness. If you're prone to anxiety, cutting back is worth testing.\n\n💚 Bookmark this reminder.\n\n💬 Does caffeine ever make you feel jittery?",
       "video_path": "images/health_reels_cadence3/nc3_d9_2_caffeine_anxiety.mp4",
       "when": "2026-08-19T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2317403532402669",
+        "permalink": "/reel/2317403532402669/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T04:47:25+00:00"
     },
     {
       "id": "hd-cadence-nc4_d17_2_eye_strain_focus-fb",
