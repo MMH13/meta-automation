@@ -11182,7 +11182,12 @@
       "message": "😅 বুয়ার আগে ব্যাচেলর লাইফের আসল পরীক্ষা এই বাজার-হিসাব। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/09_2.png",
       "when": "2026-08-19T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1364370409146196",
+        "post_id": "1191612787659871_1364370435812860"
+      },
+      "posted_at": "2026-08-19T06:59:25+00:00"
     },
     {
       "id": "deshal-refill1-09-3",
@@ -25296,7 +25301,13 @@
       "message": "😳 Our baby monitor picks up static every night at the same time. Tonight I heard humming underneath it — a lullaby I've never sung.\n\n👇 Would you keep listening?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content3/sa_d9_s2_baby_monitor_static.mp4",
       "when": "2026-08-19T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1742199643597909",
+        "permalink": "/reel/1742199643597909/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-19T07:00:06+00:00"
     },
     {
       "id": "sa-cadence-sa_d11_s1_gym_locker-fb",
