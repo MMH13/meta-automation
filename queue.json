@@ -17434,7 +17434,12 @@
       "message": "🌀 The best twists survive a second viewing. You go back and every clue was right there, hiding in plain sight, and you still fell for it completely.\n\nThat's the difference between a twist and a cheap trick.\n\n👇 A twist that held up perfectly on rewatch?\n\n🔁 Share this with someone who loves a good twist.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-20_23.png",
       "when": "2026-08-20T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201861990787954",
+        "post_id": "628257647029140_122201862008787954"
+      },
+      "posted_at": "2026-08-20T23:35:55+00:00"
     },
     {
       "id": "tmrr1-2026-08-21-13",
@@ -19483,8 +19488,14 @@
       "message": "🕵️ One sentence flips the whole puzzle. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-20_23.png",
       "when": "2026-08-20T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🦊 ANSWER: Take the chicken first, return empty, take the fox, bring the chicken back, take the grain, return empty, take the chicken."
+      "status": "posted",
+      "first_comment": "🦊 ANSWER: Take the chicken first, return empty, take the fox, bring the chicken back, take the grain, return empty, take the chicken.",
+      "result": {
+        "id": "1497011515783876",
+        "post_id": "2642505565823038_1497011525783875",
+        "first_comment_id": "1497011525783875_4531422860520287"
+      },
+      "posted_at": "2026-08-20T23:36:12+00:00"
     },
     {
       "id": "asu-refill1-2026-08-21-10",
