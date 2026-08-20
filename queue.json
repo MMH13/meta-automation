@@ -11347,7 +11347,12 @@
       "message": "😂 এই ঘোষণা প্রতি মাসেই হয়, বাস্তবায়ন হয় না। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/10_5.png",
       "when": "2026-08-20T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1365522175697686",
+        "post_id": "1191612787659871_1365522205697683"
+      },
+      "posted_at": "2026-08-20T15:42:46+00:00"
     },
     {
       "id": "deshal-refill1-10-6",
@@ -17389,7 +17394,12 @@
       "message": "🎬 INTERSTELLAR (2014) — 4.5/5\n\nA father leaves his daughter behind to save humanity, and the film spends three hours making you feel exactly what that costs.\n\nThe science is real enough that a physicist consulted on the black hole visuals — but the film's actual engine is the relationship, not the wormhole. That docking sequence set to Hans Zimmer's score is as tense as anything Nolan has made.\n\nThe farmhouse scene, where years pass in messages, is one of the most devastating stretches in his filmography.\n\nWeakness: the fifth-dimension bookshelf sequence divides people hard — some find it moving, others find it a bridge too far.\n\nVerdict: flawed, enormous, and unforgettable.\n\n👇 Did the ending work for you, or lose you?\n\n🔁 Share this with someone who cried at the docking scene.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-20_15.png",
       "when": "2026-08-20T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201822006787954",
+        "post_id": "628257647029140_122201822024787954"
+      },
+      "posted_at": "2026-08-20T15:42:59+00:00"
     },
     {
       "id": "tmrr1-2026-08-20-19",
@@ -25107,7 +25117,13 @@
       "message": "😳 My shadow in a store window was a half-step behind me. When I stopped, it kept moving for a moment before stopping too.\n\n👇 Would you have looked again?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content4/sa_d10_s3_shadow_lag.mp4",
       "when": "2026-08-20T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "4818816281669359",
+        "permalink": "/reel/4818816281669359/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-20T15:43:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d2_s3_reflection_lag-fb",
