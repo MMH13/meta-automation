@@ -11362,7 +11362,12 @@
       "message": "😂 বাজারের লিস্টেও নিজের জন্য একটা লাইন রাখা লাগে! রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/10_6.png",
       "when": "2026-08-20T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1365649245684979",
+        "post_id": "1191612787659871_1365649259018311"
+      },
+      "posted_at": "2026-08-20T18:59:39+00:00"
     },
     {
       "id": "deshal-refill1-10-7",
@@ -25819,7 +25824,13 @@
       "message": "😳 \"The Rideshare\" — a Suspense Ahead original.\n\nA passenger from an empty lot, a house with no record of a resident since a fatal fire decades ago, and a ride that never shows in the trip history.\n\n👇 Would you have accepted the ride?\n\n🔁 Share this with anyone who drives rideshare.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content4/sa_d10_lf_the_rideshare.mp4",
       "when": "2026-08-20T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1042523581972691",
+        "permalink": "/reel/1042523581972691/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-20T19:00:41+00:00"
     },
     {
       "id": "sa-cadence-sa_d12_lf_the_night_shift_swap-fb",
