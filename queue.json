@@ -11332,7 +11332,12 @@
       "message": "😩 এই টাইমিং কীভাবে জানি সবার অফিসেই এক। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/10_4.png",
       "when": "2026-08-20T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1365414282375142",
+        "post_id": "1191612787659871_1365414322375138"
+      },
+      "posted_at": "2026-08-20T13:05:42+00:00"
     },
     {
       "id": "deshal-refill1-10-5",
@@ -16419,7 +16424,12 @@
       "message": "🌡️ Sleep starts with a small drop in your core body temperature — a hot room fights that every single night. Cooler air = faster, deeper sleep.\n\n→ Fan or a cracked window helps\n→ Lighter blanket, cooler room, over a heavy one\n→ A warm shower before bed actually helps you cool down after\n\n💚 Bookmark this. You'll need it later.\n💬 Fan on all night, or off? 👇",
       "image_url": "images/health_refill1/12_4.png",
       "when": "2026-08-20T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1726552222693609",
+        "post_id": "152206688762695_1726552269360271"
+      },
+      "posted_at": "2026-08-20T13:05:58+00:00"
     },
     {
       "id": "hd-refill1-12-4-ig",
@@ -16429,7 +16439,12 @@
       "message": "🌡️ Sleep starts with a small drop in your core body temperature — a hot room fights that every single night. Cooler air = faster, deeper sleep.\n\n→ Fan or a cracked window helps\n→ Lighter blanket, cooler room, over a heavy one\n→ A warm shower before bed actually helps you cool down after\n\n💚 Bookmark this. You'll need it later.\n💬 Fan on all night, or off? 👇",
       "image_url": "images/health_refill1/12_4.png",
       "when": "2026-08-20T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18153976501501525",
+        "permalink": "https://www.instagram.com/p/DcQ1LO5iPJq/"
+      },
+      "posted_at": "2026-08-20T13:06:26+00:00"
     },
     {
       "id": "hd-refill1-13-2-fb",
@@ -17359,7 +17374,12 @@
       "message": "🎭 'I couldn't root for anyone' is one of the most common complaints about serious dramas — and it usually misses the point entirely.\n\nSome of the greatest films ever made star people you'd never want to actually know.\n\n👇 A film with an unlikeable lead that's still one of your favourites?\n\n🔁 Share this and see who agrees.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-20_13.png",
       "when": "2026-08-20T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201806424787954",
+        "post_id": "628257647029140_122201806442787954"
+      },
+      "posted_at": "2026-08-20T13:06:41+00:00"
     },
     {
       "id": "tmrr1-2026-08-20-15",
@@ -19376,8 +19396,14 @@
       "message": "🕵️ Nothing else in the room. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-20_13.png",
       "when": "2026-08-20T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🚪 ANSWER: She hanged herself standing on a block of ice, which melted into the 'puddle.' The broken glass was from a light fixture she kicked."
+      "status": "posted",
+      "first_comment": "🚪 ANSWER: She hanged herself standing on a block of ice, which melted into the 'puddle.' The broken glass was from a light fixture she kicked.",
+      "result": {
+        "id": "1496606242491070",
+        "post_id": "2642505565823038_1496606285824399",
+        "first_comment_id": "1496606285824399_1432387188766417"
+      },
+      "posted_at": "2026-08-20T13:07:03+00:00"
     },
     {
       "id": "asu-refill1-2026-08-20-16",
