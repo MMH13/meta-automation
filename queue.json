@@ -11377,7 +11377,12 @@
       "message": "😂 ওয়াইফাই বন্ধ = জীবন বন্ধ। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/10_7.png",
       "when": "2026-08-20T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1365734942343076",
+        "post_id": "1191612787659871_1365734959009741"
+      },
+      "posted_at": "2026-08-20T21:36:55+00:00"
     },
     {
       "id": "deshal-refill1-11-0",
@@ -19463,7 +19468,12 @@
       "message": "📱 Which line got you? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-20_21.png",
       "when": "2026-08-20T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1496951629123198",
+        "post_id": "2642505565823038_1496951755789852"
+      },
+      "posted_at": "2026-08-20T21:37:07+00:00"
     },
     {
       "id": "asu-refill1-2026-08-20-23",
