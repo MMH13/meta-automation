@@ -17554,7 +17554,12 @@
       "message": "⏳ 'Too long' usually means 'poorly paced,' not 'over two hours.' A great film can run three hours and feel shorter than a mediocre 90-minute one.\n\n👇 A long film that never once felt long?\n\n🔁 Share this with someone who avoids long films.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-21_23.png",
       "when": "2026-08-21T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201975270787954",
+        "post_id": "628257647029140_122201975288787954"
+      },
+      "posted_at": "2026-08-21T23:32:28+00:00"
     },
     {
       "id": "tmrr1-2026-08-22-13",
@@ -19659,8 +19664,14 @@
       "message": "🕵️ Think about lighting both ends. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-21_23.png",
       "when": "2026-08-21T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🔥 ANSWER: Light one rope at both ends and the other at one end. When rope 1 burns out (30 min), light the other end of rope 2 — it finishes in 15 more minutes. Total: 45."
+      "status": "posted",
+      "first_comment": "🔥 ANSWER: Light one rope at both ends and the other at one end. When rope 1 burns out (30 min), light the other end of rope 2 — it finishes in 15 more minutes. Total: 45.",
+      "result": {
+        "id": "1497938252357869",
+        "post_id": "2642505565823038_1497938269024534",
+        "first_comment_id": "1497938269024534_1756261798969048"
+      },
+      "posted_at": "2026-08-21T23:32:41+00:00"
     },
     {
       "id": "asu-refill1-2026-08-22-10",
