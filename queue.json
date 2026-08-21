@@ -11452,7 +11452,12 @@
       "message": "😆 বাংলাদেশ খেললেই বাসার প্রতিটা মানুষ এক্সপার্ট কমেন্টেটর হয়ে যায়। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/11_4.png",
       "when": "2026-08-21T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1366240282292542",
+        "post_id": "1191612787659871_1366240302292540"
+      },
+      "posted_at": "2026-08-21T13:04:21+00:00"
     },
     {
       "id": "deshal-refill1-11-5",
@@ -16519,7 +16524,12 @@
       "message": "📝 A racing mind at bedtime is often your brain worried it'll forget something. Writing 3 tasks down lets it actually let go.\n\n→ Three, not thirty — the point is emptying your head\n→ Keep a notepad by the bed\n→ You fall asleep faster and wake up clearer\n\n💚 Bookmark this. You'll need it later.\n💬 Do you plan the night before? 👇",
       "image_url": "images/health_refill1/13_4.png",
       "when": "2026-08-21T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1727490625933102",
+        "post_id": "152206688762695_1727490649266433"
+      },
+      "posted_at": "2026-08-21T13:04:34+00:00"
     },
     {
       "id": "hd-refill1-13-4-ig",
@@ -16529,7 +16539,12 @@
       "message": "📝 A racing mind at bedtime is often your brain worried it'll forget something. Writing 3 tasks down lets it actually let go.\n\n→ Three, not thirty — the point is emptying your head\n→ Keep a notepad by the bed\n→ You fall asleep faster and wake up clearer\n\n💚 Bookmark this. You'll need it later.\n💬 Do you plan the night before? 👇",
       "image_url": "images/health_refill1/13_4.png",
       "when": "2026-08-21T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18609081478002572",
+        "permalink": "https://www.instagram.com/p/DcTZzZnjYhL/"
+      },
+      "posted_at": "2026-08-21T13:04:53+00:00"
     },
     {
       "id": "hd-refill1-14-2-fb",
@@ -17479,7 +17494,12 @@
       "message": "🧩 Five emojis, one very loud franchise.\n\n👇 Comment your answer.\n\n🔁 Share this with someone who's seen every entry.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-21_13.png",
       "when": "2026-08-21T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201922584787954",
+        "post_id": "628257647029140_122201922608787954"
+      },
+      "posted_at": "2026-08-21T13:05:06+00:00"
     },
     {
       "id": "tmrr1-2026-08-21-15",
@@ -19552,8 +19572,14 @@
       "message": "🕵️ No one got hurt. Figure out why 👇",
       "image_url": "images/suspense_refill1/2026-08-21_13.png",
       "when": "2026-08-21T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🔫 ANSWER: The man had hiccups and wanted water to cure them. Scaring him worked faster."
+      "status": "posted",
+      "first_comment": "🔫 ANSWER: The man had hiccups and wanted water to cure them. Scaring him worked faster.",
+      "result": {
+        "id": "1497527162398978",
+        "post_id": "2642505565823038_1497527182398976",
+        "first_comment_id": "1497527182398976_1070258765695680"
+      },
+      "posted_at": "2026-08-21T13:05:22+00:00"
     },
     {
       "id": "asu-refill1-2026-08-21-16",
