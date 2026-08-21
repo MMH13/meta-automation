@@ -11422,7 +11422,12 @@
       "message": "😅 ননদ-ভাবির এই খোঁচাখুঁচি চিরকালীন। কে কে দেখেছেন এমন সিন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/11_2.png",
       "when": "2026-08-21T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1366029568980280",
+        "post_id": "1191612787659871_1366029578980279"
+      },
+      "posted_at": "2026-08-21T07:01:33+00:00"
     },
     {
       "id": "deshal-refill1-11-3",
@@ -16479,7 +16484,12 @@
       "message": "🧍 Standing burns more calories than sitting — not dramatically per minute, but across a full workday it adds up meaningfully. Small shifts, real difference.\n\n→ Standing desk or just standing calls\n→ Set a timer to stand every hour\n→ Movement breaks matter more than one intense workout\n\n💚 Bookmark this. You'll need it later.\n💬 Do you sit most of the day? 👇",
       "image_url": "images/health_refill1/13_2.png",
       "when": "2026-08-21T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1727253192623512",
+        "post_id": "152206688762695_1727253212623510"
+      },
+      "posted_at": "2026-08-21T07:01:46+00:00"
     },
     {
       "id": "hd-refill1-13-2-ig",
@@ -16489,7 +16499,12 @@
       "message": "🧍 Standing burns more calories than sitting — not dramatically per minute, but across a full workday it adds up meaningfully. Small shifts, real difference.\n\n→ Standing desk or just standing calls\n→ Set a timer to stand every hour\n→ Movement breaks matter more than one intense workout\n\n💚 Bookmark this. You'll need it later.\n💬 Do you sit most of the day? 👇",
       "image_url": "images/health_refill1/13_2.png",
       "when": "2026-08-21T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17942288043324243",
+        "permalink": "https://www.instagram.com/p/DcSwSAhFvQY/"
+      },
+      "posted_at": "2026-08-21T07:02:07+00:00"
     },
     {
       "id": "hd-refill1-13-4-fb",
@@ -24948,7 +24963,13 @@
       "message": "😳 My best friend's phone texted me \"are you awake\" at 3:33 AM. She says she never sent it — her phone was charging in another room all night.\n\n👇 Would you believe her?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content4/sa_d11_s2_late_text.mp4",
       "when": "2026-08-21T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1103994581956343",
+        "permalink": "/reel/1103994581956343/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-21T07:02:42+00:00"
     },
     {
       "id": "sa-cadence-sa_d17_lf_the_family_group_call-fb",
