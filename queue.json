@@ -22000,7 +22000,13 @@
       "message": "Smiling on purpose can nudge your mood — even if you fake it. 😊\n\nIt's called the facial feedback effect: your facial muscles send signals back to your brain. Small, but real.\n\n💚 Bookmark this reminder.\n\n💬 Did that make you smile for real?",
       "video_path": "images/health_reels_cadence3/nc3_d11_2_smiling_mood.mp4",
       "when": "2026-08-21T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1062982960030890",
+        "permalink": "/reel/1062982960030890/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-21T04:00:21+00:00"
     },
     {
       "id": "hd-cadence-nc4_d16_2_cortisol_rhythm-fb",
@@ -24356,7 +24362,11 @@
       "message": "Smiling on purpose can nudge your mood — even if you fake it. 😊\n\nIt's called the facial feedback effect: your facial muscles send signals back to your brain. Small, but real.\n\n💚 Bookmark this reminder.\n\n💬 Did that make you smile for real?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d11_2_smiling_mood.mp4",
       "when": "2026-08-21T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17933167857397607"
+      },
+      "posted_at": "2026-08-21T04:01:01+00:00"
     },
     {
       "id": "hd-cadence-nc6_d25_2_chronic_pain_movement-fb",
