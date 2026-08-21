@@ -11482,7 +11482,12 @@
       "message": "😅 সিনেমা হলে বসেও ফোন স্ক্রল করা এই জেনারেশনের সুপারপাওয়ার। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/11_6.png",
       "when": "2026-08-21T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1366477468935490",
+        "post_id": "1191612787659871_1366477492268821"
+      },
+      "posted_at": "2026-08-21T18:50:14+00:00"
     },
     {
       "id": "deshal-refill1-11-7",
@@ -25248,7 +25253,13 @@
       "message": "😳 \"The Storage Unit\" — a Suspense Ahead original.\n\nA locked chest full of surveillance photos of a woman reported missing two years ago — with the most recent photo dated last month.\n\n👇 Would you have opened the unit next door?\n\n🔁 Share this with someone who loves a good true-crime mystery.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content4/sa_d11_lf_the_storage_unit.mp4",
       "when": "2026-08-21T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1470112355149562",
+        "permalink": "/reel/1470112355149562/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-21T18:51:08+00:00"
     },
     {
       "id": "sa-cadence-sa_d13_s3_school_photo-fb",
