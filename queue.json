@@ -22488,7 +22488,11 @@
       "message": "Swapping your phone for a physical book changes your wind-down. 📖\n\nNo blue light, no notifications, no scrolling — even 10 pages can settle a busy mind.\n\n💚 Bookmark this for tonight.\n\n💬 What are you reading lately?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d11_6_reading_before_bed.mp4",
       "when": "2026-08-21T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18089750915555335"
+      },
+      "posted_at": "2026-08-21T22:35:13+00:00"
     },
     {
       "id": "hd-cadence-nc3_d12_6_plant_variety-fb",
@@ -24416,7 +24420,13 @@
       "message": "Swapping your phone for a physical book changes your wind-down. 📖\n\nNo blue light, no notifications, no scrolling — even 10 pages can settle a busy mind.\n\n💚 Bookmark this for tonight.\n\n💬 What are you reading lately?",
       "video_path": "images/health_reels_cadence3/nc3_d11_6_reading_before_bed.mp4",
       "when": "2026-08-21T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1738437981218902",
+        "permalink": "/reel/1738437981218902/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-21T22:35:53+00:00"
     },
     {
       "id": "hd-cadence-nc5_d22_5_fermented_food_variety-ig",
