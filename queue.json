@@ -11497,7 +11497,12 @@
       "message": "😅 এই খেলায় হারলেও একটা তৃপ্তি থাকে। কে কে খেলেন এই খেলা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/11_7.png",
       "when": "2026-08-21T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1366565518926685",
+        "post_id": "1191612787659871_1366565548926682"
+      },
+      "posted_at": "2026-08-21T21:33:24+00:00"
     },
     {
       "id": "deshal-refill1-12-0",
@@ -19639,7 +19644,12 @@
       "message": "📱 That reply though. React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-21_21.png",
       "when": "2026-08-21T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1497879895697038",
+        "post_id": "2642505565823038_1497879905697037"
+      },
+      "posted_at": "2026-08-21T21:33:35+00:00"
     },
     {
       "id": "asu-refill1-2026-08-21-23",
