@@ -11467,7 +11467,12 @@
       "message": "😂 বৃষ্টি দেখলেই এই এক চিন্তা সবার মাথায় আসে। রিলেট করলে ❤️ দিন\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/11_5.png",
       "when": "2026-08-21T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1366352318948005",
+        "post_id": "1191612787659871_1366352342281336"
+      },
+      "posted_at": "2026-08-21T15:43:04+00:00"
     },
     {
       "id": "deshal-refill1-11-6",
@@ -17509,7 +17514,12 @@
       "message": "⚡ Lightning striking twice is genuinely rare. These five did it.\n\n1️⃣ GODFATHER PART II — deepens everything the first film built\n2️⃣ ALIENS — swaps horror for war and somehow it works better\n3️⃣ TERMINATOR 2 — the villain becomes the hero and it's flawless\n4️⃣ THE DARK KNIGHT — Batman Begins was good. This was generational.\n5️⃣ TOY STORY 2 — rare Pixar sequel that out-emotions the original\n\n👇 Which sequel beat its original for you?\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-21_15.png",
       "when": "2026-08-21T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122201935100787954",
+        "post_id": "628257647029140_122201935124787954"
+      },
+      "posted_at": "2026-08-21T15:43:22+00:00"
     },
     {
       "id": "tmrr1-2026-08-21-19",
@@ -25476,7 +25486,13 @@
       "message": "😳 A soaking wet umbrella appeared by my door after last night's rain. My doorbell camera shows no one approached — it was facing inward, toward the house.\n\n👇 Would you have brought it inside?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content4/sa_d11_s3_umbrella.mp4",
       "when": "2026-08-21T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1623075479399360",
+        "permalink": "/reel/1623075479399360/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-21T15:43:58+00:00"
     },
     {
       "id": "sa-cadence-sa_d16_lf_the_moving_boxes-fb",
