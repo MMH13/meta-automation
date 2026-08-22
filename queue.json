@@ -19774,7 +19774,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy reflection waved at me before I raised my hand.\n\nI haven't looked in a mirror since.\n\n😳 React 😱 if that got you.",
       "when": "2026-08-22T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "2642505565823038_1498538965631131"
+      },
+      "posted_at": "2026-08-22T16:35:15+00:00"
     },
     {
       "id": "asu-refill1-2026-08-22-19",
@@ -21231,7 +21235,11 @@
       "message": "Slow breathing can measurably lower blood pressure. 🫁\n\nLong, slow exhales activate your body's rest-and-relax response — even a few minutes can shift things in the moment.\n\n💚 Bookmark this for a tense moment.\n\n💬 How do you feel after that?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d12_4_breathing_blood_pressure.mp4",
       "when": "2026-08-22T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17973924717130868"
+      },
+      "posted_at": "2026-08-22T16:36:00+00:00"
     },
     {
       "id": "hd-cadence-nc3_d9_6_ice_vs_heat-fb",
@@ -21869,7 +21877,13 @@
       "message": "Slow breathing can measurably lower blood pressure. 🫁\n\nLong, slow exhales activate your body's rest-and-relax response — even a few minutes can shift things in the moment.\n\n💚 Bookmark this for a tense moment.\n\n💬 How do you feel after that?",
       "video_path": "images/health_reels_cadence3/nc3_d12_4_breathing_blood_pressure.mp4",
       "when": "2026-08-22T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1600572881710452",
+        "permalink": "/reel/1600572881710452/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T16:36:38+00:00"
     },
     {
       "id": "hd-cadence-nc6_d26_1_fiber_gradual_increase-ig",
