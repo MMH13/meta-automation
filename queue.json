@@ -11542,7 +11542,12 @@
       "message": "😂 বাসা গোছানোর এই সাইকেল কখনো শেষ হয় না। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/12_2.png",
       "when": "2026-08-22T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1366847948898442",
+        "post_id": "1191612787659871_1366847965565107"
+      },
+      "posted_at": "2026-08-22T06:54:26+00:00"
     },
     {
       "id": "deshal-refill1-12-3",
@@ -25671,7 +25676,13 @@
       "message": "😳 My mail keeps mixing with apartment 4D — but the building only goes A through C. Tonight, I saw a door in the hallway I'd never noticed before.\n\n👇 Would you have walked toward it?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content4/sa_d12_s2_apartment_number.mp4",
       "when": "2026-08-22T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2311345846347590",
+        "permalink": "/reel/2311345846347590/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T06:54:58+00:00"
     },
     {
       "id": "sa-cadence-sa_d14_lf_the_wellness_check-fb",
