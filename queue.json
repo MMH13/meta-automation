@@ -17674,7 +17674,12 @@
       "message": "🧩 Five emojis, one golden ticket.\n\n👇 Comment your answer.\n\n🔁 Share this with someone who loves this one.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-22_23.png",
       "when": "2026-08-22T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202094796787954",
+        "post_id": "628257647029140_122202094814787954"
+      },
+      "posted_at": "2026-08-22T23:29:58+00:00"
     },
     {
       "id": "tmrr1-2026-08-23-13",
@@ -19835,8 +19840,14 @@
       "message": "🕵️ You've played this one. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-22_23.png",
       "when": "2026-08-22T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🎲 ANSWER: Monopoly."
+      "status": "posted",
+      "first_comment": "🎲 ANSWER: Monopoly.",
+      "result": {
+        "id": "1498788875606140",
+        "post_id": "2642505565823038_1498788892272805",
+        "first_comment_id": "1498788892272805_1665525284543141"
+      },
+      "posted_at": "2026-08-22T23:30:15+00:00"
     },
     {
       "id": "asu-refill1-2026-08-23-10",
