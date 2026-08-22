@@ -17654,7 +17654,12 @@
       "message": "🎵 The best film composers work almost subliminally — you feel the shift in tension before your conscious brain registers why.\n\n👇 A score that manipulated your emotions and you didn't even notice?\n\n🔁 Share this with someone who never notices the score.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-22_19.png",
       "when": "2026-08-22T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202075896787954",
+        "post_id": "628257647029140_122202075914787954"
+      },
+      "posted_at": "2026-08-22T19:29:59+00:00"
     },
     {
       "id": "tmrr1-2026-08-22-23",
@@ -19793,8 +19798,14 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-08-22_19.png",
       "when": "2026-08-22T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🕸️ ANSWER: Row 2."
+      "status": "posted",
+      "first_comment": "🕸️ ANSWER: Row 2.",
+      "result": {
+        "id": "1498657412285953",
+        "post_id": "2642505565823038_1498657425619285",
+        "first_comment_id": "1498657425619285_2293065024853285"
+      },
+      "posted_at": "2026-08-22T19:30:14+00:00"
     },
     {
       "id": "asu-refill1-2026-08-22-21",
@@ -23460,7 +23471,11 @@
       "message": "A sore jaw in the morning can point to nighttime teeth grinding. 😬\n\nStress is one of the most common triggers, and it can wear down teeth over time — a night guard and stress management both help.\n\n💚 Bookmark this reminder.\n\n💬 Do you wake up with jaw soreness?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d12_5_teeth_grinding.mp4",
       "when": "2026-08-22T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17943615942296628"
+      },
+      "posted_at": "2026-08-22T19:30:57+00:00"
     },
     {
       "id": "hd-cadence-nc5_d18_2_cooking_at_home-fb",
@@ -24120,7 +24135,13 @@
       "message": "A sore jaw in the morning can point to nighttime teeth grinding. 😬\n\nStress is one of the most common triggers, and it can wear down teeth over time — a night guard and stress management both help.\n\n💚 Bookmark this reminder.\n\n💬 Do you wake up with jaw soreness?",
       "video_path": "images/health_reels_cadence3/nc3_d12_5_teeth_grinding.mp4",
       "when": "2026-08-22T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1051990714259791",
+        "permalink": "/reel/1051990714259791/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T19:31:36+00:00"
     },
     {
       "id": "hd-cadence-nc5_d21_1_music_exercise_performance-ig",
