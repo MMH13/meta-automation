@@ -11602,7 +11602,12 @@
       "message": "😂 বিয়ের আগের এই ভদ্রতা বিয়ের পরে কই যায়? রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/12_6.png",
       "when": "2026-08-22T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1367281708855066",
+        "post_id": "1191612787659871_1367281755521728"
+      },
+      "posted_at": "2026-08-22T18:42:36+00:00"
     },
     {
       "id": "deshal-refill1-12-7",
@@ -26223,7 +26228,13 @@
       "message": "😳 \"The Night Shift Swap\" — a Suspense Ahead original.\n\nA vacant 7th floor, a logbook of every guard who ever found the hidden office — and every one of them traded away that same shift within a week.\n\n👇 Would you have taken the elevator down?\n\n🔁 Share this with anyone who's worked a night shift alone.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content4/sa_d12_lf_the_night_shift_swap.mp4",
       "when": "2026-08-22T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1788884702465511",
+        "permalink": "/reel/1788884702465511/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T18:43:21+00:00"
     }
   ]
 }
