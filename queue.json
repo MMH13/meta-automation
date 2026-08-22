@@ -11587,7 +11587,12 @@
       "message": "😅 এই গবেষণায় নতুন কিছু নেই, সবাই জানি। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/12_5.png",
       "when": "2026-08-22T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1367160105533893",
+        "post_id": "1191612787659871_1367160118867225"
+      },
+      "posted_at": "2026-08-22T15:30:22+00:00"
     },
     {
       "id": "deshal-refill1-12-6",
@@ -17629,7 +17634,12 @@
       "message": "🎬 GOODFELLAS (1990) — 5/5\n\n\"As far back as I can remember, I always wanted to be a gangster.\" Then the film spends 145 minutes showing you why, and why that was a mistake.\n\nThe Copacabana tracking shot is the most famous single shot in gangster cinema for a reason — it makes the lifestyle look genuinely irresistible before the back half turns the same energy into paranoia and cocaine-fuelled dread.\n\nJoe Pesci's Tommy is terrifying precisely because the film never signals when he's about to explode. Neither do the characters around him.\n\nWeakness: the final act's frantic pacing is intentional, but it's genuinely exhausting on a first watch.\n\nVerdict: the template every mob film since has been measured against.\n\n👇 Best Scorsese film — go 👇\n\n🔁 Share this with someone who's never sat through the whole thing.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-22_15.png",
       "when": "2026-08-22T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202054272787954",
+        "post_id": "628257647029140_122202054296787954"
+      },
+      "posted_at": "2026-08-22T15:30:34+00:00"
     },
     {
       "id": "tmrr1-2026-08-22-19",
@@ -26109,7 +26119,13 @@
       "message": "😳 A calendar event appeared with no title, just my own address as the location, scheduled for 11:47 PM tonight. No one else has access to my calendar.\n\n👇 Delete it, or wait to see what happens?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content4/sa_d12_s3_calendar_event.mp4",
       "when": "2026-08-22T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1393497729383601",
+        "permalink": "/reel/1393497729383601/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T15:31:22+00:00"
     },
     {
       "id": "sa-cadence-sa_d9_s1_step_counter-fb",
