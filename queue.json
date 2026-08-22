@@ -20825,7 +20825,13 @@
       "message": "The oil you cook with matters more at high heat. 🍳\n\nEvery oil has a smoke point — past it, it breaks down and can produce harsh compounds. For high heat, avocado or refined oils handle it better.\n\n💚 Bookmark this for your next stir-fry.\n\n💬 What oil do you cook with most?",
       "video_path": "images/health_reels_cadence3/nc3_d12_2_cooking_oil_smoke_point.mp4",
       "when": "2026-08-22T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1879167926399069",
+        "permalink": "/reel/1879167926399069/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T04:43:03+00:00"
     },
     {
       "id": "hd-cadence-nc5_d20_5_hobbies_mental_health-fb",
@@ -21611,7 +21617,11 @@
       "message": "The oil you cook with matters more at high heat. 🍳\n\nEvery oil has a smoke point — past it, it breaks down and can produce harsh compounds. For high heat, avocado or refined oils handle it better.\n\n💚 Bookmark this for your next stir-fry.\n\n💬 What oil do you cook with most?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d12_2_cooking_oil_smoke_point.mp4",
       "when": "2026-08-22T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18111449579082778"
+      },
+      "posted_at": "2026-08-22T04:44:30+00:00"
     },
     {
       "id": "hd-cadence-nc3_d9_3_sugar_cravings_sleep-fb",
