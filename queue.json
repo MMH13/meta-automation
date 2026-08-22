@@ -22003,7 +22003,11 @@
       "message": "Eating 30 different plant foods a week sounds like a lot — it's not. 🌱\n\nHerbs, spices, nuts, and grains all count. More variety (not more volume) supports a healthier gut microbiome.\n\n💚 Bookmark this for your next grocery trip.\n\n💬 How many different plants did you eat today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d12_6_plant_variety.mp4",
       "when": "2026-08-22T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17908552719287294"
+      },
+      "posted_at": "2026-08-22T22:33:18+00:00"
     },
     {
       "id": "hd-cadence-nc5_d20_1_screen_posture_kids-ig",
@@ -22645,7 +22649,13 @@
       "message": "Eating 30 different plant foods a week sounds like a lot — it's not. 🌱\n\nHerbs, spices, nuts, and grains all count. More variety (not more volume) supports a healthier gut microbiome.\n\n💚 Bookmark this for your next grocery trip.\n\n💬 How many different plants did you eat today?",
       "video_path": "images/health_reels_cadence3/nc3_d12_6_plant_variety.mp4",
       "when": "2026-08-22T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1084057484096112",
+        "permalink": "/reel/1084057484096112/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T22:33:55+00:00"
     },
     {
       "id": "hd-cadence-nc5_d19_5_processed_food_awareness-fb",
