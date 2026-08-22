@@ -11617,7 +11617,12 @@
       "message": "😂 এইভাবেই কতজন মায়ের জন্মদিন মুখস্থ রাখে! কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/12_7.png",
       "when": "2026-08-22T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1367377542178816",
+        "post_id": "1191612787659871_1367377552178815"
+      },
+      "posted_at": "2026-08-22T21:30:54+00:00"
     },
     {
       "id": "deshal-refill1-13-0",
@@ -19815,7 +19820,12 @@
       "message": "📱 Would you have replied? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-22_21.png",
       "when": "2026-08-22T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1498728395612188",
+        "post_id": "2642505565823038_1498728418945519"
+      },
+      "posted_at": "2026-08-22T21:31:06+00:00"
     },
     {
       "id": "asu-refill1-2026-08-22-23",
