@@ -11512,7 +11512,12 @@
       "message": "😆 দাদি-নাতির এই তর্কে সবসময় দাদিই জিতে যায়। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/12_0.png",
       "when": "2026-08-22T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1366687095581194",
+        "post_id": "1191612787659871_1366687112247859"
+      },
+      "posted_at": "2026-08-22T01:45:32+00:00"
     },
     {
       "id": "deshal-refill1-12-1",
@@ -20845,7 +20850,13 @@
       "message": "Your urine color is a simple, real-time hydration check. 💛\n\nPale straw yellow usually means well hydrated; dark yellow is a signal to drink more. Some vitamins can temporarily change it too.\n\n💚 Bookmark this reminder.\n\n💬 Do you pay attention to this?",
       "video_path": "images/health_reels_cadence3/nc3_d12_1_urine_color_chart.mp4",
       "when": "2026-08-22T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1391545919592131",
+        "permalink": "/reel/1391545919592131/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T01:46:10+00:00"
     },
     {
       "id": "hd-cadence-nc4_d17_4_skin_hydration_plumpness-fb",
@@ -21939,7 +21950,11 @@
       "message": "Your urine color is a simple, real-time hydration check. 💛\n\nPale straw yellow usually means well hydrated; dark yellow is a signal to drink more. Some vitamins can temporarily change it too.\n\n💚 Bookmark this reminder.\n\n💬 Do you pay attention to this?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc3_d12_1_urine_color_chart.mp4",
       "when": "2026-08-22T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18486859465101657"
+      },
+      "posted_at": "2026-08-22T01:48:04+00:00"
     },
     {
       "id": "hd-cadence-nc1_d1_4_sleep_immune-ig",
@@ -25133,7 +25148,13 @@
       "message": "😳 My smart speaker turned on at 4 AM with no wake word. The recording is just breathing — then, faintly, it says my name.\n\n👇 Would you have kept the recording?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content4/sa_d12_s1_smart_speaker.mp4",
       "when": "2026-08-22T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1611041207099339",
+        "permalink": "/reel/1611041207099339/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-22T01:48:43+00:00"
     },
     {
       "id": "sa-cadence-sa_d7_s1_running_app-fb",
