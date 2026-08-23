@@ -11707,7 +11707,12 @@
       "message": "😂 পরীক্ষার পরে এই এক প্রশ্নই সবার মুখে। রিলেট করলে ❤️ দিন\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/13_5.png",
       "when": "2026-08-23T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1367967982119772",
+        "post_id": "1191612787659871_1367968002119770"
+      },
+      "posted_at": "2026-08-23T15:32:08+00:00"
     },
     {
       "id": "deshal-refill1-13-6",
@@ -17749,7 +17754,12 @@
       "message": "🚪 No car chases. No new sets. Just tension, built entirely from a single room.\n\n1️⃣ 12 ANGRY MEN — one jury room, unbearable tension\n2️⃣ ROPE — Hitchcock, one apartment, fake-single-take\n3️⃣ BURIED — Ryan Reynolds, a coffin, ninety minutes\n4️⃣ LOCKE — a man, a car, a phone, one of the tensest dramas ever\n5️⃣ THE SHINING — one hotel becomes a character itself\n\n👇 Which one proves you don't need a big budget?\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-23_15.png",
       "when": "2026-08-23T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202172022787954",
+        "post_id": "628257647029140_122202172040787954"
+      },
+      "posted_at": "2026-08-23T15:32:20+00:00"
     },
     {
       "id": "tmrr1-2026-08-23-19",
@@ -25598,7 +25608,13 @@
       "message": "😳 My old class photo has a face in the back row I don't recognize. My mom studied it and said, \"I don't remember him being there either.\"\n\n👇 Would you have asked your old teacher?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content5/sa_d13_s3_school_photo.mp4",
       "when": "2026-08-23T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1066705049189298",
+        "permalink": "/reel/1066705049189298/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-23T15:32:56+00:00"
     },
     {
       "id": "sa-cadence-sa_d5_s3_video_call_freeze-fb",
