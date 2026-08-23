@@ -21264,7 +21264,13 @@
       "message": "A few houseplants can do more than decorate a room. 🪴\n\nSome studies link them to lower stress — caring for something living can itself be calming.\n\n💚 Bookmark this reminder.\n\n💬 Do you have any houseplants?",
       "video_path": "images/health_reels_cadence4/nc4_d13_6_indoor_plants_air.mp4",
       "when": "2026-08-23T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1561275632136578",
+        "permalink": "/reel/1561275632136578/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-23T22:32:33+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_2_desk_hydration_reminder-ig",
@@ -22630,7 +22636,11 @@
       "message": "A few houseplants can do more than decorate a room. 🪴\n\nSome studies link them to lower stress — caring for something living can itself be calming.\n\n💚 Bookmark this reminder.\n\n💬 Do you have any houseplants?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d13_6_indoor_plants_air.mp4",
       "when": "2026-08-23T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18107809832601664"
+      },
+      "posted_at": "2026-08-23T22:33:14+00:00"
     },
     {
       "id": "hd-cadence-nc3_d9_2_caffeine_anxiety-ig",
