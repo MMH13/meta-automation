@@ -11737,7 +11737,12 @@
       "message": "😅 এই আর্ট প্র্যাকটিস করতে করতে সবাই এক্সপার্ট। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/13_7.png",
       "when": "2026-08-23T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1368182048765032",
+        "post_id": "1191612787659871_1368182085431695"
+      },
+      "posted_at": "2026-08-23T21:30:24+00:00"
     },
     {
       "id": "deshal-refill1-14-0",
@@ -19991,7 +19996,12 @@
       "message": "📱 Which line got you? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-23_21.png",
       "when": "2026-08-23T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1499597185525309",
+        "post_id": "2642505565823038_1499597208858640"
+      },
+      "posted_at": "2026-08-23T21:30:37+00:00"
     },
     {
       "id": "asu-refill1-2026-08-23-23",
