@@ -11662,7 +11662,12 @@
       "message": "😅 ভাই-বোনের আলমারি শেয়ারিং সবসময়ই এমন ধরা-খাওয়ার গল্প। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/13_2.png",
       "when": "2026-08-23T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1367655055484398",
+        "post_id": "1191612787659871_1367655075484396"
+      },
+      "posted_at": "2026-08-23T06:55:33+00:00"
     },
     {
       "id": "deshal-refill1-13-3",
@@ -25840,7 +25845,13 @@
       "message": "😳 I had a missed call from my landline — I don't own a landline. Found the old disconnected one in the basement, cord plugged in. I never plugged it in.\n\n👇 Would you have called it back?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content5/sa_d13_s2_missed_call.mp4",
       "when": "2026-08-23T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1762779514910480",
+        "permalink": "/reel/1762779514910480/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-23T06:56:03+00:00"
     },
     {
       "id": "sa-cadence-sa_d12_s2_apartment_number-fb",
