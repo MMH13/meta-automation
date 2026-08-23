@@ -19887,8 +19887,14 @@
       "message": "🧠 Look around your kitchen. Answer 👇",
       "image_url": "images/suspense_refill1/2026-08-23_10.png",
       "when": "2026-08-23T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🍾 ANSWER: A bottle."
+      "status": "posted",
+      "first_comment": "🍾 ANSWER: A bottle.",
+      "result": {
+        "id": "1499148005570227",
+        "post_id": "2642505565823038_1499148032236891",
+        "first_comment_id": "1499148032236891_1033384302929642"
+      },
+      "posted_at": "2026-08-23T10:34:00+00:00"
     },
     {
       "id": "asu-refill1-2026-08-23-13",
@@ -21030,7 +21036,11 @@
       "message": "Feeling hungry isn't just willpower — it's two hormones talking. 🍽️\n\nGhrelin says \"eat now,\" leptin says \"you're full.\" Poor sleep and stress can throw both off balance.\n\n💚 Bookmark this reminder.\n\n💬 Do you crave more food when tired?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d13_3_hunger_hormones.mp4",
       "when": "2026-08-23T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18418063240151242"
+      },
+      "posted_at": "2026-08-23T10:35:08+00:00"
     },
     {
       "id": "hd-cadence-nc5_d19_6_habit_stacking-fb",
@@ -21462,7 +21472,13 @@
       "message": "Feeling hungry isn't just willpower — it's two hormones talking. 🍽️\n\nGhrelin says \"eat now,\" leptin says \"you're full.\" Poor sleep and stress can throw both off balance.\n\n💚 Bookmark this reminder.\n\n💬 Do you crave more food when tired?",
       "video_path": "images/health_reels_cadence4/nc4_d13_3_hunger_hormones.mp4",
       "when": "2026-08-23T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "926267763280210",
+        "permalink": "/reel/926267763280210/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-23T10:35:49+00:00"
     },
     {
       "id": "hd-cadence-nc4_d16_4_caffeine_tolerance-fb",
