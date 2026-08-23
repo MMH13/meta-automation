@@ -11722,7 +11722,12 @@
       "message": "😂 স্ত্রীদের এই ষষ্ঠ ইন্দ্রিয় থেকে কেউ বাঁচতে পারে না। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/13_6.png",
       "when": "2026-08-23T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1368086708774566",
+        "post_id": "1191612787659871_1368086755441228"
+      },
+      "posted_at": "2026-08-23T18:41:49+00:00"
     },
     {
       "id": "deshal-refill1-13-7",
@@ -26200,7 +26205,13 @@
       "message": "😳 \"The Online Seller\" — a Suspense Ahead original.\n\nA buyer who knows exactly how a secondhand rocking chair creaks at midnight — because it belonged to their late mother.\n\n👇 Would you have kept the chair?\n\n🔁 Share this with someone who loves secondhand furniture.\n\n🎭 SUSPENSE AHEAD — original horror, every week.",
       "video_path": "images/suspense_reels_content5/sa_d13_lf_the_online_seller.mp4",
       "when": "2026-08-23T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1404710081566574",
+        "permalink": "/reel/1404710081566574/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-23T18:42:42+00:00"
     },
     {
       "id": "sa-cadence-sa_d19_s3_online_order-fb",
