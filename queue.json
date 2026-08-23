@@ -22958,7 +22958,11 @@
       "message": "Your reusable water bottle needs more than a rinse. 💧\n\nBacteria build up in the cap and straw especially fast — a weekly wash with soap and a bottle brush does the job.\n\n💚 Bookmark this reminder.\n\n💬 When did you last deep-clean your bottle?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d13_2_water_bottle_hygiene.mp4",
       "when": "2026-08-23T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18005136578972237"
+      },
+      "posted_at": "2026-08-23T04:47:48+00:00"
     },
     {
       "id": "hd-cadence-nc5_d22_4_posture_confidence_interviews-fb",
@@ -23422,7 +23426,13 @@
       "message": "Your reusable water bottle needs more than a rinse. 💧\n\nBacteria build up in the cap and straw especially fast — a weekly wash with soap and a bottle brush does the job.\n\n💚 Bookmark this reminder.\n\n💬 When did you last deep-clean your bottle?",
       "video_path": "images/health_reels_cadence4/nc4_d13_2_water_bottle_hygiene.mp4",
       "when": "2026-08-23T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1599489005081689",
+        "permalink": "/reel/1599489005081689/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-23T04:48:24+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_2_standing_desk-ig",
