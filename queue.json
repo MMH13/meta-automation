@@ -11827,7 +11827,12 @@
       "message": "😂 প্রতি বর্ষায় এই একই \"আবিষ্কার\" হয়। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/14_5.png",
       "when": "2026-08-24T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1368808238702413",
+        "post_id": "1191612787659871_1368808272035743"
+      },
+      "posted_at": "2026-08-24T15:52:32+00:00"
     },
     {
       "id": "deshal-refill1-14-6",
@@ -17869,7 +17874,12 @@
       "message": "🎬 PULP FICTION (1994) — 5/5\n\nThree stories, told out of order, connected by a briefcase nobody ever fully explains. It shouldn't work. It's one of the most influential films ever made.\n\nWhat holds it together isn't plot — it's voice. Every character, down to the diner robbers, talks like they've thought about foot massages and Royales with cheese their whole life. That's the real innovation: dialogue as characterization, not exposition.\n\nSamuel L. Jackson's Ezekiel 25:17 monologue is one of the great screen performances of the '90s, and it's delivered twice with two completely different meanings.\n\nWeakness: the nonlinear structure is a gimmick for some viewers — it rewards rewatching more than it rewards a first pass.\n\nVerdict: still the most purely fun 2.5 hours in serious cinema.\n\n👇 Which story thread is your favourite — Vincent, Butch, or Jules?\n\n🔁 Share this with someone who's only seen the poster.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-24_15.png",
       "when": "2026-08-24T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202281924787954",
+        "post_id": "628257647029140_122202281948787954"
+      },
+      "posted_at": "2026-08-24T15:52:44+00:00"
     },
     {
       "id": "tmrr1-2026-08-24-19",
@@ -26271,7 +26281,13 @@
       "message": "😳 A friend's shared location shows her right outside my house — but she says she's out of the country. The pin hasn't moved all day.\n\n👇 Would you go look outside?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content5/sa_d14_s3_shared_location.mp4",
       "when": "2026-08-24T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1449169120445700",
+        "permalink": "/reel/1449169120445700/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-24T15:53:22+00:00"
     },
     {
       "id": "sa-cadence-sa_d7_s3_thermostat-fb",
