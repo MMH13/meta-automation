@@ -11782,7 +11782,12 @@
       "message": "😂 প্রতিটা ম্যাচেই এই একই সাইকেল চলে। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/14_2.png",
       "when": "2026-08-24T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1368476992068871",
+        "post_id": "1191612787659871_1368477012068869"
+      },
+      "posted_at": "2026-08-24T07:15:45+00:00"
     },
     {
       "id": "deshal-refill1-14-3",
@@ -16779,7 +16784,12 @@
       "message": "🧴 Skin renews itself roughly every month — old cells shed, new ones form. Part of why consistent habits (sleep, water, less sugar) show results over weeks, not overnight.\n\n→ Give any skin routine at least 4-6 weeks\n→ Sun protection matters daily, not just summer\n→ Hydration from inside shows up outside too\n\n💚 Bookmark this. You'll need it later.\n💬 How long do you usually give a new routine? 👇",
       "image_url": "images/health_refill1/16_2.png",
       "when": "2026-08-24T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1730115035670661",
+        "post_id": "152206688762695_1730115059003992"
+      },
+      "posted_at": "2026-08-24T07:15:58+00:00"
     },
     {
       "id": "hd-refill1-16-2-ig",
@@ -16789,7 +16799,12 @@
       "message": "🧴 Skin renews itself roughly every month — old cells shed, new ones form. Part of why consistent habits (sleep, water, less sugar) show results over weeks, not overnight.\n\n→ Give any skin routine at least 4-6 weeks\n→ Sun protection matters daily, not just summer\n→ Hydration from inside shows up outside too\n\n💚 Bookmark this. You'll need it later.\n💬 How long do you usually give a new routine? 👇",
       "image_url": "images/health_refill1/16_2.png",
       "when": "2026-08-24T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18111094973079040",
+        "permalink": "https://www.instagram.com/p/DcagSwPlszM/"
+      },
+      "posted_at": "2026-08-24T07:16:16+00:00"
     },
     {
       "id": "hd-refill1-16-4-fb",
@@ -25889,7 +25904,13 @@
       "message": "😳 An extra, worn-down house key showed up on my keyring — one I never made. It worked perfectly in my front door.\n\n👇 Would you have changed the locks?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content5/sa_d14_s2_house_key.mp4",
       "when": "2026-08-24T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "3495405907276643",
+        "permalink": "/reel/3495405907276643/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-24T07:16:46+00:00"
     },
     {
       "id": "sa-cadence-sa_d15_s3_neighbor_lights-fb",
