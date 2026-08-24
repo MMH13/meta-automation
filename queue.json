@@ -11812,7 +11812,12 @@
       "message": "😅 এই প্রশ্ন থেকে বাঁচার কোনো উপায় নাই। কে কে ভুক্তভোগী? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/14_4.png",
       "when": "2026-08-24T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1368652878717949",
+        "post_id": "1191612787659871_1368652898717947"
+      },
+      "posted_at": "2026-08-24T12:12:37+00:00"
     },
     {
       "id": "deshal-refill1-14-5",
@@ -26831,7 +26836,13 @@
       "message": "🎬 5 films you'll never unsee.\n\nNo. 5 Shutter Island · No. 4 Gone Girl · No. 3 Prisoners · No. 2 Oldboy · No. 1 Se7en\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content1/tmr_d1_never_unsee.mp4",
       "when": "2026-08-24T12:03:35+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2179341129592388",
+        "permalink": "/reel/2179341129592388/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-24T12:13:13+00:00"
     },
     {
       "id": "tmr-reel-tmr_d16_courtroom",
