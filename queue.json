@@ -11752,7 +11752,12 @@
       "message": "😂 \"পড়িনি\" বলা এই ফার্স্ট বয়দের সবাই একবার হলেও দেখেছি। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/14_0.png",
       "when": "2026-08-24T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1368308442085726",
+        "post_id": "1191612787659871_1368308525419051"
+      },
+      "posted_at": "2026-08-24T01:52:11+00:00"
     },
     {
       "id": "deshal-refill1-14-1",
@@ -21963,7 +21968,13 @@
       "message": "Too much caffeine can quietly affect how your body handles calcium. ☕\n\nHigh intake may slightly increase calcium lost through urine — modest effect, but getting enough calcium from food covers the gap.\n\n💚 Bookmark this reminder.\n\n💬 How many cups of coffee do you have a day?",
       "video_path": "images/health_reels_cadence4/nc4_d14_1_caffeine_calcium.mp4",
       "when": "2026-08-24T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "3586312441545482",
+        "permalink": "/reel/3586312441545482/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-24T01:52:49+00:00"
     },
     {
       "id": "hd-cadence-nc6_d26_5_posture_screen_height-ig",
@@ -23601,7 +23612,11 @@
       "message": "Too much caffeine can quietly affect how your body handles calcium. ☕\n\nHigh intake may slightly increase calcium lost through urine — modest effect, but getting enough calcium from food covers the gap.\n\n💚 Bookmark this reminder.\n\n💬 How many cups of coffee do you have a day?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d14_1_caffeine_calcium.mp4",
       "when": "2026-08-24T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18020082614880797"
+      },
+      "posted_at": "2026-08-24T01:53:31+00:00"
     },
     {
       "id": "hd-cadence-nc6_d30_4_movement_final_reminder-fb",
@@ -25953,7 +25968,13 @@
       "message": "😳 My phone unlocked with Face ID while in my pocket, facing down — for four straight minutes, no apps opened. Just sitting there, unlocked.\n\n👇 Would you have changed your passcode?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content5/sa_d14_s1_locked_screen.mp4",
       "when": "2026-08-24T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1547131117095579",
+        "permalink": "/reel/1547131117095579/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-24T01:54:03+00:00"
     },
     {
       "id": "sa-cadence-sa_d3_s1_photo_booth-fb",
