@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 3 (days 13-18)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d13_obsession", "Losing the plot",
+  "5 films about\n*obsession* taking\nover.",
+  "Five films about obsession taking over completely.",
+  [("Whiplash", 2014, "Is he a teacher\nor *an abuser?*",
+    "Is he a teacher, or an abuser?"),
+   ("Black Swan", 2010, "Perfection,\nand what it *costs.*",
+    "Perfection, and what it costs."),
+   ("There Will Be Blood", 2007, "One man,\nand *no* soul left.",
+    "One man, and no soul left."),
+   ("The Machinist", 2004, "He hasn't slept\nin *a year.*",
+    "He hasn't slept in a year."),
+   ("Nightcrawler", 2014, "He's not the hero.\nHe *never* was.",
+    "He's not the hero. He never was.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d14_neo_noir", "Neon and rain",
+  "5 neo-noir films\nthat look\n*incredible.*",
+  "Five neo noir films that look incredible.",
+  [("Drive", 2011, "More *mood*\nthan dialogue.",
+    "More mood than dialogue."),
+   ("Blade Runner 2049", 2017, "Every frame\nbelongs in *a gallery.*",
+    "Every frame belongs in a gallery."),
+   ("Chinatown", 1974, "The ending is\n*still* a gut punch.",
+    "The ending is still a gut punch."),
+   ("Sin City", 2005, "A comic panel\nthat *learned to move.*",
+    "A comic panel that learned to move."),
+   ("L.A. Confidential", 1997, "Three cops.\n*Nobody* clean.",
+    "Three cops, nobody clean.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d15_survival", "Stay alive",
+  "5 survival films\nthat *exhaust*\nyou.",
+  "Five survival films that leave you exhausted.",
+  [("The Revenant", 2015, "Shot in *natural light,*\nin real cold.",
+    "Shot in natural light, in real cold."),
+   ("All Is Lost", 2013, "One actor.\nAlmost *no* dialogue.",
+    "One actor, almost no dialogue."),
+   ("Touching the Void", 2003, "A true climb,\nand *an impossible* choice.",
+    "A true climb, and an impossible choice."),
+   ("The Grey", 2011, "Not the film\nthe *trailer* sold you.",
+    "Not the film the trailer sold you."),
+   ("Cast Away", 2000, "You *will* cry\nover a volleyball.",
+    "You will cry over a volleyball.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d16_courtroom", "Order in the court",
+  "5 courtroom films\nwith *perfect*\ntension.",
+  "Five courtroom films with perfect tension.",
+  [("A Few Good Men", 1992, "One line.\n*Everyone* knows it.",
+    "One line, and everyone knows it."),
+   ("Anatomy of a Fall", 2023, "Was it murder?\nThe film *won't* tell you.",
+    "Was it murder? The film won't tell you."),
+   ("The Verdict", 1982, "A broken lawyer's\n*last* case.",
+    "A broken lawyer's last case."),
+   ("Witness for the Prosecution", 1957, "Agatha Christie's\n*best* screen twist.",
+    "Agatha Christie's best screen twist."),
+   ("12 Angry Men", 1957, "One juror\nchanges *everything.*",
+    "One juror changes everything.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d17_coming_of_age", "Growing up hurts",
+  "5 coming-of-age\nfilms that\n*actually* land.",
+  "Five coming of age films that actually land.",
+  [("Lady Bird", 2017, "Every mother-daughter\nfight, *exactly* right.",
+    "Every mother daughter fight, exactly right."),
+   ("Stand by Me", 1986, "Four boys.\nOne summer.\n*One body.*",
+    "Four boys, one summer, one body."),
+   ("Boyhood", 2014, "Filmed over\n*twelve* real years.",
+    "Filmed over twelve real years."),
+   ("Call Me by Your Name", 2017, "That last shot\nruns *four minutes.*",
+    "That last shot runs four minutes."),
+   ("Moonlight", 2016, "Three chapters.\n*One* life.",
+    "Three chapters, one life.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d18_under_90", "Short and brutal",
+  "5 great films\nunder *90*\nminutes.",
+  "Five great films under ninety minutes.",
+  [("Before Sunrise", 1995, "One night in Vienna.\n*Just* talking.",
+    "One night in Vienna, just talking."),
+   ("Run Lola Run", 1998, "Twenty minutes,\n*three* times.",
+    "Twenty minutes, three times over."),
+   ("The Straight Story", 1999, "A Lynch film\nwith *no* nightmare.",
+    "A Lynch film with no nightmare."),
+   ("Toy Story", 1995, "Eighty-one minutes.\n*Not one* wasted.",
+    "Eighty one minutes, not one wasted."),
+   ("12 Angry Men", 1957, "Ninety-six minutes\nthat feel like *ten.*",
+    "Ninety six minutes that feel like ten.")],
+  hashtags=TAGS),
+]

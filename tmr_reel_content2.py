@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 2 (days 7-12)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d7_heist", "Heist night",
+  "5 heist films\nwith *flawless*\nplanning.",
+  "Five heist films with flawless planning.",
+  [("Inside Man", 2006, "The perfect robbery\nis *not leaving.*",
+    "The perfect robbery is not leaving."),
+   ("Ocean's Eleven", 2001, "Pure style.\nNot one *wasted* scene.",
+    "Pure style. Not one wasted scene."),
+   ("Heat", 1995, "That shootout\nchanged *everything.*",
+    "That shootout changed everything."),
+   ("Rififi", 1955, "Thirty silent minutes.\n*No* music. No talking.",
+    "Thirty silent minutes. No music, no talking."),
+   ("Dog Day Afternoon", 1975, "The worst-planned heist\never *filmed* — and it's true.",
+    "The worst planned heist ever filmed, and it's true.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d8_underrated_horror", "Sleep with the light on",
+  "5 horror films\nyou *haven't*\nseen yet.",
+  "Five horror films you probably haven't seen yet.",
+  [("Lake Mungo", 2008, "A fake documentary\nthat feels *far* too real.",
+    "A fake documentary that feels far too real."),
+   ("Kill List", 2011, "Starts as a drama.\n*Doesn't end* as one.",
+    "Starts as a drama. Doesn't end as one."),
+   ("The Witch", 2015, "Slow, cold,\nand *deeply* wrong.",
+    "Slow, cold, and deeply wrong."),
+   ("Session 9", 2001, "Filmed in a real\n*abandoned* asylum.",
+    "Filmed in a real abandoned asylum."),
+   ("Hereditary", 2018, "That dinner scene\nis *pure* dread.",
+    "That dinner scene is pure dread.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d9_time_loops", "Again. And again.",
+  "5 time loop films\nthat *actually*\nwork.",
+  "Five time loop films that actually work.",
+  [("Palm Springs", 2020, "The funniest take\non *infinite* Tuesdays.",
+    "The funniest take on infinite Tuesdays."),
+   ("Edge of Tomorrow", 2014, "Die. Repeat.\n*Get better.*",
+    "Die, repeat, get better."),
+   ("Triangle", 2009, "The loop is\n*worse* than it looks.",
+    "The loop is worse than it looks."),
+   ("Groundhog Day", 1993, "Still the one\n*everyone* copies.",
+    "Still the one everyone copies."),
+   ("Predestination", 2014, "You'll need\n*a whiteboard* for this one.",
+    "You'll need a whiteboard for this one.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d10_true_story", "Actually happened",
+  "5 true stories\nthat sound\n*made up.*",
+  "Five true stories that sound completely made up.",
+  [("Catch Me If You Can", 2002, "He forged checks\n*before* he could drive.",
+    "He forged checks before he could drive."),
+   ("The Big Short", 2015, "They saw it coming.\n*Nobody* listened.",
+    "They saw it coming. Nobody listened."),
+   ("Spotlight", 2015, "Quiet, patient,\nand *devastating.*",
+    "Quiet, patient, and devastating."),
+   ("127 Hours", 2010, "You know what happens.\nIt's *still* unbearable.",
+    "You know what happens. It's still unbearable."),
+   ("Zodiac", 2007, "The case was never\nsolved — and the film\n*knows it.*",
+    "The case was never solved, and the film knows it.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d11_space", "Out there",
+  "5 space films\nthat get the\n*silence* right.",
+  "Five space films that get the silence right.",
+  [("Moon", 2009, "One man,\none base,\n*one problem.*",
+    "One man, one base, one problem."),
+   ("Gravity", 2013, "Ninety minutes\nof *held breath.*",
+    "Ninety minutes of held breath."),
+   ("Interstellar", 2014, "That docking scene.\nThat *score.*",
+    "That docking scene. That score."),
+   ("Alien", 1979, "In space, nobody\n*needs* a jump scare.",
+    "In space, nobody needs a jump scare."),
+   ("2001: A Space Odyssey", 1968, "Made in 1968\nand still *ahead* of us.",
+    "Made in nineteen sixty eight, and still ahead of us.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d12_animation_adults", "Not for kids",
+  "5 animated films\nfor *grown-ups.*",
+  "Five animated films made for grown ups.",
+  [("Waltz with Bashir", 2008, "A war documentary,\n*animated.*",
+    "A war documentary, animated."),
+   ("Perfect Blue", 1997, "Inception owes it\n*everything.*",
+    "Inception owes this one everything."),
+   ("Persepolis", 2007, "A revolution,\ndrawn in *black and white.*",
+    "A revolution, drawn in black and white."),
+   ("Spirited Away", 2001, "Beautiful, and\n*much darker* than you remember.",
+    "Beautiful, and much darker than you remember."),
+   ("Grave of the Fireflies", 1988, "The one you'll\n*never* rewatch.",
+    "The one you'll never rewatch.")],
+  hashtags=TAGS),
+]

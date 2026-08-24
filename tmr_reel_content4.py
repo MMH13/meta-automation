@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 4 (days 19-24)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d19_unreliable", "Don't trust them",
+  "5 films with\n*unreliable*\nnarrators.",
+  "Five films with narrators you should not trust.",
+  [("American Psycho", 2000, "Did *any* of it\nactually happen?",
+    "Did any of it actually happen?"),
+   ("Shutter Island", 2010, "You're seeing it\n*his* way. That's the trap.",
+    "You're seeing it his way. That's the trap."),
+   ("Rashomon", 1950, "Four accounts.\n*One* truth. Maybe.",
+    "Four accounts, one truth, maybe."),
+   ("Gone Girl", 2014, "Her diary is\n*a weapon.*",
+    "Her diary is a weapon."),
+   ("Fight Club", 1999, "He's lying\nto *himself* first.",
+    "He's lying to himself first.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d20_cinematography", "Every frame a painting",
+  "5 films with\n*flawless*\ncinematography.",
+  "Five films with flawless cinematography.",
+  [("The Grand Budapest Hotel", 2014, "Symmetry as\n*storytelling.*",
+    "Symmetry as storytelling."),
+   ("In the Mood for Love", 2000, "Longing, told in\n*colour* and slow motion.",
+    "Longing, told in colour and slow motion."),
+   ("Children of Men", 2006, "That car scene\nlooks *impossible.*",
+    "That car scene looks impossible."),
+   ("1917", 2019, "Built to feel like\n*one* unbroken take.",
+    "Built to feel like one unbroken take."),
+   ("Blade Runner 2049", 2017, "Roger Deakins\nfinally *won* for this.",
+    "Roger Deakins finally won for this.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d21_con_artists", "Watch their hands",
+  "5 con artist films\nthat *fool*\nyou too.",
+  "Five con artist films that fool you too.",
+  [("The Sting", 1973, "The con is on\n*the audience.*",
+    "The con is on the audience."),
+   ("Matchstick Men", 2003, "The mark is\n*closer* than he thinks.",
+    "The mark is closer than he thinks."),
+   ("Focus", 2015, "The Super Bowl scene\nis *worth it alone.*",
+    "The Super Bowl scene is worth it alone."),
+   ("Catch Me If You Can", 2002, "Charm as\n*a career.*",
+    "Charm as a career."),
+   ("The Usual Suspects", 1995, "The greatest trick\nhe *ever* pulled.",
+    "The greatest trick he ever pulled.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d22_cult_classics", "Flopped, then famous",
+  "5 films that\n*bombed* — then\nbecame classics.",
+  "Five films that bombed, then became classics.",
+  [("Blade Runner", 1982, "Hated in 1982.\n*Essential* now.",
+    "Hated in nineteen eighty two. Essential now."),
+   ("The Thing", 1982, "Buried by E.T.\nNow *untouchable.*",
+    "Buried by E T. Now untouchable."),
+   ("Fight Club", 1999, "A flop that\n*found* its people.",
+    "A flop that found its people."),
+   ("The Shawshank Redemption", 1994, "Nobody watched it\nuntil *cable* did.",
+    "Nobody watched it until cable did."),
+   ("Office Space", 1999, "The film every\ndesk job *quotes.*",
+    "The film every desk job quotes.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d23_debut", "First time out",
+  "5 directors whose\n*debut* was\ntheir best.",
+  "Five directors whose debut was already extraordinary.",
+  [("Reservoir Dogs", 1992, "Tarantino,\n*fully* formed already.",
+    "Tarantino, fully formed already."),
+   ("Whiplash", 2014, "A short film\nthat *earned* a feature.",
+    "A short film that earned a feature."),
+   ("Get Out", 2017, "A comedian\nmade *this.*",
+    "A comedian made this."),
+   ("Following", 1998, "Nolan's debut,\nshot for *$6,000.*",
+    "Nolan's debut, shot for six thousand dollars."),
+   ("Citizen Kane", 1941, "He was *25.*\nThat's the whole point.",
+    "He was twenty five. That's the whole point.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d24_endings", "Stick the landing",
+  "5 films with\n*perfect* final\nscenes.",
+  "Five films with perfect final scenes.",
+  [("The Truman Show", 1998, "\"Good morning,\nand *good night.*\"",
+    "Good morning, and good night."),
+   ("No Country for Old Men", 2007, "It just *stops.*\nAnd that's right.",
+    "It just stops. And that's right."),
+   ("The Graduate", 1967, "Watch their faces\n*after* the smile.",
+    "Watch their faces after the smile."),
+   ("Whiplash", 2014, "Nine minutes,\n*no* dialogue needed.",
+    "Nine minutes, no dialogue needed."),
+   ("Se7en", 1995, "Still the *bravest*\nending in the genre.",
+    "Still the bravest ending in the genre.")],
+  hashtags=TAGS),
+]

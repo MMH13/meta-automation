@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 5 (days 25-30, closes the 30-day set)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d25_feel_good", "Actually cheerful",
+  "5 films that\n*fix* a bad\nday.",
+  "Five films that fix a bad day.",
+  [("Paddington 2", 2017, "Somehow *perfect.*\nNo notes.",
+    "Somehow perfect. No notes."),
+   ("Chef", 2014, "Do *not* watch\nthis hungry.",
+    "Do not watch this hungry."),
+   ("School of Rock", 2003, "Jack Black at\n*full* volume.",
+    "Jack Black at full volume."),
+   ("Amélie", 2001, "Paris, but *warmer*\nthan real life.",
+    "Paris, but warmer than real life."),
+   ("Singin' in the Rain", 1952, "Seventy years old\nand still *joyful.*",
+    "Seventy years old, and still joyful.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d26_war", "No glory here",
+  "5 war films\nthat refuse\nto be *heroic.*",
+  "Five war films that refuse to be heroic.",
+  [("Come and See", 1985, "The hardest\nwar film *ever* made.",
+    "The hardest war film ever made."),
+   ("Apocalypse Now", 1979, "The shoot nearly\n*destroyed* everyone.",
+    "The shoot nearly destroyed everyone."),
+   ("Dunkirk", 2017, "Three timelines,\n*one* rising panic.",
+    "Three timelines, one rising panic."),
+   ("Full Metal Jacket", 1987, "Two halves,\n*one* argument.",
+    "Two halves, one argument."),
+   ("Saving Private Ryan", 1998, "The first\ntwenty minutes *changed war films.*",
+    "The first twenty minutes changed war films forever.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d27_psychological", "In your head",
+  "5 psychological\nhorrors that\n*stay* with you.",
+  "Five psychological horrors that stay with you.",
+  [("The Babadook", 2014, "Grief, wearing\n*a monster* costume.",
+    "Grief, wearing a monster costume."),
+   ("Rosemary's Baby", 1968, "Nobody believes her.\nThat's *the* horror.",
+    "Nobody believes her. That's the horror."),
+   ("Repulsion", 1965, "The walls\n*are* the plot.",
+    "The walls are the plot."),
+   ("Midsommar", 2019, "A horror film\nin *broad daylight.*",
+    "A horror film in broad daylight."),
+   ("The Shining", 1980, "Every rewatch,\n*a new* detail.",
+    "Every rewatch, a new detail.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d28_dialogue", "All talk",
+  "5 films that are\n*just* people\ntalking.",
+  "Five films that are just people talking, and they're great.",
+  [("My Dinner with Andre", 1981, "Two men.\nOne dinner.\n*That's it.*",
+    "Two men, one dinner, that's it."),
+   ("Before Midnight", 2013, "The most *honest*\nargument on film.",
+    "The most honest argument on film."),
+   ("Glengarry Glen Ross", 1992, "Mamet dialogue\nas *blood sport.*",
+    "Mamet dialogue as blood sport."),
+   ("The Social Network", 2010, "Sorkin at\n*maximum* speed.",
+    "Sorkin at maximum speed."),
+   ("12 Angry Men", 1957, "The *definitive*\ntalking film.",
+    "The definitive talking film.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d29_predicted", "They saw it coming",
+  "5 films that\n*predicted* the\nfuture.",
+  "Five films that predicted the future a little too well.",
+  [("Network", 1976, "Outrage as\n*entertainment.* In 1976.",
+    "Outrage as entertainment, in nineteen seventy six."),
+   ("The Truman Show", 1998, "Reality TV\n*before* reality TV.",
+    "Reality TV, before reality TV."),
+   ("Idiocracy", 2006, "Meant as satire.\n*Aged* as documentary.",
+    "Meant as satire. Aged as documentary."),
+   ("Her", 2013, "Falling for an AI\nfelt *absurd* then.",
+    "Falling for an A I felt absurd then."),
+   ("Contagion", 2011, "In 2020, everyone\n*rewatched* it.",
+    "In twenty twenty, everyone rewatched it.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d30_all_time", "The short list",
+  "5 films everyone\nshould see\n*once.*",
+  "Five films everyone should see at least once.",
+  [("Spirited Away", 2001, "Animation at\nits *absolute* peak.",
+    "Animation at its absolute peak."),
+   ("Seven Samurai", 1954, "Every team-up film\ncopies *this one.*",
+    "Every team up film copies this one."),
+   ("The Godfather", 1972, "Somehow *better*\nthan its reputation.",
+    "Somehow better than its reputation."),
+   ("Parasite", 2019, "The first\nsubtitled *Best Picture.*",
+    "The first subtitled Best Picture winner."),
+   ("Casablanca", 1942, "Eighty years on,\n*nothing* dates.",
+    "Eighty years on, and nothing dates.")],
+  hashtags=TAGS),
+]
