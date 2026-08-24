@@ -23487,7 +23487,13 @@
       "message": "Weighted blankets aren't just a cozy trend. 🛏️\n\nThe gentle pressure can mimic a calming, hug-like feeling — some people find it helps ease anxiety before sleep.\n\n💚 Bookmark this reminder.\n\n💬 Have you tried a weighted blanket?",
       "video_path": "images/health_reels_cadence4/nc4_d14_2_weighted_blankets.mp4",
       "when": "2026-08-24T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1596725468699908",
+        "permalink": "/reel/1596725468699908/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-24T04:05:25+00:00"
     },
     {
       "id": "hd-cadence-nc6_d28_3_stretch_marks_normal-fb",
@@ -23781,7 +23787,11 @@
       "message": "Weighted blankets aren't just a cozy trend. 🛏️\n\nThe gentle pressure can mimic a calming, hug-like feeling — some people find it helps ease anxiety before sleep.\n\n💚 Bookmark this reminder.\n\n💬 Have you tried a weighted blanket?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d14_2_weighted_blankets.mp4",
       "when": "2026-08-24T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18101733512349919"
+      },
+      "posted_at": "2026-08-24T04:06:08+00:00"
     },
     {
       "id": "hd-cadence-nc3_d8_5_active_commute-fb",
