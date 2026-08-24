@@ -164,8 +164,16 @@ def build(beats, out_mp4, work_dir, state_path, lock_path):
             _save_state(state_path, state)
             print(f"  {key}/{len(beats)}  {d:.1f}s  (running total {total:.1f}s)  {b['narration'][:45]}")
 
+        # Derive concat order from the beat list, NOT from clips_done's
+        # append order: if only some beats are re-rendered (e.g. after
+        # clearing one beat from state to redo it), the rebuilt clips get
+        # appended at the end and would be concatenated out of sequence.
+        ordered = [work / f"b{i:02d}.mp4" for i in range(1, len(beats) + 1)]
+        missing = [c.name for c in ordered if not c.is_file()]
+        if missing:
+            raise RuntimeError(f"missing clips before concat: {missing}")
         lst_path = work / "concat.txt"
-        lst_path.write_text("\n".join(f"file '{Path(c).resolve().as_posix()}'" for c in clips_done),
+        lst_path.write_text("\n".join(f"file '{c.resolve().as_posix()}'" for c in ordered),
                             encoding="utf-8")
         subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(lst_path),
                         "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-r", str(FPS),
