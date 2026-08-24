@@ -11857,7 +11857,12 @@
       "message": "😂 সোমবার সকালেই এই চিন্তা শুরু হয়ে যায়। রিলেট করলে ❤️ দিন\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/14_7.png",
       "when": "2026-08-24T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1369023202014250",
+        "post_id": "1191612787659871_1369023218680915"
+      },
+      "posted_at": "2026-08-24T21:39:51+00:00"
     },
     {
       "id": "deshal-refill1-15-0",
@@ -20167,7 +20172,12 @@
       "message": "📱 Would you move out tonight? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-24_21.png",
       "when": "2026-08-24T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1500488505436177",
+        "post_id": "2642505565823038_1500488515436176"
+      },
+      "posted_at": "2026-08-24T21:40:03+00:00"
     },
     {
       "id": "asu-refill1-2026-08-24-23",
