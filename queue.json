@@ -17914,7 +17914,12 @@
       "message": "🎬 One of the most imitated lines in cinema history.\n\n👇 Comment the answer and the film.\n\n🔁 Share this with someone who does the impression badly.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-24_23.png",
       "when": "2026-08-24T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202323390787954",
+        "post_id": "628257647029140_122202323408787954"
+      },
+      "posted_at": "2026-08-24T23:31:35+00:00"
     },
     {
       "id": "tmrr1-2026-08-25-13",
@@ -20187,8 +20192,14 @@
       "message": "🕵️ Think temperature, not just light. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-24_23.png",
       "when": "2026-08-24T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "💡 ANSWER: Turn on switch 1, wait a few minutes, turn it off, turn on switch 2, then enter. Lit bulb = switch 2. Warm-but-off bulb = switch 1. Cold bulb = switch 3."
+      "status": "posted",
+      "first_comment": "💡 ANSWER: Turn on switch 1, wait a few minutes, turn it off, turn on switch 2, then enter. Lit bulb = switch 2. Warm-but-off bulb = switch 1. Cold bulb = switch 3.",
+      "result": {
+        "id": "1500541875430840",
+        "post_id": "2642505565823038_1500541898764171",
+        "first_comment_id": "1500541898764171_2836302646757122"
+      },
+      "posted_at": "2026-08-24T23:31:51+00:00"
     },
     {
       "id": "asu-refill1-2026-08-25-10",
