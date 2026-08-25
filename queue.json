@@ -23374,7 +23374,13 @@
       "message": "Just being around trees can measurably lower your stress levels. 🌲\n\nIt's studied enough to have a name: forest bathing. Not about exercise — just being present outdoors.\n\n💚 Bookmark this for this week.\n\n💬 When did you last spend time in nature?",
       "video_path": "images/health_reels_cadence4/nc4_d15_2_forest_bathing.mp4",
       "when": "2026-08-25T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1585785846292491",
+        "permalink": "/reel/1585785846292491/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-25T04:01:21+00:00"
     },
     {
       "id": "hd-cadence-nc1_d2_3_weight_bearing_bones-fb",
@@ -24230,7 +24236,11 @@
       "message": "Just being around trees can measurably lower your stress levels. 🌲\n\nIt's studied enough to have a name: forest bathing. Not about exercise — just being present outdoors.\n\n💚 Bookmark this for this week.\n\n💬 When did you last spend time in nature?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d15_2_forest_bathing.mp4",
       "when": "2026-08-25T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17924548161409695"
+      },
+      "posted_at": "2026-08-25T04:01:59+00:00"
     },
     {
       "id": "hd-cadence-nc6_d30_1_month_reflection-ig",
