@@ -11902,7 +11902,12 @@
       "message": "😂 অনলাইন শপিং মানেই এক ধরনের \"লটারি\"। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/15_2.png",
       "when": "2026-08-25T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1369314801985090",
+        "post_id": "1191612787659871_1369314818651755"
+      },
+      "posted_at": "2026-08-25T07:03:23+00:00"
     },
     {
       "id": "deshal-refill1-15-3",
@@ -16879,7 +16884,12 @@
       "message": "🚿 A short burst of cold water can spike alertness faster than a cup of coffee — no caffeine crash afterward either.\n\n→ Even 20-30 seconds at the end of a shower counts\n→ It's a genuine nervous-system reset\n→ Great for an afternoon slump without more caffeine\n\n💚 Bookmark this. You'll need it later.\n💬 Could you handle a cold shower finish? 👇",
       "image_url": "images/health_refill1/17_2.png",
       "when": "2026-08-25T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1731082772240554",
+        "post_id": "152206688762695_1731082805573884"
+      },
+      "posted_at": "2026-08-25T07:03:35+00:00"
     },
     {
       "id": "hd-refill1-17-2-ig",
@@ -16889,7 +16899,12 @@
       "message": "🚿 A short burst of cold water can spike alertness faster than a cup of coffee — no caffeine crash afterward either.\n\n→ Even 20-30 seconds at the end of a shower counts\n→ It's a genuine nervous-system reset\n→ Great for an afternoon slump without more caffeine\n\n💚 Bookmark this. You'll need it later.\n💬 Could you handle a cold shower finish? 👇",
       "image_url": "images/health_refill1/17_2.png",
       "when": "2026-08-25T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17884148334478788",
+        "permalink": "https://www.instagram.com/p/DcdDq-6mtcg/"
+      },
+      "posted_at": "2026-08-25T07:04:00+00:00"
     },
     {
       "id": "hd-refill1-17-4-fb",
@@ -26342,7 +26357,13 @@
       "message": "😳 A photo of my own bedroom vanished from my phone — not deleted, just gone. I remember there was something in the mirror I hadn't noticed at the time.\n\n👇 Would you have tried to remember what it was?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content5/sa_d15_s2_missing_photo.mp4",
       "when": "2026-08-25T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "812093048628499",
+        "permalink": "/reel/812093048628499/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-25T07:04:37+00:00"
     },
     {
       "id": "sa-cadence-sa_d10_s1_wifi_network-fb",
