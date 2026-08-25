@@ -11872,7 +11872,12 @@
       "message": "😆 এই লাইনে হাসতে হাসতে শেষ! কে কে রিলেট করলেন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/15_0.png",
       "when": "2026-08-25T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1369141012002469",
+        "post_id": "1191612787659871_1369141028669134"
+      },
+      "posted_at": "2026-08-25T01:47:44+00:00"
     },
     {
       "id": "deshal-refill1-15-1",
@@ -21550,7 +21555,13 @@
       "message": "Chewing thoroughly does more for digestion than you'd think. 🍽️\n\nDigestion starts in your mouth — smaller pieces are easier to break down, and eating slower gives your brain time to register fullness.\n\n💚 Bookmark this reminder.\n\n💬 Do you eat fast or slow?",
       "video_path": "images/health_reels_cadence4/nc4_d15_1_chewing_digestion.mp4",
       "when": "2026-08-25T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1416007133734469",
+        "permalink": "/reel/1416007133734469/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-25T01:48:19+00:00"
     },
     {
       "id": "hd-cadence-nc4_d16_3_exercise_snacks-ig",
@@ -24270,7 +24281,11 @@
       "message": "Chewing thoroughly does more for digestion than you'd think. 🍽️\n\nDigestion starts in your mouth — smaller pieces are easier to break down, and eating slower gives your brain time to register fullness.\n\n💚 Bookmark this reminder.\n\n💬 Do you eat fast or slow?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d15_1_chewing_digestion.mp4",
       "when": "2026-08-25T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18349714759219569"
+      },
+      "posted_at": "2026-08-25T01:49:03+00:00"
     },
     {
       "id": "hd-cadence-nc3_d8_2_blue_light_glasses-ig",
@@ -25774,7 +25789,13 @@
       "message": "😳 The streetlight outside my house only flickers when I'm awake watching it. Tonight it flickered in a pattern: three short, three long, three short.\n\n👇 Would you have recognized that pattern?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content5/sa_d15_s1_streetlight.mp4",
       "when": "2026-08-25T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1362445912669488",
+        "permalink": "/reel/1362445912669488/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-25T01:49:45+00:00"
     },
     {
       "id": "sa-cadence-sa_d18_s2_fridge_light-fb",
