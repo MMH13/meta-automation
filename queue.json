@@ -12217,7 +12217,12 @@
       "message": "😑 প্রতিটা গ্রুপ চ্যাটেরই এই এক নিয়ম। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/17_7.png",
       "when": "2026-08-27T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1371711931745377",
+        "post_id": "1191612787659871_1371711951745375"
+      },
+      "posted_at": "2026-08-28T05:18:08+00:00"
     },
     {
       "id": "deshal-refill1-18-0",
@@ -12227,7 +12232,12 @@
       "message": "😆 বিয়ের বাজেট দেখে সবাই একবার এই লাইনই বলে। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/18_0.png",
       "when": "2026-08-28T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1371712098412027",
+        "post_id": "1191612787659871_1371712118412025"
+      },
+      "posted_at": "2026-08-28T05:18:20+00:00"
     },
     {
       "id": "deshal-refill1-18-1",
@@ -12237,7 +12247,12 @@
       "message": "😂 বাংলাদেশি টাইম জোনের এই কনভার্সন সবাই জানে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/18_1.png",
       "when": "2026-08-28T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1371712291745341",
+        "post_id": "1191612787659871_1371712321745338"
+      },
+      "posted_at": "2026-08-28T05:18:32+00:00"
     },
     {
       "id": "deshal-refill1-18-2",
@@ -18269,7 +18284,12 @@
       "message": "🎭 Certain actors have a persona so strong that every role becomes a variation on it. Sometimes that's a criticism. Sometimes it's exactly why you buy a ticket.\n\n👇 Name an actor who's 'always the same guy' — and you still love it.\n\n🔁 Share this and see who agrees.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-27_23.png",
       "when": "2026-08-27T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202683732787954",
+        "post_id": "628257647029140_122202683750787954"
+      },
+      "posted_at": "2026-08-28T05:18:45+00:00"
     },
     {
       "id": "tmrr1-2026-08-28-13",
@@ -20695,7 +20715,12 @@
       "message": "📱 That last line though. React 😱 👇",
       "image_url": "images/suspense_refill1/2026-08-27_21.png",
       "when": "2026-08-27T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1503404338477927",
+        "post_id": "2642505565823038_1503404358477925"
+      },
+      "posted_at": "2026-08-28T05:18:56+00:00"
     },
     {
       "id": "asu-refill1-2026-08-27-23",
@@ -20705,8 +20730,14 @@
       "message": "🕵️ Read it twice. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-27_23.png",
       "when": "2026-08-27T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🖼️ ANSWER: His own son."
+      "status": "posted",
+      "first_comment": "🖼️ ANSWER: His own son.",
+      "result": {
+        "id": "1503404501811244",
+        "post_id": "2642505565823038_1503404518477909",
+        "first_comment_id": "1503404518477909_4409721385948003"
+      },
+      "posted_at": "2026-08-28T05:19:11+00:00"
     },
     {
       "id": "asu-refill1-2026-08-28-10",
@@ -23494,7 +23525,11 @@
       "message": "Sitting too close to your monitor forces your eyes to overwork. 🖥️\n\nAn arm's length away is the usual recommended distance — push your monitor back and see how it feels by end of day.\n\n💚 Bookmark this desk fix.\n\n💬 How far is your screen from your face right now?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d18_1_desk_eye_distance.mp4",
       "when": "2026-08-28T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18037615604829338"
+      },
+      "posted_at": "2026-08-28T05:19:55+00:00"
     },
     {
       "id": "hd-cadence-nc6_d26_4_snack_protein_pairing-ig",
@@ -23708,7 +23743,13 @@
       "message": "Even mild dehydration can measurably hurt your workout performance. 💦\n\nIt affects strength, endurance, and focus — drinking well before you start matters as much as during.\n\n💚 Bookmark this for your next workout.\n\n💬 Do you drink water before or only during workouts?",
       "video_path": "images/health_reels_cadence4/nc4_d17_6_hydration_exercise_perf.mp4",
       "when": "2026-08-27T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1091313020521737",
+        "permalink": "/reel/1091313020521737/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-28T05:20:30+00:00"
     },
     {
       "id": "hd-cadence-nc6_d25_2_chronic_pain_movement-ig",
@@ -24106,7 +24147,13 @@
       "message": "Sitting too close to your monitor forces your eyes to overwork. 🖥️\n\nAn arm's length away is the usual recommended distance — push your monitor back and see how it feels by end of day.\n\n💚 Bookmark this desk fix.\n\n💬 How far is your screen from your face right now?",
       "video_path": "images/health_reels_cadence5/nc5_d18_1_desk_eye_distance.mp4",
       "when": "2026-08-28T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1068337772839730",
+        "permalink": "/reel/1068337772839730/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-28T05:21:06+00:00"
     },
     {
       "id": "hd-cadence-nc4_d13_2_water_bottle_hygiene-fb",
@@ -24242,7 +24289,13 @@
       "message": "Cooking at home more often changes more than your wallet. 🍳\n\nYou control the salt, oil, and portion sizes — restaurant meals often carry more hidden sodium and fat.\n\n💚 Bookmark this reminder.\n\n💬 How often do you cook at home?",
       "video_path": "images/health_reels_cadence5/nc5_d18_2_cooking_at_home.mp4",
       "when": "2026-08-28T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1380564173551357",
+        "permalink": "/reel/1380564173551357/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-28T05:21:42+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_6_progress_not_perfection-fb",
@@ -24458,7 +24511,11 @@
       "message": "Even mild dehydration can measurably hurt your workout performance. 💦\n\nIt affects strength, endurance, and focus — drinking well before you start matters as much as during.\n\n💚 Bookmark this for your next workout.\n\n💬 Do you drink water before or only during workouts?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc4_d17_6_hydration_exercise_perf.mp4",
       "when": "2026-08-27T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17864510925661662"
+      },
+      "posted_at": "2026-08-28T05:22:24+00:00"
     },
     {
       "id": "hd-cadence-nc4_d17_3_fasting_window_basics-ig",
@@ -25370,7 +25427,11 @@
       "message": "Cooking at home more often changes more than your wallet. 🍳\n\nYou control the salt, oil, and portion sizes — restaurant meals often carry more hidden sodium and fat.\n\n💚 Bookmark this reminder.\n\n💬 How often do you cook at home?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d18_2_cooking_at_home.mp4",
       "when": "2026-08-28T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17884288689616742"
+      },
+      "posted_at": "2026-08-28T05:23:37+00:00"
     },
     {
       "id": "hd-cadence-nc5_d23_6_gratitude_relationships-fb",
@@ -26838,7 +26899,13 @@
       "message": "😳 The same person has stood at my bus stop for three days, never boarding one. Today we made eye contact — they smiled and mouthed something.\n\n👇 Would you have asked what they said?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content6/sa_d18_s1_bus_stop.mp4",
       "when": "2026-08-28T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "4103230039970303",
+        "permalink": "/reel/4103230039970303/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-28T05:24:12+00:00"
     },
     {
       "id": "sa-cadence-sa_d15_s2_missing_photo-fb",
