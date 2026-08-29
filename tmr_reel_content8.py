@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 8 (days 43-48)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d43_westerns", "Dust and consequences",
+  "5 westerns that\nearn *every*\nbullet.",
+  "Five westerns that earn every bullet.",
+  [("Hell or High Water", 2016, "A western\nwith *bank* branches.",
+    "A western with bank branches."),
+   ("The Proposition", 2005, "Australia,\nand it's *merciless.*",
+    "Set in Australia, and it's merciless."),
+   ("True Grit", 2010, "A 14-year-old\nruns *the whole* thing.",
+    "A fourteen year old runs the whole thing."),
+   ("Once Upon a Time in the West", 1968, "The opening scene\nis *ten* minutes long.",
+    "The opening scene is ten minutes long."),
+   ("Unforgiven", 1992, "It spends two hours\n*undoing* the genre.",
+    "It spends two hours undoing the genre.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d44_food", "Don't watch hungry",
+  "5 films about\nfood that hit\n*harder* than expected.",
+  "Five films about food that hit harder than you expect.",
+  [("Chef", 2014, "A man quits,\nbuys a *truck,* recovers.",
+    "A man quits, buys a truck, and recovers."),
+   ("Big Night", 1996, "The last shot\nis *one* unbroken take.",
+    "The last shot is one unbroken take."),
+   ("The Menu", 2022, "A tasting menu\nthat becomes *a trap.*",
+    "A tasting menu that becomes a trap."),
+   ("Jiro Dreams of Sushi", 2011, "Eighty years\nchasing *one* thing.",
+    "Eighty years chasing one thing."),
+   ("Ratatouille", 2007, "The best film\never made about\n*criticism.*",
+    "The best film ever made about criticism.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d45_road", "Keep driving",
+  "5 road movies\nwhere the trip\n*isn't* the point.",
+  "Five road movies where the trip isn't the point.",
+  [("Sideways", 2004, "Two men,\nwine country,\n*zero* growth. Almost.",
+    "Two men, wine country, and almost zero growth."),
+   ("Y Tu Mama Tambien", 2001, "The narrator knows\nwhat you *don't.*",
+    "The narrator knows what you don't."),
+   ("Thelma & Louise", 1991, "That ending\n*still* argues with you.",
+    "That ending still argues with you."),
+   ("Little Miss Sunshine", 2006, "A broken van,\na *more* broken family.",
+    "A broken van, and a more broken family."),
+   ("Paris, Texas", 1984, "One monologue.\n*Devastating.*",
+    "One monologue, and it's devastating.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d46_practical", "No CGI needed",
+  "5 films whose\neffects *still*\nlook real.",
+  "Five films whose effects still look real.",
+  [("Terminator 2: Judgment Day", 1991, "Half of it\nis a *stunt team.*",
+    "Half of it is a stunt team."),
+   ("Alien", 1979, "The cast's shock\nin that scene\nis *genuine.*",
+    "The cast's shock in that scene is genuine."),
+   ("2001: A Space Odyssey", 1968, "Made *before*\nthe moon landing.",
+    "Made before the moon landing."),
+   ("Mad Max: Fury Road", 2015, "They actually\n*drove* all of it.",
+    "They actually drove all of it."),
+   ("The Thing", 1982, "1982 practical work\nno remake has *matched.*",
+    "Nineteen eighty two practical work no remake has matched.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d47_spies", "Nobody wins",
+  "5 spy films\nwith *no*\ngadgets.",
+  "Five spy films with no gadgets.",
+  [("Argo", 2012, "The most tense\nscene is *a phone call.*",
+    "The most tense scene is a phone call."),
+   ("Bridge of Spies", 2015, "\"Would it *help?*\"",
+    "Would it help?"),
+   ("Munich", 2005, "Revenge, and then\nthe *cost* of it.",
+    "Revenge, and then the cost of it."),
+   ("The Spy Who Came in from the Cold", 1965, "Bleak.\n*Deliberately.*",
+    "Bleak, and deliberately so."),
+   ("The Lives of Others", 2006, "The surveillance\n*changes* the listener.",
+    "The surveillance changes the listener.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d48_long_takes", "Don't blink",
+  "5 films built\naround *impossible*\nshots.",
+  "Five films built around impossible shots.",
+  [("Rope", 1948, "Hitchcock hid\n*every* cut.",
+    "Hitchcock hid every cut."),
+   ("Victoria", 2015, "138 minutes.\n*One* take. Real.",
+    "A hundred and thirty eight minutes, in one real take."),
+   ("Russian Ark", 2002, "One shot,\nthrough *300* years.",
+    "One shot, through three hundred years."),
+   ("Birdman", 2014, "Stitched to look\nlike *no* cuts at all.",
+    "Stitched to look like no cuts at all."),
+   ("1917", 2019, "The clock never\n*stops* running.",
+    "The clock never stops running.")],
+  hashtags=TAGS),
+]

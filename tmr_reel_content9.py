@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 9 (days 49-54)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d49_adaptations", "Better than the book",
+  "5 adaptations\nthat *beat* the\nnovel.",
+  "Five adaptations that beat the novel.",
+  [("Stand by Me", 1986, "A short story,\nturned *perfect.*",
+    "A short story, turned perfect."),
+   ("The Remains of the Day", 1993, "Everything is said\nby *not* saying it.",
+    "Everything is said by not saying it."),
+   ("L.A. Confidential", 1997, "500 pages,\ncut to *the bone.*",
+    "Five hundred pages, cut to the bone."),
+   ("The Shawshank Redemption", 1994, "The novella\nis *96* pages.",
+    "The novella is ninety six pages."),
+   ("The Godfather", 1972, "It quietly *fixed*\nthe book's worst parts.",
+    "It quietly fixed the book's worst parts.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d50_2010s", "The 2010s",
+  "5 films that\n*defined* the\n2010s.",
+  "Five films that defined the twenty tens.",
+  [("The Grand Budapest Hotel", 2014, "Three aspect ratios.\n*One* story.",
+    "Three aspect ratios, and one story."),
+   ("Get Out", 2017, "Horror that\n*argues* with you.",
+    "Horror that argues with you."),
+   ("La La Land", 2016, "The ending\n*earns* the musical.",
+    "The ending earns the musical."),
+   ("Roma", 2018, "Black and white,\nand *enormous.*",
+    "Black and white, and enormous."),
+   ("Moonlight", 2016, "Three actors.\n*One* person.",
+    "Three actors, one person.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d51_revenge", "It costs something",
+  "5 revenge films\nwhere revenge\n*doesn't* help.",
+  "Five revenge films where revenge doesn't help.",
+  [("Blue Ruin", 2013, "The hero is\n*terrible* at this.",
+    "The hero is terrible at this."),
+   ("Prisoners", 2013, "How far\nwould *you* go?",
+    "How far would you go?"),
+   ("Gladiator", 2000, "He wins,\nand it *costs* everything.",
+    "He wins, and it costs everything."),
+   ("The Count of Monte Cristo", 2002, "Patience as\na *weapon.*",
+    "Patience as a weapon."),
+   ("Kill Bill: Vol. 1", 2003, "Style *is*\nthe substance.",
+    "Style is the substance.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d52_monsters", "Something's out there",
+  "5 monster films\nthat are *actually*\nabout us.",
+  "Five monster films that are actually about us.",
+  [("Tremors", 1990, "Somehow it\n*still* works.",
+    "Somehow it still works."),
+   ("A Quiet Place", 2018, "The sound design\nis *the* script.",
+    "The sound design is the script."),
+   ("Cloverfield", 2008, "You never get\nthe *wide* shot.",
+    "You never get the wide shot."),
+   ("The Babadook", 2014, "The monster\nis *grief.*",
+    "The monster is grief."),
+   ("Godzilla", 1954, "Not a creature feature.\n*A wound.*",
+    "Not a creature feature. A wound.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d53_family", "Everyone's a little broken",
+  "5 family dramas\nthat cut *too*\nclose.",
+  "Five family dramas that cut too close.",
+  [("The Squid and the Whale", 2005, "Both parents\nare *insufferable.* Deliberately.",
+    "Both parents are insufferable, deliberately."),
+   ("August: Osage County", 2013, "One dinner scene.\n*Total* carnage.",
+    "One dinner scene, and total carnage."),
+   ("Boyhood", 2014, "Filmed over\n*twelve* real years.",
+    "Filmed over twelve real years."),
+   ("Marriage Story", 2019, "Nobody\nis *the* villain.",
+    "Nobody is the villain."),
+   ("Ordinary People", 1980, "Politeness\nas *avoidance.*",
+    "Politeness as avoidance.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d54_black_white", "No color needed",
+  "5 modern films\nshot in *black*\nand white.",
+  "Five modern films shot in black and white.",
+  [("Nebraska", 2013, "A road trip\nfor *nothing.* Almost.",
+    "A road trip for nothing. Almost."),
+   ("Cold War", 2018, "Eighty-eight minutes.\n*Fifteen* years.",
+    "Eighty eight minutes, covering fifteen years."),
+   ("Ida", 2013, "Every frame\nleaves *empty* space.",
+    "Every frame leaves empty space."),
+   ("The Artist", 2011, "A *silent* film.\nIt won Best Picture.",
+    "A silent film, and it won Best Picture."),
+   ("Schindler's List", 1993, "The one\nsplash of *red.*",
+    "The one splash of red.")],
+  hashtags=TAGS),
+]
