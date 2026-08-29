@@ -12412,7 +12412,12 @@
       "message": "😅 ননদ-ভাবির এই খোঁচাখুঁচি চিরকালীন। কে কে দেখেছেন এমন সিন? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/19_4.png",
       "when": "2026-08-29T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1372877458295491",
+        "post_id": "1191612787659871_1372877474962156"
+      },
+      "posted_at": "2026-08-29T14:25:34+00:00"
     },
     {
       "id": "deshal-refill1-19-5",
@@ -17319,7 +17324,12 @@
       "message": "📵 That 'just 5 more minutes' scroll reliably turns into 40 — plus blue light and mental stimulation both delay sleep more than people expect.\n\n→ Charge the phone across the room\n→ Read a few pages instead\n→ Your brain needs boredom to actually switch off\n\n💚 Bookmark this. You'll need it later.\n💬 Honest — phone in bed tonight? 👇",
       "image_url": "images/health_refill1/21_4.png",
       "when": "2026-08-29T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1735391745142990",
+        "post_id": "152206688762695_1735391768476321"
+      },
+      "posted_at": "2026-08-29T14:25:48+00:00"
     },
     {
       "id": "hd-refill1-21-4-ig",
@@ -17329,7 +17339,12 @@
       "message": "📵 That 'just 5 more minutes' scroll reliably turns into 40 — plus blue light and mental stimulation both delay sleep more than people expect.\n\n→ Charge the phone across the room\n→ Read a few pages instead\n→ Your brain needs boredom to actually switch off\n\n💚 Bookmark this. You'll need it later.\n💬 Honest — phone in bed tonight? 👇",
       "image_url": "images/health_refill1/21_4.png",
       "when": "2026-08-29T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18112490494942195",
+        "permalink": "https://www.instagram.com/p/DcoJdrblXFl/"
+      },
+      "posted_at": "2026-08-29T14:26:12+00:00"
     },
     {
       "id": "hd-refill1-22-2-fb",
@@ -18439,7 +18454,12 @@
       "message": "🎥 Cutting fast is often a safety net — it hides a performance that isn't quite landing. Letting a scene breathe is a director betting everything on the actor in front of the camera.\n\n👇 A scene that ran long and was better for it?\n\n🔁 Share this with someone who loves a slow burn.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-29_13.png",
       "when": "2026-08-29T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202848156787954",
+        "post_id": "628257647029140_122202848174787954"
+      },
+      "posted_at": "2026-08-29T14:26:25+00:00"
     },
     {
       "id": "tmrr1-2026-08-29-15",
@@ -20960,8 +20980,14 @@
       "message": "🕵️ One detail gave her away. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-29_13.png",
       "when": "2026-08-29T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🛁 ANSWER: The bathroom light was broken — pitch black. She couldn't have 'found' him unless she was already in there when it happened."
+      "status": "posted",
+      "first_comment": "🛁 ANSWER: The bathroom light was broken — pitch black. She couldn't have 'found' him unless she was already in there when it happened.",
+      "result": {
+        "id": "1504717645013263",
+        "post_id": "2642505565823038_1504717668346594",
+        "first_comment_id": "1504717668346594_1453626099920435"
+      },
+      "posted_at": "2026-08-29T14:26:42+00:00"
     },
     {
       "id": "asu-refill1-2026-08-29-16",
