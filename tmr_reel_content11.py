@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 11 (days 61-66)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d61_japanese", "Start here",
+  "5 Japanese films\neveryone should\nsee *once.*",
+  "Five Japanese films everyone should see once.",
+  [("Departures", 2008, "About a job\nnobody *wants.*",
+    "About a job nobody wants."),
+   ("Harakiri", 1962, "It takes honour\napart, *calmly.*",
+    "It takes honour apart, calmly."),
+   ("Rashomon", 1950, "Four accounts.\n*No* truth.",
+    "Four accounts, and no truth."),
+   ("Tokyo Story", 1953, "Nothing happens.\n*Everything* happens.",
+    "Nothing happens, and everything happens."),
+   ("Seven Samurai", 1954, "Every team-up film\ncopies *this* one.",
+    "Every team up film copies this one.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d62_ensemble", "Everyone's here",
+  "5 films where\n*every* actor\nbrought it.",
+  "Five films where every single actor brought it.",
+  [("Knives Out", 2019, "A whodunnit where\n*everyone* is fun.",
+    "A whodunnit where everyone is fun."),
+   ("Nashville", 1975, "24 characters.\n*No* main one.",
+    "Twenty four characters, and no main one."),
+   ("The Big Short", 2015, "It explains finance\nand *stays* funny.",
+    "It explains finance and stays funny."),
+   ("Magnolia", 1999, "Three hours.\nThey all *connect.*",
+    "Three hours, and they all connect."),
+   ("Glengarry Glen Ross", 1992, "Seven men.\n*One* office. Total war.",
+    "Seven men, one office, total war.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d63_journalism", "Follow the story",
+  "5 films about\nreporters who\n*wouldn't* stop.",
+  "Five films about reporters who wouldn't stop.",
+  [("She Said", 2022, "Mostly phone calls.\n*Still* gripping.",
+    "Mostly phone calls, and still gripping."),
+   ("The Insider", 1999, "The story is\n*whether* it airs.",
+    "The story is whether it airs at all."),
+   ("Network", 1976, "1976, predicting\n*all* of this.",
+    "Nineteen seventy six, predicting all of this."),
+   ("Spotlight", 2015, "No speeches.\nJust *work.*",
+    "No speeches. Just work."),
+   ("All the President's Men", 1976, "You *know* the ending.\nStill tense.",
+    "You already know the ending, and it's still tense.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d64_aging", "Nobody talks about this",
+  "5 films about\ngetting *old*\nthat hurt.",
+  "Five films about getting old that genuinely hurt.",
+  [("About Schmidt", 2002, "A comedy.\n*Barely.*",
+    "It's a comedy. Barely."),
+   ("The Straight Story", 1999, "He crosses a state\non *a lawnmower.* True.",
+    "He crosses a state on a lawnmower, and it's true."),
+   ("Umberto D.", 1952, "A man\nand *his dog.*",
+    "A man and his dog."),
+   ("The Father", 2020, "You get *his*\nconfusion, not yours.",
+    "You get his confusion, not yours."),
+   ("Amour", 2012, "The title is\n*not* ironic.",
+    "The title is not ironic.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d65_comedy", "Still funny",
+  "5 comedies that\n*didn't* age\nbadly.",
+  "Five comedies that didn't age badly.",
+  [("What We Do in the Shadows", 2014, "Vampire flatmates.\n*That's* the pitch.",
+    "Vampire flatmates. That's the pitch."),
+   ("The Big Lebowski", 1998, "The plot doesn't\n*matter.* At all.",
+    "The plot doesn't matter at all."),
+   ("Airplane!", 1980, "A joke every\n*eight* seconds.",
+    "A joke roughly every eight seconds."),
+   ("Some Like It Hot", 1959, "That last line\n*ends* the film.",
+    "That last line ends the film."),
+   ("Dr. Strangelove", 1964, "A comedy about\n*the end* of everything.",
+    "A comedy about the end of everything.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d66_political", "Trust nobody",
+  "5 political\nthrillers that\n*aged* too well.",
+  "Five political thrillers that aged far too well.",
+  [("Michael Clayton", 2007, "The villain\nis *a memo.*",
+    "The villain is a memo."),
+   ("The Parallax View", 1974, "The test sequence\nis *five* silent minutes.",
+    "The test sequence is five silent minutes."),
+   ("Seven Days in May", 1964, "A coup,\nplotted *politely.*",
+    "A coup, plotted politely."),
+   ("Z", 1969, "Based on\n*a real* assassination.",
+    "Based on a real assassination."),
+   ("The Manchurian Candidate", 1962, "1962.\n*Still* unsettling.",
+    "Nineteen sixty two, and it's still unsettling.")],
+  hashtags=TAGS),
+]

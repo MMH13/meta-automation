@@ -16,7 +16,7 @@ restart_voicebox() {
   ensure_voicebox
 }
 
-for mod in tmr_reel_content8 tmr_reel_content9; do
+for mod in tmr_reel_content10 tmr_reel_content11; do
   echo "############ $mod ############"
   ensure_voicebox || exit 1
   for attempt in 1 2 3 4 5 6 7 8; do
@@ -27,4 +27,4 @@ for mod in tmr_reel_content8 tmr_reel_content9; do
 done
 
 PYTHONIOENCODING=utf-8 python tmr_reels_6perday.py 2>&1
-echo "BATCHES_89_DONE"
+echo "BATCHES_DONE"

@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 10 (days 55-60)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d55_80s", "The 1980s",
+  "5 films that\n*defined* the\n80s.",
+  "Five films that defined the eighties.",
+  [("Blue Velvet", 1986, "The suburbs,\nand what's *under* them.",
+    "The suburbs, and what's under them."),
+   ("The Breakfast Club", 1985, "Five kids.\n*One* room. That's it.",
+    "Five kids, one room, and that's it."),
+   ("Back to the Future", 1985, "The script is\n*absurdly* tight.",
+    "The script is absurdly tight."),
+   ("Die Hard", 1988, "It invented\n*a whole* genre.",
+    "It invented a whole genre."),
+   ("Raiders of the Lost Ark", 1981, "The hero changes\n*nothing.* Still perfect.",
+    "The hero changes nothing, and it's still perfect.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d56_musicals", "Even if you hate musicals",
+  "5 musicals for\npeople who *hate*\nmusicals.",
+  "Five musicals for people who hate musicals.",
+  [("Once", 2007, "Two strangers.\n*One* week. Real songs.",
+    "Two strangers, one week, and real songs."),
+   ("The Blues Brothers", 1980, "A car chase\nwith *a horn section.*",
+    "A car chase with a horn section."),
+   ("Cabaret", 1972, "Every song is\ninside *the club.*",
+    "Every song happens inside the club."),
+   ("West Side Story", 1961, "The prologue\nis *all* movement.",
+    "The prologue is all movement."),
+   ("Singin' in the Rain", 1952, "1952, and it's\n*still* the ceiling.",
+    "Nineteen fifty two, and it's still the ceiling.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d57_ai", "The machines are thinking",
+  "5 films about\nAI that got\nthere *first.*",
+  "Five films about A I that got there first.",
+  [("Colossus: The Forbin Project", 1970, "1970. It already\n*knew.*",
+    "Nineteen seventy, and it already knew."),
+   ("The Terminator", 1984, "Low budget.\n*Enormous* idea.",
+    "Low budget, enormous idea."),
+   ("Ghost in the Shell", 1995, "Asks what's left\nwhen the *body* goes.",
+    "Asks what's left when the body goes."),
+   ("A.I. Artificial Intelligence", 2001, "The ending people\nhated is *the* point.",
+    "The ending people hated is the point."),
+   ("Her", 2013, "The most *plausible*\nfilm on this list.",
+    "The most plausible film on this list.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d58_prison", "No way out",
+  "5 prison films\nthat aren't\n*Shawshank.*",
+  "Five prison films that aren't Shawshank.",
+  [("Escape from Alcatraz", 1979, "Almost *no*\ndialogue.",
+    "Almost no dialogue."),
+   ("Papillon", 1973, "Endurance\nas *plot.*",
+    "Endurance as plot."),
+   ("Cool Hand Luke", 1967, "\"Failure\nto *communicate.*\"",
+    "Failure to communicate."),
+   ("Hunger", 2008, "One conversation.\n*Seventeen* minutes.",
+    "One conversation, seventeen minutes, one shot."),
+   ("A Prophet", 2009, "He walks in\n*nobody.* He doesn't leave that way.",
+    "He walks in nobody, and he doesn't leave that way.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d59_cold", "Bring a blanket",
+  "5 films where\nthe *cold* is\na character.",
+  "Five films where the cold is a character.",
+  [("Winter's Bone", 2010, "The Ozarks,\nand *no* mercy.",
+    "The Ozarks, and no mercy."),
+   ("The Grey", 2011, "Not the film\nthe *trailer* sold.",
+    "Not the film the trailer sold."),
+   ("Let the Right One In", 2008, "A vampire film\nabout *loneliness.*",
+    "A vampire film about loneliness."),
+   ("The Revenant", 2015, "Shot in *natural*\nlight only.",
+    "Shot in natural light only."),
+   ("Fargo", 1996, "Politeness\nover *something* awful.",
+    "Politeness laid over something awful.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d60_romance", "Not a rom-com",
+  "5 love stories\nwith *no*\nhappy ending.",
+  "Five love stories with no happy ending.",
+  [("Portrait of a Lady on Fire", 2019, "The last shot\nlasts *minutes.*",
+    "The last shot lasts minutes."),
+   ("Lost in Translation", 2003, "You never hear\nwhat he *whispers.*",
+    "You never hear what he whispers."),
+   ("Before Sunrise", 1995, "One night.\n*Mostly* walking.",
+    "One night, mostly walking."),
+   ("Eternal Sunshine of the Spotless Mind", 2004, "They'd do it\n*again* anyway.",
+    "They'd do it again anyway."),
+   ("In the Mood for Love", 2000, "They *never*\nact on it.",
+    "They never act on it.")],
+  hashtags=TAGS),
+]
