@@ -12367,7 +12367,12 @@
       "message": "😩 এই টাইমিং কীভাবে জানি সবার অফিসেই এক। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/19_1.png",
       "when": "2026-08-29T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1372671778316059",
+        "post_id": "1191612787659871_1372671788316058"
+      },
+      "posted_at": "2026-08-29T08:59:42+00:00"
     },
     {
       "id": "deshal-refill1-19-2",
@@ -12377,7 +12382,12 @@
       "message": "😂 পরীক্ষার আগের রাতের এই দুই টাইপ মানুষ সবখানেই আছে। আপনি কোনটা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/19_2.png",
       "when": "2026-08-29T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1372671901649380",
+        "post_id": "1191612787659871_1372671921649378"
+      },
+      "posted_at": "2026-08-29T08:59:54+00:00"
     },
     {
       "id": "deshal-refill1-19-3",
@@ -12387,7 +12397,12 @@
       "message": "😂 ওয়াইফাই বন্ধ = জীবন বন্ধ। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/19_3.png",
       "when": "2026-08-29T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1372709314978972",
+        "post_id": "1191612787659871_1372709334978970"
+      },
+      "posted_at": "2026-08-29T10:03:11+00:00"
     },
     {
       "id": "deshal-refill1-19-4",
@@ -17274,7 +17289,12 @@
       "message": "😂 A real laugh measurably drops cortisol (your stress hormone) within minutes — which is why a funny video sometimes helps more than 'trying to calm down.'\n\n→ It's a genuine physiological reset, not just a mood thing\n→ Even forced laughter has some effect\n→ Cheap, fast, and completely free\n\n💚 Bookmark this. You'll need it later.\n💬 What's the last thing that made you really laugh? 👇",
       "image_url": "images/health_refill1/21_2.png",
       "when": "2026-08-29T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1735146281834203",
+        "post_id": "152206688762695_1735146301834201"
+      },
+      "posted_at": "2026-08-29T09:00:07+00:00"
     },
     {
       "id": "hd-refill1-21-2-ig",
@@ -17284,7 +17304,12 @@
       "message": "😂 A real laugh measurably drops cortisol (your stress hormone) within minutes — which is why a funny video sometimes helps more than 'trying to calm down.'\n\n→ It's a genuine physiological reset, not just a mood thing\n→ Even forced laughter has some effect\n→ Cheap, fast, and completely free\n\n💚 Bookmark this. You'll need it later.\n💬 What's the last thing that made you really laugh? 👇",
       "image_url": "images/health_refill1/21_2.png",
       "when": "2026-08-29T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17947678398050035",
+        "permalink": "https://www.instagram.com/p/DcnkL54FjCA/"
+      },
+      "posted_at": "2026-08-29T09:00:28+00:00"
     },
     {
       "id": "hd-refill1-21-4-fb",
@@ -20918,8 +20943,14 @@
       "message": "🧠 Think finance, not forest. Answer 👇",
       "image_url": "images/suspense_refill1/2026-08-29_10.png",
       "when": "2026-08-29T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🏦 ANSWER: A bank."
+      "status": "posted",
+      "first_comment": "🏦 ANSWER: A bank.",
+      "result": {
+        "id": "1504534325031595",
+        "post_id": "2642505565823038_1504534335031594",
+        "first_comment_id": "1504534335031594_1538532668073279"
+      },
+      "posted_at": "2026-08-29T10:03:27+00:00"
     },
     {
       "id": "asu-refill1-2026-08-29-13",
@@ -21903,7 +21934,11 @@
       "message": "Even a small standby light can interrupt your sleep. 🌑\n\nChargers, clocks, and routers all add up in a dark room — a sleep mask or covering them genuinely helps.\n\n💚 Bookmark this for tonight.\n\n💬 How dark is your bedroom at night?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d19_3_screen_dimming_bedroom.mp4",
       "when": "2026-08-29T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18384457210210944"
+      },
+      "posted_at": "2026-08-29T10:04:15+00:00"
     },
     {
       "id": "hd-cadence-nc4_d15_4_snoring_causes-ig",
@@ -23397,7 +23432,13 @@
       "message": "Potassium helps balance out the sodium in your diet. 🍌\n\nBananas get the spotlight, but potatoes, beans, and leafy greens are rich sources too — it supports muscle function and blood pressure.\n\n💚 Bookmark this reminder.\n\n💬 What's your favorite potassium-rich food?",
       "video_path": "images/health_reels_cadence5/nc5_d19_2_potassium_bananas.mp4",
       "when": "2026-08-29T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1074062145015715",
+        "permalink": "/reel/1074062145015715/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-29T09:01:15+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_4_gratitude_body-fb",
@@ -23501,7 +23542,13 @@
       "message": "Even a small standby light can interrupt your sleep. 🌑\n\nChargers, clocks, and routers all add up in a dark room — a sleep mask or covering them genuinely helps.\n\n💚 Bookmark this for tonight.\n\n💬 How dark is your bedroom at night?",
       "video_path": "images/health_reels_cadence5/nc5_d19_3_screen_dimming_bedroom.mp4",
       "when": "2026-08-29T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1385514916325643",
+        "permalink": "/reel/1385514916325643/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-29T10:04:53+00:00"
     },
     {
       "id": "hd-cadence-nc5_d22_5_fermented_food_variety-fb",
@@ -25297,7 +25344,11 @@
       "message": "Potassium helps balance out the sodium in your diet. 🍌\n\nBananas get the spotlight, but potatoes, beans, and leafy greens are rich sources too — it supports muscle function and blood pressure.\n\n💚 Bookmark this reminder.\n\n💬 What's your favorite potassium-rich food?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d19_2_potassium_bananas.mp4",
       "when": "2026-08-29T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18140480491584571"
+      },
+      "posted_at": "2026-08-29T09:02:08+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_4_cold_exposure-ig",
@@ -26541,7 +26592,13 @@
       "message": "😳 A mirror selfie from last night shows my bedroom door open — I always lock it. Zoomed in on the hallway gap: something standing just out of the light.\n\n👇 Would you have kept the photo?\n\n🎭 SUSPENSE AHEAD — original horror, every day.",
       "video_path": "images/suspense_reels_content7/sa_d19_s2_mirror_selfie.mp4",
       "when": "2026-08-29T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1449588900471469",
+        "permalink": "/reel/1449588900471469/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-29T09:02:46+00:00"
     },
     {
       "id": "sa-cadence-sa_d3_s2_gps_detour-fb",
@@ -27498,8 +27555,14 @@
       "type": "reel",
       "message": "🎬 5 twists that broke the internet.\n\nNo. 5 The Prestige · No. 4 Fight Club · No. 3 The Sixth Sense · No. 2 Oldboy · No. 1 The Usual Suspects\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content1/tmr_d6_twists.mp4",
-      "when": "2026-08-29T11:00:00+00:00",
-      "status": "pending"
+      "when": "2026-08-29T09:00:00+00:00",
+      "status": "posted",
+      "result": {
+        "video_id": "944549637975688",
+        "permalink": "/reel/944549637975688/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-29T10:05:31+00:00"
     },
     {
       "id": "tmr-reel-tmr_d23_debut",
