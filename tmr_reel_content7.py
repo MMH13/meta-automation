@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 7 (6/day expansion)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d37_openings", "First five minutes",
+  "5 films with\n*perfect* opening\nscenes.",
+  "Five films with perfect opening scenes.",
+  [("Saving Private Ryan", 1998, "Twenty minutes\nthat *reset* the genre.",
+    "Twenty minutes that reset the genre."),
+   ("Up", 2009, "Four silent minutes.\n*Everyone* cries.",
+    "Four silent minutes, and everyone cries."),
+   ("Inglourious Basterds", 2009, "A farmhouse,\na glass of milk,\n*unbearable* tension.",
+    "A farmhouse, a glass of milk, unbearable tension."),
+   ("Touch of Evil", 1958, "One shot.\n*Three* minutes.",
+    "One shot, three minutes."),
+   ("The Dark Knight", 2008, "A bank robbery that\n*explains* the whole man.",
+    "A bank robbery that explains the whole man.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d38_animation_studios", "Hand-drawn magic",
+  "5 animated films\nthat *beat* the\nlive-action.",
+  "Five animated films that beat any live action version.",
+  [("Princess Mononoke", 1997, "An eco-parable\nwith *no* easy villain.",
+    "An eco parable with no easy villain."),
+   ("Wall-E", 2008, "Forty minutes\nwith *barely* a word.",
+    "Forty minutes with barely a word."),
+   ("Into the Spider-Verse", 2018, "It made every\nother comic film\nlook *flat.*",
+    "It made every other comic film look flat."),
+   ("The Iron Giant", 1999, "\"You are\nwho you *choose* to be.\"",
+    "You are who you choose to be."),
+   ("Akira", 1988, "1988. Still looks\nlike *the future.*",
+    "Nineteen eighty eight, and it still looks like the future.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d39_small_cast", "Almost nobody",
+  "5 great films\nwith *tiny*\ncasts.",
+  "Five great films with tiny casts.",
+  [("Moon", 2009, "One actor,\nplaying *himself,* twice.",
+    "One actor, playing himself, twice."),
+   ("Ex Machina", 2014, "Three people\nand *one* question.",
+    "Three people and one question."),
+   ("The Lighthouse", 2019, "Two men,\none rock,\n*total* madness.",
+    "Two men, one rock, total madness."),
+   ("Gerald's Game", 2017, "Handcuffed\nto a bed\nfor *most* of it.",
+    "Handcuffed to a bed for most of it."),
+   ("Sleuth", 1972, "Two actors.\n*Both* Oscar-nominated.",
+    "Two actors, and both were Oscar nominated.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d40_sports", "Not about winning",
+  "5 sports films\nthat aren't\n*really* about sport.",
+  "Five sports films that aren't really about sport.",
+  [("Raging Bull", 1980, "The fights are\nthe *least* violent part.",
+    "The fights are the least violent part."),
+   ("Moneyball", 2011, "A baseball film\nabout *spreadsheets.* It works.",
+    "A baseball film about spreadsheets, and it works."),
+   ("Warrior", 2011, "The final fight\nisn't about *winning.*",
+    "The final fight isn't about winning."),
+   ("Hoop Dreams", 1994, "Filmed over\n*five* real years.",
+    "Filmed over five real years."),
+   ("Rocky", 1976, "He *loses.*\nThat's the point.",
+    "He loses. That's the point.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d41_rewatch", "Better the second time",
+  "5 films that\n*change* on\nrewatch.",
+  "Five films that completely change on rewatch.",
+  [("The Sixth Sense", 1999, "Every scene\nplays *differently.*",
+    "Every scene plays differently."),
+   ("Arrival", 2016, "The opening *is*\nthe ending.",
+    "The opening is the ending."),
+   ("Parasite", 2019, "The set design\nspoils it *the whole time.*",
+    "The set design spoils it the whole time."),
+   ("Fight Club", 1999, "He's *in* frame\nearlier than you think.",
+    "He's in frame earlier than you think."),
+   ("Memento", 2000, "Watch it forwards.\nIt's *a different film.*",
+    "Watch it forwards. It's a different film.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d42_dystopia", "Uncomfortably close",
+  "5 dystopias that\nfeel *too*\nplausible.",
+  "Five dystopias that feel far too plausible.",
+  [("Children of Men", 2006, "2006 predicting\n*2020s* headlines.",
+    "Two thousand six, predicting twenty twenties headlines."),
+   ("Snowpiercer", 2013, "Class war,\non *a train.*",
+    "Class war, on a train."),
+   ("Brazil", 1985, "Bureaucracy\nas *horror.*",
+    "Bureaucracy as horror."),
+   ("Never Let Me Go", 2010, "Quiet, gentle,\nand *deeply* bleak.",
+    "Quiet, gentle, and deeply bleak."),
+   ("Blade Runner 2049", 2017, "Asks what\n*counts* as real.",
+    "Asks what counts as real.")],
+  hashtags=TAGS),
+]
