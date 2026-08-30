@@ -109,6 +109,48 @@
       "result": {
         "id": "1342724004674784_1737181690741693"
       }
+    },
+    {
+      "photo_id": "1505861524898875",
+      "when": "2026-08-30T23:00:00+00:00",
+      "message": "🦊 ANSWER: Take the chicken first, return empty, take the fox, bring the chicken back, take the grain, return empty, take the chicken.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505861794898848",
+      "when": "2026-08-31T10:00:00+00:00",
+      "message": "👣 ANSWER: Footsteps.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505861924898835",
+      "when": "2026-08-31T13:00:00+00:00",
+      "message": "🔫 ANSWER: The man had hiccups and wanted water to cure them. Scaring him worked faster.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505862208232140",
+      "when": "2026-08-31T19:00:00+00:00",
+      "message": "☠️ ANSWER: Row 3.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505862428232118",
+      "when": "2026-08-31T23:00:00+00:00",
+      "message": "🔥 ANSWER: Light one rope at both ends and the other at one end. When rope 1 burns out (30 min), light the other end of rope 2 — it finishes in 15 more minutes. Total: 45.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505862944898733",
+      "when": "2026-09-01T10:00:00+00:00",
+      "message": "💨 ANSWER: Your breath.",
+      "account": "suspense-ahead",
+      "status": "pending"
     }
   ]
 }
