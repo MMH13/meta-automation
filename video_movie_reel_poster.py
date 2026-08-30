@@ -16,6 +16,7 @@ beats: list of dicts
 """
 import json
 import os
+import shutil
 import subprocess
 from pathlib import Path
 
@@ -181,6 +182,19 @@ def build(beats, out_mp4, work_dir, state_path, lock_path):
                         "-movflags", "+faststart", str(out_mp4)],
                        check=True, capture_output=True, timeout=1800)
         print(f"\n=> {out_mp4}  total ~{total:.1f}s")
+        # Drop the per-beat clips, posters and WAVs now that the reel exists.
+        # These are pure intermediates — the state file only matters for
+        # resuming an UNFINISHED render — but nothing deleted them, and 508 of
+        # them silently grew to 60GB and filled the disk. A full disk surfaces
+        # as unrelated-looking failures (Edge screenshot timeouts, corrupt git
+        # checkouts), so clean up eagerly.
+        # Guarded: cleanup must never fail a reel that rendered fine.
+        try:
+            shutil.rmtree(work, ignore_errors=True)
+            Path(state_path).unlink(missing_ok=True)
+        except Exception as e:
+            print(f"  (cleanup skipped: {e})")
+
         return out_mp4
     finally:
         _release_lock(lock_path)
