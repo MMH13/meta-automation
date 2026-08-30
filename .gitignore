@@ -13,3 +13,10 @@ deleted_hd_reels_backup.json
 deleted_hd_duplicate_reels_backup.json
 hd_build_week1.lock
 deshal_reels_batch1.lock
+
+# Rendered reel videos are NOT tracked. They live as assets on the `videos`
+# release of the public repo MMH13/ig-video-assets (see video_store.py), and
+# queue items carry a `video_src` URL the CI runner fetches from.
+# Committing them grew this repo to 3.4GB and made `git push` time out (408),
+# for files that are dead weight the moment the reel is live.
+*.mp4

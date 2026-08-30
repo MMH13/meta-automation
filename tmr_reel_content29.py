@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 29 (days 169-174)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d169_african", "A cinema you've skipped",
+  "5 African films\nthat *deserve*\nfar more.",
+  "Five African films that deserve far more attention.",
+  [("Timbuktu", 2014, "Occupation,\nshown *quietly.*",
+    "Occupation, shown quietly."),
+   ("Atlantics", 2019, "A ghost story\nabout *migration.*",
+    "A ghost story about migration."),
+   ("Yeelen", 1987, "Myth,\ntold *straight.*",
+    "Myth, told completely straight."),
+   ("Black Girl", 1966, "The first feature\nfrom *sub-Saharan* Africa.",
+    "The first feature from sub Saharan Africa."),
+   ("Touki Bouki", 1973, "Radical.\n*Still* radical.",
+    "Radical, and still radical.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d170_video_games", "The curse is breaking",
+  "5 video game films\nthat *aren't*\nterrible.",
+  "Five video game adaptations that aren't terrible.",
+  [("Werewolves Within", 2021, "A comedy\nwhodunnit. *Genuinely* good.",
+    "A comedy whodunnit, and genuinely good."),
+   ("Detective Pikachu", 2019, "It *committed.*\nThat's why it works.",
+    "It committed, and that's why it works."),
+   ("Sonic the Hedgehog", 2020, "They *redesigned*\nhim. Correctly.",
+    "They redesigned him, correctly."),
+   ("Silent Hill", 2006, "It got\nthe *look* exactly right.",
+    "It got the look exactly right."),
+   ("Warcraft", 2016, "A flop *here.*\nEnormous in China.",
+    "A flop here. Enormous in China.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d171_greed", "More is never enough",
+  "5 films about\ngreed that\n*indict* you too.",
+  "Five films about greed that indict you too.",
+  [("Margin Call", 2011, "One night\nat *the* bank.",
+    "One night at the bank."),
+   ("Glengarry Glen Ross", 1992, "\"Coffee's for\n*closers.*\"",
+    "Coffee's for closers."),
+   ("The Wolf of Wall Street", 2013, "It *never*\npunishes him.",
+    "It never really punishes him."),
+   ("Greed", 1924, "Cut from *nine*\nhours to two.",
+    "Cut from nine hours down to two."),
+   ("There Will Be Blood", 2007, "\"I drink\n*your* milkshake.\"",
+    "I drink your milkshake.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d172_foreign_oscar", "The Academy got these right",
+  "5 international\nOscar winners\nworth *tonight.*",
+  "Five international Oscar winners worth your evening.",
+  [("Departures", 2008, "Nobody\n*expected* it to win.",
+    "Nobody expected it to win."),
+   ("The Lives of Others", 2006, "It beat\n*Pan's Labyrinth.*",
+    "It beat Pan's Labyrinth."),
+   ("Amour", 2012, "It was nominated\nfor *Best Picture* too.",
+    "It was nominated for Best Picture too."),
+   ("Cinema Paradiso", 1988, "Then they\n*cut* an hour. Find the long one.",
+    "Then they cut an hour. Find the longer version."),
+   ("Parasite", 2019, "The *first* to win\nboth. Ever.",
+    "The first film to win both. Ever.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d173_trilogy_enders", "Sticking the landing",
+  "5 trilogy endings\nthat *didn't*\nfumble it.",
+  "Five trilogy endings that didn't fumble it.",
+  [("Before Midnight", 2013, "Eighteen years.\n*One* argument.",
+    "Eighteen years, and one enormous argument."),
+   ("Toy Story 3", 2010, "The *furnace*\nscene.",
+    "The furnace scene."),
+   ("The Bourne Ultimatum", 2007, "It *answers*\nthe first film.",
+    "It answers the first film."),
+   ("Three Colors: Red", 1994, "It *gathers*\nall three.",
+    "It gathers all three together."),
+   ("The Return of the King", 2003, "It *swept*\neverything.",
+    "It swept everything.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d174_filmmaking", "Films about films",
+  "5 films about\n*making* films.",
+  "Five films about making films.",
+  [("Living in Oblivion", 1995, "Everything\nthat *can* go wrong.",
+    "Everything that can go wrong, does."),
+   ("Ed Wood", 1994, "Affection for\nthe *worst* director ever.",
+    "Affection for the worst director ever."),
+   ("Day for Night", 1973, "He plays\n*the* director.",
+    "He plays the director himself."),
+   ("Sunset Boulevard", 1950, "Hollywood,\neating *itself.*",
+    "Hollywood, eating itself."),
+   ("8 1/2", 1963, "The definitive\n*creative* block.",
+    "The definitive film about creative block.")],
+  hashtags=TAGS),
+]

@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 23 (days 133-138)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d133_eastern_europe", "Behind the curtain",
+  "5 Eastern European\nfilms worth\n*finding.*",
+  "Five Eastern European films worth finding.",
+  [("The Death of Mr. Lazarescu", 2005, "One night.\n*Four* hospitals.",
+    "One night, and four hospitals."),
+   ("4 Months, 3 Weeks and 2 Days", 2007, "The dinner scene\nis *unbearable.*",
+    "The dinner scene is unbearable."),
+   ("Come and See", 1985, "The hardest\nwar film *ever* made.",
+    "The hardest war film ever made."),
+   ("Three Colors: Red", 1994, "Connection,\nby *accident.*",
+    "Connection, entirely by accident."),
+   ("Ashes and Diamonds", 1958, "The end of a war,\nand *nobody* wins.",
+    "The end of a war, and nobody wins.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d134_kaiju", "Something enormous",
+  "5 giant monster films\nworth *taking*\nseriously.",
+  "Five giant monster films worth taking seriously.",
+  [("Colossal", 2016, "A monster film\nabout *addiction.*",
+    "A monster film about addiction."),
+   ("The Host", 2006, "A family comedy,\nwith *a creature.*",
+    "A family comedy, with a creature in it."),
+   ("Shin Godzilla", 2016, "The villain\nis *bureaucracy.*",
+    "The real villain is bureaucracy."),
+   ("Pacific Rim", 2013, "Sincere.\n*Completely* sincere.",
+    "Sincere. Completely sincere."),
+   ("King Kong", 1933, "Stop-motion,\nin *1933.*",
+    "Stop motion, in nineteen thirty three.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d135_gambling", "Know when to walk",
+  "5 films about\ngambling that\n*hurt.*",
+  "Five films about gambling that hurt to watch.",
+  [("Owning Mahowny", 2003, "Based on\na *real* bank clerk.",
+    "Based on a real bank clerk."),
+   ("Hard Eight", 1996, "A mentor,\nwith *a debt.*",
+    "A mentor, with a debt."),
+   ("California Split", 1974, "Winning\nchanges *nothing.*",
+    "Winning changes nothing."),
+   ("Croupier", 1998, "Told by\n*the house.*",
+    "Told from the house's side."),
+   ("The Gambler", 1974, "He *wants*\nto lose.",
+    "He wants to lose.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d136_mothers", "The hardest job",
+  "5 films about\nmothers that\n*don't* sentimentalise.",
+  "Five films about mothers that don't sentimentalise.",
+  [("Tully", 2018, "Exhaustion,\nfilmed *honestly.*",
+    "Exhaustion, filmed honestly."),
+   ("Mother", 2009, "She'll do\n*anything.* Anything.",
+    "She'll do anything. Anything at all."),
+   ("Stella Dallas", 1937, "The final shot\nis *brutal.*",
+    "The final shot is brutal."),
+   ("We Need to Talk About Kevin", 2011, "Told entirely\nin *her* colour. Red.",
+    "Told entirely in her colour. Red."),
+   ("Mildred Pierce", 1945, "Sacrifice,\nand *contempt.*",
+    "Sacrifice, met with contempt.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d137_banned", "They tried to stop these",
+  "5 films that were\n*actually*\nbanned.",
+  "Five films that were actually banned.",
+  [("The Texas Chain Saw Massacre", 1974, "Banned across\n*most* of Europe.",
+    "Banned across most of Europe."),
+   ("Battle Royale", 2000, "Debated in\n*the Japanese* parliament.",
+    "It was debated in the Japanese parliament."),
+   ("A Clockwork Orange", 1971, "*He* pulled it.\nNot the censors.",
+    "He pulled it himself. Not the censors."),
+   ("The Battle of Algiers", 1966, "Banned in France\nfor *five* years.",
+    "Banned in France for five years."),
+   ("Life of Brian", 1979, "Banned in Norway.\nMarketed *on that.*",
+    "Banned in Norway, and marketed on that fact.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d138_colour", "One colour does the work",
+  "5 films built\naround *one*\ncolour.",
+  "Five films built around one colour.",
+  [("Hero", 2002, "Each version\nhas *its own* palette.",
+    "Each version of the story has its own palette."),
+   ("Amelie", 2001, "Green and gold.\n*Everywhere.*",
+    "Green and gold, everywhere."),
+   ("The Matrix", 1999, "Green *inside.*\nBlue outside.",
+    "Green inside the Matrix. Blue outside."),
+   ("Mad Max: Fury Road", 2015, "Orange *and*\nteal, done right.",
+    "Orange and teal, finally done right."),
+   ("In the Mood for Love", 2000, "Red,\nas *longing.*",
+    "Red, as longing.")],
+  hashtags=TAGS),
+]

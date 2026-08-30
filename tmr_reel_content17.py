@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 17 (days 97-102)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d97_60s", "The 1960s",
+  "5 films that\n*broke* the\nrules in the 60s.",
+  "Five films that broke the rules in the sixties.",
+  [("The Battle of Algiers", 1966, "Shot like\n*newsreel.* No footage is real.",
+    "Shot like newsreel, and none of it is real footage."),
+   ("Bonnie and Clyde", 1967, "The ending\n*changed* censorship.",
+    "The ending changed film censorship."),
+   ("Persona", 1966, "The film itself\n*catches fire.*",
+    "The film itself appears to catch fire."),
+   ("Psycho", 1960, "It killed\nthe *lead.* Early.",
+    "It killed the lead, early."),
+   ("Dr. No", 1962, "One film.\n*Sixty* years of sequels.",
+    "One film, and sixty years of sequels.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d98_hong_kong", "Practical, painful, perfect",
+  "5 Hong Kong films\nthat *out-stunt*\nHollywood.",
+  "Five Hong Kong films that out stunt Hollywood.",
+  [("SPL: Sha Po Lang", 2005, "The alley fight.\n*That's* it.",
+    "The alley fight. That's all you need."),
+   ("Drunken Master II", 1994, "He *actually*\nlands in the coals.",
+    "He actually lands in the coals."),
+   ("Hard Boiled", 1992, "A hospital shootout,\n*nearly* one take.",
+    "A hospital shootout, in nearly one take."),
+   ("Police Story", 1985, "The pole slide\n*burned* his hands.",
+    "The pole slide burned his hands."),
+   ("In the Mood for Love", 2000, "No fights.\n*Still* the best.",
+    "No fights at all, and still the best.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d99_folk_horror", "The village knows",
+  "5 folk horror films\nthat *stay*\nwith you.",
+  "Five folk horror films that stay with you.",
+  [("Kill List", 2011, "The last ten minutes\n*rewrite* it.",
+    "The last ten minutes rewrite the whole film."),
+   ("The Witch", 2015, "The dialogue is\n*period* accurate.",
+    "The dialogue is period accurate."),
+   ("Midsommar", 2019, "Horror in\n*full* daylight.",
+    "Horror, in full daylight."),
+   ("Häxan", 1922, "1922, and it's\n*still* strange.",
+    "Nineteen twenty two, and it's still strange."),
+   ("The Wicker Man", 1973, "That ending\n*earned* its reputation.",
+    "That ending earned its reputation.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d100_memory", "What you think you remember",
+  "5 films about\nmemory you *can't*\ntrust.",
+  "Five films about memory you can't trust.",
+  [("The Father", 2020, "The *set* changes.\nYou barely notice.",
+    "The set changes, and you barely notice."),
+   ("Marienbad", 1961, "Did they meet\n*last* year? Nobody knows.",
+    "Did they meet last year? Nobody knows."),
+   ("Total Recall", 1990, "Dream, or\n*not?*",
+    "Dream, or not?"),
+   ("Eternal Sunshine of the Spotless Mind", 2004, "Erasing it\ndoesn't *work.*",
+    "Erasing it doesn't work."),
+   ("Rashomon", 1950, "Everyone\nremembers *themselves* well.",
+    "Everyone remembers themselves well.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d101_satire", "Too close to be funny",
+  "5 satires that\n*stopped* being\njokes.",
+  "Five satires that stopped being jokes.",
+  [("Idiocracy", 2006, "Released to\n*nothing.* Now quoted daily.",
+    "Released to nothing, and now quoted daily."),
+   ("Being There", 1979, "A gardener,\nmistaken for *a genius.*",
+    "A gardener, mistaken for a genius."),
+   ("The Death of Stalin", 2017, "The real events\nwere *worse.*",
+    "The real events were worse."),
+   ("Wag the Dog", 1997, "A fake war,\nto *bury* a scandal.",
+    "A fake war, to bury a scandal."),
+   ("Network", 1976, "It stopped being\nsatire *decades* ago.",
+    "It stopped being satire decades ago.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d102_title_sequences", "Before the film starts",
+  "5 opening credits\nbetter than *most*\nfilms.",
+  "Five opening credit sequences better than most films.",
+  [("Enter the Void", 2009, "The entire *cast*\nlist, in seconds.",
+    "The entire cast list, in seconds."),
+   ("Catch Me If You Can", 2002, "Animated.\n*Retro.* Perfect.",
+    "Animated, retro, and perfect."),
+   ("Watchmen", 2009, "The best part\nis *before* the plot.",
+    "The best part happens before the plot."),
+   ("Vertigo", 1958, "Saul Bass\n*invented* this job.",
+    "Saul Bass basically invented this job."),
+   ("Se7en", 1995, "Scratched film.\n*Instant* dread.",
+    "Scratched film, and instant dread.")],
+  hashtags=TAGS),
+]

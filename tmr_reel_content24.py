@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 24 (days 139-144)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d139_chinese", "Sweeping and specific",
+  "5 Chinese films\nthat *deserve*\nan audience.",
+  "Five Chinese films that deserve a bigger audience.",
+  [("Still Life", 2006, "A town being\n*demolished.* Really.",
+    "Filmed in a town that was really being demolished."),
+   ("Raise the Red Lantern", 1991, "Four wives.\n*One* lantern.",
+    "Four wives, and one lantern."),
+   ("To Live", 1994, "Fifty years,\n*one* family.",
+    "Fifty years, through one family."),
+   ("Farewell My Concubine", 1993, "Opera,\nand *upheaval.*",
+    "Opera, and upheaval."),
+   ("In the Heat of the Sun", 1994, "A memory that\n*admits* it lies.",
+    "A memory that admits it lies.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d140_slashers", "Count the survivors",
+  "5 slashers that\nare *smarter*\nthan they look.",
+  "Five slashers that are smarter than they look.",
+  [("The Descent", 2005, "Claustrophobia\n*before* the monsters.",
+    "Claustrophobia, before the monsters even arrive."),
+   ("Black Christmas", 1974, "It came *before*\nHalloween.",
+    "It came before Halloween did."),
+   ("Scream", 1996, "It explains\nthe *rules,* then breaks them.",
+    "It explains the rules, then breaks them."),
+   ("Halloween", 1978, "Made for\n*325* thousand dollars.",
+    "Made for three hundred and twenty five thousand dollars."),
+   ("Psycho", 1960, "The *shower*\nscene. Still.",
+    "The shower scene. Still.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d141_boxing", "Twelve rounds",
+  "5 boxing films\nwhere the fight\n*isn't* the point.",
+  "Five boxing films where the fight isn't the point.",
+  [("The Fighter", 2010, "The *brother*\nis the story.",
+    "The brother is the real story."),
+   ("Creed", 2015, "One round,\n*one* take.",
+    "One round, in one take."),
+   ("Million Dollar Baby", 2004, "It *isn't*\nthe film you think.",
+    "It isn't the film you think it is."),
+   ("The Set-Up", 1949, "Told in\n*real* time.",
+    "Told in real time."),
+   ("Raging Bull", 1980, "The fights are\n*shot* like horror.",
+    "The fights are shot like horror.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d142_friendship", "Ride or die",
+  "5 films about\nfriendship that\n*earn* it.",
+  "Five films about friendship that earn it.",
+  [("Withnail & I", 1987, "It ends\nwhen *one* grows up.",
+    "It ends when one of them grows up."),
+   ("Stand by Me", 1986, "\"I never had\nfriends *later* on.\"",
+    "I never had any friends later on."),
+   ("The Intouchables", 2011, "Based on\na *real* pair.",
+    "Based on a real pair of people."),
+   ("Thelma & Louise", 1991, "They *choose*\neach other.",
+    "They choose each other."),
+   ("The Shawshank Redemption", 1994, "Twenty years,\n*one* friendship.",
+    "Twenty years, and one friendship.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d143_made_in_secret", "They weren't supposed to film this",
+  "5 films shot\nwithout *permission.*",
+  "Five films shot without permission.",
+  [("Tangerine", 2015, "Shot entirely\non *iPhones.*",
+    "Shot entirely on iPhones."),
+   ("Escape from Tomorrow", 2013, "Filmed *inside*\nDisney parks. Secretly.",
+    "Filmed inside Disney parks, secretly."),
+   ("This Is Not a Film", 2011, "Smuggled out\non *a USB* stick.",
+    "Smuggled out on a U S B stick."),
+   ("The Blair Witch Project", 1999, "The crew\nleft *notes* in the woods.",
+    "The crew just left notes in the woods."),
+   ("Primer", 2004, "Made for\n*seven* thousand dollars.",
+    "Made for seven thousand dollars.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d144_monologues", "One speech, whole film",
+  "5 monologues that\n*carry* the\nwhole film.",
+  "Five monologues that carry the whole film.",
+  [("Jaws", 1975, "The Indianapolis\n*speech.*",
+    "The Indianapolis speech."),
+   ("Good Will Hunting", 1997, "\"It's not\n*your* fault.\"",
+    "It's not your fault."),
+   ("Blade Runner", 1982, "He *wrote*\nit himself. On set.",
+    "He wrote it himself, on set."),
+   ("12 Years a Slave", 2013, "One unbroken\n*take.* You can't look away.",
+    "One unbroken take, and you can't look away."),
+   ("Network", 1976, "\"I'm as *mad*\nas hell.\"",
+    "I'm as mad as hell.")],
+  hashtags=TAGS),
+]

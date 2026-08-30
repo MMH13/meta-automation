@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 28 (days 163-168)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d163_canadian", "Quietly excellent",
+  "5 Canadian films\nthat *punch*\nabove their weight.",
+  "Five Canadian films that punch above their weight.",
+  [("Cube", 1997, "One set.\n*Endless* dread.",
+    "One set, and endless dread."),
+   ("Incendies", 2010, "The reveal\n*breaks* people.",
+    "The reveal breaks people."),
+   ("Stories We Tell", 2012, "She investigates\n*her own* family.",
+    "She investigates her own family."),
+   ("The Sweet Hereafter", 1997, "A town,\nafter *the* accident.",
+    "A town, after the accident."),
+   ("Dead Ringers", 1988, "Cold,\nclinical, *awful.*",
+    "Cold, clinical, and awful.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d164_disaster", "Everything goes wrong",
+  "5 disaster films\nthat *actually*\nhold up.",
+  "Five disaster films that actually hold up.",
+  [("Deepwater Horizon", 2016, "It *respects*\nthe real crew.",
+    "It respects the real crew."),
+   ("The Wave", 2015, "Norwegian.\n*Small.* Terrifying.",
+    "Norwegian, small, and terrifying."),
+   ("The Towering Inferno", 1974, "*Two* studios\nmade it together.",
+    "Two studios made it together."),
+   ("Titanic", 1997, "The ship sinks\nin *real* time.",
+    "The ship sinks in roughly real time."),
+   ("Threads", 1984, "The bleakest\nfilm *ever* broadcast.",
+    "The bleakest film ever broadcast.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d165_loneliness", "Nobody's coming",
+  "5 films about\nbeing *completely*\nalone.",
+  "Five films about being completely alone.",
+  [("Wendy and Lucy", 2008, "She has\n*almost* nothing.",
+    "She has almost nothing."),
+   ("Paterson", 2016, "Routine,\nas *comfort.*",
+    "Routine, as comfort."),
+   ("Taxi Driver", 1976, "\"God's lonely\n*man.*\"",
+    "God's lonely man."),
+   ("Lost in Translation", 2003, "Two people,\n*equally* adrift.",
+    "Two people, equally adrift."),
+   ("Umberto D.", 1952, "Dignity,\nrunning *out.*",
+    "Dignity, running out.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d166_comics", "Off the page",
+  "5 comic adaptations\nthat *aren't*\nsuperhero films.",
+  "Five comic adaptations that aren't superhero films.",
+  [("Ghost World", 2001, "Awkward,\n*exactly* right.",
+    "Awkward, and exactly right."),
+   ("A History of Violence", 2005, "Most people\ndon't *know* it's a comic.",
+    "Most people don't know it's from a comic."),
+   ("Oldboy", 2003, "Adapted from\n*a manga.*",
+    "Adapted from a manga."),
+   ("Persepolis", 2007, "Hand-drawn.\n*Autobiographical.*",
+    "Hand drawn, and autobiographical."),
+   ("Road to Perdition", 2002, "Every frame\nlooks *painted.*",
+    "Every frame looks painted.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d167_debut_performances", "First film, instant star",
+  "5 debut performances\nthat *announced*\nsomeone.",
+  "Five debut performances that announced someone.",
+  [("Precious", 2009, "She'd *never*\nacted before.",
+    "She had never acted before."),
+   ("Beasts of the Southern Wild", 2012, "She was *six*\nwhen they cast her.",
+    "She was six when they cast her."),
+   ("Whale Rider", 2002, "Twelve years old.\n*Oscar* nominated.",
+    "Twelve years old, and Oscar nominated."),
+   ("The Silence of the Lambs", 1991, "Not a debut.\nBut *that* entrance.",
+    "Not a debut, but what an entrance."),
+   ("Boyz n the Hood", 1991, "The *youngest*\never Best Director nominee.",
+    "It made the youngest ever Best Director nominee.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d168_one_night", "Before sunrise",
+  "5 films set over\n*one* night.",
+  "Five films set over a single night.",
+  [("Collateral", 2004, "Los Angeles,\nshot on *digital.* First time.",
+    "Los Angeles, shot on digital for the first time."),
+   ("After Hours", 1985, "Everything\ngoes *wrong.* Everything.",
+    "Everything goes wrong. Everything."),
+   ("Superbad", 2007, "One night.\n*One* mission.",
+    "One night, one mission."),
+   ("Before Sunrise", 1995, "They *have*\nuntil morning.",
+    "They have until morning."),
+   ("Dog Day Afternoon", 1975, "It really\n*took* that long.",
+    "It really did take that long.")],
+  hashtags=TAGS),
+]

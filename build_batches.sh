@@ -16,7 +16,7 @@ restart_voicebox() {
   ensure_voicebox
 }
 
-for mod in tmr_reel_content10 tmr_reel_content11; do
+for mod in tmr_reel_content13; do
   echo "############ $mod ############"
   ensure_voicebox || exit 1
   for attempt in 1 2 3 4 5 6 7 8; do

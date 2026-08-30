@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 19 (days 109-114)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d109_2020s", "So far this decade",
+  "5 films from\nthe 2020s that\n*will* last.",
+  "Five films from the twenty twenties that will last.",
+  [("Aftersun", 2022, "You only understand\nit *afterwards.*",
+    "You only understand it afterwards."),
+   ("Past Lives", 2023, "Three people.\n*No* villain.",
+    "Three people, and no villain."),
+   ("The Zone of Interest", 2023, "The horror is\n*off* screen. Always.",
+    "The horror is off screen, always."),
+   ("Everything Everywhere All at Once", 2022, "Absurd, then\n*unbearably* sincere.",
+    "Absurd, and then unbearably sincere."),
+   ("Dune: Part Two", 2024, "Scale that\n*earns* the screen.",
+    "Scale that earns the big screen.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d110_iranian", "Quiet and devastating",
+  "5 Iranian films\nthat *floor*\npeople.",
+  "Five Iranian films that floor people.",
+  [("The Salesman", 2016, "A play,\nbleeding into *a life.*",
+    "A play, bleeding into a life."),
+   ("Taste of Cherry", 1997, "A man,\ndriving, *asking.*",
+    "A man, driving, asking."),
+   ("Close-Up", 1990, "The real people\nplay *themselves.*",
+    "The real people play themselves."),
+   ("Where Is the Friend's House?", 1987, "A boy returns\n*a notebook.* That's it.",
+    "A boy tries to return a notebook. That's it."),
+   ("A Separation", 2011, "Everybody\nis *right.*",
+    "Everybody in it is right.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d111_zombies", "It was never about the zombies",
+  "5 zombie films\nwith *something*\nto say.",
+  "Five zombie films with something to say.",
+  [("One Cut of the Dead", 2017, "Stay past\nthe *first* thirty minutes.",
+    "Stay past the first thirty minutes. Trust me."),
+   ("Train to Busan", 2016, "Class war,\nat *speed.*",
+    "Class war, at speed."),
+   ("28 Days Later", 2002, "Empty London,\nshot at *dawn.*",
+    "Empty London, shot at dawn."),
+   ("Shaun of the Dead", 2004, "A comedy that\n*respects* the genre.",
+    "A comedy that genuinely respects the genre."),
+   ("Dawn of the Dead", 1978, "Set in a mall.\n*That's* the joke.",
+    "Set in a shopping mall. That's the joke.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d112_immigration", "Starting over",
+  "5 films about\nleaving *everything*\nbehind.",
+  "Five films about leaving everything behind.",
+  [("Sin Nombre", 2009, "The journey,\nnot *the* arrival.",
+    "The journey, not the arrival."),
+   ("Minari", 2020, "A farm,\nin *Arkansas.*",
+    "A farm, in Arkansas."),
+   ("In America", 2002, "Told through\n*a child's* camera.",
+    "Told through a child's camera."),
+   ("Brooklyn", 2015, "Homesickness,\nexactly *right.*",
+    "Homesickness, captured exactly right."),
+   ("The Immigrant", 1917, "1917. *Still*\nthe same story.",
+    "Nineteen seventeen, and it's still the same story.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d113_black_comedy", "You'll feel bad laughing",
+  "5 comedies that\nare *genuinely*\ndark.",
+  "Five comedies that are genuinely dark.",
+  [("The Lobster", 2015, "Find a partner,\nor *become* an animal.",
+    "Find a partner, or become an animal."),
+   ("In Bruges", 2008, "Hilarious,\nthen *very* not.",
+    "Hilarious, and then very much not."),
+   ("Heathers", 1988, "A teen comedy\nabout *murder.*",
+    "A teen comedy about murder."),
+   ("Harold and Maude", 1971, "A romance\nwith *fifty* years between.",
+    "A romance with fifty years between them."),
+   ("The Banshees of Inisherin", 2022, "A friendship ends.\n*Escalation* follows.",
+    "A friendship simply ends, and escalation follows.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d114_sound_design", "Close your eyes",
+  "5 films where\nthe *sound* does\nthe work.",
+  "Five films where the sound does the work.",
+  [("Berberian Sound Studio", 2012, "About making\n*horror* sound.",
+    "It's about making horror sound effects."),
+   ("Dunkirk", 2017, "A ticking watch,\n*under* everything.",
+    "A ticking watch, under everything."),
+   ("Sound of Metal", 2019, "You lose hearing\n*with* him.",
+    "You lose your hearing along with him."),
+   ("No Country for Old Men", 2007, "It has *no*\nmusical score.",
+    "It has no musical score at all."),
+   ("Apocalypse Now", 1979, "It *invented*\nmodern surround.",
+    "It basically invented modern surround sound.")],
+  hashtags=TAGS),
+]

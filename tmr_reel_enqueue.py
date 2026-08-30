@@ -22,6 +22,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 from aug_common import load, save
 from video_movie_reel_poster import build as build_reel
+import video_store
 
 _HERE = Path(__file__).parent
 START_DATE = date(2026, 8, 25)
@@ -70,7 +71,10 @@ def main(module_name):
             items.append({
                 "id": fb_id, "account": "top-movie-reviews", "network": "facebook",
                 "type": "reel", "message": caption,
+                # video_path stays for local runs; video_src is what the CI
+                # runner uses, since mp4s are no longer tracked in this repo.
                 "video_path": video_path.relative_to(_HERE).as_posix(),
+                "video_src": video_store.upload(video_path),
                 "when": when, "status": "pending",
             })
             n += 1

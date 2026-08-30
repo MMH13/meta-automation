@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 25 (days 145-150)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d145_submarine", "Silent running",
+  "5 submarine films\nthat *crush*\nyou.",
+  "Five submarine films that crush you.",
+  [("Black Sea", 2014, "Greed,\n*underwater.*",
+    "Greed, underwater."),
+   ("K-19: The Widowmaker", 2002, "Based on\na *real* reactor.",
+    "Based on a real reactor failure."),
+   ("Crimson Tide", 1995, "Two men.\n*One* order.",
+    "Two men, and one order."),
+   ("The Hunt for Red October", 1990, "The accent\nswitch is *genius.*",
+    "The accent switch is genius."),
+   ("Das Boot", 1981, "Three hours.\n*No* escape.",
+    "Three hours, and no escape.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d146_racing", "Foot down",
+  "5 racing films\nfor people who\n*don't* like racing.",
+  "Five racing films for people who don't like racing.",
+  [("Grand Prix", 1966, "Cameras *bolted*\nto real cars.",
+    "Cameras bolted to real cars."),
+   ("Le Mans", 1971, "Barely a plot.\n*Pure* engine.",
+    "Barely a plot. Pure engine."),
+   ("Senna", 2010, "*No* interviews.\nArchive only.",
+    "No interviews at all. Archive footage only."),
+   ("Ford v Ferrari", 2019, "A film about\n*paperwork.* Thrilling.",
+    "It's a film about paperwork, and it's thrilling."),
+   ("Rush", 2013, "Two rivals\nwho *needed* each other.",
+    "Two rivals who needed each other.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d147_mentors", "Someone who saw it in you",
+  "5 films about\nmentors who\n*changed* everything.",
+  "Five films about mentors who changed everything.",
+  [("Finding Forrester", 2000, "A recluse,\nand *a* notebook.",
+    "A recluse, and a notebook."),
+   ("Scent of a Woman", 1992, "That *tango.*\nThat's the scene.",
+    "That tango. That's the scene."),
+   ("The Karate Kid", 1984, "Chores,\nthat *weren't* chores.",
+    "Chores, that weren't chores."),
+   ("The Miracle Worker", 1962, "One word.\n*Water.*",
+    "One word. Water."),
+   ("Dead Poets Society", 1989, "He teaches them\nto *stand* up.",
+    "He teaches them to stand up.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d148_dual_roles", "Same actor, twice",
+  "5 films where one\nactor plays *two*\npeople.",
+  "Five films where one actor plays two people.",
+  [("Enemy", 2013, "The last shot.\n*Good luck.*",
+    "The last shot. Good luck with that."),
+   ("The Double Life of Veronique", 1991, "Two women\nwho *never* meet.",
+    "Two women who never meet."),
+   ("Adaptation", 2002, "He plays\nhis *own* brother.",
+    "He plays his own invented brother."),
+   ("Dead Ringers", 1988, "Twins,\nand *no* effects seams.",
+    "Twins, with no visible effects seams."),
+   ("The Prestige", 2006, "The trick is\n*in* the title.",
+    "The trick is right there in the title.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d149_mexican", "Ferocious and beautiful",
+  "5 Mexican films\nthat *deserve*\nyour night.",
+  "Five Mexican films that deserve your evening.",
+  [("Gueros", 2014, "Black and white.\n*Aimless.* Wonderful.",
+    "Black and white, aimless, and wonderful."),
+   ("New Order", 2020, "Sixty minutes in,\nit *turns.*",
+    "Sixty minutes in, it turns."),
+   ("Tigers Are Not Afraid", 2017, "Fairy tale,\nover *a* cartel war.",
+    "A fairy tale, laid over a cartel war."),
+   ("Like Water for Chocolate", 1992, "Cooking,\nas *emotion.*",
+    "Cooking, as raw emotion."),
+   ("Los Olvidados", 1950, "Banned at home\nfor *insulting* Mexico.",
+    "Banned at home for insulting Mexico.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d150_true_survival", "All of this happened",
+  "5 survival films\nthat *actually*\nhappened.",
+  "Five survival films that actually happened.",
+  [("The Impossible", 2012, "The real family\n*advised* on it.",
+    "The real family advised on it."),
+   ("Alive", 1993, "The Andes.\n*Seventy-two* days.",
+    "The Andes, for seventy two days."),
+   ("Everest", 2015, "It refuses\nto make *heroes.*",
+    "It refuses to make heroes of them."),
+   ("127 Hours", 2010, "You *know*\nwhat's coming.",
+    "You know exactly what's coming."),
+   ("Touching the Void", 2003, "The real men\n*narrate* it.",
+    "The real men narrate it themselves.")],
+  hashtags=TAGS),
+]

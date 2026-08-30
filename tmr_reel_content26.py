@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 26 (days 151-156)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d151_aviation", "Wheels up",
+  "5 films about\nflying that\n*grip* you.",
+  "Five films about flying that grip you.",
+  [("The Aeronauts", 2019, "A balloon,\nat *altitude.*",
+    "A balloon, at lethal altitude."),
+   ("Flight", 2012, "The crash is\nin *the first* act.",
+    "The crash happens in the first act."),
+   ("Sully", 2016, "The *hearing*\nis the drama.",
+    "The hearing is the real drama."),
+   ("The Right Stuff", 1983, "Test pilots,\n*before* the astronauts.",
+    "Test pilots, before they were astronauts."),
+   ("Top Gun: Maverick", 2022, "They *actually*\nflew. All of it.",
+    "They actually flew. All of it.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d152_betrayal", "Someone you trusted",
+  "5 films about\nbetrayal that\n*ache.*",
+  "Five films about betrayal that ache.",
+  [("The Lives of Others", 2006, "Who is\n*informing* on whom?",
+    "Who is informing on whom?"),
+   ("Donnie Brasco", 1997, "The *friendship*\nis real. That's the problem.",
+    "The friendship is real. That's the problem."),
+   ("The Departed", 2006, "Two moles.\n*Both* drowning.",
+    "Two moles, both drowning."),
+   ("Atonement", 2007, "One lie.\n*Two* lives.",
+    "One lie, and two ruined lives."),
+   ("Julius Caesar", 1953, "The *original*\nbetrayal story.",
+    "The original betrayal story.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d153_shakespeare", "400 years and counting",
+  "5 Shakespeare films\nthat *aren't*\nboring.",
+  "Five Shakespeare films that aren't boring.",
+  [("Coriolanus", 2011, "Set in\na *modern* warzone.",
+    "Set in a modern warzone."),
+   ("Throne of Blood", 1957, "Macbeth,\nas *a samurai.*",
+    "Macbeth, as a samurai."),
+   ("Romeo + Juliet", 1996, "Original text.\n*Guns.*",
+    "The original text, but with guns."),
+   ("Henry V", 1989, "The speech.\n*That* speech.",
+    "The speech. That speech."),
+   ("Ran", 1985, "King Lear,\nwith *three* sons.",
+    "King Lear, but with three sons.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d154_snubs", "Robbed",
+  "5 films that\n*should* have\nwon Best Picture.",
+  "Five films that should have won Best Picture.",
+  [("The Social Network", 2010, "It lost.\n*Nobody* rewatches the winner.",
+    "It lost. Nobody rewatches the winner."),
+   ("Saving Private Ryan", 1998, "Beaten by\n*a romance.*",
+    "Beaten by a romance."),
+   ("Goodfellas", 1990, "Beaten by\n*a western.*",
+    "Beaten by a western."),
+   ("Pulp Fiction", 1994, "1994 was\n*brutal.*",
+    "Nineteen ninety four was brutal."),
+   ("Citizen Kane", 1941, "It lost.\n*Obviously.*",
+    "It lost. Obviously.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d155_real_people", "Playing someone real",
+  "5 performances of\n*real* people that\nvanish into them.",
+  "Five performances of real people that vanish into them.",
+  [("The Theory of Everything", 2014, "The *physical*\nwork is staggering.",
+    "The physical work is staggering."),
+   ("Capote", 2005, "The voice.\n*Exactly* the voice.",
+    "The voice. Exactly the voice."),
+   ("Lincoln", 2012, "A *higher* pitch.\nHistorically right.",
+    "A higher pitch, which is historically right."),
+   ("Raging Bull", 1980, "He gained\n*sixty* pounds.",
+    "He gained sixty pounds for it."),
+   ("Gandhi", 1982, "Three hours.\n*One* transformation.",
+    "Three hours, and one complete transformation.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d156_argentine", "South of everything",
+  "5 Argentine films\nyou've *never*\nheard of.",
+  "Five Argentine films you've never heard of.",
+  [("The Headless Woman", 2008, "Did she\n*hit* something?",
+    "Did she hit something?"),
+   ("Nine Queens", 2000, "A con,\ninside *a con.*",
+    "A con, inside a con."),
+   ("The Official Story", 1985, "A mother,\nasking *dangerous* questions.",
+    "A mother, asking dangerous questions."),
+   ("Zama", 2017, "Waiting,\nfor *years.*",
+    "Waiting, for years."),
+   ("The Secret in Their Eyes", 2009, "It won\n*the* Oscar. Deservedly.",
+    "It won the Oscar, deservedly.")],
+  hashtags=TAGS),
+]

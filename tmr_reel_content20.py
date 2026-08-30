@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 20 (days 115-120)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d115_40s", "The 1940s",
+  "5 films from\nthe 40s that\n*invented* things.",
+  "Five films from the forties that invented things.",
+  [("The Third Man", 1949, "That *zither*\nscore. Unmistakable.",
+    "That zither score is unmistakable."),
+   ("Double Indemnity", 1944, "Noir,\n*fully* formed.",
+    "Noir, already fully formed."),
+   ("Brief Encounter", 1945, "Restraint\nas *agony.*",
+    "Restraint, as agony."),
+   ("It's a Wonderful Life", 1946, "Much *darker*\nthan you remember.",
+    "It's much darker than you remember."),
+   ("Casablanca", 1942, "Nobody knew\nthe *ending* while shooting.",
+    "Nobody knew the ending while they were shooting.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d116_latin_america", "Look south",
+  "5 Latin American\nfilms that *travel.*",
+  "Five Latin American films that travel anywhere.",
+  [("No", 2012, "Shot on *1980s*\nvideo tape. Deliberately.",
+    "Shot on nineteen eighties video tape, deliberately."),
+   ("The Motorcycle Diaries", 2004, "Before he\n*became* the poster.",
+    "Before he became the poster."),
+   ("Central Station", 1998, "A letter writer,\nand *a boy.*",
+    "A letter writer, and a boy."),
+   ("Wild Tales", 2014, "Six stories.\n*All* about revenge.",
+    "Six stories, all about revenge."),
+   ("City of God", 2002, "Twenty years,\nin *one* favela.",
+    "Twenty years, in one favela.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d117_body_horror", "Look away now",
+  "5 body horror films\nyou *won't*\nforget.",
+  "Five body horror films you won't forget.",
+  [("Possessor", 2020, "It runs in\n*the* family.",
+    "It runs in the family."),
+   ("Tetsuo: The Iron Man", 1989, "Sixty-seven minutes\nof *pure* nightmare.",
+    "Sixty seven minutes of pure nightmare."),
+   ("Videodrome", 1983, "\"Long live\n*the new flesh.*\"",
+    "Long live the new flesh."),
+   ("The Fly", 1986, "A tragedy,\nnot *a* monster film.",
+    "It's a tragedy, not a monster film."),
+   ("The Substance", 2024, "It *never*\nlooks away.",
+    "It never once looks away.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d118_marriage", "For better or worse",
+  "5 films about\nmarriage that\n*sting.*",
+  "Five films about marriage that sting.",
+  [("Blue Valentine", 2010, "Two timelines.\n*One* couple.",
+    "Two timelines, one couple."),
+   ("Scenes from a Marriage", 1974, "Originally *five*\nhours of television.",
+    "It was originally five hours of television."),
+   ("Revolutionary Road", 2008, "The suburbs,\nas *a cage.*",
+    "The suburbs, as a cage."),
+   ("Who's Afraid of Virginia Woolf?", 1966, "One night.\n*No* survivors.",
+    "One night, and no survivors."),
+   ("Certified Copy", 2010, "Are they married?\n*Unclear.* On purpose.",
+    "Are they married? It's unclear, on purpose.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d119_remakes", "Better the second time",
+  "5 remakes that\n*beat* the\noriginal.",
+  "Five remakes that beat the original.",
+  [("True Lies", 1994, "A French comedy,\n*rebuilt* as a blockbuster.",
+    "A French comedy, rebuilt as a blockbuster."),
+   ("Scarface", 1983, "1932's version\nis *tamer.*",
+    "The nineteen thirty two version is much tamer."),
+   ("Heat", 1995, "He remade\nhis *own* TV film.",
+    "He remade his own TV film."),
+   ("The Thing", 1982, "The 1951 one\nhad *no* paranoia.",
+    "The nineteen fifty one version had no paranoia."),
+   ("The Departed", 2006, "Infernal Affairs,\n*relocated.*",
+    "Infernal Affairs, relocated to Boston.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d120_production_design", "Look at the background",
+  "5 films where\nthe *sets* tell\nthe story.",
+  "Five films where the sets tell the story.",
+  [("Dogville", 2003, "There are\n*no* sets. Chalk lines.",
+    "There are no sets at all. Just chalk lines."),
+   ("The Cell", 2000, "A music video\nthat *became* a film.",
+    "A music video that became a film."),
+   ("Playtime", 1967, "He built\n*an entire city.*",
+    "He built an entire city for it."),
+   ("Blade Runner", 1982, "Every frame is\n*cluttered.* Deliberately.",
+    "Every frame is cluttered, deliberately."),
+   ("The Grand Budapest Hotel", 2014, "Miniatures,\n*not* CGI.",
+    "Miniatures, not C G I.")],
+  hashtags=TAGS),
+]

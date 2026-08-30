@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 22 (days 127-132)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d127_australian", "From down under",
+  "5 Australian films\nthat *hit*\nhard.",
+  "Five Australian films that hit hard.",
+  [("The Babadook", 2014, "Motherhood,\nas *horror.*",
+    "Motherhood, as horror."),
+   ("Snowtown", 2011, "Based on\nsomething *real.* Barely watchable.",
+    "Based on something real, and barely watchable."),
+   ("Animal Kingdom", 2010, "A crime family,\nseen *from* below.",
+    "A crime family, seen from below."),
+   ("Chopper", 2000, "A liar,\ntelling *his* story.",
+    "A liar, telling his own story."),
+   ("Mad Max 2", 1981, "The blueprint for\n*every* wasteland.",
+    "The blueprint for every wasteland since.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d128_giallo", "Style over sense",
+  "5 Italian thrillers\nthat *look*\nincredible.",
+  "Five Italian thrillers that look incredible.",
+  [("The Bird with the Crystal Plumage", 1970, "A witness who\n*missed* something.",
+    "A witness who missed something."),
+   ("Blood and Black Lace", 1964, "It *invented*\nthe body count.",
+    "It basically invented the body count."),
+   ("Tenebrae", 1982, "One crane shot.\n*Two* minutes.",
+    "One crane shot, two full minutes."),
+   ("Deep Red", 1975, "The clue is\n*on screen.* You missed it.",
+    "The clue is on screen. You missed it."),
+   ("Suspiria", 1977, "Colour,\nas *an assault.*",
+    "Colour, used as an assault.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d129_games", "One move from disaster",
+  "5 films about\ngames that\n*aren't* games.",
+  "Five films about games that aren't really about games.",
+  [("Pawn Sacrifice", 2014, "Genius,\nand *paranoia.*",
+    "Genius, and paranoia."),
+   ("Searching for Bobby Fischer", 1993, "The *father*\nis the story.",
+    "The father is the real story."),
+   ("Queen of Katwe", 2016, "A true story\nfrom *a Kampala* slum.",
+    "A true story, from a Kampala slum."),
+   ("The Hustler", 1961, "Pool,\nas *character* study.",
+    "Pool, as a character study."),
+   ("WarGames", 1983, "\"The only\nwinning *move.*\"",
+    "The only winning move is not to play.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d130_fathers", "Dad films that aren't soft",
+  "5 films about\nfathers that\n*land.*",
+  "Five films about fathers that actually land.",
+  [("Kramer vs. Kramer", 1979, "The *breakfast*\nscene. Twice.",
+    "The breakfast scene. Watch it twice."),
+   ("The Road", 2009, "Carrying *the*\nfire.",
+    "Carrying the fire."),
+   ("Bicycle Thieves", 1948, "The son\n*watches.* That's the ending.",
+    "The son watches. That's the ending."),
+   ("Life Is Beautiful", 1997, "A lie,\ntold *out of* love.",
+    "A lie, told out of love."),
+   ("Paper Moon", 1973, "Real father.\n*Real* daughter.",
+    "A real father and daughter, playing it.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d131_flops", "Nobody watched them",
+  "5 films that\n*flopped,* then\nbecame classics.",
+  "Five films that flopped, then became classics.",
+  [("Heaven's Gate", 1980, "It *sank*\na whole studio.",
+    "It sank an entire studio."),
+   ("Blade Runner", 1982, "Beaten by\n*E.T.* That summer.",
+    "It was beaten by E T that summer."),
+   ("The Shawshank Redemption", 1994, "Nobody went.\n*Then* came TV.",
+    "Nobody went. Then came television."),
+   ("Fight Club", 1999, "A box-office\n*disaster.*",
+    "A box office disaster."),
+   ("Citizen Kane", 1941, "Buried by\n*one* newspaper man.",
+    "Buried by one newspaper man.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d132_costume", "Look at what they're wearing",
+  "5 films where\nthe *clothes* are\nthe character.",
+  "Five films where the clothes are the character.",
+  [("Phantom Thread", 2017, "A film *about*\nmaking dresses.",
+    "It's a film about making dresses."),
+   ("The Handmaiden", 2016, "Every layer\n*means* something.",
+    "Every layer means something."),
+   ("Marie Antoinette", 2006, "Pastels, *and*\na pair of Converse.",
+    "Pastels, and one pair of Converse."),
+   ("Black Panther", 2018, "Real cultures,\n*researched.*",
+    "Real cultures, properly researched."),
+   ("Barry Lyndon", 1975, "The costumes\nare *paintings.*",
+    "The costumes are literally paintings.")],
+  hashtags=TAGS),
+]

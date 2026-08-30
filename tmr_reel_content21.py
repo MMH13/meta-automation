@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 21 (days 121-126)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d121_british", "Small island, big films",
+  "5 British films\nthat *aren't*\ncostume dramas.",
+  "Five British films that aren't costume dramas.",
+  [("Dead Man's Shoes", 2004, "Revenge,\nwith *no* style.",
+    "Revenge, with no style at all."),
+   ("Kes", 1969, "A boy\nand *a hawk.*",
+    "A boy, and a hawk."),
+   ("Withnail & I", 1987, "Endlessly\n*quotable.*",
+    "Endlessly quotable."),
+   ("Get Carter", 1971, "Cold.\n*Genuinely* cold.",
+    "Cold. Genuinely cold."),
+   ("The Third Man", 1949, "British.\n*Set* in Vienna.",
+    "British, though it's set in Vienna.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d122_martial_arts", "No wires needed",
+  "5 martial arts films\nwith *real*\nfighting.",
+  "Five martial arts films with real fighting.",
+  [("Ong-Bak", 2003, "No wires.\nNo *doubles.*",
+    "No wires, and no doubles."),
+   ("The Raid: Redemption", 2011, "One building.\n*Thirty* floors.",
+    "One building, thirty floors."),
+   ("Ip Man", 2008, "Restraint,\nthen *release.*",
+    "Restraint, and then release."),
+   ("Crouching Tiger, Hidden Dragon", 2000, "Wires,\nused as *poetry.*",
+    "Wires, used as poetry."),
+   ("Enter the Dragon", 1973, "The film that\n*opened* the door.",
+    "The film that opened the door.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d123_vampires", "Not the sparkly kind",
+  "5 vampire films\nthat take it\n*seriously.*",
+  "Five vampire films that take it seriously.",
+  [("A Girl Walks Home Alone at Night", 2014, "A vampire\n*western.* In Farsi.",
+    "A vampire western, in Farsi."),
+   ("Thirst", 2009, "A priest.\n*Infected.*",
+    "A priest, infected."),
+   ("Only Lovers Left Alive", 2013, "Immortality,\nas *boredom.*",
+    "Immortality, as boredom."),
+   ("Near Dark", 1987, "A vampire film\nthat *never* says vampire.",
+    "A vampire film that never says the word vampire."),
+   ("Nosferatu the Vampyre", 1979, "Sadness,\nnot *menace.*",
+    "Sadness, rather than menace.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d124_class", "Who gets to win",
+  "5 films about\nclass that\n*don't* soften it.",
+  "Five films about class that don't soften it.",
+  [("Shoplifters", 2018, "A family,\n*chosen.*",
+    "A family, chosen rather than born."),
+   ("La Ceremonie", 1995, "Politeness,\nuntil *it isn't.*",
+    "Politeness, right up until it isn't."),
+   ("The Rules of the Game", 1939, "Banned\n*on release.*",
+    "It was banned on release."),
+   ("Sorry to Bother You", 2018, "It goes\n*somewhere* insane.",
+    "It goes somewhere completely insane."),
+   ("Parasite", 2019, "Stairs.\n*Always* the stairs.",
+    "Stairs. It's always the stairs.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d125_anthology", "Several films in one",
+  "5 anthology films\nwhere *every*\nstory lands.",
+  "Five anthology films where every story lands.",
+  [("The Ballad of Buster Scruggs", 2018, "Six tales.\nAll *ending* badly.",
+    "Six tales, all ending badly."),
+   ("Kwaidan", 1964, "Four ghost stories.\n*Painted* skies.",
+    "Four ghost stories, with painted skies."),
+   ("Coffee and Cigarettes", 2003, "Eleven conversations.\n*That's* the film.",
+    "Eleven conversations, and that's the whole film."),
+   ("Dead of Night", 1945, "The ending\n*loops.*",
+    "The ending loops back around."),
+   ("Paris, je t'aime", 2006, "Eighteen directors.\n*One* city.",
+    "Eighteen directors, one city.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d126_against_type", "You won't believe the casting",
+  "5 actors cast\n*completely*\nagainst type.",
+  "Five actors cast completely against type.",
+  [("Punch-Drunk Love", 2002, "The comedian,\nplayed *straight.*",
+    "The comedian, played completely straight."),
+   ("Cape Fear", 1962, "The nice guy,\nas *the* threat.",
+    "The nice guy, as the threat."),
+   ("Foxcatcher", 2014, "Unrecognisable.\n*Genuinely.*",
+    "Genuinely unrecognisable."),
+   ("The Truman Show", 1998, "The rubber face,\n*still.*",
+    "The rubber face, held completely still."),
+   ("Monster", 2003, "The transformation\nwon *everything.*",
+    "The transformation won everything that year.")],
+  hashtags=TAGS),
+]

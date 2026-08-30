@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 18 (days 103-108)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d103_50s", "The 1950s",
+  "5 films from\nthe 50s that\n*still* bite.",
+  "Five films from the fifties that still bite.",
+  [("Ace in the Hole", 1951, "The press,\nas *the* villain.",
+    "The press, as the villain."),
+   ("Sweet Smell of Success", 1957, "Every line\nis *a* weapon.",
+    "Every line is a weapon."),
+   ("The Night of the Hunter", 1955, "It *flopped.*\nNow it's untouchable.",
+    "It flopped. Now it's untouchable."),
+   ("Rear Window", 1954, "One room.\n*One* window.",
+    "One room, and one window."),
+   ("Sunset Boulevard", 1950, "Narrated by\n*a dead man.*",
+    "Narrated by a dead man.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d104_german", "Precise and unsettling",
+  "5 German films\nworth *seeking*\nout.",
+  "Five German films worth seeking out.",
+  [("Toni Erdmann", 2016, "A prank that\nbecomes *devastating.*",
+    "A prank that becomes devastating."),
+   ("Run Lola Run", 1998, "Three versions.\n*Twenty* minutes each.",
+    "Three versions, twenty minutes each."),
+   ("Wings of Desire", 1987, "Angels, listening\nto *thoughts.*",
+    "Angels, listening to thoughts."),
+   ("Downfall", 2004, "You've seen\n*one* scene. Watch the rest.",
+    "You've seen one scene of it. Watch the rest."),
+   ("M", 1931, "1931.\nThe *first* real serial-killer film.",
+    "Nineteen thirty one. The first real serial killer film.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d105_found_footage", "Someone found the tapes",
+  "5 found-footage films\nthat *actually*\nwork.",
+  "Five found footage films that actually work.",
+  [("Lake Mungo", 2008, "The *last* frame.\nGo back and look.",
+    "The last frame. Go back and look."),
+   ("Creep", 2014, "Two actors.\n*One* camera.",
+    "Two actors, one camera."),
+   ("Rec", 2007, "One stairwell.\n*Total* panic.",
+    "One stairwell, and total panic."),
+   ("Cannibal Holocaust", 1980, "The director was\n*charged.* Really.",
+    "The director was actually charged."),
+   ("The Blair Witch Project", 1999, "The cast *didn't*\nknow the plan.",
+    "The cast didn't know the plan.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d106_faith", "Bigger questions",
+  "5 films about\nfaith that don't\n*preach.*",
+  "Five films about faith that don't preach.",
+  [("Calvary", 2014, "A priest is told\nhe has *one* week.",
+    "A priest is told he has one week."),
+   ("Silence", 2016, "Faith,\nunder *pressure.*",
+    "Faith, under pressure."),
+   ("First Reformed", 2017, "Doubt, and\n*the* climate.",
+    "Doubt, and the climate."),
+   ("Winter Light", 1963, "A priest who\n*stopped* believing.",
+    "A priest who stopped believing."),
+   ("Ordet", 1955, "That final scene\nis *astonishing.*",
+    "That final scene is astonishing.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d107_screwball", "Talk faster",
+  "5 screwball comedies\nthat *still*\nland.",
+  "Five screwball comedies that still land.",
+  [("The Palm Beach Story", 1942, "The opening is\n*incomprehensible.* Deliberately.",
+    "The opening is incomprehensible, deliberately."),
+   ("My Man Godfrey", 1936, "A scavenger hunt,\nfor *a person.*",
+    "A scavenger hunt, for a person."),
+   ("The Philadelphia Story", 1940, "Three stars,\n*all* at their best.",
+    "Three stars, all at their best."),
+   ("Bringing Up Baby", 1938, "The leopard\nis *real.*",
+    "The leopard is real."),
+   ("His Girl Friday", 1940, "They talk\n*over* each other. On purpose.",
+    "They talk over each other, on purpose.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d108_one_performance", "Carried by one person",
+  "5 films held up\nby *a single*\nperformance.",
+  "Five films held up by a single performance.",
+  [("Buried", 2010, "Ninety minutes.\n*One* coffin.",
+    "Ninety minutes, in one coffin."),
+   ("Locke", 2013, "A man,\na car, *a phone.*",
+    "A man, a car, and a phone."),
+   ("All Is Lost", 2013, "Almost *no*\ndialogue at all.",
+    "Almost no dialogue at all."),
+   ("Cast Away", 2000, "He acts against\n*a volleyball.* It works.",
+    "He acts against a volleyball, and it works."),
+   ("The Wrestler", 2008, "The role\n*was* the man.",
+    "The role was the man.")],
+  hashtags=TAGS),
+]

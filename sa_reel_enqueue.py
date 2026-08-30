@@ -23,6 +23,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 from aug_common import load, save
+import video_store
 from video_suspense_stock import build as build_reel
 
 _HERE = Path(__file__).parent
@@ -82,7 +83,10 @@ def main(module_name):
             items.append({
                 "id": fb_id, "account": "suspense-ahead", "network": "facebook",
                 "type": "reel", "message": caption,
+                # video_path stays for local runs; video_src is what the CI
+                # runner uses, since mp4s are no longer tracked in this repo.
                 "video_path": video_path.relative_to(_HERE).as_posix(),
+                "video_src": video_store.upload(video_path),
                 "when": when, "status": "pending",
             })
             n += 1

@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 27 (days 157-162)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d157_turkish", "Slow, huge, quiet",
+  "5 Turkish films\nworth *every*\nminute.",
+  "Five Turkish films worth every minute.",
+  [("Mustang", 2015, "Five sisters,\n*locked* in.",
+    "Five sisters, locked in."),
+   ("Distant", 2002, "Two men,\n*not* talking.",
+    "Two men, not talking."),
+   ("Once Upon a Time in Anatolia", 2011, "A search,\nall *night* long.",
+    "A search, all night long."),
+   ("Honey", 2010, "Almost *no*\ndialogue at all.",
+    "Almost no dialogue at all."),
+   ("Winter Sleep", 2014, "Three hours\nof *conversation.* Gripping.",
+    "Three hours of conversation, and it's gripping.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d158_techno_thriller", "The system is the villain",
+  "5 tech thrillers\nthat *aged*\nfrighteningly well.",
+  "Five tech thrillers that aged frighteningly well.",
+  [("The Net", 1995, "Identity theft,\n*before* it was normal.",
+    "Identity theft, before it was normal."),
+   ("Sneakers", 1992, "\"No more\n*secrets.*\"",
+    "No more secrets."),
+   ("Enemy of the State", 1998, "1998, predicting\n*mass* surveillance.",
+    "Nineteen ninety eight, predicting mass surveillance."),
+   ("The Conversation", 1974, "He *is* the\nsurveillance.",
+    "He is the surveillance."),
+   ("The Social Network", 2010, "It's about\n*wanting* in.",
+    "It's really about wanting in.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d159_forgiveness", "Letting it go",
+  "5 films about\nforgiveness that\n*earn* it.",
+  "Five films about forgiveness that earn it.",
+  [("Secrets & Lies", 1996, "One phone call.\n*Everything* changes.",
+    "One phone call, and everything changes."),
+   ("The Straight Story", 1999, "He drives\nto say *sorry.*",
+    "He drives all that way to say sorry."),
+   ("A Man Called Ove", 2015, "Grumpy,\nthen *not.*",
+    "Grumpy, and then not."),
+   ("Ikiru", 1952, "One year\nto *matter.*",
+    "One year left, to matter."),
+   ("Dead Man Walking", 1995, "It refuses\n*easy* answers.",
+    "It refuses every easy answer.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d160_king", "He wrote all of these",
+  "5 Stephen King\nadaptations that\n*work.*",
+  "Five Stephen King adaptations that actually work.",
+  [("Gerald's Game", 2017, "Unfilmable.\n*Filmed.*",
+    "Considered unfilmable. They filmed it."),
+   ("The Mist", 2007, "The ending is\n*worse* than the book's.",
+    "The ending is worse than the book's."),
+   ("Misery", 1990, "The *only* King film\nto win an Oscar.",
+    "The only King film to win an acting Oscar."),
+   ("Stand by Me", 1986, "He said it was\nthe *first* good one.",
+    "He said it was the first good one."),
+   ("The Shining", 1980, "He *hated* it.\nEveryone else didn't.",
+    "He hated it. Everyone else didn't.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d161_palme", "Cannes said yes",
+  "5 Palme d'Or winners\nworth *starting*\nwith.",
+  "Five Palme d'Or winners worth starting with.",
+  [("Dheepan", 2015, "Refugees,\nposing as *a family.*",
+    "Refugees, posing as a family."),
+   ("The Class", 2008, "It *feels*\nlike a documentary.",
+    "It feels exactly like a documentary."),
+   ("Taxi Driver", 1976, "It *shocked*\nthe jury.",
+    "It shocked the jury."),
+   ("The Piano", 1993, "The *first* woman\nto win it.",
+    "The first woman to win it."),
+   ("Parasite", 2019, "Then it won\n*Best Picture* too.",
+    "Then it won Best Picture too.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d162_wordless", "Not one line",
+  "5 performances with\n*almost* no\ndialogue.",
+  "Five performances with almost no dialogue.",
+  [("The Artist", 2011, "Silent,\nin *2011.*",
+    "Silent, in twenty eleven."),
+   ("Wall-E", 2008, "A robot,\nwith *two* words.",
+    "A robot, with about two words."),
+   ("A Quiet Place", 2018, "Speaking\n*kills* you.",
+    "Speaking gets you killed."),
+   ("The Piano", 1993, "She *chooses*\nnot to speak.",
+    "She chooses not to speak."),
+   ("Le Samourai", 1967, "Cool,\nbuilt from *silence.*",
+    "Cool, built entirely from silence.")],
+  hashtags=TAGS),
+]

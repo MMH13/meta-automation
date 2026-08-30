@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 16 (days 91-96)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d91_70s", "The 1970s",
+  "5 films that\n*defined* the\n70s.",
+  "Five films that defined the seventies.",
+  [("Dog Day Afternoon", 1975, "A bank robbery\nthat becomes *a circus.*",
+    "A bank robbery that becomes a circus."),
+   ("The Conversation", 1974, "Paranoia,\nbuilt from *sound.*",
+    "Paranoia, built entirely from sound."),
+   ("Nashville", 1975, "Twenty-four lives,\n*one* week.",
+    "Twenty four lives, over one week."),
+   ("Taxi Driver", 1976, "The city\nis *the* illness.",
+    "The city is the illness."),
+   ("The Godfather", 1972, "It *reset*\nAmerican film.",
+    "It reset American film.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d92_spanish", "Worth the subtitles",
+  "5 Spanish-language\nfilms you *missed.*",
+  "Five Spanish language films you missed.",
+  [("The Secret in Their Eyes", 2009, "One *unbroken*\nstadium shot.",
+    "One unbroken shot, through a whole stadium."),
+   ("Talk to Her", 2002, "Uncomfortable.\n*Deliberately.*",
+    "Uncomfortable, and deliberately so."),
+   ("The Orphanage", 2007, "Grief,\nas *a ghost* story.",
+    "Grief, told as a ghost story."),
+   ("The Sea Inside", 2004, "A true story\nabout *choosing.*",
+    "A true story about choosing."),
+   ("Pan's Labyrinth", 2006, "A fairy tale\nwith *real* fascists.",
+    "A fairy tale with real fascists.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d93_samurai", "Steel and silence",
+  "5 samurai films\nbeyond *Seven\nSamurai.*",
+  "Five samurai films beyond Seven Samurai.",
+  [("13 Assassins", 2010, "A *45-minute*\nfinal battle.",
+    "A forty five minute final battle."),
+   ("Sword of Doom", 1966, "It just\n*stops.* On purpose.",
+    "It just stops, on purpose."),
+   ("Samurai Rebellion", 1967, "Obedience,\nuntil it *breaks.*",
+    "Obedience, until it breaks."),
+   ("Yojimbo", 1961, "A Fistful of Dollars\n*copied* it. Openly.",
+    "A Fistful of Dollars copied it, openly."),
+   ("Ran", 1985, "King Lear,\nin *full* colour.",
+    "King Lear, in full colour.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d94_grief", "Have tissues ready",
+  "5 films about\ngrief that\n*get* it right.",
+  "Five films about grief that get it right.",
+  [("Truly, Madly, Deeply", 1990, "The ghost\nis *annoying.* That's the point.",
+    "The ghost is annoying, and that's the point."),
+   ("A Monster Calls", 2016, "The truth he\n*won't* say out loud.",
+    "The truth he won't say out loud."),
+   ("Rabbit Hole", 2010, "Two people,\ngrieving *differently.*",
+    "Two people, grieving differently."),
+   ("Three Colors: Blue", 1993, "Freedom,\nas *a wound.*",
+    "Freedom, as a wound."),
+   ("Manchester by the Sea", 2016, "\"I can't\n*beat* it.\"",
+    "I can't beat it.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d95_mockumentary", "Played completely straight",
+  "5 fake documentaries\nthat *fooled*\npeople.",
+  "Five fake documentaries that fooled people.",
+  [("Zelig", 1983, "Fake newsreels,\n*decades* before CGI.",
+    "Fake newsreels, decades before C G I."),
+   ("Behind the Mask", 2006, "A slasher film\nwith *a camera crew.*",
+    "A slasher film, with a camera crew."),
+   ("Best in Show", 2000, "Almost *entirely*\nimprovised.",
+    "Almost entirely improvised."),
+   ("Man Bites Dog", 1992, "The crew stops\nbeing *bystanders.*",
+    "The crew stops being bystanders."),
+   ("This Is Spinal Tap", 1984, "Bands say it's\n*too* accurate.",
+    "Real bands say it's too accurate.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d96_needle_drops", "One perfect song",
+  "5 scenes made\nby *one* song.",
+  "Five scenes made by one song.",
+  [("Baby Driver", 2017, "The *edit* follows\nthe track. Exactly.",
+    "The edit follows the track exactly."),
+   ("Trainspotting", 1996, "That opening\n*sprint.*",
+    "That opening sprint."),
+   ("Apocalypse Now", 1979, "Helicopters,\nand *Wagner.*",
+    "Helicopters, and Wagner."),
+   ("Reservoir Dogs", 1992, "You'll never hear\nthat song *the same.*",
+    "You'll never hear that song the same way again."),
+   ("Goodfellas", 1990, "The *last* two minutes\nof Layla.",
+    "The last two minutes of Layla.")],
+  hashtags=TAGS),
+]
