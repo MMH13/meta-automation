@@ -151,6 +151,41 @@
       "message": "💨 ANSWER: Your breath.",
       "account": "suspense-ahead",
       "status": "pending"
+    },
+    {
+      "photo_id": "1505869128231448",
+      "when": "2026-09-01T13:00:00+00:00",
+      "message": "🐠 ANSWER: They were fish — the 'cabin' was an aquarium tank that shattered.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505869581564736",
+      "when": "2026-09-01T19:00:00+00:00",
+      "message": "🕸️ ANSWER: Row 2.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505869898231371",
+      "when": "2026-09-01T23:00:00+00:00",
+      "message": "🎲 ANSWER: Monopoly.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505871338231227",
+      "when": "2026-09-02T10:00:00+00:00",
+      "message": "🍾 ANSWER: A bottle.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505871558231205",
+      "when": "2026-09-02T13:00:00+00:00",
+      "message": "🪂 ANSWER: He was skydiving and his parachute — the unopened package — failed.",
+      "account": "suspense-ahead",
+      "status": "pending"
     }
   ]
 }
