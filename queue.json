@@ -12502,7 +12502,12 @@
       "message": "😂 মাসের শুরু আর শেষ- দুই আলাদা ব্যক্তিত্ব। রিলেট করলে ❤️ দিন\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/20_2.png",
       "when": "2026-08-30T06:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1373704011546169",
+        "post_id": "1191612787659871_1373704021546168"
+      },
+      "posted_at": "2026-08-30T14:31:23+00:00"
     },
     {
       "id": "deshal-refill1-20-3",
@@ -12512,7 +12517,12 @@
       "message": "😆 দাদি-নাতির এই তর্কে সবসময় দাদিই জিতে যায়। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/20_3.png",
       "when": "2026-08-30T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1373704244879479",
+        "post_id": "1191612787659871_1373704261546144"
+      },
+      "posted_at": "2026-08-30T14:31:34+00:00"
     },
     {
       "id": "deshal-refill1-20-4",
@@ -12522,7 +12532,12 @@
       "message": "😅 এই খেলায় হারলেও একটা তৃপ্তি থাকে। কে কে খেলেন এই খেলা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/20_4.png",
       "when": "2026-08-30T12:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1373705298212707",
+        "post_id": "1191612787659871_1373705308212706"
+      },
+      "posted_at": "2026-08-30T14:32:43+00:00"
     },
     {
       "id": "deshal-refill1-20-5",
@@ -21099,8 +21114,14 @@
       "message": "🧠 Simple once you see it. Answer before the pin 👇",
       "image_url": "images/suspense_refill1/2026-08-30_10.png",
       "when": "2026-08-30T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🗺️ ANSWER: A map."
+      "status": "posted",
+      "first_comment": "🗺️ ANSWER: A map.",
+      "result": {
+        "id": "1505590518259309",
+        "post_id": "2642505565823038_1505590538259307",
+        "first_comment_id": "1505590538259307_1350375537166149"
+      },
+      "posted_at": "2026-08-30T14:32:32+00:00"
     },
     {
       "id": "asu-refill1-2026-08-30-13",
@@ -21110,8 +21131,14 @@
       "message": "🕵️ Nothing else in the room. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-08-30_13.png",
       "when": "2026-08-30T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🚪 ANSWER: She hanged herself standing on a block of ice, which melted into the 'puddle.' The broken glass was from a light fixture she kicked."
+      "status": "posted",
+      "first_comment": "🚪 ANSWER: She hanged herself standing on a block of ice, which melted into the 'puddle.' The broken glass was from a light fixture she kicked.",
+      "result": {
+        "id": "1505590848259276",
+        "post_id": "2642505565823038_1505590861592608",
+        "first_comment_id": "1505590861592608_994086220321849"
+      },
+      "posted_at": "2026-08-30T14:32:59+00:00"
     },
     {
       "id": "asu-refill1-2026-08-30-16",
@@ -22943,7 +22970,11 @@
       "message": "Kids' posture habits form early — and screens play a role. 👶\n\nHunched over tablets for hours can set patterns young — screen breaks and modeling good posture yourself both help.\n\n💚 Bookmark this reminder.\n\n💬 Do you watch your own posture around kids?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d20_1_screen_posture_kids.mp4",
       "when": "2026-08-30T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18620521861015555"
+      },
+      "posted_at": "2026-08-30T14:29:04+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_2_fiber_fullness-ig",
@@ -23589,7 +23620,13 @@
       "message": "Kids' posture habits form early — and screens play a role. 👶\n\nHunched over tablets for hours can set patterns young — screen breaks and modeling good posture yourself both help.\n\n💚 Bookmark this reminder.\n\n💬 Do you watch your own posture around kids?",
       "video_path": "images/health_reels_cadence5/nc5_d20_1_screen_posture_kids.mp4",
       "when": "2026-08-30T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2139049600155021",
+        "permalink": "/reel/2139049600155021/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-30T14:29:51+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_6_reading_before_bed-ig",
@@ -26455,7 +26492,11 @@
       "message": "New habits stick better when you attach them to ones you already have. 🔗\n\nIt's called habit stacking — \"after I brush my teeth, I'll stretch for two minutes.\" Removes the decision-making that trips people up.\n\n💚 Bookmark this reminder.\n\n💬 What habit could you stack today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d19_6_habit_stacking.mp4",
       "when": "2026-08-29T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18626354821043715"
+      },
+      "posted_at": "2026-08-30T14:28:21+00:00"
     },
     {
       "id": "sa-cadence-sa_d6_s2_babysitting_job-fb",
@@ -27793,7 +27834,13 @@
       "message": "🎬 5 true stories that sound made up.\n\nNo. 5 Catch Me If You Can · No. 4 The Big Short · No. 3 Spotlight · No. 2 127 Hours · No. 1 Zodiac\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content2/tmr_d10_true_story.mp4",
       "when": "2026-08-30T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1389910493279826",
+        "permalink": "/reel/1389910493279826/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-30T14:32:17+00:00"
     },
     {
       "id": "tmr-reel-tmr_d27_psychological",
@@ -27875,7 +27922,13 @@
       "message": "🎬 5 time loop films that actually work.\n\nNo. 5 Palm Springs · No. 4 Edge of Tomorrow · No. 3 Triangle · No. 2 Groundhog Day · No. 1 Predestination\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content2/tmr_d9_time_loops.mp4",
       "when": "2026-08-30T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2557249204719440",
+        "permalink": "/reel/2557249204719440/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-30T14:31:11+00:00"
     },
     {
       "id": "tmr-reel-tmr_d26_war",
@@ -27997,7 +28050,13 @@
       "message": "🎬 5 horror films you haven't seen yet.\n\nNo. 5 Lake Mungo · No. 4 Kill List · No. 3 The Witch · No. 2 Session 9 · No. 1 Hereditary\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content2/tmr_d8_underrated_horror.mp4",
       "when": "2026-08-30T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1964852800863375",
+        "permalink": "/reel/1964852800863375/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-30T14:30:34+00:00"
     },
     {
       "id": "tmr-reel-tmr_d2_mind_benders",
