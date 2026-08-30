@@ -1,6 +1,7 @@
 """CLI for the Meta automation hub — mainly the scheduled-post queue runner.
 
 Usage:
+    python meta_cli.py schedule-ahead       # hand upcoming FB items to Meta to publish
     python meta_cli.py run-queue            # post everything due in queue.json
     python meta_cli.py run-queue --dry-run  # show what would post, change nothing
     python meta_cli.py list-queue           # show queue with status
@@ -31,7 +32,7 @@ import collections
 import json
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 _HERE = Path(__file__).parent
@@ -192,13 +193,146 @@ def list_queue() -> None:
         print("Queue is empty.")
 
 
+# ---------------------------------------------------------------- scheduling
+# GitHub's cron is not punctual: measured gaps of 3-6h, and one stretch where
+# nothing ran for 3.5h and 24 items went overdue. While the runner is the thing
+# that must be awake at the exact minute, the posting schedule can only ever be
+# as reliable as GitHub's scheduler.
+#
+# So hand the timing to Meta instead. Facebook accepts scheduled_publish_time on
+# feed posts, photos and reels, and publishes them itself at the exact minute.
+# The cron then only has to run SOMETIME in a multi-day window to hand work over
+# in advance — a 4-hour gap stops mattering.
+#
+# Instagram has no equivalent (its containers expire in 24h and still need an
+# explicit publish call), so IG items keep going through run_queue.
+SCHEDULE_MIN_LEAD = timedelta(minutes=20)   # Meta's floor is 10 min; leave margin
+# Meta's ceiling is 75 days, but handing over a month at once FREEZES the queue:
+# a scheduled post is committed at that minute, so any later reschedule (e.g.
+# re-laying reels onto the 6/day grid) would be silently ignored by Facebook
+# while the local queue looked correct. A short horizon keeps the queue editable
+# and still removes the dependency on GitHub being punctual — the cron only has
+# to run once every few days to stay ahead.
+SCHEDULE_HORIZON = timedelta(days=7)
+SCHEDULE_MAX_PER_RUN = 40   # each reel is a full video upload; don't marathon
+
+
+def _schedule_one(item) -> dict:
+    """Hand one Facebook item to Meta with a scheduled publish time."""
+    acct = item.get("account", "")
+    typ = item.get("type", "link")
+    msg = item.get("message", "")
+    geo = item.get("geo_countries", "")
+    when = item["when"]
+
+    if typ == "reel":
+        ts = datetime.fromisoformat(when)
+        if ts.tzinfo is None:
+            ts = ts.astimezone()
+        return publish_reel.publish(acct, video_store.resolve(item), msg,
+                                    schedule_ts=int(ts.timestamp()))
+    if typ == "photo":
+        img = item.get("image") or item["image_url"]
+        return json.loads(meta.fb_post_photo(img, msg, schedule=when,
+                                             geo_countries=geo, account=acct))
+    return json.loads(meta.fb_post(msg, item.get("link", ""), schedule=when,
+                                   geo_countries=geo, account=acct))
+
+
+def _queue_first_comment(item, result) -> None:
+    """A scheduled post isn't live yet, so its first comment can't be posted now.
+    Hand it to comments.json, which already exists to deliver comments once a
+    natively-scheduled post goes live."""
+    fc = item.get("first_comment")
+    if not fc:
+        return
+    target = (result.get("post_id") or result.get("id")
+              or result.get("video_id"))
+    if not target:
+        print(f"  (no id to comment on for {item['id']})")
+        return
+    existing = ({"items": []} if not COMMENTS_FILE.is_file()
+                else json.loads(COMMENTS_FILE.read_text(encoding="utf-8")))
+    if any(c.get("photo_id") == str(target) for c in existing["items"]):
+        return
+    existing["items"].append({"photo_id": str(target), "when": item["when"],
+                              "message": fc, "account": item.get("account", ""),
+                              "status": "pending"})
+    COMMENTS_FILE.write_text(json.dumps(existing, indent=2, ensure_ascii=False),
+                             encoding="utf-8")
+
+
+def schedule_ahead(dry_run: bool, horizon: timedelta = SCHEDULE_HORIZON,
+                   limit: int = SCHEDULE_MAX_PER_RUN) -> None:
+    q = json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
+    now = datetime.now().astimezone()
+    lo, hi = now + SCHEDULE_MIN_LEAD, now + horizon
+
+    def when_of(i):
+        w = datetime.fromisoformat(i["when"])
+        return w.astimezone() if w.tzinfo is None else w
+
+    cand = [i for i in q["items"]
+            if i.get("status") == "pending"
+            and i.get("network") == "facebook"
+            and lo <= when_of(i) <= hi]
+    cand.sort(key=lambda i: i["when"])          # soonest first, so nothing is missed
+
+    if not cand:
+        print("Nothing to hand to Meta.")
+        return
+    total = len(cand)
+    if limit and total > limit:
+        cand = cand[:limit]
+        print(f"{total} eligible; handing over the soonest {limit} this run "
+              f"(the rest go on later runs)")
+    print(f"handing {len(cand)} Facebook item(s) to Meta "
+          f"(due between {lo:%Y-%m-%d %H:%M} and {hi:%Y-%m-%d %H:%M})")
+
+    done = 0
+    for item in cand:
+        label = f"{item['id']} [{item.get('type')}] -> {item.get('account')} @ {item['when'][:16]}"
+        if dry_run:
+            print("WOULD SCHEDULE:", label)
+            continue
+        try:
+            result = _schedule_one(item)
+            # Only now is it Meta's job. run_queue skips anything not "pending",
+            # so this status change is what prevents a double post.
+            item["status"] = "scheduled"
+            item["result"] = result
+            item["scheduled_at"] = now.isoformat(timespec="seconds")
+            _queue_first_comment(item, result)
+            done += 1
+            print("SCHEDULED:", label)
+        except Exception as e:
+            item["error"] = str(e)[:300]
+            print("SCHEDULE FAILED:", label, "->", e)
+        # Persist after EVERY item: a crash midway must not leave posts live on
+        # Facebook that the queue still thinks are pending, which would repost.
+        if not dry_run:
+            QUEUE_FILE.write_text(json.dumps(q, indent=2, ensure_ascii=False),
+                                  encoding="utf-8")
+    if not dry_run:
+        print(f"handed {done}/{len(cand)} to Meta")
+
+
 if __name__ == "__main__":
     args = sys.argv[1:]
-    if not args or args[0] not in ("run-queue", "list-queue"):
+    if not args or args[0] not in ("run-queue", "list-queue", "schedule-ahead"):
         print(__doc__)
         sys.exit(1)
+    dry = "--dry-run" in args
     if args[0] == "run-queue":
-        run_queue(dry_run="--dry-run" in args)
-        run_comments(dry_run="--dry-run" in args)
+        run_queue(dry_run=dry)
+        run_comments(dry_run=dry)
+    elif args[0] == "schedule-ahead":
+        def _opt(flag, default):
+            return int(args[args.index(flag) + 1]) if flag in args else default
+        schedule_ahead(dry_run=dry,
+                       horizon=timedelta(days=_opt("--horizon-days",
+                                                   SCHEDULE_HORIZON.days)),
+                       limit=_opt("--max", SCHEDULE_MAX_PER_RUN))
+        run_comments(dry_run=dry)
     else:
         list_queue()

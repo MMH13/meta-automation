@@ -35,7 +35,16 @@ jobs:
         run: printf '%s' "$ACCOUNTS_JSON" > accounts.json
         env:
           ACCOUNTS_JSON: ${{ secrets.ACCOUNTS_JSON }}
+      # Hand upcoming Facebook items to Meta FIRST, so their timing no longer
+      # depends on this workflow being punctual — GitHub's scheduler was
+      # measured running 3-6h late. Anything already handed over is marked
+      # "scheduled" and run-queue skips it, so the two steps can't double-post.
+      - name: Hand upcoming Facebook posts to Meta
+        run: python meta_cli.py schedule-ahead
+      # Still needed for Instagram (no native scheduling) and for anything due
+      # too soon to schedule.
       - name: Run queue
+        if: always()
         run: python meta_cli.py run-queue
       - name: Commit queue state
         if: always()

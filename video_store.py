@@ -19,6 +19,7 @@ this repo had tracked; upload() re-checks rather than trusting that to hold.
 """
 import subprocess
 import tempfile
+import time
 import urllib.request
 from pathlib import Path
 
@@ -42,20 +43,39 @@ def hosted_names():
     return {n.strip() for n in out.stdout.splitlines() if n.strip()}
 
 
-def upload(video_path, known=None):
-    """Upload one video and return its public URL. Idempotent via --clobber."""
+def upload(video_path, known=None, attempts=4):
+    """Upload one video and return its public URL. Idempotent via --clobber.
+
+    Retries: a single transient upload failure used to abort a whole 6-reel
+    batch, and because the original raised CalledProcessError with the output
+    captured, gh's actual message was swallowed — the traceback said only
+    "returned non-zero exit status 1". Re-running the same command by hand
+    succeeded immediately, which is what a blip looks like.
+    """
     p = Path(video_path)
     if not p.is_file():
         raise FileNotFoundError(p)
     if known is not None and p.name in known:
         return url_for(p.name)
-    subprocess.run(
-        ["gh", "release", "upload", RELEASE_TAG, str(p),
-         "--repo", ASSET_REPO, "--clobber"],
-        check=True, capture_output=True, text=True)
-    if known is not None:
-        known.add(p.name)
-    return url_for(p.name)
+
+    last = ""
+    for n in range(1, attempts + 1):
+        r = subprocess.run(
+            ["gh", "release", "upload", RELEASE_TAG, str(p),
+             "--repo", ASSET_REPO, "--clobber"],
+            capture_output=True, text=True)
+        if r.returncode == 0:
+            if known is not None:
+                known.add(p.name)
+            return url_for(p.name)
+        last = ((r.stderr or "") + (r.stdout or "")).strip()[:400]
+        if n < attempts:
+            wait = 5 * n
+            print(f"  upload of {p.name} failed (try {n}/{attempts}): {last}")
+            print(f"  retrying in {wait}s")
+            time.sleep(wait)
+    raise RuntimeError(f"gh release upload failed for {p.name} after "
+                       f"{attempts} tries: {last}")
 
 
 def resolve(item):
