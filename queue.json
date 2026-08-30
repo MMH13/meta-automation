@@ -12472,7 +12472,12 @@
       "message": "😅 সিনেমা হলে বসেও ফোন স্ক্রল করা এই জেনারেশনের সুপারপাওয়ার। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/20_0.png",
       "when": "2026-08-30T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1373195598263677",
+        "post_id": "1191612787659871_1373195618263675"
+      },
+      "posted_at": "2026-08-30T00:09:47+00:00"
     },
     {
       "id": "deshal-refill1-20-1",
@@ -18514,7 +18519,12 @@
       "message": "🧩 Five emojis, one eye you definitely recognize.\n\n👇 Comment your answer.\n\n🔁 Share this with a fantasy fan.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-08-29_23.png",
       "when": "2026-08-29T23:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "122202896174787954",
+        "post_id": "628257647029140_122202896192787954"
+      },
+      "posted_at": "2026-08-30T00:09:58+00:00"
     },
     {
       "id": "tmrr1-2026-08-30-13",
@@ -21067,8 +21077,14 @@
       "message": "🧠 Comment your answer before the pin 👇",
       "image_url": "images/suspense_refill1/2026-08-29_23.png",
       "when": "2026-08-29T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🤫 ANSWER: A secret."
+      "status": "posted",
+      "first_comment": "🤫 ANSWER: A secret.",
+      "result": {
+        "id": "1505066178311743",
+        "post_id": "2642505565823038_1505066194978408",
+        "first_comment_id": "1505066194978408_948227107584621"
+      },
+      "posted_at": "2026-08-30T00:10:12+00:00"
     },
     {
       "id": "asu-refill1-2026-08-30-10",
@@ -21800,7 +21816,13 @@
       "message": "New habits stick better when you attach them to ones you already have. 🔗\n\nIt's called habit stacking — \"after I brush my teeth, I'll stretch for two minutes.\" Removes the decision-making that trips people up.\n\n💚 Bookmark this reminder.\n\n💬 What habit could you stack today?",
       "video_path": "images/health_reels_cadence5/nc5_d19_6_habit_stacking.mp4",
       "when": "2026-08-29T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1771321520859559",
+        "permalink": "/reel/1771321520859559/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-30T00:10:49+00:00"
     },
     {
       "id": "hd-cadence-nc5_d18_3_deep_sleep_growth-fb",
@@ -26428,7 +26450,11 @@
       "message": "New habits stick better when you attach them to ones you already have. 🔗\n\nIt's called habit stacking — \"after I brush my teeth, I'll stretch for two minutes.\" Removes the decision-making that trips people up.\n\n💚 Bookmark this reminder.\n\n💬 What habit could you stack today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d19_6_habit_stacking.mp4",
       "when": "2026-08-29T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18482609113106597"
+      },
+      "posted_at": "2026-08-30T00:11:30+00:00"
     },
     {
       "id": "sa-cadence-sa_d6_s2_babysitting_job-fb",
