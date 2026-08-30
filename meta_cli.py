@@ -27,6 +27,7 @@ status posted/failed + the API result back into queue.json. Wire run-queue.ps1
 into Windows Task Scheduler (e.g. every 15 minutes) for hands-off scheduling.
 """
 
+import collections
 import json
 import sys
 import time
@@ -85,12 +86,40 @@ def _post(item) -> dict:
     raise RuntimeError(f"unknown network {net!r}")
 
 
-def run_queue(dry_run: bool) -> None:
+# GitHub's scheduled workflows are best-effort, not punctual: the "hourly" cron
+# here actually fires with 3-6h gaps. Every item that came due in the gap is
+# then posted back-to-back, which is how health-daily ended up publishing SIX
+# posts inside one clock hour — a whole day's cadence in one burst, on a page
+# whose engagement problem was already diagnosed as burst posting.
+#
+# Capping per account per run turns a catch-up into a drip: the overflow stays
+# pending and goes out on the next run instead of all at once. The cap is per
+# ACCOUNT, not global, so one busy page can't starve the others.
+MAX_PER_ACCOUNT_PER_RUN = 3
+
+
+def run_queue(dry_run: bool, max_per_account: int = MAX_PER_ACCOUNT_PER_RUN) -> None:
     q = json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
     due = [i for i in q["items"] if i.get("status") == "pending" and _due(i)]
     if not due:
         print("Nothing due.")
         return
+
+    due.sort(key=lambda i: i["when"])  # oldest first, so nothing starves
+    taken, held = [], collections.Counter()
+    for item in due:
+        acct = item.get("account") or meta.DEFAULT_ACCOUNT
+        if max_per_account and sum(1 for t in taken
+                                   if (t.get("account") or meta.DEFAULT_ACCOUNT) == acct
+                                   ) >= max_per_account:
+            held[acct] += 1
+            continue
+        taken.append(item)
+    if held:
+        print("held for next run (per-account cap "
+              f"{max_per_account}): " + ", ".join(f"{a}:{n}" for a, n in held.items()))
+    due = taken
+
     for n, item in enumerate(due):
         label = f"{item['id']} [{item['network']}/{item.get('type')}] -> {item.get('account') or meta.DEFAULT_ACCOUNT}"
         if dry_run:

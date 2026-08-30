@@ -3,10 +3,16 @@ name: Run Meta post queue (IG + comments)
 
 on:
   schedule:
-    # 03:12 UTC = 09:12 Dhaka — right after the daily 09:10 IG slot
-    - cron: "12 3 * * *"
-    # hourly catch-all at :07 for comments and any late/added queue items
-    - cron: "7 * * * *"
+    # 03:23 UTC = 09:23 Dhaka — right after the daily 09:10 IG slot
+    - cron: "23 3 * * *"
+    # Twice an hour, at off-peak minutes. GitHub runs scheduled workflows on a
+    # best-effort basis and drops or delays them hardest around the top of the
+    # hour; the old ":07" cron was landing with measured 3-6h gaps, so items
+    # posted in bursts instead of on their slots. Two odd-minute attempts give
+    # the schedule more chances to actually fire, and meta_cli's per-account cap
+    # keeps a catch-up from emptying the backlog in one go.
+    - cron: "23 * * * *"
+    - cron: "53 * * * *"
   workflow_dispatch:
 
 concurrency:
