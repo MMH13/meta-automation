@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 14 (days 79-84)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d79_2000s", "The 2000s",
+  "5 films that\n*defined* the\n2000s.",
+  "Five films that defined the two thousands.",
+  [("Donnie Darko", 2001, "It flopped.\nThen it *didn't.*",
+    "It flopped, and then it didn't."),
+   ("Amores Perros", 2000, "Three stories.\n*One* crash.",
+    "Three stories, one crash."),
+   ("The Bourne Ultimatum", 2007, "It rewrote\n*action* editing.",
+    "It rewrote action editing."),
+   ("Spirited Away", 2001, "It out-grossed\n*Titanic* in Japan.",
+    "It out grossed Titanic in Japan."),
+   ("The Lord of the Rings: The Fellowship of the Ring", 2001, "It made fantasy\n*respectable* again.",
+    "It made fantasy respectable again.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d80_first_films", "First time out",
+  "5 directors who\n*nailed* it on\nfilm one.",
+  "Five directors who nailed it on their very first film.",
+  [("Following", 1998, "Made for\n*six thousand* dollars.",
+    "Made for six thousand dollars."),
+   ("Bottle Rocket", 1996, "The style was\n*already* there.",
+    "The style was already there."),
+   ("Hard Eight", 1996, "Quiet, patient,\nand *assured.*",
+    "Quiet, patient, and completely assured."),
+   ("Blood Simple", 1984, "The Coens,\n*fully* formed.",
+    "The Coens, already fully formed."),
+   ("Citizen Kane", 1941, "He was *25.*\nThat's the whole fact.",
+    "He was twenty five. That's the whole fact.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d81_crews", "Get the team together",
+  "5 films about\nbuilding *the*\ncrew.",
+  "Five films about building the crew.",
+  [("The Magnificent Seven", 1960, "The recruiting\n*is* the fun.",
+    "The recruiting is the fun part."),
+   ("Ocean's Eleven", 2001, "Effortless.\n*Deliberately.*",
+    "Effortless, and deliberately so."),
+   ("The Dirty Dozen", 1967, "Twelve convicts.\n*One* mission.",
+    "Twelve convicts, one mission."),
+   ("Inception", 2010, "A heist,\ninside *a head.*",
+    "A heist, inside a head."),
+   ("Rififi", 1955, "The robbery is\n*thirty* silent minutes.",
+    "The robbery is thirty silent minutes.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d82_landscape", "Nowhere to hide",
+  "5 films where\nthe *landscape*\nwins.",
+  "Five films where the landscape wins.",
+  [("Wake in Fright", 1971, "The Outback,\nas *a trap.*",
+    "The Outback, as a trap."),
+   ("Walkabout", 1971, "Beautiful and\n*deeply* uneasy.",
+    "Beautiful, and deeply uneasy."),
+   ("The Treasure of the Sierra Madre", 1948, "Greed, in\n*real* heat.",
+    "Greed, in real heat."),
+   ("Picnic at Hanging Rock", 1975, "No answer.\n*Ever.*",
+    "There is no answer. Ever."),
+   ("Aguirre, the Wrath of God", 1972, "The shoot was\n*worse* than the film.",
+    "The shoot was worse than the film.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d83_teachers", "One good adult",
+  "5 films about\nteachers that\n*aren't* corny.",
+  "Five films about teachers that aren't corny.",
+  [("Detachment", 2011, "Bleak. *Honest*\nabout burnout.",
+    "Bleak, and honest about burnout."),
+   ("The Class", 2008, "Real students.\n*Real* classroom.",
+    "Real students, in a real classroom."),
+   ("Half Nelson", 2006, "The teacher\nis *the* problem.",
+    "The teacher is the problem."),
+   ("Dead Poets Society", 1989, "The ending\n*earns* the standing.",
+    "The ending earns that standing."),
+   ("To Sir, with Love", 1967, "1967, and\n*still* pointed.",
+    "Nineteen sixty seven, and still pointed.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d84_debated_endings", "Nobody agrees",
+  "5 endings people\n*still* argue\nabout.",
+  "Five endings people still argue about.",
+  [("Take Shelter", 2011, "Prophecy,\nor *illness?*",
+    "Prophecy, or illness?"),
+   ("Total Recall", 1990, "Dream, or\n*not?* Still open.",
+    "Dream, or not? It's still open."),
+   ("The Graduate", 1967, "Watch their\n*faces* at the end.",
+    "Watch their faces at the very end."),
+   ("Blade Runner", 1982, "Five cuts.\n*Five* answers.",
+    "Five cuts, and five different answers."),
+   ("Mulholland Drive", 2001, "Nobody agrees\nwhat it *means.*",
+    "Nobody agrees what it means.")],
+  hashtags=TAGS),
+]

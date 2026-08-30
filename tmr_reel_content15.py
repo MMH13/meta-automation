@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 15 (days 85-90)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d85_scandinavian", "Cold and brilliant",
+  "5 Nordic films\nworth *hunting*\ndown.",
+  "Five Nordic films worth hunting down.",
+  [("The Hunt", 2012, "One accusation.\n*One* town.",
+    "One accusation, and one town."),
+   ("Force Majeure", 2014, "A marriage,\nended by *one* second.",
+    "A marriage, ended by one second."),
+   ("Another Round", 2020, "That last scene\nis *pure* release.",
+    "That last scene is pure release."),
+   ("Persona", 1966, "Two faces\nbecome *one.*",
+    "Two faces become one."),
+   ("The Seventh Seal", 1957, "Chess.\nWith *Death.*",
+    "Chess, with Death.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d86_courtroom_real", "Based on the record",
+  "5 trials that\n*actually*\nhappened.",
+  "Five trials that actually happened.",
+  [("Denial", 2016, "The defence\nis *the archive.*",
+    "The defence is the archive."),
+   ("The Trial of the Chicago 7", 2020, "The transcript\nis *wilder.*",
+    "The real transcript is wilder."),
+   ("Judgment at Nuremberg", 1961, "It asks who\n*else* is guilty.",
+    "It asks who else is guilty."),
+   ("In the Name of the Father", 1993, "Fifteen years,\nfor *nothing.*",
+    "Fifteen years, for nothing."),
+   ("Just Mercy", 2019, "The system,\nnot *a* villain.",
+    "The system, not a villain.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d87_first_features_horror", "Low budget, high fear",
+  "5 horror films\nmade for\n*nothing.*",
+  "Five horror films made for almost nothing.",
+  [("Session 9", 2001, "Shot in\na *real* asylum.",
+    "Shot in a real abandoned asylum."),
+   ("Pontypool", 2008, "The virus\nis *language.*",
+    "The virus is language itself."),
+   ("The Blair Witch Project", 1999, "Sixty thousand dollars.\n*Global* panic.",
+    "Sixty thousand dollars, and global panic."),
+   ("Night of the Living Dead", 1968, "It fell into\n*public* domain. Accidentally.",
+    "It fell into the public domain, accidentally."),
+   ("Evil Dead II", 1987, "Horror that's\n*funnier* than most comedies.",
+    "Horror that's funnier than most comedies.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d88_working_class", "Clock in",
+  "5 films about\nwork that\n*get* it.",
+  "Five films about work that actually get it.",
+  [("Sorry We Missed You", 2019, "Gig economy,\nwith *no* cushion.",
+    "The gig economy, with no cushion."),
+   ("Nomadland", 2020, "Most of the cast\nlive *that* life.",
+    "Most of the cast live that life."),
+   ("Norma Rae", 1979, "One woman.\n*One* sign.",
+    "One woman, and one sign."),
+   ("Office Space", 1999, "A comedy that\n*documented* something.",
+    "A comedy that accidentally documented something."),
+   ("Modern Times", 1936, "1936, and the\n*machine* still wins.",
+    "Nineteen thirty six, and the machine still wins.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d89_siblings", "Blood and grudges",
+  "5 films about\nsiblings who\n*can't* let go.",
+  "Five films about siblings who can't let go.",
+  [("The Savages", 2007, "A brother, a sister,\nand *a* parent.",
+    "A brother, a sister, and a parent."),
+   ("Rain Man", 1988, "A road trip\nhe *didn't* want.",
+    "A road trip he didn't want."),
+   ("What's Eating Gilbert Grape", 1993, "Care, as\na *life* sentence.",
+    "Care, as a life sentence."),
+   ("The Fighter", 2010, "One brother\nis *the* obstacle.",
+    "One brother is the obstacle."),
+   ("Hannah and Her Sisters", 1986, "Three sisters.\n*Two* years.",
+    "Three sisters, over two years.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d90_perfect_scripts", "Not one wasted line",
+  "5 films with\n*perfect*\nscreenplays.",
+  "Five films with perfect screenplays.",
+  [("The Apartment", 1960, "\"Shut up\nand *deal.*\"",
+    "Shut up and deal."),
+   ("Chinatown", 1974, "Taught in\n*every* film school.",
+    "It's taught in every film school."),
+   ("Michael Clayton", 2007, "The opening monologue\nis *the* thesis.",
+    "The opening monologue is the whole thesis."),
+   ("All About Eve", 1950, "Fourteen nominations.\n*Still* a record.",
+    "Fourteen nominations, and it's still a record."),
+   ("Casablanca", 1942, "They were *still*\nwriting during the shoot.",
+    "They were still writing it during the shoot.")],
+  hashtags=TAGS),
+]

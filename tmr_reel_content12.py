@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 12 (days 67-72)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d67_indian", "Beyond the algorithm",
+  "5 Indian films\nthat travel\n*anywhere.*",
+  "Five Indian films that travel anywhere.",
+  [("The Lunchbox", 2013, "Two strangers.\n*Letters* in a tiffin.",
+    "Two strangers, and letters in a lunchbox."),
+   ("Gangs of Wasseypur", 2012, "Five hours\nof *escalating* revenge.",
+    "Five hours of escalating revenge."),
+   ("Lagaan", 2001, "A cricket match\nfor *everything.*",
+    "A cricket match, for everything."),
+   ("RRR", 2022, "Physics is\n*optional.* It rules.",
+    "Physics is optional, and it rules."),
+   ("Pather Panchali", 1955, "Made by a man\nwho'd *never* directed.",
+    "Made by a man who had never directed.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d68_sequels", "Better than the first",
+  "5 sequels that\n*beat* the\noriginal.",
+  "Five sequels that beat the original.",
+  [("Paddington 2", 2017, "Yes, *really.*\nGo and watch it.",
+    "Yes, really. Go and watch it."),
+   ("Toy Story 2", 1999, "One scene\n*ruins* adults.",
+    "One scene ruins adults."),
+   ("Aliens", 1986, "Horror, turned\ninto *war.*",
+    "Horror, turned into war."),
+   ("The Empire Strikes Back", 1980, "The heroes\n*lose.*",
+    "The heroes lose."),
+   ("The Godfather Part II", 1974, "Two timelines.\n*Both* land.",
+    "Two timelines, and both land.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d69_crime", "Cops and the other side",
+  "5 crime films\nwith *no*\ngood guys.",
+  "Five crime films with no good guys.",
+  [("Le Samourai", 1967, "Almost *no*\ndialogue. Total control.",
+    "Almost no dialogue, and total control."),
+   ("Infernal Affairs", 2002, "The Departed\n*came from* this.",
+    "The Departed came from this."),
+   ("Casino", 1995, "Narrated by\n*two* liars.",
+    "Narrated by two liars."),
+   ("City of God", 2002, "Most of the cast\nweren't *actors.*",
+    "Most of the cast weren't actors."),
+   ("Heat", 1995, "The diner scene\nis *the whole* film.",
+    "The diner scene is the whole film.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d70_silent", "No sound, no problem",
+  "5 silent films\nthat still\n*work.*",
+  "Five silent films that still work today.",
+  [("City Lights", 1931, "The final shot.\n*That's* it.",
+    "The final shot. That's all it needs."),
+   ("Nosferatu", 1922, "An *illegal*\nDracula. Seriously.",
+    "An illegal Dracula. Seriously."),
+   ("Sunrise: A Song of Two Humans", 1927, "It won\nthe *first* Oscar.",
+    "It won the very first Oscar."),
+   ("The General", 1926, "He did *every*\nstunt himself.",
+    "He did every stunt himself."),
+   ("Metropolis", 1927, "1927, and it\n*invented* the look.",
+    "Nineteen twenty seven, and it invented the look.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d71_epics", "Clear your evening",
+  "5 epics worth\n*three* hours\nof your life.",
+  "Five epics worth three hours of your life.",
+  [("Andrei Rublev", 1966, "The bell sequence\nis *worth* the wait.",
+    "The bell sequence alone is worth the wait."),
+   ("Ben-Hur", 1959, "The chariot race\nused *no* effects.",
+    "The chariot race used no effects."),
+   ("Gone with the Wind", 1939, "Still the biggest\n*ticket* seller ever.",
+    "Still the biggest ticket seller ever."),
+   ("The Lord of the Rings: The Return of the King", 2003, "Eleven nominations.\n*Eleven* wins.",
+    "Eleven nominations, and eleven wins."),
+   ("Lawrence of Arabia", 1962, "The desert\nis *the* co-star.",
+    "The desert is the co star.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d72_french", "Start with these",
+  "5 French films\nworth the\n*subtitles.*",
+  "Five French films worth the subtitles.",
+  [("Cleo from 5 to 7", 1962, "Told in\n*real* time.",
+    "Told in real time."),
+   ("Amelie", 2001, "Relentlessly\n*kind.*",
+    "Relentlessly kind."),
+   ("The 400 Blows", 1959, "That last frame\n*freezes.* On purpose.",
+    "That last frame freezes, on purpose."),
+   ("Breathless", 1960, "The jump cuts\nwere *the* revolution.",
+    "The jump cuts were the revolution."),
+   ("La Haine", 1995, "\"So far,\n*so good.*\"",
+    "So far, so good.")],
+  hashtags=TAGS),
+]

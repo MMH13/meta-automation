@@ -30,17 +30,29 @@ def run():
         return
     reels.sort(key=lambda i: i["when"])          # keep existing order
 
+    # Slots already committed to Facebook. Once an item is handed to Meta it
+    # publishes at that exact minute no matter what the queue says later, so
+    # reusing its slot here would double-book it: two reels at one time, and
+    # the queue would look correct while Facebook disagreed.
+    taken = {i["when"] for i in q["items"]
+             if i.get("id", "").startswith("tmr-reel-")
+             and i.get("status") in ("scheduled", "posted")}
+
     # start today if any of today's slots are still ahead of us, else tomorrow
     day = now.date()
     todays_remaining = [h for h in SLOTS if datetime(day.year, day.month, day.day, h,
                                                      tzinfo=timezone.utc) > now]
+    def free(slots):
+        return [t for t in slots if t.isoformat() not in taken]
+
     grid = []
     if todays_remaining:
-        grid += [datetime(day.year, day.month, day.day, h, tzinfo=timezone.utc)
-                 for h in todays_remaining]
+        grid += free([datetime(day.year, day.month, day.day, h, tzinfo=timezone.utc)
+                      for h in todays_remaining])
     d = day + timedelta(days=1)
     while len(grid) < len(reels):
-        grid += [datetime(d.year, d.month, d.day, h, tzinfo=timezone.utc) for h in SLOTS]
+        grid += free([datetime(d.year, d.month, d.day, h, tzinfo=timezone.utc)
+                      for h in SLOTS])
         d += timedelta(days=1)
 
     for item, when in zip(reels, grid):

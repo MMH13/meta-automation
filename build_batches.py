@@ -65,7 +65,13 @@ def main(modules):
                 break
             print(f"--- {mod} attempt {attempt} failed (rc={rc}); restarting voicebox",
                   flush=True)
+            # Bailing out here without recording the failure is how batch 24 got
+            # SILENTLY skipped: the loop broke, the else clause never ran, and
+            # the summary reported nothing wrong. Any exit that isn't rc == 0 is
+            # a failure and has to be named.
             if not ready(restart=True):
+                print(f"!!! {mod} abandoned — voicebox would not come back", flush=True)
+                failed.append(mod)
                 break
         else:
             print(f"!!! {mod} never completed after {ATTEMPTS} attempts", flush=True)

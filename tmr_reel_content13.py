@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+"""Top Movie Reviews — poster reel batch 13 (days 73-78)."""
+from tmr_reel_common import countdown
+
+TAGS = "#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview"
+
+REELS = [
+ countdown(
+  "tmr_d73_italian", "Worth the subtitles",
+  "5 Italian films\neveryone should\n*know.*",
+  "Five Italian films everyone should know.",
+  [("The Great Beauty", 2013, "Rome, at\n*four* in the morning.",
+    "Rome, at four in the morning."),
+   ("Life Is Beautiful", 1997, "A comedy,\nuntil it *isn't.*",
+    "A comedy, until it isn't."),
+   ("Cinema Paradiso", 1988, "The final reel\n*destroys* people.",
+    "The final reel destroys people."),
+   ("8 1/2", 1963, "A film about\n*not* making a film.",
+    "A film about not being able to make a film."),
+   ("Bicycle Thieves", 1948, "A stolen bike.\n*That's* the plot.",
+    "A stolen bike. That's the whole plot.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d74_addiction", "Hard to sit through",
+  "5 films about\naddiction that\n*don't* flinch.",
+  "Five films about addiction that don't flinch.",
+  [("The Lost Weekend", 1945, "1945, and Hollywood\n*said* it plainly.",
+    "Nineteen forty five, and Hollywood said it plainly."),
+   ("Beautiful Boy", 2018, "Told from\nthe *father's* side.",
+    "Told from the father's side."),
+   ("Leaving Las Vegas", 1995, "No redemption\narc. *At all.*",
+    "No redemption arc at all."),
+   ("Trainspotting", 1996, "Funny, then\n*horrifying.*",
+    "Funny, and then horrifying."),
+   ("Requiem for a Dream", 2000, "The last ten minutes\n*stay* with you.",
+    "The last ten minutes stay with you for years.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d75_music_docs", "Turn the volume up",
+  "5 music docs\nbetter than\n*any* biopic.",
+  "Five music documentaries better than any biopic.",
+  [("Searching for Sugar Man", 2012, "He never knew\nhe was *famous.*",
+    "He never knew he was famous."),
+   ("The Last Waltz", 1978, "Scorsese shot\na *farewell* gig.",
+    "Scorsese shot a farewell gig."),
+   ("Amy", 2015, "Built *entirely*\nfrom footage.",
+    "Built entirely from existing footage."),
+   ("Woodstock", 1970, "Three days.\n*One* generation.",
+    "Three days, and one generation."),
+   ("Stop Making Sense", 1984, "The greatest\nconcert film. *Period.*",
+    "The greatest concert film. Period.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d76_medicine", "Closer than fiction",
+  "5 films about\nmedicine that\n*got* it right.",
+  "Five films about medicine that got it right.",
+  [("Contagion", 2011, "2011. Watch it\n*now.* Uncomfortable.",
+    "Two thousand eleven. Watch it now. It's uncomfortable."),
+   ("Dallas Buyers Club", 2013, "Patients, running\ntheir *own* supply.",
+    "Patients, running their own supply."),
+   ("Awakenings", 1990, "Based on\na *real* neurologist.",
+    "Based on a real neurologist."),
+   ("Philadelphia", 1993, "It changed\n*the* conversation.",
+    "It changed the conversation."),
+   ("The Elephant Man", 1980, "\"I am\n*not* an animal.\"",
+    "I am not an animal.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d77_holiday", "Every single year",
+  "5 holiday films\nthat *actually*\nhold up.",
+  "Five holiday films that actually hold up.",
+  [("Tokyo Godfathers", 2003, "Three homeless people\nand *a baby.*",
+    "Three homeless people, and a baby."),
+   ("Carol", 2015, "Christmas as\n*longing.*",
+    "Christmas as longing."),
+   ("The Muppet Christmas Carol", 1992, "The *best* Dickens\nadaptation. Fight me.",
+    "The best Dickens adaptation. Fight me."),
+   ("Home Alone", 1990, "The score does\n*half* the work.",
+    "The score does half the work."),
+   ("It's a Wonderful Life", 1946, "It *flopped*\non release.",
+    "It flopped on release.")],
+  hashtags=TAGS),
+
+ countdown(
+  "tmr_d78_stop_motion", "Made by hand",
+  "5 stop-motion films\nthat took *years*\nto shoot.",
+  "Five stop motion films that took years to shoot.",
+  [("Isle of Dogs", 2018, "Hundreds of puppets.\n*One* island.",
+    "Hundreds of puppets, and one island."),
+   ("Wallace & Gromit: The Curse of the Were-Rabbit", 2005, "You can see\nthe *thumbprints.*",
+    "You can see the thumbprints in the clay."),
+   ("Kubo and the Two Strings", 2016, "A 16-foot\n*puppet* skeleton.",
+    "A sixteen foot puppet skeleton."),
+   ("Fantastic Mr. Fox", 2009, "Every hair\nmoves *wrong.* Deliberately.",
+    "Every hair moves wrong, deliberately."),
+   ("Coraline", 2009, "*Thousands* of\n3D-printed faces.",
+    "Thousands of three D printed faces.")],
+  hashtags=TAGS),
+]
