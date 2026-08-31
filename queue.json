@@ -13446,7 +13446,11 @@
       "message": "😂 এই \"রোগ\" এর কোনো ওষুধ এখনো বের হয়নি। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/28_5.png",
       "when": "2026-09-07T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374706244779279"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "deshal-refill1-28-6",
@@ -13456,7 +13460,11 @@
       "message": "😆 দাদি-নাতির এই তর্কে সবসময় দাদিই জিতে যায়। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/28_6.png",
       "when": "2026-09-07T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374706554779248"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "deshal-refill1-28-7",
@@ -19364,7 +19372,11 @@
       "message": "🎬 CITY OF GOD (2002) — 5/5\n\nTwo boys grow up in Rio's favelas. One becomes a photographer. The other becomes one of the most feared gang leaders in the city. The film follows both, and everyone around them, across a decade.\n\nFernando Meirelles shoots poverty and violence with a kinetic, almost joyful camera style that makes the horror land harder by contrast — the film never asks for pity, it just shows you exactly what happened.\n\nMost of the cast were non-actors recruited from actual favelas, which gives every scene a rawness professional actors rarely achieve.\n\nWeakness: the violence is unflinching and constant — it's not an easy watch, and it isn't trying to be.\n\nVerdict: one of the greatest crime films ever made, from any country.\n\n👇 Have you seen it? It deserves to be talked about more.\n\n🔁 Share this with someone who's never watched a Brazilian film.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-07_15.png",
       "when": "2026-09-07T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203114010787954"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "tmrr1-2026-09-07-19",
@@ -19374,7 +19386,11 @@
       "message": "🧩 Five emojis, one legendary trilogy.\n\n👇 Comment your answer.\n\n🔁 Share this with a fantasy fan.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-07_19.png",
       "when": "2026-09-07T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203114148787954"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "tmrr1-2026-09-07-23",
@@ -22326,7 +22342,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy houseplants have started leaning toward the hallway closet instead of the window.\n\nI haven't opened that closet in years.\n\n😳 React 😱 if that got you.",
       "when": "2026-09-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "2642505565823038_1506635211488173"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "asu-refill1-2026-09-07-19",
@@ -22336,8 +22356,12 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-09-07_19.png",
       "when": "2026-09-07T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🦉 ANSWER: Row 2."
+      "status": "scheduled",
+      "first_comment": "🦉 ANSWER: Row 2.",
+      "result": {
+        "id": "1506635581488136"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "asu-refill1-2026-09-07-21",
@@ -22952,7 +22976,11 @@
       "message": "Reaching for comfort food when stressed isn't a character flaw. 🍫\n\nFood and mood are wired together biologically — the goal isn't never doing it, it's noticing the pattern.\n\n💚 Bookmark this reminder.\n\n💬 Do you have a go-to comfort food?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d21_5_comfort_food_emotions.mp4",
       "when": "2026-08-31T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17898157410657860"
+      },
+      "posted_at": "2026-08-31T19:46:33+00:00"
     },
     {
       "id": "hd-cadence-nc6_d24_2_protein_breakfast-fb",
@@ -23108,7 +23136,11 @@
       "message": "How fast your heart rate drops after exercise says a lot about fitness. ❤️\n\nIt's called heart rate recovery — a faster drop in the first minute generally means better cardiovascular fitness.\n\n💚 Bookmark this reminder.\n\n💬 Do you track your heart rate recovery?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d21_4_heart_rate_recovery.mp4",
       "when": "2026-08-31T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18112344464064204"
+      },
+      "posted_at": "2026-08-31T19:45:49+00:00"
     },
     {
       "id": "hd-cadence-nc3_d9_1_driving_posture-ig",
@@ -24101,8 +24133,14 @@
       "message": "Your brain is made of mostly fat — good fat matters. 🥑\n\nAvocados, olive oil, and nuts support brain health — it's about the right kind of fat, not avoiding fat entirely.\n\n💚 Bookmark this reminder.\n\n💬 What's your favorite healthy fat source?",
       "video_path": "images/health_reels_cadence6/nc6_d28_5_healthy_fats_brain.mp4",
       "when": "2026-09-07T19:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d28_5_healthy_fats_brain.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d28_5_healthy_fats_brain.mp4",
+      "result": {
+        "video_id": "1608964794600678",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T19:00:00Z"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_1_probiotics_basics-fb",
@@ -27412,8 +27450,14 @@
       "message": "Multitasking feels productive — but usually isn't. 🧠\n\nYour brain switches tasks, it doesn't run them at once — each switch costs time and energy. One task at a time often wins.\n\n💚 Bookmark this reminder.\n\n💬 Are you multitasking right now?",
       "video_path": "images/health_reels_cadence6/nc6_d28_4_focus_single_tasking.mp4",
       "when": "2026-09-07T16:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d28_4_focus_single_tasking.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d28_4_focus_single_tasking.mp4",
+      "result": {
+        "video_id": "1707851247174405",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T16:00:00Z"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_4_gratitude_body-ig",
@@ -29664,8 +29708,14 @@
       "message": "🎬 5 family dramas that cut too close.\n\nNo. 5 The Squid and the Whale · No. 4 August: Osage County · No. 3 Boyhood · No. 2 Marriage Story · No. 1 Ordinary People\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content9/tmr_d53_family.mp4",
       "when": "2026-09-07T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d53_family.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d53_family.mp4",
+      "result": {
+        "video_id": "1747307119641056",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T17:00:00Z"
+      },
+      "scheduled_at": "2026-08-31T19:43:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d54_black_white",
