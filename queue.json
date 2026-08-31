@@ -12900,7 +12900,11 @@
       "message": "😂 এই জেনারেশন গ্যাপ প্রতিটা পরিবারেই আছে। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/23_6.png",
       "when": "2026-09-02T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374020908181146"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-23-7",
@@ -12910,7 +12914,11 @@
       "message": "🙂 অফিসে এই যুদ্ধ রোজ করতে হয়। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/23_7.png",
       "when": "2026-09-02T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374021098181127"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-0",
@@ -12920,7 +12928,11 @@
       "message": "😆 এই লজিক সবার সংসারেই একবার না একবার চলে। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_0.png",
       "when": "2026-09-03T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374021374847766"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-1",
@@ -12930,7 +12942,11 @@
       "message": "🥹 এই একটা প্রশ্নেই মায়ের সব ভালোবাসা বোঝা যায়। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_1.png",
       "when": "2026-09-03T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374021611514409"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-2",
@@ -12940,7 +12956,11 @@
       "message": "😂 এই গ্যাপ কমানোর কোনো উপায় নাই এখনো। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_2.png",
       "when": "2026-09-03T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374021814847722"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-3",
@@ -12950,7 +12970,11 @@
       "message": "😅 এই দেশের আবহাওয়ার পূর্বাভাস নিয়ে সবার একই অভিজ্ঞতা। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_3.png",
       "when": "2026-09-03T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374021881514382"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-4",
@@ -12960,7 +12984,11 @@
       "message": "😂 কিছুই না থাকলেও চেক করাটা একটা রিফ্লেক্স। রিলেট করলে ❤️ দিন\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_4.png",
       "when": "2026-09-03T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374022354847668"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-5",
@@ -12970,7 +12998,11 @@
       "message": "😂 প্রতি বর্ষায় এই একই \"আবিষ্কার\" হয়। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_5.png",
       "when": "2026-09-03T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374022411514329"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-6",
@@ -12980,7 +13012,11 @@
       "message": "😆 মেস লাইফের এই ইউনিভার্সাল সল্যুশন সবাই চেনেন। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_6.png",
       "when": "2026-09-03T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374022814847622"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-24-7",
@@ -12990,7 +13026,11 @@
       "message": "😂 এই কম্পিটিশনে সবাই সিরিয়াস। কে কে একমত? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/24_7.png",
       "when": "2026-09-03T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374023034847600"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "deshal-refill1-25-0",
@@ -17701,7 +17741,11 @@
       "message": "🧴 Skin renews itself roughly every month — old cells shed, new ones form. Part of why consistent habits (sleep, water, less sugar) show results over weeks, not overnight.\n\n→ Give any skin routine at least 4-6 weeks\n→ Sun protection matters daily, not just summer\n→ Hydration from inside shows up outside too\n\n💚 Bookmark this. You'll need it later.\n💬 How long do you usually give a new routine? 👇",
       "image_url": "images/health_refill1/26_2.png",
       "when": "2026-09-03T07:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1736674551681376"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-refill1-26-2-ig",
@@ -17721,7 +17765,11 @@
       "message": "🔌 The phone by the pillow is the #1 silent sleep thief — one glance turns into scrolling, one buzz turns into being awake. Charging it elsewhere removes the temptation entirely.\n\n→ Buy a cheap alarm clock so 'I need it for the alarm' stops being the excuse\n→ Out of arm's reach is often enough\n→ Your morning routine improves too\n\n💚 Bookmark this. You'll need it later.\n💬 Where does your phone sleep? 👇",
       "image_url": "images/health_refill1/26_4.png",
       "when": "2026-09-03T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1736675005014664"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-refill1-26-4-ig",
@@ -18900,7 +18948,11 @@
       "message": "🎯 Some of the smartest scripts hide the entire twist in plain sight — right there in the title — and you only notice on the way out of the theatre.\n\n👇 A title that gave away the twist and you didn't even notice?\n\n🔁 Share this with someone who loves a hidden clue.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-02_19.png",
       "when": "2026-09-02T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203017254787954"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmrr1-2026-09-02-23",
@@ -18910,7 +18962,11 @@
       "message": "⏱️ People blame length for boredom, but the real culprit is almost always pacing. A tightly-paced three hours beats a saggy ninety minutes every time.\n\n👇 Short but boring, or long but gripping — which frustrates you more?\n\n🔁 Share this and let them debate.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-02_23.png",
       "when": "2026-09-02T23:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203017356787954"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmrr1-2026-09-03-13",
@@ -18920,7 +18976,11 @@
       "message": "🧩 Five emojis, one iconic theme you can probably hum right now.\n\n👇 Comment your answer.\n\n🔁 Share this with someone afraid of the ocean.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-03_13.png",
       "when": "2026-09-03T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203017788787954"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmrr1-2026-09-03-15",
@@ -18930,7 +18990,11 @@
       "message": "🎬 CHILDREN OF MEN (2006) — 5/5\n\nNo child has been born in 18 years. Then one is. The film that follows is grim, breathless, and one of the most technically astonishing thrillers ever made.\n\nThe car ambush sequence, shot in a single unbroken take with a camera rig built specifically for it, is still the reference point directors point to when discussing long takes. But the craft never overshadows the story — a refugee crisis that felt speculative in 2006 and feels close to documentary now.\n\nClive Owen carries the exhaustion of the whole film in his face, barely speaking when it counts most.\n\nWeakness: it's relentlessly bleak — there's very little relief across the runtime.\n\nVerdict: one of the great, underseen masterpieces of the 2000s.\n\n👇 Have you seen it? If not, why not — genuinely?\n\n🔁 Share this with someone who thinks they've seen every great sci-fi film.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-03_15.png",
       "when": "2026-09-03T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203017848787954"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmrr1-2026-09-03-19",
@@ -18940,7 +19004,11 @@
       "message": "🎭 The industry has a whole tier of actors who elevate every film they're in without ever headlining one. You know the face. You might not know the name.\n\n👇 Name a character actor who makes every film better?\n\n🔁 Share this and give them credit.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-03_19.png",
       "when": "2026-09-03T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203018022787954"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmrr1-2026-09-03-23",
@@ -21631,8 +21699,12 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-09-02_19.png",
       "when": "2026-09-02T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🫣 ANSWER: Row 3."
+      "status": "scheduled",
+      "first_comment": "🫣 ANSWER: Row 3.",
+      "result": {
+        "id": "1505923488226012"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-02-21",
@@ -21642,7 +21714,11 @@
       "message": "📱 Which line got you? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-09-02_21.png",
       "when": "2026-09-02T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1505923644892663"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-02-23",
@@ -21652,8 +21728,12 @@
       "message": "🕵️ One sentence flips the whole race. Solve it 👇",
       "image_url": "images/suspense_refill1/2026-09-02_23.png",
       "when": "2026-09-02T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother now races the OTHER horse hard, which determines who loses."
+      "status": "scheduled",
+      "first_comment": "🐎 ANSWER: \"Switch horses.\" Each brother now races the OTHER horse hard, which determines who loses.",
+      "result": {
+        "id": "1505923911559303"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-03-10",
@@ -21663,8 +21743,12 @@
       "message": "🧠 Comment before the pin 👇",
       "image_url": "images/suspense_refill1/2026-09-03_10.png",
       "when": "2026-09-03T10:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🌑 ANSWER: Darkness."
+      "status": "scheduled",
+      "first_comment": "🌑 ANSWER: Darkness.",
+      "result": {
+        "id": "1505924481559246"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-03-13",
@@ -21674,8 +21758,12 @@
       "message": "🕵️ Nobody got hurt. Figure it out 👇",
       "image_url": "images/suspense_refill1/2026-09-03_13.png",
       "when": "2026-09-03T13:00:00+00:00",
-      "status": "pending",
-      "first_comment": "📷 ANSWER: She's a photographer — she shot a photo, developed it in water, then hung it to dry."
+      "status": "scheduled",
+      "first_comment": "📷 ANSWER: She's a photographer — she shot a photo, developed it in water, then hung it to dry.",
+      "result": {
+        "id": "1505924788225882"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-03-16",
@@ -21684,7 +21772,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nMy dog won't stop staring at the empty chair across the room.\n\nWe don't have an empty chair.\n\n😳 React 😱 if that got you.",
       "when": "2026-09-03T16:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "2642505565823038_1505924841559210"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-03-19",
@@ -21694,8 +21786,12 @@
       "message": "👀 Quick — which row? 👇",
       "image_url": "images/suspense_refill1/2026-09-03_19.png",
       "when": "2026-09-03T19:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🩸 ANSWER: Row 2."
+      "status": "scheduled",
+      "first_comment": "🩸 ANSWER: Row 2.",
+      "result": {
+        "id": "1505925178225843"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-03-21",
@@ -21705,7 +21801,11 @@
       "message": "📱 Would you move out tonight? React 😱 👇",
       "image_url": "images/suspense_refill1/2026-09-03_21.png",
       "when": "2026-09-03T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1505925421559152"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "asu-refill1-2026-09-03-23",
@@ -22560,8 +22660,14 @@
       "message": "A protein-heavy breakfast changes your whole day. 🍳\n\nIt keeps you fuller longer than carbs alone, meaning fewer cravings by mid-morning. Eggs, yogurt, leftovers all count.\n\n💚 Bookmark this for tomorrow morning.\n\n💬 What's usually in your breakfast?",
       "video_path": "images/health_reels_cadence6/nc6_d24_2_protein_breakfast.mp4",
       "when": "2026-09-03T04:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_2_protein_breakfast.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_2_protein_breakfast.mp4",
+      "result": {
+        "video_id": "1057177153354565",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T04:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc4_d16_6_seasonal_light_mood-ig",
@@ -23152,7 +23258,11 @@
       "message": "Your kidneys filter your entire blood supply many times a day. 💧\n\nStaying hydrated helps them do that job efficiently — chronic under-hydration adds unnecessary strain over time.\n\n💚 Bookmark this reminder.\n\n💬 Have you had water in the last hour?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d20_6_hydration_kidney.mp4",
       "when": "2026-08-30T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18075898988393425"
+      },
+      "posted_at": "2026-08-31T00:01:49+00:00"
     },
     {
       "id": "hd-cadence-nc3_d12_4_breathing_blood_pressure-fb",
@@ -23495,8 +23605,14 @@
       "message": "Long flights or car rides can leave your legs stiff and swollen. ✈️\n\nSitting still slows circulation — ankle circles, calf raises, and standing up every hour or two all help.\n\n💚 Bookmark this for your next trip.\n\n💬 Do your legs get stiff on long trips?",
       "video_path": "images/health_reels_cadence6/nc6_d24_4_stretching_travel.mp4",
       "when": "2026-09-03T16:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_4_stretching_travel.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_4_stretching_travel.mp4",
+      "result": {
+        "video_id": "3051067171766440",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T16:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc6_d28_1_recovery_day_importance-fb",
@@ -23921,8 +24037,14 @@
       "message": "Your kidneys filter your entire blood supply many times a day. 💧\n\nStaying hydrated helps them do that job efficiently — chronic under-hydration adds unnecessary strain over time.\n\n💚 Bookmark this reminder.\n\n💬 Have you had water in the last hour?",
       "video_path": "images/health_reels_cadence5/nc5_d20_6_hydration_kidney.mp4",
       "when": "2026-08-30T22:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d20_6_hydration_kidney.mp4"
+      "status": "posted",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d20_6_hydration_kidney.mp4",
+      "result": {
+        "video_id": "2571430716611109",
+        "permalink": "/reel/2571430716611109/",
+        "status": "ready"
+      },
+      "posted_at": "2026-08-31T00:02:27+00:00"
     },
     {
       "id": "hd-cadence-nc4_d16_5_screen_free_meals-ig",
@@ -24374,8 +24496,14 @@
       "message": "Splashing cold water on your face can snap you out of a slump. 💦\n\nIt triggers the same reflex used in some anxiety therapies — can quickly lower a racing heart rate.\n\n💚 Bookmark this for a stressful moment.\n\n💬 Would you try this next time you're stressed?",
       "video_path": "images/health_reels_cadence6/nc6_d24_1_cold_water_face.mp4",
       "when": "2026-09-03T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_1_cold_water_face.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_1_cold_water_face.mp4",
+      "result": {
+        "video_id": "1415363407195516",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T01:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc3_d10_3_lymphatic_movement-fb",
@@ -25416,8 +25544,14 @@
       "message": "How you talk to yourself matters more than you'd think. 🪞\n\nHarsh inner criticism can genuinely affect stress levels — try talking to yourself like you would a close friend.\n\n💚 Bookmark this reminder.\n\n💬 How's your inner voice today?",
       "video_path": "images/health_reels_cadence6/nc6_d24_5_positive_self_talk.mp4",
       "when": "2026-09-03T19:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_5_positive_self_talk.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_5_positive_self_talk.mp4",
+      "result": {
+        "video_id": "1405015528256570",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T19:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc2_d3_6_vitamin_d_sun-ig",
@@ -25857,8 +25991,14 @@
       "message": "Most people underestimate their daily screen time. 📱\n\nYour phone's own tracker can be an eye-opener — awareness alone often leads to small, natural changes.\n\n💚 Bookmark this reminder.\n\n💬 Do you know your daily screen time?",
       "video_path": "images/health_reels_cadence6/nc6_d24_3_screen_time_awareness.mp4",
       "when": "2026-09-03T10:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_3_screen_time_awareness.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_3_screen_time_awareness.mp4",
+      "result": {
+        "video_id": "1442886437902834",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T10:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc6_d30_5_sleep_final_reminder-fb",
@@ -26243,8 +26383,14 @@
       "message": "Telling someone specifically why you appreciate them lands differently. 🤝\n\nGeneric thanks feels good — specific thanks feels seen. Costs nothing, takes under a minute.\n\n💚 Bookmark this reminder.\n\n💬 Who could you thank specifically today?",
       "video_path": "images/health_reels_cadence5/nc5_d23_6_gratitude_relationships.mp4",
       "when": "2026-09-02T22:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_6_gratitude_relationships.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_6_gratitude_relationships.mp4",
+      "result": {
+        "video_id": "1110283557993435",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-02T22:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc3_d12_3_meal_timing_jetlag-ig",
@@ -26381,8 +26527,14 @@
       "message": "A heavy snack too close to bedtime can disrupt your sleep. 🌙\n\nDigestion competing with your body winding down doesn't mix well — try to finish eating an hour or two before bed.\n\n💚 Bookmark this for tonight.\n\n💬 Do you snack right before bed?",
       "video_path": "images/health_reels_cadence5/nc5_d23_4_snack_timing_sleep.mp4",
       "when": "2026-09-02T16:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_4_snack_timing_sleep.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_4_snack_timing_sleep.mp4",
+      "result": {
+        "video_id": "966305939849838",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-02T16:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc6_d25_1_natural_light_workspace-ig",
@@ -26412,8 +26564,14 @@
       "message": "Walking speed might matter more than step count alone. 🚶\n\nA brisk pace gets your heart rate up more than a slow stroll — some research links pace to better health markers.\n\n💚 Bookmark this for your next walk.\n\n💬 Do you walk briskly or slowly usually?",
       "video_path": "images/health_reels_cadence5/nc5_d23_5_walking_pace_benefits.mp4",
       "when": "2026-09-02T19:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_5_walking_pace_benefits.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_5_walking_pace_benefits.mp4",
+      "result": {
+        "video_id": "1596631191908037",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-02T19:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "hd-cadence-nc6_d29_3_sleep_alcohol_myth-fb",
@@ -28216,8 +28374,14 @@
       "message": "🎬 5 directors whose debut was their best.\n\nNo. 5 Reservoir Dogs · No. 4 Whiplash · No. 3 Get Out · No. 2 Following · No. 1 Citizen Kane\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content4/tmr_d23_debut.mp4",
       "when": "2026-09-02T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d23_debut.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d23_debut.mp4",
+      "result": {
+        "video_id": "1449677850354177",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-02T17:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d25_feel_good",
@@ -28227,8 +28391,14 @@
       "message": "🎬 5 films that fix a bad day.\n\nNo. 5 Paddington 2 · No. 4 Chef · No. 3 School of Rock · No. 2 Amélie · No. 1 Singin' in the Rain\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content5/tmr_d25_feel_good.mp4",
       "when": "2026-09-03T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d25_feel_good.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d25_feel_good.mp4",
+      "result": {
+        "video_id": "1071353468712902",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T01:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d21_con_artists",
@@ -28255,8 +28425,14 @@
       "message": "🎬 5 films with perfect final scenes.\n\nNo. 5 The Truman Show · No. 4 No Country for Old Men · No. 3 The Graduate · No. 2 Whiplash · No. 1 Se7en\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content4/tmr_d24_endings.mp4",
       "when": "2026-09-02T21:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d24_endings.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d24_endings.mp4",
+      "result": {
+        "video_id": "1568637961972915",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-02T21:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d17_coming_of_age",
@@ -28359,8 +28535,14 @@
       "message": "🎬 5 psychological horrors that stay with you.\n\nNo. 5 The Babadook · No. 4 Rosemary's Baby · No. 3 Repulsion · No. 2 Midsommar · No. 1 The Shining\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content5/tmr_d27_psychological.mp4",
       "when": "2026-09-03T09:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d27_psychological.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d27_psychological.mp4",
+      "result": {
+        "video_id": "4655276964691568",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T09:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d18_under_90",
@@ -28469,8 +28651,14 @@
       "message": "🎬 5 war films that refuse to be heroic.\n\nNo. 5 Come and See · No. 4 Apocalypse Now · No. 3 Dunkirk · No. 2 Full Metal Jacket · No. 1 Saving Private Ryan\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content5/tmr_d26_war.mp4",
       "when": "2026-09-03T05:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d26_war.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d26_war.mp4",
+      "result": {
+        "video_id": "1688335145585171",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T05:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d20_cinematography",
@@ -28497,8 +28685,14 @@
       "message": "🎬 5 films that are just people talking.\n\nNo. 5 My Dinner with Andre · No. 4 Before Midnight · No. 3 Glengarry Glen Ross · No. 2 The Social Network · No. 1 12 Angry Men\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content5/tmr_d28_dialogue.mp4",
       "when": "2026-09-03T11:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d28_dialogue.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d28_dialogue.mp4",
+      "result": {
+        "video_id": "2828122914213033",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T11:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d4_one_location",
@@ -28557,8 +28751,14 @@
       "message": "🎬 5 films that predicted the future.\n\nNo. 5 Network · No. 4 The Truman Show · No. 3 Idiocracy · No. 2 Her · No. 1 Contagion\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content5/tmr_d29_predicted.mp4",
       "when": "2026-09-03T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d29_predicted.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d29_predicted.mp4",
+      "result": {
+        "video_id": "1309005677806704",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-03T17:00:00Z"
+      },
+      "scheduled_at": "2026-08-30T23:57:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d14_neo_noir",

@@ -115,7 +115,10 @@
       "when": "2026-08-30T23:00:00+00:00",
       "message": "🦊 ANSWER: Take the chicken first, return empty, take the fox, bring the chicken back, take the grain, return empty, take the chicken.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505861524898875_2122592418690241"
+      }
     },
     {
       "photo_id": "1505861794898848",
@@ -184,6 +187,41 @@
       "photo_id": "1505871558231205",
       "when": "2026-09-02T13:00:00+00:00",
       "message": "🪂 ANSWER: He was skydiving and his parachute — the unopened package — failed.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505923488226012",
+      "when": "2026-09-02T19:00:00+00:00",
+      "message": "🫣 ANSWER: Row 3.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505923911559303",
+      "when": "2026-09-02T23:00:00+00:00",
+      "message": "🐎 ANSWER: \"Switch horses.\" Each brother now races the OTHER horse hard, which determines who loses.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505924481559246",
+      "when": "2026-09-03T10:00:00+00:00",
+      "message": "🌑 ANSWER: Darkness.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505924788225882",
+      "when": "2026-09-03T13:00:00+00:00",
+      "message": "📷 ANSWER: She's a photographer — she shot a photo, developed it in water, then hung it to dry.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505925178225843",
+      "when": "2026-09-03T19:00:00+00:00",
+      "message": "🩸 ANSWER: Row 2.",
       "account": "suspense-ahead",
       "status": "pending"
     }
