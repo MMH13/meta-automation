@@ -300,6 +300,41 @@
       "message": "📰 ANSWER: A newspaper.",
       "account": "suspense-ahead",
       "status": "pending"
+    },
+    {
+      "photo_id": "1506413791510315",
+      "when": "2026-09-06T13:00:00+00:00",
+      "message": "🐟 ANSWER: He was a goldfish — his bowl had run dry.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1506414404843587",
+      "when": "2026-09-06T19:00:00+00:00",
+      "message": "😶 ANSWER: Row 3.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1506415171510177",
+      "when": "2026-09-06T23:00:00+00:00",
+      "message": "🖼️ ANSWER: His own son.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1506416208176740",
+      "when": "2026-09-07T10:00:00+00:00",
+      "message": "🔥 ANSWER: Fire.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1506416631510031",
+      "when": "2026-09-07T13:00:00+00:00",
+      "message": "🎈 ANSWER: He jumped from a hot air balloon on fire after checking how much fuel was left with the match.",
+      "account": "suspense-ahead",
+      "status": "pending"
     }
   ]
 }
