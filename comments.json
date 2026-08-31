@@ -155,7 +155,10 @@
       "when": "2026-08-31T23:00:00+00:00",
       "message": "🔥 ANSWER: Light one rope at both ends and the other at one end. When rope 1 burns out (30 min), light the other end of rope 2 — it finishes in 15 more minutes. Total: 45.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505862428232118_2908006139579856"
+      }
     },
     {
       "photo_id": "1505862944898733",
@@ -343,6 +346,13 @@
       "photo_id": "1506635581488136",
       "when": "2026-09-07T19:00:00+00:00",
       "message": "🦉 ANSWER: Row 2.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1506756428142718",
+      "when": "2026-09-07T23:00:00+00:00",
+      "message": "🕐 ANSWER: 12 seconds — there are only 12 gaps between 13 strikes.",
       "account": "suspense-ahead",
       "status": "pending"
     }
