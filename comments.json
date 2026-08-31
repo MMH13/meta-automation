@@ -224,6 +224,41 @@
       "message": "🩸 ANSWER: Row 2.",
       "account": "suspense-ahead",
       "status": "pending"
+    },
+    {
+      "photo_id": "1505943994890628",
+      "when": "2026-09-03T23:00:00+00:00",
+      "message": "💡 ANSWER: Turn on switch 1, wait a few minutes, turn it off, turn on switch 2, then enter. Lit bulb = switch 2. Warm-but-off bulb = switch 1. Cold bulb = switch 3.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505944424890585",
+      "when": "2026-09-04T10:00:00+00:00",
+      "message": "⏳ ANSWER: The future.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505944601557234",
+      "when": "2026-09-04T13:00:00+00:00",
+      "message": "🏢 ANSWER: No — the window only opens 4 inches, too small to fit through. He was murdered and the scene staged.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505944881557206",
+      "when": "2026-09-04T19:00:00+00:00",
+      "message": "🐦‍⬛ ANSWER: Row 3.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1505945231557171",
+      "when": "2026-09-04T23:00:00+00:00",
+      "message": "⚖️ ANSWER: Split 3/3/2. Weigh the two 3s — if balanced, weigh the remaining 2. If unbalanced, take the heavier 3, weigh 2 of them — heavier wins, or the third is heavier if those balance.",
+      "account": "suspense-ahead",
+      "status": "pending"
     }
   ]
 }
