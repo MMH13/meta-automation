@@ -13502,7 +13502,11 @@
       "message": "😅 এই খেলায় হারলেও একটা তৃপ্তি থাকে। কে কে খেলেন এই খেলা? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/29_1.png",
       "when": "2026-09-08T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1375004188082818"
+      },
+      "scheduled_at": "2026-09-01T05:19:31+00:00"
     },
     {
       "id": "deshal-refill1-29-2",
@@ -23398,7 +23402,11 @@
       "message": "Flexibility work isn't just for gymnasts and dancers. 🤸\n\nTight muscles can limit everyday movement quality — a few minutes a few times a week keeps things loose.\n\n💚 Bookmark this reminder.\n\n💬 How often do you stretch?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d22_2_stretching_flexibility_myth.mp4",
       "when": "2026-09-01T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18090127817153811"
+      },
+      "posted_at": "2026-09-01T05:20:24+00:00"
     },
     {
       "id": "hd-cadence-nc2_d5_3_blood_sugar_spikes-ig",
@@ -25765,8 +25773,14 @@
       "message": "A water bottle you can actually see changes how much you drink. 💧\n\nOut of sight really does mean out of mind — keeping it within arm's reach makes sipping automatic.\n\n💚 Bookmark this reminder.\n\n💬 Is your water bottle in sight right now?",
       "video_path": "images/health_reels_cadence6/nc6_d29_2_desk_hydration_reminder.mp4",
       "when": "2026-09-08T04:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_2_desk_hydration_reminder.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_2_desk_hydration_reminder.mp4",
+      "result": {
+        "video_id": "1469994485175072",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T04:00:00Z"
+      },
+      "scheduled_at": "2026-09-01T05:19:31+00:00"
     },
     {
       "id": "hd-cadence-nc5_d18_4_added_sugar_labels-fb",
@@ -29799,8 +29813,14 @@
       "message": "🎬 5 musicals for people who hate musicals.\n\nNo. 5 Once · No. 4 The Blues Brothers · No. 3 Cabaret · No. 2 West Side Story · No. 1 Singin' in the Rain\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content10/tmr_d56_musicals.mp4",
       "when": "2026-09-08T05:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d56_musicals.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d56_musicals.mp4",
+      "result": {
+        "video_id": "947713834301625",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-01T05:19:31+00:00"
     },
     {
       "id": "tmr-reel-tmr_d57_ai",
