@@ -185,7 +185,10 @@
       "when": "2026-09-01T19:00:00+00:00",
       "message": "🕸️ ANSWER: Row 2.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505869581564736_2474033849788548"
+      }
     },
     {
       "photo_id": "1505869898231371",
@@ -373,6 +376,13 @@
       "photo_id": "1507265281425166",
       "when": "2026-09-08T13:00:00+00:00",
       "message": "🛁 ANSWER: The bathroom light was broken — pitch black. She couldn't have 'found' him unless she was already in there when it happened.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1507544421397252",
+      "when": "2026-09-08T19:00:00+00:00",
+      "message": "🌚 ANSWER: Row 3.",
       "account": "suspense-ahead",
       "status": "pending"
     }
