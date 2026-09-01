@@ -13558,7 +13558,11 @@
       "message": "😅 মাস শেষে সবাই একটু হিসাবি হয়ে যাই। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/29_5.png",
       "when": "2026-09-08T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1375466114703292"
+      },
+      "scheduled_at": "2026-09-01T17:29:01+00:00"
     },
     {
       "id": "deshal-refill1-29-6",
@@ -19462,7 +19466,11 @@
       "message": "🤯 Some of cinema's most iconic castings almost went to someone completely different.\n\n1️⃣ WILL SMITH — passed on Neo to make Wild Wild West instead\n2️⃣ TOM SELLECK — a scheduling conflict cost him Indiana Jones\n3️⃣ SEAN CONNERY — turned down Gandalf, called the script 'confusing'\n4️⃣ EMILY BLUNT — passed on Black Widow before Scarlett Johansson\n5️⃣ DICAPRIO — was ALSO offered Neo before Reeves\n\n👇 Which almost-casting would've changed everything?\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-08_15.png",
       "when": "2026-09-08T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203223600787954"
+      },
+      "scheduled_at": "2026-09-01T17:29:01+00:00"
     },
     {
       "id": "tmrr1-2026-09-08-19",
@@ -22471,7 +22479,11 @@
       "type": "text",
       "message": "Two-line horror 👇\n\nI woke up with my bedroom door locked from the inside.\n\nI don't own a key that fits it.\n\n😳 Tag someone who checks their locks now.",
       "when": "2026-09-08T16:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "2642505565823038_1507438834741144"
+      },
+      "scheduled_at": "2026-09-01T17:29:01+00:00"
     },
     {
       "id": "asu-refill1-2026-09-08-19",
@@ -24480,8 +24492,14 @@
       "message": "Your body does a lot for you without ever being thanked. 🙏\n\nIt breathes, heals, and keeps you moving mostly without your input — shifting focus from appearance to function helps.\n\n💚 Bookmark this reminder.\n\n💬 What did your body let you do today?",
       "video_path": "images/health_reels_cadence6/nc6_d29_4_gratitude_body.mp4",
       "when": "2026-09-08T16:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_4_gratitude_body.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_4_gratitude_body.mp4",
+      "result": {
+        "video_id": "1429476505817552",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T16:00:00Z"
+      },
+      "scheduled_at": "2026-09-01T17:29:01+00:00"
     },
     {
       "id": "hd-cadence-nc6_d24_1_cold_water_face-ig",
@@ -27694,7 +27712,11 @@
       "message": "Your posture before a big moment can shift how you feel walking in. 💼\n\nA couple minutes of standing tall, paired with slow deep breaths, before a stressful event genuinely helps.\n\n💚 Bookmark this for your next big moment.\n\n💬 Do you have a pre-big-moment routine?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d22_4_posture_confidence_interviews.mp4",
       "when": "2026-09-01T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18231551080322339"
+      },
+      "posted_at": "2026-09-01T17:30:07+00:00"
     },
     {
       "id": "hd-cadence-nc5_d19_6_habit_stacking-ig",
@@ -29908,8 +29930,14 @@
       "message": "🎬 5 films where the cold is a character.\n\nNo. 5 Winter's Bone · No. 4 The Grey · No. 3 Let the Right One In · No. 2 The Revenant · No. 1 Fargo\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content10/tmr_d59_cold.mp4",
       "when": "2026-09-08T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d59_cold.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d59_cold.mp4",
+      "result": {
+        "video_id": "1771656390820879",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-01T17:29:01+00:00"
     },
     {
       "id": "tmr-reel-tmr_d60_romance",
