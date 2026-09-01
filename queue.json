@@ -25689,8 +25689,14 @@
       "message": "One off day doesn't undo weeks of healthy habits. 🌱\n\nAll-or-nothing thinking is one of the biggest reasons habits fall apart — what matters is what you do most of the time.\n\n💚 Bookmark this reminder.\n\n💬 Have you ever quit after one off day?",
       "video_path": "images/health_reels_cadence6/nc6_d29_6_progress_not_perfection.mp4",
       "when": "2026-09-08T22:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_6_progress_not_perfection.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_6_progress_not_perfection.mp4",
+      "result": {
+        "video_id": "1428501149176380",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T22:00:00Z"
+      },
+      "scheduled_at": "2026-09-01T22:52:08+00:00"
     },
     {
       "id": "hd-cadence-nc5_d19_1_muscle_memory-fb",
@@ -26702,7 +26708,11 @@
       "message": "A \"digital sunset\" can be as simple as it sounds. 🌇\n\nPicking a time to put screens away gives your mind time to unwind — even one hour before bed makes a real difference.\n\n💚 Bookmark this for tonight.\n\n💬 What time could your digital sunset be?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d22_6_digital_sunset.mp4",
       "when": "2026-09-01T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18099663785120413"
+      },
+      "posted_at": "2026-09-01T22:52:52+00:00"
     },
     {
       "id": "hd-cadence-nc5_d23_4_snack_timing_sleep-ig",
