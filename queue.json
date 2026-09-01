@@ -13488,7 +13488,11 @@
       "message": "😂 প্রতিটা অফিসেরই একটা \"আনঅফিসিয়াল\" লাঞ্চ টাইম থাকে। রিলেট করলে জানান 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/29_0.png",
       "when": "2026-09-08T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1374899808093256"
+      },
+      "scheduled_at": "2026-09-01T02:15:28+00:00"
     },
     {
       "id": "deshal-refill1-29-1",
@@ -23953,8 +23957,14 @@
       "message": "Who you spend time around shapes your habits quietly. 🤝\n\nIt's called social contagion — habits genuinely spread. Being around active, positive people nudges your own behavior.\n\n💚 Bookmark this reminder.\n\n💬 Who influences your habits most?",
       "video_path": "images/health_reels_cadence6/nc6_d29_1_positive_environment_people.mp4",
       "when": "2026-09-08T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_1_positive_environment_people.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_1_positive_environment_people.mp4",
+      "result": {
+        "video_id": "2268073140700421",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-01T02:15:28+00:00"
     },
     {
       "id": "hd-cadence-nc6_d26_4_snack_protein_pairing-fb",
@@ -24288,7 +24298,11 @@
       "message": "Adjusting your sleep before a trip can ease jet lag ahead of time. 🧳\n\nShifting bedtime by 30-60 minutes a few days early, combined with light exposure at your destination, softens the landing.\n\n💚 Bookmark this for your next trip.\n\n💬 Do you prep your sleep before trips?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d22_1_travel_time_zones_sleep.mp4",
       "when": "2026-09-01T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18071947601718099"
+      },
+      "posted_at": "2026-09-01T02:16:28+00:00"
     },
     {
       "id": "hd-cadence-nc4_d16_1_antibiotics_gut-fb",
@@ -29768,8 +29782,14 @@
       "message": "🎬 5 films that defined the 80s.\n\nNo. 5 Blue Velvet · No. 4 The Breakfast Club · No. 3 Back to the Future · No. 2 Die Hard · No. 1 Raiders of the Lost Ark\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content10/tmr_d55_80s.mp4",
       "when": "2026-09-08T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d55_80s.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d55_80s.mp4",
+      "result": {
+        "video_id": "1062624529818342",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-01T02:15:28+00:00"
     },
     {
       "id": "tmr-reel-tmr_d56_musicals",
