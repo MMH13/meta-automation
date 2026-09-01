@@ -175,7 +175,10 @@
       "when": "2026-09-01T13:00:00+00:00",
       "message": "🐠 ANSWER: They were fish — the 'cabin' was an aquarium tank that shattered.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505869128231448_2469193016922542"
+      }
     },
     {
       "photo_id": "1505869581564736",
@@ -363,6 +366,13 @@
       "photo_id": "1507112781440416",
       "when": "2026-09-08T10:00:00+00:00",
       "message": "🏦 ANSWER: A bank.",
+      "account": "suspense-ahead",
+      "status": "pending"
+    },
+    {
+      "photo_id": "1507265281425166",
+      "when": "2026-09-08T13:00:00+00:00",
+      "message": "🛁 ANSWER: The bathroom light was broken — pitch black. She couldn't have 'found' him unless she was already in there when it happened.",
       "account": "suspense-ahead",
       "status": "pending"
     }
