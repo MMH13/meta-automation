@@ -13572,7 +13572,11 @@
       "message": "😅 ভাই-বোনের আলমারি শেয়ারিং সবসময়ই এমন ধরা-খাওয়ার গল্প। রিলেট? 👇\n\n📻 রেডিও দেশাল",
       "image_url": "images/deshal_refill1/29_6.png",
       "when": "2026-09-08T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "1375508014699102"
+      },
+      "scheduled_at": "2026-09-01T18:38:22+00:00"
     },
     {
       "id": "deshal-refill1-29-7",
