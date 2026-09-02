@@ -19502,7 +19502,11 @@
       "message": "🧩 Five emojis, one eye you definitely recognize.\n\n👇 Comment your answer.\n\n🔁 Share this with a fantasy fan.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-08_23.png",
       "when": "2026-09-08T23:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203247870787954"
+      },
+      "scheduled_at": "2026-09-02T00:19:44+00:00"
     },
     {
       "id": "tmrr1-2026-09-09-13",
@@ -22534,8 +22538,12 @@
       "message": "🧠 Comment your answer before the pin 👇",
       "image_url": "images/suspense_refill1/2026-09-08_23.png",
       "when": "2026-09-08T23:00:00+00:00",
-      "status": "pending",
-      "first_comment": "🤫 ANSWER: A secret."
+      "status": "scheduled",
+      "first_comment": "🤫 ANSWER: A secret.",
+      "result": {
+        "id": "1507674178050943"
+      },
+      "scheduled_at": "2026-09-02T00:19:44+00:00"
     },
     {
       "id": "hd-cadence-nc3_d12_2_cooking_oil_smoke_point-fb",
