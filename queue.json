@@ -23233,7 +23233,11 @@
       "message": "How you breathe during exercise affects how hard it feels. 🫁\n\nShallow, held breath can make effort feel harder than it is — steady, rhythmic breathing helps you pace yourself better.\n\n💚 Bookmark this for your next workout.\n\n💬 Do you notice your breathing during workouts?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_3_breathing_exercise_recovery.mp4",
       "when": "2026-09-02T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18036586739641294"
+      },
+      "posted_at": "2026-09-02T10:03:23+00:00"
     },
     {
       "id": "hd-cadence-nc5_d21_4_heart_rate_recovery-ig",
@@ -23801,8 +23805,14 @@
       "message": "Of everything we've covered, water is still the simplest win. 💧\n\nFree, available everywhere, and connected to energy, mood, focus, skin, and digestion. When in doubt, reach for water first.\n\n💚 Bookmark this reminder.\n\n💬 How much water have you had today?",
       "video_path": "images/health_reels_cadence6/nc6_d30_3_hydration_final_reminder.mp4",
       "when": "2026-09-09T10:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_3_hydration_final_reminder.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_3_hydration_final_reminder.mp4",
+      "result": {
+        "video_id": "1974437746555208",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T10:02:35+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_5_morning_light-ig",
