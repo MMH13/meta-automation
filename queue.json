@@ -17916,7 +17916,12 @@
       "message": "🍽️ A heavy meal right before bed keeps digestion active when your body should be winding down — often behind restless nights people can't explain.\n\n→ Give it at least 2-3 hours before lying down\n→ A light snack is fine if you're genuinely hungry\n→ Spicy/fatty food especially disrupts sleep quality\n\n💚 Bookmark this. You'll need it later.\n💬 Late dinners — guilty or not? 👇",
       "image_url": "images/health_refill1/25_4.png",
       "when": "2026-09-02T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18336146404267737",
+        "permalink": "https://www.instagram.com/p/DcydjIzoFXp/"
+      },
+      "posted_at": "2026-09-02T14:34:07+00:00"
     },
     {
       "id": "hd-refill1-26-2-fb",
@@ -19521,7 +19526,11 @@
       "message": "🎭 'I couldn't root for anyone' is one of the most common complaints about serious dramas — and it usually misses the point entirely.\n\nSome of the greatest films ever made star people you'd never want to actually know.\n\n👇 A film with an unlikeable lead that's still one of your favourites?\n\n🔁 Share this and see who agrees.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-09_13.png",
       "when": "2026-09-09T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203305296787954"
+      },
+      "scheduled_at": "2026-09-02T14:33:40+00:00"
     },
     {
       "id": "tmrr1-2026-09-09-15",
@@ -30098,8 +30107,14 @@
       "message": "🎬 5 films about getting old that hurt.\n\nNo. 5 About Schmidt · No. 4 The Straight Story · No. 3 Umberto D. · No. 2 The Father · No. 1 Amour\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content11/tmr_d64_aging.mp4",
       "when": "2026-09-09T11:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d64_aging.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d64_aging.mp4",
+      "result": {
+        "video_id": "2226937384869623",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T14:33:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d65_comedy",
