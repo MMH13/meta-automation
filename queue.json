@@ -30071,8 +30071,14 @@
       "message": "🎬 5 films about reporters who wouldn't stop.\n\nNo. 5 She Said · No. 4 The Insider · No. 3 Network · No. 2 Spotlight · No. 1 All the President's Men\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content11/tmr_d63_journalism.mp4",
       "when": "2026-09-09T09:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d63_journalism.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d63_journalism.mp4",
+      "result": {
+        "video_id": "28822124957372199",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T09:43:22+00:00"
     },
     {
       "id": "tmr-reel-tmr_d64_aging",
