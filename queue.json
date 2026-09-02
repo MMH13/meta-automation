@@ -19554,7 +19554,11 @@
       "message": "🔄 Most remakes fail because they just repeat the same beats with better effects. The rare good ones use the same premise to say something the original never attempted.\n\n👇 Name a remake that's genuinely better than the original.\n\n🔁 Share this and let them argue.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-09_19.png",
       "when": "2026-09-09T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203336316787954"
+      },
+      "scheduled_at": "2026-09-02T21:23:58+00:00"
     },
     {
       "id": "tmrr1-2026-09-09-23",
@@ -26644,8 +26648,14 @@
       "message": "If you take one thing from this month, let it be sleep. 😴\n\nIt touches mood, focus, cravings, immunity, and recovery — consistent timing, a cool dark room, less late screen time.\n\n💚 Bookmark this reminder.\n\n💬 What's one sleep habit you'll try this week?",
       "video_path": "images/health_reels_cadence6/nc6_d30_5_sleep_final_reminder.mp4",
       "when": "2026-09-09T19:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_5_sleep_final_reminder.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_5_sleep_final_reminder.mp4",
+      "result": {
+        "video_id": "2492661931209897",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T19:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T21:23:58+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_6_hearing_protection-fb",
@@ -27226,7 +27236,11 @@
       "message": "Walking speed might matter more than step count alone. 🚶\n\nA brisk pace gets your heart rate up more than a slow stroll — some research links pace to better health markers.\n\n💚 Bookmark this for your next walk.\n\n💬 Do you walk briskly or slowly usually?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_5_walking_pace_benefits.mp4",
       "when": "2026-09-02T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17987712459022428"
+      },
+      "posted_at": "2026-09-02T21:25:05+00:00"
     },
     {
       "id": "hd-cadence-nc5_d23_5_walking_pace_benefits-fb",
@@ -30155,8 +30169,14 @@
       "message": "🎬 5 political thrillers that aged too well.\n\nNo. 5 Michael Clayton · No. 4 The Parallax View · No. 3 Seven Days in May · No. 2 Z · No. 1 The Manchurian Candidate\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content11/tmr_d66_political.mp4",
       "when": "2026-09-09T21:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d66_political.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d66_political.mp4",
+      "result": {
+        "video_id": "1605061221125167",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T21:23:58+00:00"
     },
     {
       "id": "tmr-reel-tmr_d67_indian",
