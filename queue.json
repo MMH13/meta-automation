@@ -22785,7 +22785,11 @@
       "message": "Doing the same workout over and over can quietly plateau results. 🏋️\n\nYour body adapts to repeated movement — mixing in new exercises challenges different muscles and keeps it engaging.\n\n💚 Bookmark this for your next workout.\n\n💬 Have you tried a new workout lately?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_1_exercise_variety.mp4",
       "when": "2026-09-02T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18104597720246375"
+      },
+      "posted_at": "2026-09-02T04:47:46+00:00"
     },
     {
       "id": "hd-cadence-nc4_d16_2_cortisol_rhythm-ig",
@@ -24230,8 +24234,14 @@
       "message": "A month is long enough to notice real change. 📅\n\nSmall daily habits compound more than they feel like day to day — take a moment to notice what's actually shifted.\n\n💚 Bookmark this reminder.\n\n💬 What's changed for you this month?",
       "video_path": "images/health_reels_cadence6/nc6_d30_1_month_reflection.mp4",
       "when": "2026-09-09T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_1_month_reflection.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_1_month_reflection.mp4",
+      "result": {
+        "video_id": "1093932673581747",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T04:46:23+00:00"
     },
     {
       "id": "hd-cadence-nc6_d28_5_healthy_fats_brain-fb",
@@ -25099,7 +25109,11 @@
       "message": "Some medications change how much water your body actually needs. 💊\n\nCertain ones can increase fluid loss or thirst — worth asking your pharmacist if your hydration needs shift.\n\n💚 Bookmark this reminder.\n\n💬 Have you ever asked about this?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_2_hydration_medication.mp4",
       "when": "2026-09-02T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17977282341085593"
+      },
+      "posted_at": "2026-09-02T04:48:34+00:00"
     },
     {
       "id": "hd-cadence-nc2_d7_6_portion_awareness-ig",
@@ -26227,8 +26241,14 @@
       "message": "Slow, sustainable habits usually beat intense short bursts. 🐢\n\nExtreme changes often burn out fast — gradual, boring consistency is less exciting, but it's what actually lasts.\n\n💚 Bookmark this reminder.\n\n💬 Is your current pace sustainable?",
       "video_path": "images/health_reels_cadence6/nc6_d30_2_sustainable_pace.mp4",
       "when": "2026-09-09T04:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_2_sustainable_pace.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_2_sustainable_pace.mp4",
+      "result": {
+        "video_id": "3316130928550760",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T04:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T04:46:23+00:00"
     },
     {
       "id": "hd-cadence-nc4_d15_1_chewing_digestion-ig",
@@ -30012,8 +30032,14 @@
       "message": "🎬 5 Japanese films everyone should see once.\n\nNo. 5 Departures · No. 4 Harakiri · No. 3 Rashomon · No. 2 Tokyo Story · No. 1 Seven Samurai\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content11/tmr_d61_japanese.mp4",
       "when": "2026-09-09T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d61_japanese.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d61_japanese.mp4",
+      "result": {
+        "video_id": "2136891187708054",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T04:46:23+00:00"
     },
     {
       "id": "tmr-reel-tmr_d62_ensemble",
