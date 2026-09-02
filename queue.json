@@ -19568,7 +19568,11 @@
       "message": "🌀 The best twists survive a second viewing. You go back and every clue was right there, hiding in plain sight, and you still fell for it completely.\n\nThat's the difference between a twist and a cheap trick.\n\n👇 A twist that held up perfectly on rewatch?\n\n🔁 Share this with someone who loves a good twist.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-09_23.png",
       "when": "2026-09-09T23:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203344632787954"
+      },
+      "scheduled_at": "2026-09-02T23:39:06+00:00"
     },
     {
       "id": "tmrr1-2026-09-10-13",
@@ -22757,7 +22761,11 @@
       "message": "Telling someone specifically why you appreciate them lands differently. 🤝\n\nGeneric thanks feels good — specific thanks feels seen. Costs nothing, takes under a minute.\n\n💚 Bookmark this reminder.\n\n💬 Who could you thank specifically today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc5_d23_6_gratitude_relationships.mp4",
       "when": "2026-09-02T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18151091842553768"
+      },
+      "posted_at": "2026-09-02T23:40:22+00:00"
     },
     {
       "id": "hd-cadence-nc1_d2_1_box_breathing-ig",
@@ -23385,8 +23393,14 @@
       "message": "Thanks for spending a little time here with us. 💚\n\nSmall, honest tips, no miracle cures — if even one stuck with you this month, that's a win. More is coming.\n\n💚 Bookmark this page for what's next.\n\n💬 Which tip from this month was most useful to you?",
       "video_path": "images/health_reels_cadence6/nc6_d30_6_thank_you_closing.mp4",
       "when": "2026-09-09T22:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_6_thank_you_closing.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_6_thank_you_closing.mp4",
+      "result": {
+        "video_id": "1431848678855014",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T22:00:00Z"
+      },
+      "scheduled_at": "2026-09-02T23:39:06+00:00"
     },
     {
       "id": "hd-cadence-nc3_d10_1_mouth_breathing_night-ig",
