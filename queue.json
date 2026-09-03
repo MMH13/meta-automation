@@ -24141,7 +24141,11 @@
       "message": "Long flights or car rides can leave your legs stiff and swollen. ✈️\n\nSitting still slows circulation — ankle circles, calf raises, and standing up every hour or two all help.\n\n💚 Bookmark this for your next trip.\n\n💬 Do your legs get stiff on long trips?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_4_stretching_travel.mp4",
       "when": "2026-09-03T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18161640781488100"
+      },
+      "posted_at": "2026-09-03T18:46:40+00:00"
     },
     {
       "id": "hd-cadence-nc6_d24_4_stretching_travel-fb",
@@ -30298,8 +30302,14 @@
       "message": "🎬 5 epics worth three hours of your life.\n\nNo. 5 Andrei Rublev · No. 4 Ben-Hur · No. 3 Gone with the Wind · No. 2 The Lord of the Rings: The Return of the King · No. 1 Lawrence of Arabia\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content12/tmr_d71_epics.mp4",
       "when": "2026-09-10T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d71_epics.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d71_epics.mp4",
+      "result": {
+        "video_id": "1604308508089072",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-03T18:45:37+00:00"
     },
     {
       "id": "tmr-reel-tmr_d72_french",
