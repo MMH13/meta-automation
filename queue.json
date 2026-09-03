@@ -26473,7 +26473,11 @@
       "message": "A protein-heavy breakfast changes your whole day. 🍳\n\nIt keeps you fuller longer than carbs alone, meaning fewer cravings by mid-morning. Eggs, yogurt, leftovers all count.\n\n💚 Bookmark this for tomorrow morning.\n\n💬 What's usually in your breakfast?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_2_protein_breakfast.mp4",
       "when": "2026-09-03T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18141472981528933"
+      },
+      "posted_at": "2026-09-03T04:44:40+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_6_walk_after_meals-fb",
