@@ -19606,7 +19606,11 @@
       "message": "🔁 Some films aren't fully finished until you've seen them at least three times.\n\n1️⃣ MULHOLLAND DRIVE — the third watch is when the pieces finally click\n2️⃣ ARRIVAL — the structure means every rewatch reveals more\n3️⃣ THE PRESTIGE — you catch the trick hiding in plain sight\n4️⃣ PRIMER — genuinely needs a diagram and multiple viewings\n5️⃣ BLADE RUNNER 2049 — dense with details you miss the first time\n\n👇 Which film did you truly 'get' on rewatch #3?\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-10_15.png",
       "when": "2026-09-10T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203416104787954"
+      },
+      "scheduled_at": "2026-09-03T15:19:57+00:00"
     },
     {
       "id": "tmrr1-2026-09-10-19",
