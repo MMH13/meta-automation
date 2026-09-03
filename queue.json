@@ -17974,7 +17974,12 @@
       "message": "🔌 The phone by the pillow is the #1 silent sleep thief — one glance turns into scrolling, one buzz turns into being awake. Charging it elsewhere removes the temptation entirely.\n\n→ Buy a cheap alarm clock so 'I need it for the alarm' stops being the excuse\n→ Out of arm's reach is often enough\n→ Your morning routine improves too\n\n💚 Bookmark this. You'll need it later.\n💬 Where does your phone sleep? 👇",
       "image_url": "images/health_refill1/26_4.png",
       "when": "2026-09-03T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18133089865642241",
+        "permalink": "https://www.instagram.com/p/Dc1C5U-Ds07/"
+      },
+      "posted_at": "2026-09-03T14:38:53+00:00"
     },
     {
       "id": "hd-refill1-27-2-fb",
@@ -19587,7 +19592,11 @@
       "message": "🧩 Five emojis, one very loud franchise.\n\n👇 Comment your answer.\n\n🔁 Share this with someone who's seen every entry.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-10_13.png",
       "when": "2026-09-10T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203413194787954"
+      },
+      "scheduled_at": "2026-09-03T14:38:37+00:00"
     },
     {
       "id": "tmrr1-2026-09-10-15",

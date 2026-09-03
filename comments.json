@@ -255,7 +255,10 @@
       "when": "2026-09-03T13:00:00+00:00",
       "message": "📷 ANSWER: She's a photographer — she shot a photo, developed it in water, then hung it to dry.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505924788225882_2823899641319730"
+      }
     },
     {
       "photo_id": "1505925178225843",
