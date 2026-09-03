@@ -24593,7 +24593,11 @@
       "message": "Splashing cold water on your face can snap you out of a slump. 💦\n\nIt triggers the same reflex used in some anxiety therapies — can quickly lower a racing heart rate.\n\n💚 Bookmark this for a stressful moment.\n\n💬 Would you try this next time you're stressed?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_1_cold_water_face.mp4",
       "when": "2026-09-03T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18104245694245383"
+      },
+      "posted_at": "2026-09-03T01:43:00+00:00"
     },
     {
       "id": "hd-cadence-nc5_d20_6_hydration_kidney-fb",
@@ -30200,8 +30204,14 @@
       "message": "🎬 5 Indian films that travel anywhere.\n\nNo. 5 The Lunchbox · No. 4 Gangs of Wasseypur · No. 3 Lagaan · No. 2 RRR · No. 1 Pather Panchali\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content12/tmr_d67_indian.mp4",
       "when": "2026-09-10T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d67_indian.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d67_indian.mp4",
+      "result": {
+        "video_id": "1069880675780582",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-03T01:42:07+00:00"
     },
     {
       "id": "tmr-reel-tmr_d68_sequels",
