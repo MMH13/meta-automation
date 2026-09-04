@@ -18032,7 +18032,12 @@
       "message": "🚿 Sounds backwards, but a warm shower raises your temperature briefly — then the rapid cool-down afterward mimics the natural drop your body needs to fall asleep.\n\n→ Time it about an hour before bed\n→ Warm, not hot\n→ Pair with dim lights after for the full effect\n\n💚 Bookmark this. You'll need it later.\n💬 Shower morning or night person? 👇",
       "image_url": "images/health_refill1/27_4.png",
       "when": "2026-09-04T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18073141088719345",
+        "permalink": "https://www.instagram.com/p/Dc3mLGNHEK3/"
+      },
+      "posted_at": "2026-09-04T14:25:38+00:00"
     },
     {
       "id": "hd-refill1-28-2-fb",
@@ -19653,7 +19658,11 @@
       "message": "🎬 One of the most quoted villain lines in modern cinema.\n\n👇 Comment the answer.\n\n🔁 Share this with a comic-book fan.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-11_13.png",
       "when": "2026-09-11T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203517156787954"
+      },
+      "scheduled_at": "2026-09-04T14:24:49+00:00"
     },
     {
       "id": "tmrr1-2026-09-11-15",
@@ -30420,8 +30429,14 @@
       "message": "🎬 5 films about medicine that got it right.\n\nNo. 5 Contagion · No. 4 Dallas Buyers Club · No. 3 Awakenings · No. 2 Philadelphia · No. 1 The Elephant Man\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content13/tmr_d76_medicine.mp4",
       "when": "2026-09-11T11:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d76_medicine.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d76_medicine.mp4",
+      "result": {
+        "video_id": "4348508848735648",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-04T14:24:49+00:00"
     },
     {
       "id": "tmr-reel-tmr_d77_holiday",

@@ -295,7 +295,10 @@
       "when": "2026-09-04T13:00:00+00:00",
       "message": "🏢 ANSWER: No — the window only opens 4 inches, too small to fit through. He was murdered and the scene staged.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505944601557234_2618500178580538"
+      }
     },
     {
       "photo_id": "1505944881557206",
