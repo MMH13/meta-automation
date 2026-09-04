@@ -30399,8 +30399,14 @@
       "message": "🎬 5 music docs better than any biopic.\n\nNo. 5 Searching for Sugar Man · No. 4 The Last Waltz · No. 3 Amy · No. 2 Woodstock · No. 1 Stop Making Sense\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content13/tmr_d75_music_docs.mp4",
       "when": "2026-09-11T09:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d75_music_docs.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d75_music_docs.mp4",
+      "result": {
+        "video_id": "849050658197592",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-04T09:44:02+00:00"
     },
     {
       "id": "tmr-reel-tmr_d76_medicine",
