@@ -30377,8 +30377,14 @@
       "message": "🎬 5 films about addiction that don't flinch.\n\nNo. 5 The Lost Weekend · No. 4 Beautiful Boy · No. 3 Leaving Las Vegas · No. 2 Trainspotting · No. 1 Requiem for a Dream\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content13/tmr_d74_addiction.mp4",
       "when": "2026-09-11T05:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d74_addiction.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d74_addiction.mp4",
+      "result": {
+        "video_id": "4427278764154381",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-04T05:11:10+00:00"
     },
     {
       "id": "tmr-reel-tmr_d75_music_docs",
