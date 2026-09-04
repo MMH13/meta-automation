@@ -19672,7 +19672,11 @@
       "message": "🎬 THERE WILL BE BLOOD (2007) — 5/5\n\n\"I drink your milkshake.\" A line so famous it's easy to forget the two-and-a-half hours of slow-burning menace that earn it.\n\nDaniel Day-Lewis doesn't play Daniel Plainview so much as inhabit him completely — an oil prospector whose ambition curdles into something monstrous scene by scene. Paul Thomas Anderson shoots the American West as a place greed built and greed will eventually hollow out.\n\nJonny Greenwood's dissonant score does as much storytelling as any dialogue in the film.\n\nWeakness: the deliberate, punishing pace will lose viewers who want momentum over atmosphere.\n\nVerdict: one of the defining American films of the 21st century.\n\n👇 That final scene — still one of the boldest closes in cinema. Thoughts?\n\n🔁 Share this with someone who's never seen a PTA film.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-11_15.png",
       "when": "2026-09-11T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203528106787954"
+      },
+      "scheduled_at": "2026-09-04T17:52:01+00:00"
     },
     {
       "id": "tmrr1-2026-09-11-19",
@@ -25351,7 +25355,11 @@
       "message": "Sleep debt builds up — but it can also be repaid. 😴\n\nA few nights of solid, extra sleep helps you recover — better to pay it back gradually than all at once. Prevention still wins.\n\n💚 Bookmark this reminder.\n\n💬 Are you carrying sleep debt right now?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d25_4_sleep_debt_recovery.mp4",
       "when": "2026-09-04T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18109779209024938"
+      },
+      "posted_at": "2026-09-04T17:53:41+00:00"
     },
     {
       "id": "hd-cadence-nc2_d3_3_magnesium_sleep-ig",
@@ -30446,8 +30454,14 @@
       "message": "🎬 5 holiday films that actually hold up.\n\nNo. 5 Tokyo Godfathers · No. 4 Carol · No. 3 The Muppet Christmas Carol · No. 2 Home Alone · No. 1 It's a Wonderful Life\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content13/tmr_d77_holiday.mp4",
       "when": "2026-09-11T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d77_holiday.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d77_holiday.mp4",
+      "result": {
+        "video_id": "1226722333868514",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-04T17:52:01+00:00"
     },
     {
       "id": "tmr-reel-tmr_d78_stop_motion",
