@@ -19686,7 +19686,11 @@
       "message": "🎵 The best film composers work almost subliminally — you feel the shift in tension before your conscious brain registers why.\n\n👇 A score that manipulated your emotions and you didn't even notice?\n\n🔁 Share this with someone who never notices the score.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-11_19.png",
       "when": "2026-09-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203537934787954"
+      },
+      "scheduled_at": "2026-09-04T20:15:55+00:00"
     },
     {
       "id": "tmrr1-2026-09-11-23",
@@ -26987,7 +26991,11 @@
       "message": "Feeling sluggish for no clear reason? Water might be the answer. 💧\n\nDehydration can feel a lot like fatigue — one of the simplest things to rule out before reaching for more coffee.\n\n💚 Bookmark this reminder.\n\n💬 When did you last drink water today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d25_5_hydration_energy_levels.mp4",
       "when": "2026-09-04T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18035704166828695"
+      },
+      "posted_at": "2026-09-04T20:16:34+00:00"
     },
     {
       "id": "hd-cadence-nc3_d10_4_doms_explained-fb",
