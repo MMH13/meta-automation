@@ -30479,8 +30479,14 @@
       "message": "🎬 5 stop-motion films that took years to shoot.\n\nNo. 5 Isle of Dogs · No. 4 Wallace & Gromit: The Curse of the Were-Rabbit · No. 3 Kubo and the Two Strings · No. 2 Fantastic Mr. Fox · No. 1 Coraline\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content13/tmr_d78_stop_motion.mp4",
       "when": "2026-09-11T21:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d78_stop_motion.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d78_stop_motion.mp4",
+      "result": {
+        "video_id": "1112530617771162",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-04T21:33:52+00:00"
     },
     {
       "id": "tmr-reel-tmr_d79_2000s",
