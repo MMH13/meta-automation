@@ -25187,7 +25187,11 @@
       "message": "With chronic pain, total rest isn't always the best answer. 🧘\n\nGentle, appropriate movement can help more than full rest — always work with a doctor or physio to find what's right for you.\n\n💚 Bookmark this reminder.\n\n💬 Have you talked to a professional about this?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d25_2_chronic_pain_movement.mp4",
       "when": "2026-09-04T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18095402651565039"
+      },
+      "posted_at": "2026-09-04T04:45:02+00:00"
     },
     {
       "id": "hd-cadence-nc5_d23_2_hydration_medication-ig",
@@ -27286,7 +27290,11 @@
       "message": "Working near a window can genuinely boost your mood. ☀️\n\nNatural light is linked to better alertness and mood, and helps keep your body clock on schedule.\n\n💚 Bookmark this desk tip.\n\n💬 Do you work near natural light?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d25_1_natural_light_workspace.mp4",
       "when": "2026-09-04T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17952681069251207"
+      },
+      "posted_at": "2026-09-04T04:44:16+00:00"
     },
     {
       "id": "hd-cadence-nc5_d23_5_walking_pace_benefits-ig",
@@ -30352,8 +30360,14 @@
       "message": "🎬 5 Italian films everyone should know.\n\nNo. 5 The Great Beauty · No. 4 Life Is Beautiful · No. 3 Cinema Paradiso · No. 2 8 1/2 · No. 1 Bicycle Thieves\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content13/tmr_d73_italian.mp4",
       "when": "2026-09-11T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d73_italian.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d73_italian.mp4",
+      "result": {
+        "video_id": "2152006888712645",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-04T04:43:16+00:00"
     },
     {
       "id": "tmr-reel-tmr_d74_addiction",
