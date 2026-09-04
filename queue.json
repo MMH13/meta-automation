@@ -19634,7 +19634,11 @@
       "message": "⏳ 'Too long' usually means 'poorly paced,' not 'over two hours.' A great film can run three hours and feel shorter than a mediocre 90-minute one.\n\n👇 A long film that never once felt long?\n\n🔁 Share this with someone who avoids long films.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-10_23.png",
       "when": "2026-09-10T23:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203463888787954"
+      },
+      "scheduled_at": "2026-09-04T00:09:56+00:00"
     },
     {
       "id": "tmrr1-2026-09-11-13",
@@ -27715,7 +27719,11 @@
       "message": "Sweating during exercise means your body needs extra water back. 💦\n\nReplacing that fluid helps skin and recovery — a glass before and after is a simple habit to build.\n\n💚 Bookmark this for your next workout.\n\n💬 Do you hydrate before workouts too?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d24_6_hydration_skin_workout.mp4",
       "when": "2026-09-03T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18113704306967299"
+      },
+      "posted_at": "2026-09-04T00:10:39+00:00"
     },
     {
       "id": "hd-cadence-nc6_d26_5_posture_screen_height-fb",

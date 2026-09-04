@@ -275,7 +275,10 @@
       "when": "2026-09-03T23:00:00+00:00",
       "message": "💡 ANSWER: Turn on switch 1, wait a few minutes, turn it off, turn on switch 2, then enter. Lit bulb = switch 2. Warm-but-off bulb = switch 1. Cold bulb = switch 3.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505943994890628_2695933267492486"
+      }
     },
     {
       "photo_id": "1505944424890585",
