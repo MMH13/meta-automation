@@ -31518,75 +31518,69 @@
     },
     {
       "id": "dw-reel-dw_d1_explaining",
-      "account": "daily-wisdom",
+      "account": "asmr-life",
       "network": "facebook",
       "type": "reel",
       "message": "There's a specific kind of peace that only shows up after you stop performing your reasons for other people. Nobody claps when you find it. You just feel it in your chest.\n\n#Stoicism #InnerPeace #SelfRespect #LifeLessons",
       "video_path": "images/wisdom_reels_content1/dw_d1_explaining.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_explaining.mp4",
       "when": "2026-09-05T13:00:00+00:00",
-      "status": "failed",
-      "error": "'daily-wisdom'"
+      "status": "pending"
     },
     {
       "id": "dw-reel-dw_d1_silence",
-      "account": "daily-wisdom",
+      "account": "asmr-life",
       "network": "facebook",
       "type": "reel",
       "message": "If silence makes you uncomfortable, that discomfort is information. Something in you wants to be heard.\n\n#Psychology #SelfAwareness #MentalClarity",
       "video_path": "images/wisdom_reels_content1/dw_d1_silence.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_silence.mp4",
       "when": "2026-09-05T15:00:00+00:00",
-      "status": "failed",
-      "error": "'daily-wisdom'"
+      "status": "pending"
     },
     {
       "id": "dw-reel-dw_d1_pattern",
-      "account": "daily-wisdom",
+      "account": "asmr-life",
       "network": "facebook",
       "type": "reel",
       "message": "You don't need to confront everyone who disappoints you. Sometimes the clearest response is just noticing — and adjusting what you expect.\n\n#Boundaries #SelfRespect #HardTruths",
       "video_path": "images/wisdom_reels_content1/dw_d1_pattern.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_pattern.mp4",
       "when": "2026-09-05T18:00:00+00:00",
-      "status": "pending",
-      "error": "'daily-wisdom'"
+      "status": "pending"
     },
     {
       "id": "dw-reel-dw_d1_believe_pattern",
-      "account": "daily-wisdom",
+      "account": "asmr-life",
       "network": "facebook",
       "type": "reel",
       "message": "Potential is not a promise. It's just a possibility you've been financing with your patience.\n\n#LifeLessons #HardTruths #GrowthMindset",
       "video_path": "images/wisdom_reels_content1/dw_d1_believe_pattern.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_believe_pattern.mp4",
       "when": "2026-09-05T21:00:00+00:00",
-      "status": "pending",
-      "error": "'daily-wisdom'"
+      "status": "pending"
     },
     {
       "id": "dw-reel-dw_d1_second_arrow",
-      "account": "daily-wisdom",
+      "account": "asmr-life",
       "network": "facebook",
       "type": "reel",
       "message": "The Stoics weren't cold. They were precise. They separated what happened from the story we tell about it — and that separation is where peace lives.\n\n#Stoicism #AncientWisdom #Mindset",
       "video_path": "images/wisdom_reels_content1/dw_d1_second_arrow.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_second_arrow.mp4",
       "when": "2026-09-06T08:00:00+00:00",
-      "status": "pending",
-      "error": "'daily-wisdom'"
+      "status": "pending"
     },
     {
       "id": "dw-reel-dw_d1_check_on_them",
-      "account": "daily-wisdom",
+      "account": "asmr-life",
       "network": "facebook",
       "type": "reel",
       "message": "Tag someone who always takes care of everyone else — and never lets anyone take care of them.\n\n#EmotionalHealth #MentalHealthMatters",
       "video_path": "images/wisdom_reels_content1/dw_d1_check_on_them.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_check_on_them.mp4",
       "when": "2026-09-06T10:00:00+00:00",
-      "status": "pending",
-      "error": "'daily-wisdom'"
+      "status": "pending"
     }
   ]
 }

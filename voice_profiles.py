@@ -43,7 +43,7 @@ VOICES = {
     # from every voice above: not cinematic (Onyx), not ominous (Lewis), not
     # warm/reassuring (Bella), not soft/gentle (Nicole) — closer to a quiet,
     # measured philosophy-professor register.
-    "daily-wisdom": {
+    "asmr-life": {
         "profile": "DW-Narrator-Michael",
         "engine": "kokoro",
         "voice_id": "am_michael",

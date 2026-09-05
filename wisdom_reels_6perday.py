@@ -34,7 +34,7 @@ def run():
     reels.sort(key=lambda i: i["when"])
 
     taken = {i["when"] for i in q["items"]
-             if i.get("account") == "daily-wisdom" and i.get("status") in ("scheduled", "posted")}
+             if i.get("account") == "asmr-life" and i.get("status") in ("scheduled", "posted")}
 
     day = now.date()
     todays_remaining = [h for h in SLOTS if datetime(day.year, day.month, day.day, h,

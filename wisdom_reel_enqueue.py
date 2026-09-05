@@ -70,7 +70,7 @@ def main(module_name):
         items = q["items"]
         if fb_id not in {i.get("id") for i in items}:
             items.append({
-                "id": fb_id, "account": "daily-wisdom", "network": "facebook",
+                "id": fb_id, "account": "asmr-life", "network": "facebook",
                 "type": "reel", "message": caption,
                 "video_path": video_path.relative_to(_HERE).as_posix(),
                 "video_src": src,
