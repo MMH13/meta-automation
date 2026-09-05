@@ -19676,7 +19676,11 @@
       "message": "🎬 You've got five minutes to hook an audience before they decide. These nailed it.\n\n1️⃣ UP — the wordless marriage montage, four minutes, everyone cries\n2️⃣ INGLOURIOUS BASTERDS — a farmhouse, unbearable tension\n3️⃣ NO COUNTRY — Chigurh's strangling scene, near silence, pure dread\n4️⃣ THERE WILL BE BLOOD — 15 minutes, barely a word of dialogue\n5️⃣ THE DARK KNIGHT — the bank heist that introduces the Joker perfectly\n\n👇 Best cold open — pick one 👇\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-12_15.png",
       "when": "2026-09-12T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203626710787954"
+      },
+      "scheduled_at": "2026-09-05T16:07:32+00:00"
     },
     {
       "id": "tmrr1-2026-09-12-19",
@@ -24876,7 +24880,11 @@
       "message": "Fruit alone can spike blood sugar faster than fruit with protein. 🍎\n\nPairing it with nuts or yogurt slows absorption and keeps you fuller longer — apple with peanut butter is a classic combo.\n\n💚 Bookmark this for your next snack.\n\n💬 What's your favorite fruit-protein pairing?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d26_4_snack_protein_pairing.mp4",
       "when": "2026-09-05T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17892904206417430"
+      },
+      "posted_at": "2026-09-05T16:08:20+00:00"
     },
     {
       "id": "hd-cadence-nc6_d25_3_snacking_at_work-fb",
@@ -31529,7 +31537,7 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_silence.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_silence.mp4",
       "when": "2026-09-05T15:00:00+00:00",
-      "status": "pending",
+      "status": "failed",
       "error": "'daily-wisdom'"
     },
     {
