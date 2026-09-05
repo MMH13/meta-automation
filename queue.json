@@ -19700,7 +19700,11 @@
       "message": "🧩 Five emojis, one golden ticket.\n\n👇 Comment your answer.\n\n🔁 Share this with someone who loves this one.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-11_23.png",
       "when": "2026-09-11T23:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203555040787954"
+      },
+      "scheduled_at": "2026-09-05T00:10:59+00:00"
     },
     {
       "id": "tmrr1-2026-09-12-13",

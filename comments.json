@@ -315,7 +315,10 @@
       "when": "2026-09-04T23:00:00+00:00",
       "message": "⚖️ ANSWER: Split 3/3/2. Weigh the two 3s — if balanced, weigh the remaining 2. If unbalanced, take the heavier 3, weigh 2 of them — heavier wins, or the third is heavier if those balance.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1505945231557171_1428361285542022"
+      }
     },
     {
       "photo_id": "1506365114848516",
