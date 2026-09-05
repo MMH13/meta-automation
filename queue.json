@@ -30447,8 +30447,14 @@
       "message": "🎬 5 films about teachers that aren't corny.\n\nNo. 5 Detachment · No. 4 The Class · No. 3 Half Nelson · No. 2 Dead Poets Society · No. 1 To Sir, with Love\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content14/tmr_d83_teachers.mp4",
       "when": "2026-09-12T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d83_teachers.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d83_teachers.mp4",
+      "result": {
+        "video_id": "2338672837048334",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-05T17:06:36+00:00"
     },
     {
       "id": "tmr-reel-tmr_d84_debated_endings",
@@ -31525,7 +31531,13 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_explaining.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_explaining.mp4",
       "when": "2026-09-05T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "4745166195810209",
+        "permalink": "/reel/4745166195810209/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-05T17:08:02+00:00"
     },
     {
       "id": "dw-reel-dw_d1_silence",
@@ -31536,7 +31548,13 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_silence.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_silence.mp4",
       "when": "2026-09-05T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2108521879737777",
+        "permalink": "/reel/2108521879737777/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-05T17:08:45+00:00"
     },
     {
       "id": "dw-reel-dw_d1_pattern",
@@ -31547,7 +31565,13 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_pattern.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_pattern.mp4",
       "when": "2026-09-05T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1751864619471106",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-05T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-05T17:06:36+00:00"
     },
     {
       "id": "dw-reel-dw_d1_believe_pattern",
@@ -31558,7 +31582,13 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_believe_pattern.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_believe_pattern.mp4",
       "when": "2026-09-05T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2625448191209535",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-05T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-05T17:06:36+00:00"
     },
     {
       "id": "dw-reel-dw_d1_second_arrow",
@@ -31569,7 +31599,13 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_second_arrow.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_second_arrow.mp4",
       "when": "2026-09-06T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "952212597301413",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-06T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-05T17:06:36+00:00"
     },
     {
       "id": "dw-reel-dw_d1_check_on_them",
@@ -31580,7 +31616,13 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_check_on_them.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_check_on_them.mp4",
       "when": "2026-09-06T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1800485458066422",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-06T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-05T17:06:36+00:00"
     }
   ]
 }
