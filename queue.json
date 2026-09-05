@@ -18058,7 +18058,12 @@
       "message": "🍷 Alcohol can make you fall asleep faster but fragments deep sleep later in the night — which is why you can sleep 8 hours and still wake up tired.\n\n→ Deep sleep is where real recovery happens\n→ Even one drink measurably affects sleep quality\n→ If you drink, earlier in the evening is gentler than right before bed\n\n💚 Bookmark this. You'll need it later.\n💬 Did you know alcohol affected sleep quality this much? 👇",
       "image_url": "images/health_refill1/28_4.png",
       "when": "2026-09-05T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17897477709597559",
+        "permalink": "https://www.instagram.com/p/Dc6Bw29IL00/"
+      },
+      "posted_at": "2026-09-05T13:05:17+00:00"
     },
     {
       "id": "hd-refill1-29-2-fb",
@@ -19657,7 +19662,11 @@
       "message": "🤷 Canon status doesn't make a film immune to criticism. You can understand exactly why it's considered great and still not personally rate it that highly.\n\n👇 A 'classic' you think is genuinely overrated — be brave.\n\n🔁 Share this and see who's honest.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-12_13.png",
       "when": "2026-09-12T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203614626787954"
+      },
+      "scheduled_at": "2026-09-05T13:04:52+00:00"
     },
     {
       "id": "tmrr1-2026-09-12-15",
@@ -31508,7 +31517,8 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_explaining.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_explaining.mp4",
       "when": "2026-09-05T13:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "'daily-wisdom'"
     },
     {
       "id": "dw-reel-dw_d1_silence",
