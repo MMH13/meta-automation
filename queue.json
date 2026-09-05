@@ -27502,7 +27502,11 @@
       "message": "Cardio or strength training? You probably need both, not one. 🏋️\n\nCardio supports your heart and endurance; strength supports muscle, bone, and metabolism. A mix covers more bases.\n\n💚 Bookmark this reminder.\n\n💬 Do you do more cardio or strength training?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d26_3_cardio_strength_balance.mp4",
       "when": "2026-09-05T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17905723149550982"
+      },
+      "posted_at": "2026-09-05T12:49:19+00:00"
     },
     {
       "id": "hd-cadence-nc6_d27_1_hydration_travel_altitude-ig",
@@ -30409,8 +30413,14 @@
       "message": "🎬 5 films where the landscape wins.\n\nNo. 5 Wake in Fright · No. 4 Walkabout · No. 3 The Treasure of the Sierra Madre · No. 2 Picnic at Hanging Rock · No. 1 Aguirre, the Wrath of God\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content14/tmr_d82_landscape.mp4",
       "when": "2026-09-12T11:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d82_landscape.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d82_landscape.mp4",
+      "result": {
+        "video_id": "27758423720525120",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-05T12:48:27+00:00"
     },
     {
       "id": "tmr-reel-tmr_d83_teachers",
@@ -31509,7 +31519,8 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_silence.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_silence.mp4",
       "when": "2026-09-05T15:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "'daily-wisdom'"
     },
     {
       "id": "dw-reel-dw_d1_pattern",
@@ -31520,7 +31531,8 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_pattern.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_pattern.mp4",
       "when": "2026-09-05T18:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "'daily-wisdom'"
     },
     {
       "id": "dw-reel-dw_d1_believe_pattern",
@@ -31531,7 +31543,8 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_believe_pattern.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_believe_pattern.mp4",
       "when": "2026-09-05T21:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "'daily-wisdom'"
     },
     {
       "id": "dw-reel-dw_d1_second_arrow",
@@ -31542,7 +31555,8 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_second_arrow.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_second_arrow.mp4",
       "when": "2026-09-06T08:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "'daily-wisdom'"
     },
     {
       "id": "dw-reel-dw_d1_check_on_them",
@@ -31553,7 +31567,8 @@
       "video_path": "images/wisdom_reels_content1/dw_d1_check_on_them.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d1_check_on_them.mp4",
       "when": "2026-09-06T10:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "'daily-wisdom'"
     }
   ]
 }
