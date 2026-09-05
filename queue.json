@@ -23850,7 +23850,11 @@
       "message": "Adding a lot of fiber too fast can actually backfire. 🌾\n\nSudden increases can cause bloating — gradual increases, paired with plenty of water, work much better.\n\n💚 Bookmark this reminder.\n\n💬 Have you ever added too much fiber too fast?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d26_1_fiber_gradual_increase.mp4",
       "when": "2026-09-05T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18101750231616062"
+      },
+      "posted_at": "2026-09-05T04:40:00+00:00"
     },
     {
       "id": "hd-cadence-nc3_d8_4_smart_snacking-ig",
@@ -24326,7 +24330,11 @@
       "message": "A tidy workspace can quietly reduce mental clutter too. 🗂️\n\nVisual clutter competes for your attention without you noticing — a few minutes clearing your desk feels like a mental reset.\n\n💚 Bookmark this reminder.\n\n💬 How cluttered is your desk right now?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d26_2_desk_plant_air.mp4",
       "when": "2026-09-05T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17910533136281887"
+      },
+      "posted_at": "2026-09-05T04:40:41+00:00"
     },
     {
       "id": "hd-cadence-nc6_d30_1_month_reflection-fb",
@@ -30504,8 +30512,14 @@
       "message": "🎬 5 films that defined the 2000s.\n\nNo. 5 Donnie Darko · No. 4 Amores Perros · No. 3 The Bourne Ultimatum · No. 2 Spirited Away · No. 1 The Lord of the Rings: The Fellowship of the Ring\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content14/tmr_d79_2000s.mp4",
       "when": "2026-09-12T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d79_2000s.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d79_2000s.mp4",
+      "result": {
+        "video_id": "2092214131689169",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-05T04:39:14+00:00"
     },
     {
       "id": "tmr-reel-tmr_d80_first_films",
