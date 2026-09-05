@@ -19704,7 +19704,11 @@
       "message": "⏱️ People blame length for boredom, but the real culprit is almost always pacing. A tightly-paced three hours beats a saggy ninety minutes every time.\n\n👇 Short but boring, or long but gripping — which frustrates you more?\n\n🔁 Share this and let them debate.\n\n#MovieDebate #FilmTwitter #Cinephile #HotTake #MovieTalk #FilmDiscussion #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-12_23.png",
       "when": "2026-09-12T23:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203654412787954"
+      },
+      "scheduled_at": "2026-09-05T23:24:02+00:00"
     },
     {
       "id": "tmrr1-2026-09-13-13",
@@ -22830,7 +22834,11 @@
       "message": "Framing exercise as \"movement you enjoy\" beats framing it as punishment. 🕺\n\n\"I have to burn off dinner\" rarely sticks — finding movement you genuinely enjoy is far more sustainable.\n\n💚 Bookmark this reminder.\n\n💬 What movement do you actually enjoy?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d26_6_mindset_exercise_enjoyment.mp4",
       "when": "2026-09-05T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18619706977029585"
+      },
+      "posted_at": "2026-09-05T23:24:47+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_3_mindful_eating-ig",
