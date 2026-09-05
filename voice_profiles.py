@@ -37,6 +37,18 @@ VOICES = {
         "voice_id": "af_nicole",
         "tone": "soft, reflective, gentle pacing",
     },
+    # Calm, grounded, contemplative — verified against a real synthesized
+    # sample before adoption (voicebox has no /voices listing endpoint, so
+    # ensure_profile() alone doesn't confirm a voice_id is real). Distinct
+    # from every voice above: not cinematic (Onyx), not ominous (Lewis), not
+    # warm/reassuring (Bella), not soft/gentle (Nicole) — closer to a quiet,
+    # measured philosophy-professor register.
+    "daily-wisdom": {
+        "profile": "DW-Narrator-Michael",
+        "engine": "kokoro",
+        "voice_id": "am_michael",
+        "tone": "calm, grounded, contemplative — measured philosophy-teacher register",
+    },
 }
 
 # Voicebox ships no Bengali (bn) voice in any engine — these pages cannot use it.
