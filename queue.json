@@ -27549,7 +27549,11 @@
       "message": "Higher altitudes mean your body needs more water. ⛰️\n\nThinner air increases fluid loss through breathing — drink more than you think you need at elevation.\n\n💚 Bookmark this for your next mountain trip.\n\n💬 Ever traveled somewhere high altitude?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d27_1_hydration_travel_altitude.mp4",
       "when": "2026-09-06T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17946774468056644"
+      },
+      "posted_at": "2026-09-06T01:22:27+00:00"
     },
     {
       "id": "hd-cadence-nc3_d10_5_hydration_headaches-ig",
@@ -30497,8 +30501,14 @@
       "message": "🎬 5 Nordic films worth hunting down.\n\nNo. 5 The Hunt · No. 4 Force Majeure · No. 3 Another Round · No. 2 Persona · No. 1 The Seventh Seal\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content15/tmr_d85_scandinavian.mp4",
       "when": "2026-09-13T01:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d85_scandinavian.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d85_scandinavian.mp4",
+      "result": {
+        "video_id": "1391826985775521",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T01:21:44+00:00"
     },
     {
       "id": "tmr-reel-tmr_d86_courtroom_real",
