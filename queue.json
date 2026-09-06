@@ -30616,7 +30616,13 @@
       "message": "🎬 5 films with perfect screenplays.\n\nNo. 5 The Apartment · No. 4 Chinatown · No. 3 Michael Clayton · No. 2 All About Eve · No. 1 Casablanca\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content15/tmr_d90_perfect_scripts.mp4",
       "when": "2026-09-13T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1620227542821408",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T21:29:52+00:00"
     },
     {
       "id": "tmr-reel-tmr_d91_70s",
@@ -32457,7 +32463,13 @@
       "video_path": "images/wisdom_reels_content9/dw_d9_teach_people_how.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d9_teach_people_how.mp4",
       "when": "2026-09-13T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2994737887585266",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T21:29:52+00:00"
     },
     {
       "id": "dw-reel-dw_d9_stoic_reserve_clause",
