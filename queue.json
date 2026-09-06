@@ -30538,8 +30538,14 @@
       "message": "🎬 5 horror films made for nothing.\n\nNo. 5 Session 9 · No. 4 Pontypool · No. 3 The Blair Witch Project · No. 2 Night of the Living Dead · No. 1 Evil Dead II\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content15/tmr_d87_first_features_horror.mp4",
       "when": "2026-09-13T09:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d87_first_features_horror.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d87_first_features_horror.mp4",
+      "result": {
+        "video_id": "2132201084387527",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T09:32:23+00:00"
     },
     {
       "id": "tmr-reel-tmr_d88_working_class",
@@ -32329,7 +32335,13 @@
       "video_path": "images/wisdom_reels_content8/dw_d8_apatheia.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d8_apatheia.mp4",
       "when": "2026-09-13T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "906917825510978",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T09:32:23+00:00"
     },
     {
       "id": "dw-reel-dw_d8_courage_to_start_over",
