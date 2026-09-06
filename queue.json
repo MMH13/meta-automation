@@ -18114,7 +18114,12 @@
       "message": "⏰ Sleeping till noon Saturday, then 6 AM Monday, is like flying across time zones every week — your body clock never settles. A steady bedtime beats trying to 'catch up.'\n\n→ Same sleep/wake time, even weekends\n→ Consistency beats total hours banked\n→ Mornings get noticeably easier within a week\n\n💚 Bookmark this. You'll need it later.\n💬 Fixed bedtime, or all over the place? 👇",
       "image_url": "images/health_refill1/29_4.png",
       "when": "2026-09-06T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18114681526778241",
+        "permalink": "https://www.instagram.com/p/Dc8rD_BicWL/"
+      },
+      "posted_at": "2026-09-06T13:44:34+00:00"
     },
     {
       "id": "tmrr1-2026-08-16-13",
@@ -19721,7 +19726,11 @@
       "message": "🧩 Five emojis, one iconic theme you can probably hum right now.\n\n👇 Comment your answer.\n\n🔁 Share this with someone afraid of the ocean.\n\n#GuessTheMovie #MovieQuiz #FilmBuff #MovieTrivia #Cinephile #MovieGame #NameThatMovie\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-13_13.png",
       "when": "2026-09-13T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203718168787954"
+      },
+      "scheduled_at": "2026-09-06T13:44:10+00:00"
     },
     {
       "id": "tmrr1-2026-09-13-15",
@@ -32375,7 +32384,13 @@
       "video_path": "images/wisdom_reels_content9/dw_d9_simplicity_is_earned.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d9_simplicity_is_earned.mp4",
       "when": "2026-09-13T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1308771407853293",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T13:44:10+00:00"
     },
     {
       "id": "dw-reel-dw_d9_spotlight_effect",
