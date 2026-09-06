@@ -30564,8 +30564,7 @@
         "video_id": "1376981361217197",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-06T11:23:56+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d89_siblings",
@@ -32365,8 +32364,7 @@
         "video_id": "1564562488700791",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T10:00:00Z"
-      },
-      "scheduled_at": "2026-09-06T11:23:56+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d9_simplicity_is_earned",
@@ -33224,6 +33222,182 @@
       "video_path": "images/wisdom_reels_content21/dw_d21_being_strong_for_everyone.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_being_strong_for_everyone.mp4",
       "when": "2026-09-26T10:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d22_nothing_stays_the_same",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Change isn't the exception to life. It's the whole mechanism of it. Stop being surprised by the current.\n\n#Philosophy #Mindset #LifeLessons",
+      "video_path": "images/wisdom_reels_content22/dw_d22_nothing_stays_the_same.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_nothing_stays_the_same.mp4",
+      "when": "2026-09-26T13:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d22_learned_helplessness",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Giving up isn't a personality trait. It's often just a lesson your circumstances taught you too well.\n\n#Psychology #MentalHealthMatters #Resilience",
+      "video_path": "images/wisdom_reels_content22/dw_d22_learned_helplessness.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_learned_helplessness.mp4",
+      "when": "2026-09-26T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d22_the_difference_love_and_habit",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Habit keeps you somewhere. Love is the reason you'd choose it again from scratch. They're not the same thing.\n\n#Relationships #SelfAwareness #Mindset",
+      "video_path": "images/wisdom_reels_content22/dw_d22_the_difference_love_and_habit.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_the_difference_love_and_habit.mp4",
+      "when": "2026-09-26T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d22_you_will_outgrow_people",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Growing apart from someone doesn't require either of you to have done anything wrong. Sometimes people just finish their chapter.\n\n#HardTruths #Growth #LifeLessons",
+      "video_path": "images/wisdom_reels_content22/dw_d22_you_will_outgrow_people.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_you_will_outgrow_people.mp4",
+      "when": "2026-09-26T21:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d22_stoic_impermanence_of_things",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Nothing you have was ever truly permanent. Loving it anyway, fully, is the actual point.\n\n#Stoicism #Mindset #InnerPeace",
+      "video_path": "images/wisdom_reels_content22/dw_d22_stoic_impermanence_of_things.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_stoic_impermanence_of_things.mp4",
+      "when": "2026-09-27T08:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d22_the_strength_in_softness",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Being gentle after everything you've been through isn't naivety. It's a quiet kind of victory.\n\n#EmotionalHealth #Kindness #MentalHealthMatters",
+      "video_path": "images/wisdom_reels_content22/dw_d22_the_strength_in_softness.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_the_strength_in_softness.mp4",
+      "when": "2026-09-27T10:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d23_the_container_of_your_life",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You don't need more time. You need fewer things competing for the time you already have.\n\n#Philosophy #Mindset #Boundaries",
+      "video_path": "images/wisdom_reels_content23/dw_d23_the_container_of_your_life.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_the_container_of_your_life.mp4",
+      "when": "2026-09-27T13:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d23_emotional_contagion",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Not every heavy feeling in the room started with you. Some of it, you just absorbed on the way in.\n\n#Psychology #EmotionalIntelligence #SelfAwareness",
+      "video_path": "images/wisdom_reels_content23/dw_d23_emotional_contagion.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_emotional_contagion.mp4",
+      "when": "2026-09-27T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d23_love_that_requires_shrinking",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A relationship that needs less of you to survive was never built to hold the whole you.\n\n#Relationships #SelfRespect #Boundaries",
+      "video_path": "images/wisdom_reels_content23/dw_d23_love_that_requires_shrinking.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_love_that_requires_shrinking.mp4",
+      "when": "2026-09-27T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d24_the_evening_review",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You can't improve a day you never actually looked back at. Review it, gently, and let tomorrow benefit.\n\n#Philosophy #Discipline #Mindset",
+      "video_path": "images/wisdom_reels_content24/dw_d24_the_evening_review.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_evening_review.mp4",
+      "when": "2026-09-27T21:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d24_the_bystander_effect",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "If everyone's waiting for someone else to help, the room stays silent. Don't be part of the wait.\n\n#Psychology #Mindset #Courage",
+      "video_path": "images/wisdom_reels_content24/dw_d24_the_bystander_effect.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_bystander_effect.mp4",
+      "when": "2026-09-28T08:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d24_love_isnt_ownership",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "The tighter you grip someone's choices, the more it starts to look like control wearing the name of love.\n\n#Relationships #Boundaries #EmotionalIntelligence",
+      "video_path": "images/wisdom_reels_content24/dw_d24_love_isnt_ownership.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_love_isnt_ownership.mp4",
+      "when": "2026-09-28T10:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d24_the_myth_of_the_right_time",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "There is no finish line called \"settled.\" Start now, in whatever chaos you already have.\n\n#HardTruths #Mindset #Courage",
+      "video_path": "images/wisdom_reels_content24/dw_d24_the_myth_of_the_right_time.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_myth_of_the_right_time.mp4",
+      "when": "2026-09-28T13:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d24_stoic_virtue_the_only_good",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You can lose the money, the title, the health. Character is the one asset that travels with you through all of it.\n\n#Stoicism #Mindset #Character",
+      "video_path": "images/wisdom_reels_content24/dw_d24_stoic_virtue_the_only_good.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_stoic_virtue_the_only_good.mp4",
+      "when": "2026-09-28T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d24_the_quiet_grief_of_change",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You're allowed to grieve the chapter even while you're excited for the next one. That's not ingratitude. That's just being human about change.\n\n#EmotionalHealth #Growth #MentalHealthMatters",
+      "video_path": "images/wisdom_reels_content24/dw_d24_the_quiet_grief_of_change.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_quiet_grief_of_change.mp4",
+      "when": "2026-09-28T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d25_you_are_not_your_thoughts",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A dark thought passing through is not the same as a dark person. You're the sky it moves through, not the storm itself.\n\n#Philosophy #Mindfulness #MentalHealthMatters",
+      "video_path": "images/wisdom_reels_content25/dw_d25_you_are_not_your_thoughts.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d25_you_are_not_your_thoughts.mp4",
+      "when": "2026-09-30T08:00:00+00:00",
       "status": "pending"
     }
   ]
