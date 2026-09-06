@@ -30544,8 +30544,7 @@
         "video_id": "2132201084387527",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-06T09:32:23+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d88_working_class",
@@ -32340,8 +32339,7 @@
         "video_id": "906917825510978",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T08:00:00Z"
-      },
-      "scheduled_at": "2026-09-06T09:32:23+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d8_courage_to_start_over",
@@ -33023,6 +33021,193 @@
       "video_path": "images/wisdom_reels_content19/dw_d19_the_map_is_not_the_territory.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_the_map_is_not_the_territory.mp4",
       "when": "2026-09-23T13:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d19_rumination",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Thinking about a problem and reliving a problem feel identical from the inside. Only one of them actually helps.\n\n#Psychology #MentalClarity #MentalHealthMatters",
+      "video_path": "images/wisdom_reels_content19/dw_d19_rumination.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_rumination.mp4",
+      "when": "2026-09-23T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d19_the_expiration_of_friendship",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A friendship ending on schedule with your growth isn't a failure of the friendship. It's proof it worked.\n\n#Relationships #Friendship #Growth",
+      "video_path": "images/wisdom_reels_content19/dw_d19_the_expiration_of_friendship.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_the_expiration_of_friendship.mp4",
+      "when": "2026-09-23T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d19_effort_is_a_language",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A love language is a dialect. Effort is the actual language underneath all of them.\n\n#HardTruths #Relationships #Boundaries",
+      "video_path": "images/wisdom_reels_content19/dw_d19_effort_is_a_language.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_effort_is_a_language.mp4",
+      "when": "2026-09-23T21:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d19_stoic_the_inner_citadel",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your circumstances can be taken. Your response to them never can be, unless you hand it over.\n\n#Stoicism #InnerPeace #Resilience",
+      "video_path": "images/wisdom_reels_content19/dw_d19_stoic_the_inner_citadel.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_stoic_the_inner_citadel.mp4",
+      "when": "2026-09-24T08:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d19_the_last_conversation",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You don't get a warning before the last time. Say it now, just in case.\n\n#EmotionalHealth #Grief #Gratitude",
+      "video_path": "images/wisdom_reels_content19/dw_d19_the_last_conversation.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_the_last_conversation.mp4",
+      "when": "2026-09-24T10:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d20_freedom_from_needing_to_win",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Some arguments were never actually about being right. They were about needing to feel powerful for five minutes.\n\n#Philosophy #Mindset #InnerPeace",
+      "video_path": "images/wisdom_reels_content20/dw_d20_freedom_from_needing_to_win.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_freedom_from_needing_to_win.mp4",
+      "when": "2026-09-24T13:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d20_the_ikea_effect",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Sweat equity feels like proof of value. Sometimes it's just proof you worked hard, which isn't quite the same thing.\n\n#Psychology #SelfAwareness #Mindset",
+      "video_path": "images/wisdom_reels_content20/dw_d20_the_ikea_effect.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_the_ikea_effect.mp4",
+      "when": "2026-09-24T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d20_the_person_you_became_for_them",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "If you have to get smaller to keep someone, the relationship was never sized for you in the first place.\n\n#Relationships #SelfRespect #Boundaries",
+      "video_path": "images/wisdom_reels_content20/dw_d20_the_person_you_became_for_them.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_the_person_you_became_for_them.mp4",
+      "when": "2026-09-24T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d20_most_fear_is_imagined",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Fear is a terrible fortune teller. It's just really good at sounding confident.\n\n#HardTruths #Mindset #Courage",
+      "video_path": "images/wisdom_reels_content20/dw_d20_most_fear_is_imagined.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_most_fear_is_imagined.mp4",
+      "when": "2026-09-24T21:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d20_stoic_the_two_lists",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Every ounce of energy spent on the wrong list is an ounce not spent on the one that could actually change something.\n\n#Stoicism #Mindset #InnerPeace",
+      "video_path": "images/wisdom_reels_content20/dw_d20_stoic_the_two_lists.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_stoic_the_two_lists.mp4",
+      "when": "2026-09-25T08:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d20_the_courage_to_be_needed_less",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Letting go successfully still feels like losing something. Grief and pride are allowed to share the same room.\n\n#EmotionalHealth #Family #LifeLessons",
+      "video_path": "images/wisdom_reels_content20/dw_d20_the_courage_to_be_needed_less.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_the_courage_to_be_needed_less.mp4",
+      "when": "2026-09-25T10:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d21_the_quality_of_your_questions",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You can't always change what happened. You can always change the question you ask about it next.\n\n#Philosophy #Mindset #GrowthMindset",
+      "video_path": "images/wisdom_reels_content21/dw_d21_the_quality_of_your_questions.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_the_quality_of_your_questions.mp4",
+      "when": "2026-09-25T13:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d21_catastrophizing",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "The scariest story is rarely the truest one. It's just the loudest thought in the room.\n\n#Psychology #MentalHealthMatters #SelfAwareness",
+      "video_path": "images/wisdom_reels_content21/dw_d21_catastrophizing.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_catastrophizing.mp4",
+      "when": "2026-09-25T15:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d21_choosing_yourself_isnt_selfish",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Taking care of yourself isn't the opposite of taking care of others. It's the requirement for it.\n\n#SelfRespect #MentalHealthMatters #Boundaries",
+      "video_path": "images/wisdom_reels_content21/dw_d21_choosing_yourself_isnt_selfish.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_choosing_yourself_isnt_selfish.mp4",
+      "when": "2026-09-25T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d21_most_regrets_are_inaction",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Failure has an end date. Regret for something you never attempted doesn't seem to.\n\n#HardTruths #Courage #LifeLessons",
+      "video_path": "images/wisdom_reels_content21/dw_d21_most_regrets_are_inaction.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_most_regrets_are_inaction.mp4",
+      "when": "2026-09-25T21:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d21_stoic_discipline_of_desire",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Want the effort, not the applause. One of those you can actually guarantee yourself.\n\n#Stoicism #Mindset #InnerPeace",
+      "video_path": "images/wisdom_reels_content21/dw_d21_stoic_discipline_of_desire.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_stoic_discipline_of_desire.mp4",
+      "when": "2026-09-26T08:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "dw-reel-dw_d21_being_strong_for_everyone",
+      "account": "asmr-life",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Being everyone's rock doesn't mean you're made of stone. Find your own place to rest.\n\n#MentalHealthMatters #EmotionalHealth #Support",
+      "video_path": "images/wisdom_reels_content21/dw_d21_being_strong_for_everyone.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_being_strong_for_everyone.mp4",
+      "when": "2026-09-26T10:00:00+00:00",
       "status": "pending"
     }
   ]

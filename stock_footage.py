@@ -90,7 +90,15 @@ def download_clip(hit, out_path, min_width=800, tries=3):
             return out
         except Exception as e:  # dropped connection mid-download, etc.
             last_err = e
-            tmp.unlink(missing_ok=True)
+            # This cleanup can itself raise: Windows Defender (or similar)
+            # briefly holds a lock on a just-written file, turning a routine
+            # retry into a crash of the whole batch. The next attempt's
+            # open(tmp, "wb") truncates and overwrites regardless, so a
+            # failed unlink here is cosmetic, not fatal — swallow it.
+            try:
+                tmp.unlink(missing_ok=True)
+            except OSError:
+                pass
             time.sleep(3 * (attempt + 1))
     raise last_err
 
