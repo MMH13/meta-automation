@@ -365,7 +365,10 @@
       "when": "2026-09-06T10:00:00+00:00",
       "message": "📰 ANSWER: A newspaper.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1506367118181649_2131734787457564"
+      }
     },
     {
       "photo_id": "1506413791510315",
