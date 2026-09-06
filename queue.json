@@ -19754,7 +19754,11 @@
       "message": "🎭 The industry has a whole tier of actors who elevate every film they're in without ever headlining one. You know the face. You might not know the name.\n\n👇 Name a character actor who makes every film better?\n\n🔁 Share this and give them credit.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-13_19.png",
       "when": "2026-09-13T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203744184787954"
+      },
+      "scheduled_at": "2026-09-06T19:19:51+00:00"
     },
     {
       "id": "tmrr1-2026-09-13-23",
@@ -25861,7 +25865,11 @@
       "message": "Very cold drinks with meals might slow digestion slightly. 🧊\n\nEvidence is mixed and mild — not a major concern for most, but room-temp water is worth trying if you notice discomfort.\n\n💚 Bookmark this reminder.\n\n💬 Do you drink cold or room-temp water with meals?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d27_5_food_temperature_digestion.mp4",
       "when": "2026-09-06T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18439880737125492"
+      },
+      "posted_at": "2026-09-06T19:20:43+00:00"
     },
     {
       "id": "hd-cadence-nc6_d27_6_habit_environment_design-fb",
@@ -32432,7 +32440,13 @@
       "video_path": "images/wisdom_reels_content9/dw_d9_one_sided_friendship.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d9_one_sided_friendship.mp4",
       "when": "2026-09-13T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1061206946805913",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T19:19:51+00:00"
     },
     {
       "id": "dw-reel-dw_d9_teach_people_how",
