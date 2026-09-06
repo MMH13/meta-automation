@@ -36,18 +36,18 @@ def run():
     taken = {i["when"] for i in q["items"]
              if i.get("account") == "asmr-life" and i.get("status") in ("scheduled", "posted")}
 
-    day = now.date()
-    todays_remaining = [h for h in SLOTS if datetime(day.year, day.month, day.day, h,
-                                                     tzinfo=timezone.utc) > now]
+    # Build the grid skipping taken slots AS we go, not as a post-hoc filter.
+    # Filtering after sizing the grid to len(reels) can leave it short — e.g.
+    # today's 08:00/10:00 are already committed to Meta, so a naive filter
+    # silently under-fills the schedule by 2 and crashes indexing the tail.
     grid = []
-    if todays_remaining:
-        grid += [datetime(day.year, day.month, day.day, h, tzinfo=timezone.utc)
-                 for h in todays_remaining]
-    d = day + timedelta(days=1)
+    d = now.date()
     while len(grid) < len(reels):
-        grid += [datetime(d.year, d.month, d.day, h, tzinfo=timezone.utc) for h in SLOTS]
+        for h in SLOTS:
+            dt = datetime(d.year, d.month, d.day, h, tzinfo=timezone.utc)
+            if dt > now and dt.isoformat() not in taken:
+                grid.append(dt)
         d += timedelta(days=1)
-    grid = [g for g in grid if g.isoformat() not in taken]
 
     for item, when in zip(reels, grid):
         item["when"] = when.isoformat()
