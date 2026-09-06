@@ -31664,7 +31664,13 @@
       "video_path": "images/wisdom_reels_content2/dw_d2_unlived_life.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d2_unlived_life.mp4",
       "when": "2026-09-06T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1096397522941647",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-06T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d2_confirmation_bias",
@@ -31675,7 +31681,13 @@
       "video_path": "images/wisdom_reels_content2/dw_d2_confirmation_bias.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d2_confirmation_bias.mp4",
       "when": "2026-09-06T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "28526928820235554",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-06T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d2_love_bombing",
@@ -31686,7 +31698,13 @@
       "video_path": "images/wisdom_reels_content2/dw_d2_love_bombing.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d2_love_bombing.mp4",
       "when": "2026-09-06T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1413302127389807",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-06T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d2_comparison_theft",
@@ -31697,7 +31715,13 @@
       "video_path": "images/wisdom_reels_content2/dw_d2_comparison_theft.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d2_comparison_theft.mp4",
       "when": "2026-09-06T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1901889824102460",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-06T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d2_dichotomy_of_control",
@@ -31708,7 +31732,13 @@
       "video_path": "images/wisdom_reels_content2/dw_d2_dichotomy_of_control.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d2_dichotomy_of_control.mp4",
       "when": "2026-09-07T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4681919248709500",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d2_quiet_listener",
@@ -31719,7 +31749,13 @@
       "video_path": "images/wisdom_reels_content2/dw_d2_quiet_listener.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d2_quiet_listener.mp4",
       "when": "2026-09-07T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2331095074376400",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d3_amor_fati",
@@ -31730,7 +31766,13 @@
       "video_path": "images/wisdom_reels_content3/dw_d3_amor_fati.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d3_amor_fati.mp4",
       "when": "2026-09-07T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "918264150908202",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d3_hedonic_adaptation",
@@ -31741,7 +31783,13 @@
       "video_path": "images/wisdom_reels_content3/dw_d3_hedonic_adaptation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d3_hedonic_adaptation.mp4",
       "when": "2026-09-07T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1502317178327514",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d3_actions_not_words",
@@ -31752,7 +31800,13 @@
       "video_path": "images/wisdom_reels_content3/dw_d3_actions_not_words.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d3_actions_not_words.mp4",
       "when": "2026-09-07T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "28686104000972894",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d3_effort_no_guarantee",
@@ -31763,7 +31817,13 @@
       "video_path": "images/wisdom_reels_content3/dw_d3_effort_no_guarantee.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d3_effort_no_guarantee.mp4",
       "when": "2026-09-07T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2305432043561059",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-07T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d3_view_from_above",
@@ -31774,7 +31834,13 @@
       "video_path": "images/wisdom_reels_content3/dw_d3_view_from_above.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d3_view_from_above.mp4",
       "when": "2026-09-08T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2259058574929102",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d3_missing_them_different",
@@ -31785,7 +31851,13 @@
       "video_path": "images/wisdom_reels_content3/dw_d3_missing_them_different.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d3_missing_them_different.mp4",
       "when": "2026-09-08T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1622944722832868",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d4_memento_mori",
@@ -31796,7 +31868,13 @@
       "video_path": "images/wisdom_reels_content4/dw_d4_memento_mori.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d4_memento_mori.mp4",
       "when": "2026-09-08T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2041807449792924",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d4_negativity_bias",
@@ -31807,7 +31885,13 @@
       "video_path": "images/wisdom_reels_content4/dw_d4_negativity_bias.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d4_negativity_bias.mp4",
       "when": "2026-09-08T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "916333234887899",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d4_energy_vampires",
@@ -31818,7 +31902,13 @@
       "video_path": "images/wisdom_reels_content4/dw_d4_energy_vampires.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d4_energy_vampires.mp4",
       "when": "2026-09-08T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1387733592803580",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d4_nobody_coming",
@@ -31829,7 +31919,13 @@
       "video_path": "images/wisdom_reels_content4/dw_d4_nobody_coming.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d4_nobody_coming.mp4",
       "when": "2026-09-08T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2863707577348046",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d4_voluntary_discomfort",
@@ -31840,7 +31936,13 @@
       "video_path": "images/wisdom_reels_content4/dw_d4_voluntary_discomfort.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d4_voluntary_discomfort.mp4",
       "when": "2026-09-09T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2235665110336875",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d4_almost_gave_up",
@@ -31851,7 +31953,13 @@
       "video_path": "images/wisdom_reels_content4/dw_d4_almost_gave_up.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d4_almost_gave_up.mp4",
       "when": "2026-09-09T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1023125570757833",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d5_object_of_your_attention",
@@ -31862,7 +31970,13 @@
       "video_path": "images/wisdom_reels_content5/dw_d5_object_of_your_attention.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d5_object_of_your_attention.mp4",
       "when": "2026-09-09T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1489632942971893",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d5_sunk_cost",
@@ -31873,7 +31987,13 @@
       "video_path": "images/wisdom_reels_content5/dw_d5_sunk_cost.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d5_sunk_cost.mp4",
       "when": "2026-09-09T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1458086766235135",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d5_growing_apart",
@@ -31884,7 +32004,13 @@
       "video_path": "images/wisdom_reels_content5/dw_d5_growing_apart.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d5_growing_apart.mp4",
       "when": "2026-09-09T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "835549182918452",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d5_busy_not_productive",
@@ -31895,7 +32021,13 @@
       "video_path": "images/wisdom_reels_content5/dw_d5_busy_not_productive.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d5_busy_not_productive.mp4",
       "when": "2026-09-09T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1658883625629160",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d5_stoic_anger",
@@ -31906,7 +32038,13 @@
       "video_path": "images/wisdom_reels_content5/dw_d5_stoic_anger.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d5_stoic_anger.mp4",
       "when": "2026-09-10T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1590664136121748",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d5_letters_never_sent",
@@ -31917,7 +32055,13 @@
       "video_path": "images/wisdom_reels_content5/dw_d5_letters_never_sent.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d5_letters_never_sent.mp4",
       "when": "2026-09-10T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2007848256587677",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d6_obstacle_is_the_way",
@@ -31928,7 +32072,13 @@
       "video_path": "images/wisdom_reels_content6/dw_d6_obstacle_is_the_way.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d6_obstacle_is_the_way.mp4",
       "when": "2026-09-10T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1036032029253913",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T06:32:24+00:00"
     },
     {
       "id": "dw-reel-dw_d6_self_fulfilling_prophecy",
@@ -31939,7 +32089,8 @@
       "video_path": "images/wisdom_reels_content6/dw_d6_self_fulfilling_prophecy.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d6_self_fulfilling_prophecy.mp4",
       "when": "2026-09-10T15:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevNJzGTYLeQjmcP_KwsDyAf01"
     },
     {
       "id": "dw-reel-dw_d6_love_vs_good_for_you",
@@ -31950,7 +32101,8 @@
       "video_path": "images/wisdom_reels_content6/dw_d6_love_vs_good_for_you.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d6_love_vs_good_for_you.mp4",
       "when": "2026-09-10T18:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetJ_Xvm-yJXQPyLfubA2Ms8-K"
     },
     {
       "id": "dw-reel-dw_d6_no_one_owes_recognition",
@@ -31961,7 +32113,8 @@
       "video_path": "images/wisdom_reels_content6/dw_d6_no_one_owes_recognition.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d6_no_one_owes_recognition.mp4",
       "when": "2026-09-10T21:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeve9wd2BoEL6KruzryhHNnqw-"
     },
     {
       "id": "dw-reel-dw_d6_stoic_joy",
@@ -31972,7 +32125,8 @@
       "video_path": "images/wisdom_reels_content6/dw_d6_stoic_joy.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d6_stoic_joy.mp4",
       "when": "2026-09-11T08:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetVoAA8KMWKUdCCcyEcWYJMBq"
     },
     {
       "id": "dw-reel-dw_d6_silent_parent",
@@ -31983,7 +32137,8 @@
       "video_path": "images/wisdom_reels_content6/dw_d6_silent_parent.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d6_silent_parent.mp4",
       "when": "2026-09-11T10:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesow--I-tiqC-2Xt99aSyl7gz"
     },
     {
       "id": "dw-reel-dw_d7_freedom_is_not_more_options",
@@ -31994,7 +32149,8 @@
       "video_path": "images/wisdom_reels_content7/dw_d7_freedom_is_not_more_options.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d7_freedom_is_not_more_options.mp4",
       "when": "2026-09-11T13:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesc4off57gDjR1haYOFj7GLD9"
     },
     {
       "id": "dw-reel-dw_d7_dunning_kruger",
@@ -32005,7 +32161,8 @@
       "video_path": "images/wisdom_reels_content7/dw_d7_dunning_kruger.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d7_dunning_kruger.mp4",
       "when": "2026-09-11T15:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev-2hW0aJw9MRvPzksD_etObY"
     },
     {
       "id": "dw-reel-dw_d7_unequal_effort",
@@ -32016,7 +32173,8 @@
       "video_path": "images/wisdom_reels_content7/dw_d7_unequal_effort.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d7_unequal_effort.mp4",
       "when": "2026-09-11T18:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevgSjP_vSeI-MbB9wC86mxrQK"
     },
     {
       "id": "dw-reel-dw_d7_time_doesnt_heal",
@@ -32027,7 +32185,8 @@
       "video_path": "images/wisdom_reels_content7/dw_d7_time_doesnt_heal.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d7_time_doesnt_heal.mp4",
       "when": "2026-09-11T21:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuAub7ogKdZSFCGJoky-AGvVk"
     },
     {
       "id": "dw-reel-dw_d7_stoic_death_of_others",
@@ -32038,7 +32197,8 @@
       "video_path": "images/wisdom_reels_content7/dw_d7_stoic_death_of_others.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d7_stoic_death_of_others.mp4",
       "when": "2026-09-12T08:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetSmOd4mAjB519fgAyEy6Vy7X"
     },
     {
       "id": "dw-reel-dw_d7_healing_not_linear",
@@ -32049,7 +32209,8 @@
       "video_path": "images/wisdom_reels_content7/dw_d7_healing_not_linear.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d7_healing_not_linear.mp4",
       "when": "2026-09-12T10:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuGUdNiTg1PwJC0F8cKjrND7n"
     },
     {
       "id": "dw-reel-dw_d8_you_are_what_you_repeat",
@@ -32060,7 +32221,8 @@
       "video_path": "images/wisdom_reels_content8/dw_d8_you_are_what_you_repeat.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d8_you_are_what_you_repeat.mp4",
       "when": "2026-09-12T13:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuZjA_NdQ7WHMunm46lC1zD0O"
     },
     {
       "id": "dw-reel-dw_d8_projection",
@@ -32071,7 +32233,8 @@
       "video_path": "images/wisdom_reels_content8/dw_d8_projection.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d8_projection.mp4",
       "when": "2026-09-12T15:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevc0j4gw6b0MdgSNT5WW-Ifhs"
     },
     {
       "id": "dw-reel-dw_d8_silent_treatment",
@@ -32082,7 +32245,8 @@
       "video_path": "images/wisdom_reels_content8/dw_d8_silent_treatment.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d8_silent_treatment.mp4",
       "when": "2026-09-12T18:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetZLYqxBrvCfQ9THnRK4NDBLN"
     },
     {
       "id": "dw-reel-dw_d8_world_doesnt_owe_you",
@@ -32093,7 +32257,8 @@
       "video_path": "images/wisdom_reels_content8/dw_d8_world_doesnt_owe_you.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d8_world_doesnt_owe_you.mp4",
       "when": "2026-09-12T21:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevzwFKvWnmEs3l2oWfCKJWAYV"
     },
     {
       "id": "dw-reel-dw_d8_apatheia",
