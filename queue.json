@@ -19740,7 +19740,11 @@
       "message": "🎬 MAD MAX: FURY ROAD (2015) — 5/5\n\nThe plot is a truck driving in one direction, then the other. That's genuinely most of it. It's still one of the best action films ever made.\n\nGeorge Miller, at 70 years old, shot almost everything practically — real cars, real stunts, real desert — and edited it so every single shot tells you exactly where everyone is and what's happening. That clarity is what most modern action films have completely lost.\n\nFuriosa arguably steals the film from its own title character, and the film is better for letting her.\n\nWeakness: if you want dialogue-driven story, this genuinely isn't it — the film says almost everything through motion.\n\nVerdict: the action benchmark every blockbuster since has failed to match.\n\n👇 Best modern action film — does anything actually beat this?\n\n🔁 Share this with someone who thinks action films peaked in the '90s.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-13_15.png",
       "when": "2026-09-13T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203733426787954"
+      },
+      "scheduled_at": "2026-09-06T17:10:16+00:00"
     },
     {
       "id": "tmrr1-2026-09-13-19",
@@ -22808,7 +22812,11 @@
       "message": "Some meetings don't need a conference room at all. 🚶\n\nA walking meeting adds movement to a sitting-heavy day — and some find it sparks freer thinking too.\n\n💚 Bookmark this for your next one-on-one.\n\n💬 Could one of your meetings become a walk?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d27_4_walking_meetings.mp4",
       "when": "2026-09-06T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18084389168278399"
+      },
+      "posted_at": "2026-09-06T17:11:44+00:00"
     },
     {
       "id": "hd-cadence-nc5_d23_1_exercise_variety-ig",
@@ -30583,8 +30591,14 @@
       "message": "🎬 5 films about siblings who can't let go.\n\nNo. 5 The Savages · No. 4 Rain Man · No. 3 What's Eating Gilbert Grape · No. 2 The Fighter · No. 1 Hannah and Her Sisters\n\nDrop your pick below 👇\n\n🎬 Top Movie Reviews — one honest verdict a day.\n\n#MovieRecommendation #FilmTwitter #WhatToWatch #MovieReview",
       "video_path": "images/tmr_reels_content15/tmr_d89_siblings.mp4",
       "when": "2026-09-13T17:00:00+00:00",
-      "status": "pending",
-      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d89_siblings.mp4"
+      "status": "scheduled",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d89_siblings.mp4",
+      "result": {
+        "video_id": "1567312527988428",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T17:10:16+00:00"
     },
     {
       "id": "tmr-reel-tmr_d90_perfect_scripts",
@@ -32401,7 +32415,13 @@
       "video_path": "images/wisdom_reels_content9/dw_d9_spotlight_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d9_spotlight_effect.mp4",
       "when": "2026-09-13T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2343239526511497",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-06T17:10:16+00:00"
     },
     {
       "id": "dw-reel-dw_d9_one_sided_friendship",
