@@ -25384,7 +25384,11 @@
       "message": "Mindless desk snacking can add up without you even noticing. 🥨\n\nEating while focused on a screen makes portions hard to track — portioning snacks beforehand helps you notice more.\n\n💚 Bookmark this reminder.\n\n💬 Do you snack mindlessly at your desk?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d27_2_desk_snack_mindless.mp4",
       "when": "2026-09-06T04:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17875624389630466"
+      },
+      "posted_at": "2026-09-06T04:52:15+00:00"
     },
     {
       "id": "hd-cadence-nc1_d2_4_salt_awareness-ig",
