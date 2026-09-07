@@ -30751,7 +30751,13 @@
       "video_path": "images/tmr_reels_content16/tmr_d96_needle_drops.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d96_needle_drops.mp4",
       "when": "2026-09-14T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1597180715442282",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-07T21:48:42+00:00"
     },
     {
       "id": "tmr-reel-tmr_d97_60s",
@@ -32624,7 +32630,13 @@
       "video_path": "images/wisdom_reels_content10/dw_d10_present_bias.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d10_present_bias.mp4",
       "when": "2026-09-14T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1387091706874988",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-07T21:48:42+00:00"
     },
     {
       "id": "dw-reel-dw_d10_stoic_role_ethics",
