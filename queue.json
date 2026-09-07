@@ -19792,7 +19792,11 @@
       "message": "🔮 Some films weren't trying to predict anything. They just got uncomfortably close.\n\n1️⃣ HER — AI companionship, years before it was a real product category\n2️⃣ MINORITY REPORT — personalized ads that scan your eyes, now basically real\n3️⃣ THE TRUMAN SHOW — a life lived for an audience, before social media existed\n4️⃣ WALL-E — consumer culture taken to its logical, uncomfortable end\n5️⃣ NETWORK — 'I'm mad as hell' predicted cable news by decades\n\n👇 Which one feels the most uncomfortably accurate now?\n\n🔁 Save this list.\n\n#MovieReview #FilmTwitter #Cinephile #MustWatch #MovieNight #FilmLovers #WhatToWatch #Cinema\n\n🎬 Top Movie Reviews — one honest verdict a day.",
       "image_url": "images/tmr_refill1/2026-09-14_15.png",
       "when": "2026-09-14T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "id": "122203851542787954"
+      },
+      "scheduled_at": "2026-09-07T16:33:48+00:00"
     },
     {
       "id": "tmrr1-2026-09-14-19",
@@ -24274,7 +24278,11 @@
       "message": "Multitasking feels productive — but usually isn't. 🧠\n\nYour brain switches tasks, it doesn't run them at once — each switch costs time and energy. One task at a time often wins.\n\n💚 Bookmark this reminder.\n\n💬 Are you multitasking right now?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d28_4_focus_single_tasking.mp4",
       "when": "2026-09-07T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17916940170441381"
+      },
+      "posted_at": "2026-09-07T16:34:32+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_1_posture_confidence-fb",
@@ -32568,7 +32576,13 @@
       "video_path": "images/wisdom_reels_content10/dw_d10_availability_heuristic.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d10_availability_heuristic.mp4",
       "when": "2026-09-14T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1723439265550807",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-07T16:33:48+00:00"
     },
     {
       "id": "dw-reel-dw_d10_forgiveness_vs_reconciliation",
