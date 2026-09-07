@@ -405,7 +405,10 @@
       "when": "2026-09-07T10:00:00+00:00",
       "message": "🔥 ANSWER: Fire.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1506416208176740_1035216802847027"
+      }
     },
     {
       "photo_id": "1506416631510031",
