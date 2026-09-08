@@ -32665,7 +32665,13 @@
       "video_path": "images/wisdom_reels_content10/dw_d10_stoic_role_ethics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d10_stoic_role_ethics.mp4",
       "when": "2026-09-15T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1097710969612736",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "dw-reel-dw_d10_ask_for_help",
@@ -34007,7 +34013,13 @@
       "video_path": "images/suspense_reels_content10/sa_d31_s1_elevator_floor.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d31_s1_elevator_floor.mp4",
       "when": "2026-09-08T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1647558996795815",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T12:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d31_s2_own_voicemail-fb",
@@ -34018,7 +34030,13 @@
       "video_path": "images/suspense_reels_content10/sa_d31_s2_own_voicemail.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d31_s2_own_voicemail.mp4",
       "when": "2026-09-08T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2139188923671163",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-08T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d31_s3_puddle_reflection-fb",
@@ -34029,7 +34047,13 @@
       "video_path": "images/suspense_reels_content10/sa_d31_s3_puddle_reflection.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d31_s3_puddle_reflection.mp4",
       "when": "2026-09-09T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1607679254415419",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d31_s4_hotel_key-fb",
@@ -34040,7 +34064,13 @@
       "video_path": "images/suspense_reels_content10/sa_d31_s4_hotel_key.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d31_s4_hotel_key.mp4",
       "when": "2026-09-09T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1073782248804214",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T06:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d32_s1_mailbox_flag-fb",
@@ -34051,7 +34081,13 @@
       "video_path": "images/suspense_reels_content10/sa_d32_s1_mailbox_flag.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d32_s1_mailbox_flag.mp4",
       "when": "2026-09-09T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1093984069777069",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T12:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d32_s2_doorbell_static-fb",
@@ -34062,7 +34098,13 @@
       "video_path": "images/suspense_reels_content10/sa_d32_s2_doorbell_static.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d32_s2_doorbell_static.mp4",
       "when": "2026-09-09T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1633339191692462",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-09T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d32_s3_missing_pet_flyer-fb",
@@ -34073,7 +34115,13 @@
       "video_path": "images/suspense_reels_content10/sa_d32_s3_missing_pet_flyer.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d32_s3_missing_pet_flyer.mp4",
       "when": "2026-09-10T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2304258396986838",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d32_s4_gps_reroute-fb",
@@ -34084,7 +34132,13 @@
       "video_path": "images/suspense_reels_content10/sa_d32_s4_gps_reroute.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d32_s4_gps_reroute.mp4",
       "when": "2026-09-10T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "946539134504580",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T06:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d33_s1_reservation_confirmation-fb",
@@ -34095,7 +34149,13 @@
       "video_path": "images/suspense_reels_content10/sa_d33_s1_reservation_confirmation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d33_s1_reservation_confirmation.mp4",
       "when": "2026-09-10T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1781275593189981",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T12:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d33_s2_hardwired_chirp-fb",
@@ -34106,7 +34166,13 @@
       "video_path": "images/suspense_reels_content10/sa_d33_s2_hardwired_chirp.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d33_s2_hardwired_chirp.mp4",
       "when": "2026-09-10T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1361386973721904",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-10T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d33_s3_extra_garage_level-fb",
@@ -34117,7 +34183,13 @@
       "video_path": "images/suspense_reels_content10/sa_d33_s3_extra_garage_level.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d33_s3_extra_garage_level.mp4",
       "when": "2026-09-11T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2112782232666612",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d33_s4_empty_desk_chair-fb",
@@ -34128,7 +34200,13 @@
       "video_path": "images/suspense_reels_content10/sa_d33_s4_empty_desk_chair.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d33_s4_empty_desk_chair.mp4",
       "when": "2026-09-11T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1745604870008631",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T06:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d34_s1_photo_booth_extra-fb",
@@ -34139,7 +34217,13 @@
       "video_path": "images/suspense_reels_content10/sa_d34_s1_photo_booth_extra.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d34_s1_photo_booth_extra.mp4",
       "when": "2026-09-11T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1067049232732591",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T12:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d34_s2_elevator_music-fb",
@@ -34150,7 +34234,13 @@
       "video_path": "images/suspense_reels_content10/sa_d34_s2_elevator_music.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d34_s2_elevator_music.mp4",
       "when": "2026-09-11T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4624595794479956",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d34_s3_friends_account-fb",
@@ -34161,7 +34251,13 @@
       "video_path": "images/suspense_reels_content10/sa_d34_s3_friends_account.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d34_s3_friends_account.mp4",
       "when": "2026-09-12T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1715648577235112",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d34_s4_recurring_house_dream-fb",
@@ -34172,7 +34268,13 @@
       "video_path": "images/suspense_reels_content10/sa_d34_s4_recurring_house_dream.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d34_s4_recurring_house_dream.mp4",
       "when": "2026-09-12T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "3625871627562690",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T06:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d35_s1_vending_machine-fb",
@@ -34183,7 +34285,13 @@
       "video_path": "images/suspense_reels_content10/sa_d35_s1_vending_machine.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d35_s1_vending_machine.mp4",
       "when": "2026-09-12T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1423004029928339",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T12:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d35_s2_other_tenant-fb",
@@ -34194,7 +34302,13 @@
       "video_path": "images/suspense_reels_content10/sa_d35_s2_other_tenant.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d35_s2_other_tenant.mp4",
       "when": "2026-09-12T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1627354509044129",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d35_s3_bookstore_margin_notes-fb",
@@ -34205,7 +34319,13 @@
       "video_path": "images/suspense_reels_content10/sa_d35_s3_bookstore_margin_notes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d35_s3_bookstore_margin_notes.mp4",
       "when": "2026-09-13T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2105289193710259",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d35_s4_gym_camera_timestamp-fb",
@@ -34216,7 +34336,13 @@
       "video_path": "images/suspense_reels_content10/sa_d35_s4_gym_camera_timestamp.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d35_s4_gym_camera_timestamp.mp4",
       "when": "2026-09-13T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2884121278616136",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T06:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d36_s1_wrong_number_warning-fb",
@@ -34227,7 +34353,13 @@
       "video_path": "images/suspense_reels_content10/sa_d36_s1_wrong_number_warning.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d36_s1_wrong_number_warning.mp4",
       "when": "2026-09-13T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1352866939941992",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T12:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d36_s2_dashboard_clock_reset-fb",
@@ -34238,7 +34370,13 @@
       "video_path": "images/suspense_reels_content10/sa_d36_s2_dashboard_clock_reset.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d36_s2_dashboard_clock_reset.mp4",
       "when": "2026-09-13T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2291212925046951",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d36_s3_thrift_mirror_room-fb",
@@ -34249,7 +34387,13 @@
       "video_path": "images/suspense_reels_content10/sa_d36_s3_thrift_mirror_room.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d36_s3_thrift_mirror_room.mp4",
       "when": "2026-09-14T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2259179811540224",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d36_s4_answering_machine_tape-fb",
@@ -34260,7 +34404,13 @@
       "video_path": "images/suspense_reels_content10/sa_d36_s4_answering_machine_tape.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d36_s4_answering_machine_tape.mp4",
       "when": "2026-09-14T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1645334770603834",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T06:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d37_s1_arrived_empty_field-fb",
@@ -34271,7 +34421,13 @@
       "video_path": "images/suspense_reels_content10/sa_d37_s1_arrived_empty_field.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d37_s1_arrived_empty_field.mp4",
       "when": "2026-09-14T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1392820022966814",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T12:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d37_s2_decades_overdue_book-fb",
@@ -34282,7 +34438,13 @@
       "video_path": "images/suspense_reels_content10/sa_d37_s2_decades_overdue_book.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d37_s2_decades_overdue_book.mp4",
       "when": "2026-09-14T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "28263752493286978",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d37_s3_fire_escape_nightly-fb",
@@ -34293,7 +34455,13 @@
       "video_path": "images/suspense_reels_content10/sa_d37_s3_fire_escape_nightly.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d37_s3_fire_escape_nightly.mp4",
       "when": "2026-09-15T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2065510784059176",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     },
     {
       "id": "sa-cadence-sa_d37_s4_note_from_yourself-fb",
@@ -34304,7 +34472,13 @@
       "video_path": "images/suspense_reels_content10/sa_d37_s4_note_from_yourself.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d37_s4_note_from_yourself.mp4",
       "when": "2026-09-15T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1081931537673623",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T06:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T08:11:34+00:00"
     }
   ]
 }
