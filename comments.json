@@ -445,7 +445,10 @@
       "when": "2026-09-08T10:00:00+00:00",
       "message": "🏦 ANSWER: A bank.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1507112781440416_1088056257115545"
+      }
     },
     {
       "photo_id": "1507265281425166",

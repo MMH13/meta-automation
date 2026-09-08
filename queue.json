@@ -24929,7 +24929,11 @@
       "message": "A nightcap might help you fall asleep — but it hurts sleep quality. 🍷\n\nAlcohol disrupts your deeper, restorative sleep stages, which is why you can wake up tired even after enough hours.\n\n💚 Bookmark this reminder.\n\n💬 Have you noticed this after drinking?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_3_sleep_alcohol_myth.mp4",
       "when": "2026-09-08T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18110618663033016"
+      },
+      "posted_at": "2026-09-08T11:47:51+00:00"
     },
     {
       "id": "hd-cadence-nc5_d18_1_desk_eye_distance-ig",
@@ -30828,7 +30832,13 @@
       "video_path": "images/tmr_reels_content17/tmr_d100_memory.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d100_memory.mp4",
       "when": "2026-09-15T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1461832035771844",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T11:46:46+00:00"
     },
     {
       "id": "tmr-reel-tmr_d101_satire",
@@ -32688,7 +32698,13 @@
       "video_path": "images/wisdom_reels_content10/dw_d10_ask_for_help.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d10_ask_for_help.mp4",
       "when": "2026-09-15T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1930570391410140",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T11:46:46+00:00"
     },
     {
       "id": "dw-reel-dw_d11_solitude_vs_loneliness",
