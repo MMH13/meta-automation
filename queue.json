@@ -27111,7 +27111,11 @@
       "message": "Who you spend time around shapes your habits quietly. 🤝\n\nIt's called social contagion — habits genuinely spread. Being around active, positive people nudges your own behavior.\n\n💚 Bookmark this reminder.\n\n💬 Who influences your habits most?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_1_positive_environment_people.mp4",
       "when": "2026-09-08T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18113922229805133"
+      },
+      "posted_at": "2026-09-08T01:30:19+00:00"
     },
     {
       "id": "hd-cadence-nc2_d4_2_fiber_fullness-fb",
@@ -30776,7 +30780,13 @@
       "video_path": "images/tmr_reels_content17/tmr_d97_60s.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d97_60s.mp4",
       "when": "2026-09-15T01:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "926878623340185",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T01:29:36+00:00"
     },
     {
       "id": "tmr-reel-tmr_d98_hong_kong",
