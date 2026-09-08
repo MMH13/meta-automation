@@ -28,15 +28,22 @@ from video_suspense_stock import build as build_reel
 
 _HERE = Path(__file__).parent
 START_DATE = date(2026, 8, 11)
-SHORT_HOURS = [0, 6, 15]  # UTC
-LONGFORM_HOUR = 18
+# Batches 1-9 used 3 short/day + 1 longform/day (SHORT_HOURS[0..2] + LONGFORM_HOUR).
+# Batch 10 on switched to a uniform 4 short (60-90s) reels/day, so a 4th slot
+# was added here. The exact hour picked for a brand-new slug barely matters -
+# sa_reels_4perday.py re-lays every still-"pending" item onto the real grid
+# afterward, skipping anything already scheduled/posted. Old s1/s2/s3/lf slugs
+# are already in queue.json (posted or scheduled) and never hit this function
+# again, so widening the tuple here doesn't touch their history.
+SHORT_HOURS = [0, 6, 12, 18]  # UTC
+LONGFORM_HOUR = 9  # unused by batch 10+; kept only so old "lf" slugs still parse
 
 VOICE_PROFILE = "SUS-Narrator-Lewis"
 VOICE_ENGINE = "kokoro"
 VOICE_ID = "bm_lewis"
 VOICE_DESC = "deep, ominous, deliberate horror narrator"
 
-_SLUG_RE = re.compile(r"_d(\d+)_(s1|s2|s3|lf)_")
+_SLUG_RE = re.compile(r"_d(\d+)_(s1|s2|s3|s4|lf)_")
 
 
 def _slot_for(slug):
