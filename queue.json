@@ -27841,7 +27841,11 @@
       "message": "Your body does a lot for you without ever being thanked. 🙏\n\nIt breathes, heals, and keeps you moving mostly without your input — shifting focus from appearance to function helps.\n\n💚 Bookmark this reminder.\n\n💬 What did your body let you do today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_4_gratitude_body.mp4",
       "when": "2026-09-08T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17950565877266392"
+      },
+      "posted_at": "2026-09-08T18:51:36+00:00"
     },
     {
       "id": "hd-cadence-nc2_d6_2_standing_desk-fb",
@@ -30849,7 +30853,13 @@
       "video_path": "images/tmr_reels_content17/tmr_d101_satire.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d101_satire.mp4",
       "when": "2026-09-15T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1454467543171841",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T18:50:31+00:00"
     },
     {
       "id": "tmr-reel-tmr_d102_title_sequences",
@@ -32749,7 +32759,13 @@
       "video_path": "images/wisdom_reels_content11/dw_d11_red_flags_ignored.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d11_red_flags_ignored.mp4",
       "when": "2026-09-15T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1018024977938044",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T18:50:31+00:00"
     },
     {
       "id": "dw-reel-dw_d11_comfort_zone_slow_death",
