@@ -32715,7 +32715,13 @@
       "video_path": "images/wisdom_reels_content11/dw_d11_solitude_vs_loneliness.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d11_solitude_vs_loneliness.mp4",
       "when": "2026-09-15T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1872696310923057",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T14:39:39+00:00"
     },
     {
       "id": "dw-reel-dw_d11_zeigarnik_effect",

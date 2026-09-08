@@ -455,7 +455,10 @@
       "when": "2026-09-08T13:00:00+00:00",
       "message": "🛁 ANSWER: The bathroom light was broken — pitch black. She couldn't have 'found' him unless she was already in there when it happened.",
       "account": "suspense-ahead",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "id": "1507265281425166_5439486036275681"
+      }
     },
     {
       "photo_id": "1507544421397252",
