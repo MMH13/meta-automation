@@ -23142,7 +23142,11 @@
       "message": "A room that's too hot or too cold can quietly hurt your focus. 🌡️\n\nYour brain spends resources regulating comfort in extremes — a comfortable, slightly cool room supports concentration.\n\n💚 Bookmark this desk tip.\n\n💬 Is your workspace too hot or too cold?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d29_5_temperature_workspace_focus.mp4",
       "when": "2026-09-08T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18095020529398980"
+      },
+      "posted_at": "2026-09-08T21:57:24+00:00"
     },
     {
       "id": "hd-cadence-nc5_d21_5_comfort_food_emotions-ig",
@@ -30870,7 +30874,13 @@
       "video_path": "images/tmr_reels_content17/tmr_d102_title_sequences.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d102_title_sequences.mp4",
       "when": "2026-09-15T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1382296007382923",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T21:56:14+00:00"
     },
     {
       "id": "tmr-reel-tmr_d103_50s",
@@ -32776,7 +32786,13 @@
       "video_path": "images/wisdom_reels_content11/dw_d11_comfort_zone_slow_death.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d11_comfort_zone_slow_death.mp4",
       "when": "2026-09-15T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2912514099113606",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-08T21:56:14+00:00"
     },
     {
       "id": "dw-reel-dw_d11_stoic_premeditatio_malorum",
