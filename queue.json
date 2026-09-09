@@ -26550,7 +26550,8 @@
       "message": "If you take one thing from this month, let it be sleep. 😴\n\nIt touches mood, focus, cravings, immunity, and recovery — consistent timing, a cool dark room, less late screen time.\n\n💚 Bookmark this reminder.\n\n💬 What's one sleep habit you'll try this week?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_5_sleep_final_reminder.mp4",
       "when": "2026-09-09T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "IG container 18374631679224015 failed processing: {'status_code': 'ERROR', 'id': '18374631679224015'}"
     },
     {
       "id": "hd-cadence-nc2_d3_5_wrist_ergonomics-ig",
@@ -30993,7 +30994,13 @@
       "video_path": "images/tmr_reels_content18/tmr_d108_one_performance.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d108_one_performance.mp4",
       "when": "2026-09-16T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4539079676351237",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-09T21:16:33+00:00"
     },
     {
       "id": "tmr-reel-tmr_d109_2020s",
@@ -32935,7 +32942,13 @@
       "video_path": "images/wisdom_reels_content12/dw_d12_regret_of_inaction.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d12_regret_of_inaction.mp4",
       "when": "2026-09-16T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "27822907630744646",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-09T21:16:33+00:00"
     },
     {
       "id": "dw-reel-dw_d12_stoic_dichotomy_of_praise",
