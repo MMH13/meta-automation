@@ -26575,7 +26575,8 @@
       "message": "Thanks for spending a little time here with us. 💚\n\nSmall, honest tips, no miracle cures — if even one stuck with you this month, that's a win. More is coming.\n\n💚 Bookmark this page for what's next.\n\n💬 Which tip from this month was most useful to you?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_6_thank_you_closing.mp4",
       "when": "2026-09-09T22:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "IG container 18374642992224015 failed processing: {'status_code': 'ERROR', 'id': '18374642992224015'}"
     },
     {
       "id": "hd-cadence-nc6_d24_2_protein_breakfast-ig",
