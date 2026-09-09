@@ -32827,7 +32827,13 @@
       "video_path": "images/wisdom_reels_content11/dw_d11_stoic_premeditatio_malorum.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d11_stoic_premeditatio_malorum.mp4",
       "when": "2026-09-16T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1099659263011891",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-09T08:15:37+00:00"
     },
     {
       "id": "dw-reel-dw_d11_forgiving_yourself",
