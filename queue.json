@@ -23682,7 +23682,11 @@
       "message": "You don't need a perfect routine — just more movement than yesterday. 🚶\n\nStairs, walks, stretch breaks — it all genuinely counts. Consistency beats intensity, long term.\n\n💚 Bookmark this reminder.\n\n💬 How will you move today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/nc6_d30_4_movement_final_reminder.mp4",
       "when": "2026-09-09T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17999399048991454"
+      },
+      "posted_at": "2026-09-09T18:03:26+00:00"
     },
     {
       "id": "hd-cadence-nc3_d11_5_gut_serotonin-ig",
@@ -30972,7 +30976,13 @@
       "video_path": "images/tmr_reels_content18/tmr_d107_screwball.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d107_screwball.mp4",
       "when": "2026-09-16T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1102783789097348",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-09T18:02:28+00:00"
     },
     {
       "id": "tmr-reel-tmr_d108_one_performance",
@@ -32891,7 +32901,13 @@
       "video_path": "images/wisdom_reels_content12/dw_d12_mere_exposure_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d12_mere_exposure_effect.mp4",
       "when": "2026-09-16T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1578871650344339",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-09T18:02:28+00:00"
     },
     {
       "id": "dw-reel-dw_d12_codependency",
@@ -32902,7 +32918,13 @@
       "video_path": "images/wisdom_reels_content12/dw_d12_codependency.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d12_codependency.mp4",
       "when": "2026-09-16T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2044850629485523",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-09T18:02:28+00:00"
     },
     {
       "id": "dw-reel-dw_d12_regret_of_inaction",
