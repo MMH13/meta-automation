@@ -33018,7 +33018,13 @@
       "video_path": "images/wisdom_reels_content13/dw_d13_permission_to_change_mind.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d13_permission_to_change_mind.mp4",
       "when": "2026-09-17T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2076698859900437",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-17T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-10T14:31:53+00:00"
     },
     {
       "id": "dw-reel-dw_d13_halo_effect",
