@@ -32972,7 +32972,13 @@
       "video_path": "images/wisdom_reels_content12/dw_d12_stoic_dichotomy_of_praise.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d12_stoic_dichotomy_of_praise.mp4",
       "when": "2026-09-17T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "936566682304939",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-17T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-10T08:14:41+00:00"
     },
     {
       "id": "dw-reel-dw_d12_home_is_a_feeling",
