@@ -31097,7 +31097,13 @@
       "video_path": "images/tmr_reels_content19/tmr_d114_sound_design.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d114_sound_design.mp4",
       "when": "2026-09-17T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1670220234667606",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-17T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-10T21:14:16+00:00"
     },
     {
       "id": "tmr-reel-tmr_d115_40s",
@@ -33075,7 +33081,13 @@
       "video_path": "images/wisdom_reels_content13/dw_d13_your_past_self_did_their_best.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d13_your_past_self_did_their_best.mp4",
       "when": "2026-09-17T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1400803012159837",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-17T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-10T21:14:16+00:00"
     },
     {
       "id": "dw-reel-dw_d13_stoic_time_theft",
