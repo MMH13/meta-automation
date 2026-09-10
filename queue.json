@@ -33035,7 +33035,13 @@
       "video_path": "images/wisdom_reels_content13/dw_d13_halo_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d13_halo_effect.mp4",
       "when": "2026-09-17T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "947868371054293",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-17T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-10T15:26:11+00:00"
     },
     {
       "id": "dw-reel-dw_d13_over_giving",
