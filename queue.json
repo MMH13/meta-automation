@@ -31063,7 +31063,13 @@
       "video_path": "images/tmr_reels_content19/tmr_d112_immigration.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d112_immigration.mp4",
       "when": "2026-09-17T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "921469977323226",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-17T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-10T11:52:56+00:00"
     },
     {
       "id": "tmr-reel-tmr_d113_black_comedy",
@@ -32995,7 +33001,13 @@
       "video_path": "images/wisdom_reels_content12/dw_d12_home_is_a_feeling.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d12_home_is_a_feeling.mp4",
       "when": "2026-09-17T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1127135973704618",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-17T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-10T11:52:56+00:00"
     },
     {
       "id": "dw-reel-dw_d13_permission_to_change_mind",
