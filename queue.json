@@ -34976,7 +34976,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_7_bloating_food_combos.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_7_bloating_food_combos.mp4",
       "when": "2026-09-11T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1649825823342384",
+        "permalink": "/reel/1649825823342384/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T21:48:27+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_7_bloating_food_combos-ig",
@@ -34986,7 +34992,11 @@
       "message": "Bloating isn't always about WHAT you ate 💨\n\nEating fast means swallowing more air. Carbonated drinks and certain sugar alcohols add extra gas on top.\n\n💚 Bookmark this for your next meal.\n\n💬 What usually bloats you?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_7_bloating_food_combos.mp4",
       "when": "2026-09-11T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18126134920818053"
+      },
+      "posted_at": "2026-09-11T21:49:57+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_8_water_first_thing_morning-fb",
@@ -34997,7 +35007,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_8_water_first_thing_morning.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_8_water_first_thing_morning.mp4",
       "when": "2026-09-11T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1773672060234999",
+        "permalink": "/reel/1773672060234999/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T21:50:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_8_water_first_thing_morning-ig",
