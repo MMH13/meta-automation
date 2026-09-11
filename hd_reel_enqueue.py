@@ -28,8 +28,10 @@ import video_store
 from publish_ig_reel import _upload_public
 
 _HERE = Path(__file__).parent
-START_DATE = date(2026, 8, 11)
-REEL_HOURS = [1, 4, 10, 16, 19, 22]  # UTC; 07/13 stay reserved for images
+START_DATE = date(2026, 9, 11)
+# 10 reels/day cadence (2026-09-11) - replaces the old 6-reels+2-images/day
+# schedule entirely, per direct instruction. 10 slots spread across the day.
+REEL_HOURS = [0, 2, 5, 7, 9, 11, 14, 16, 19, 22]  # UTC
 
 _SLUG_RE = re.compile(r"_d(\d+)_(\d+)_")
 
@@ -69,15 +71,23 @@ def main(module_name, stock=False):
         video_state = out_dir / f"{slug}_state.json"
         lock = out_dir / f"{slug}.lock"
 
-        if not video_path.is_file():
-            print(f"\n=== building {slug} ===")
-            build_reel(beats, str(video_path), str(work_dir), str(video_state), str(lock))
+        try:
+            if not video_path.is_file():
+                print(f"\n=== building {slug} ===")
+                build_reel(beats, str(video_path), str(work_dir), str(video_state), str(lock))
 
-        when = _slot_for(slug)
-        video_url = None
-        if ig_id not in have:
-            print(f"  uploading {slug} to public asset repo for IG...")
-            video_url = _upload_public(str(video_path), asset_name=f"{slug}.mp4")
+            when = _slot_for(slug)
+            video_url = None
+            if ig_id not in have:
+                print(f"  uploading {slug} to public asset repo for IG...")
+                video_url = _upload_public(str(video_path), asset_name=f"{slug}.mp4")
+        except Exception as e:
+            # One bad reel (bad content field, a flaky footage fetch, a
+            # transient ffmpeg crash) must not take out the rest of a
+            # 50-item batch - log it and keep going, this slug will retry
+            # on the next run since nothing gets appended to queue.json.
+            print(f"  !!! {slug} failed ({type(e).__name__}: {e}) - skipping, will retry next run")
+            continue
 
         # Reload right before writing so a concurrent editor's changes
         # (e.g. a queue prune running in another process) aren't clobbered

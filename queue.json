@@ -34756,6 +34756,111 @@
         "publish_at_utc": "2026-09-15T06:00:00Z"
       },
       "scheduled_at": "2026-09-08T08:11:34+00:00"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_1_protein_leftover_myth-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Reheated chicken isn't 'worse' protein 🍗\n\nProtein is heat-stable, it survives the microwave just fine. Some B-vitamins fade slightly, but the protein content barely changes.\n\n💚 Bookmark this if you meal-prep.\n\n💬 Meal-prepping this week?",
+      "video_path": "images/health_reels_hd10_batch01/hd10_d1_1_protein_leftover_myth.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_1_protein_leftover_myth.mp4",
+      "when": "2026-09-11T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_1_protein_leftover_myth-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Reheated chicken isn't 'worse' protein 🍗\n\nProtein is heat-stable, it survives the microwave just fine. Some B-vitamins fade slightly, but the protein content barely changes.\n\n💚 Bookmark this if you meal-prep.\n\n💬 Meal-prepping this week?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_1_protein_leftover_myth.mp4",
+      "when": "2026-09-11T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_2_fruit_juice_whole_fruit-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Orange juice ≠ an orange 🍊\n\nJuicing removes most of the fiber that slows sugar absorption. Whole fruit fills you up faster and hits your blood sugar more gently.\n\n💚 Bookmark this for your next grocery run.\n\n💬 Juice or whole fruit — which do you reach for?",
+      "video_path": "images/health_reels_hd10_batch01/hd10_d1_2_fruit_juice_whole_fruit.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_2_fruit_juice_whole_fruit.mp4",
+      "when": "2026-09-11T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_2_fruit_juice_whole_fruit-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Orange juice ≠ an orange 🍊\n\nJuicing removes most of the fiber that slows sugar absorption. Whole fruit fills you up faster and hits your blood sugar more gently.\n\n💚 Bookmark this for your next grocery run.\n\n💬 Juice or whole fruit — which do you reach for?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_2_fruit_juice_whole_fruit.mp4",
+      "when": "2026-09-11T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_3_late_night_eating_metabolism-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Late-night eating doesn't 'turn into fat' 🌙\n\nYour body doesn't have a fat-storage switch that flips at 8pm. What matters more is your total intake for the day — late eating is usually just extra, mindless eating.\n\n💚 Bookmark this if you snack late.\n\n💬 Are you a late-night snacker?",
+      "video_path": "images/health_reels_hd10_batch01/hd10_d1_3_late_night_eating_metabolism.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_3_late_night_eating_metabolism.mp4",
+      "when": "2026-09-11T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_3_late_night_eating_metabolism-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Late-night eating doesn't 'turn into fat' 🌙\n\nYour body doesn't have a fat-storage switch that flips at 8pm. What matters more is your total intake for the day — late eating is usually just extra, mindless eating.\n\n💚 Bookmark this if you snack late.\n\n💬 Are you a late-night snacker?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_3_late_night_eating_metabolism.mp4",
+      "when": "2026-09-11T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_4_hydration_thirst_lag-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You're thirsty AFTER you're already dehydrated 💧\n\nThirst lags behind your actual fluid loss, sometimes by an hour. Sipping on a schedule beats waiting for the signal.\n\n💚 Bookmark this as your hydration reminder.\n\n💬 How much water have you had today?",
+      "video_path": "images/health_reels_hd10_batch01/hd10_d1_4_hydration_thirst_lag.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_4_hydration_thirst_lag.mp4",
+      "when": "2026-09-11T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_4_hydration_thirst_lag-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "You're thirsty AFTER you're already dehydrated 💧\n\nThirst lags behind your actual fluid loss, sometimes by an hour. Sipping on a schedule beats waiting for the signal.\n\n💚 Bookmark this as your hydration reminder.\n\n💬 How much water have you had today?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_4_hydration_thirst_lag.mp4",
+      "when": "2026-09-11T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_5_gut_lining_barrier-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your gut lining is just ONE cell thick 🦠\n\nThat thin layer is the checkpoint for what enters your bloodstream. Fiber and fermented foods help keep it strong.\n\n💚 Bookmark this gut-health basic.\n\n💬 Do you eat fermented foods regularly?",
+      "video_path": "images/health_reels_hd10_batch01/hd10_d1_5_gut_lining_barrier.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_5_gut_lining_barrier.mp4",
+      "when": "2026-09-11T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d1_5_gut_lining_barrier-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your gut lining is just ONE cell thick 🦠\n\nThat thin layer is the checkpoint for what enters your bloodstream. Fiber and fermented foods help keep it strong.\n\n💚 Bookmark this gut-health basic.\n\n💬 Do you eat fermented foods regularly?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_5_gut_lining_barrier.mp4",
+      "when": "2026-09-11T09:00:00+00:00",
+      "status": "pending"
     }
   ]
 }

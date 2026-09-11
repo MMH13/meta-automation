@@ -30,10 +30,21 @@ def _page(inner, extra=""):
   html, body {{ background: transparent !important; }}
   body {{ width:{SW}px; height:{SH}px; overflow:hidden; position:relative;
        font-family:'Inter',sans-serif; }}
-  .scrim {{ position:absolute; left:0; right:0; bottom:0; height:58%;
-       background: linear-gradient(180deg, transparent 0%, rgba(10,22,29,.55) 30%, rgba(7,15,20,.93) 100%); }}
-  .safe {{ position:absolute; left:80px; right:80px; bottom:180px;
-       display:flex; flex-direction:column; justify-content:flex-end;
+  /* Scrim now darkens the middle band (roughly the 250-1490px safe zone,
+     where the text lives after the fix below) instead of only the bottom -
+     text moved, so the contrast band has to move with it. Softer at the
+     very top/bottom since text no longer sits there. */
+  .scrim {{ position:absolute; left:0; right:0; top:0; bottom:0;
+       background: linear-gradient(180deg,
+         rgba(7,15,20,.25) 0%, rgba(7,15,20,.55) 18%, rgba(7,15,20,.55) 75%,
+         rgba(7,15,20,.3) 100%); }}
+  /* Was bottom:180px + justify-content:flex-end - text grew upward from
+     near the bottom edge, so the LAST line sat right where FB/IG's own
+     reel UI (caption, action buttons, progress bar) overlaps the frame.
+     Centered in the same 250px-top/430px-bottom safe zone the non-stock
+     renderer already uses correctly, so every line clears the real UI. */
+  .safe {{ position:absolute; left:80px; right:80px; top:250px; bottom:430px;
+       display:flex; flex-direction:column; justify-content:center;
        align-items:center; text-align:center; gap:28px; }}
   .kicker {{ font-family:'Poppins',sans-serif; font-size:26px; font-weight:700;
        letter-spacing:5px; color:{GREEN}; text-transform:uppercase; }}
