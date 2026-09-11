@@ -31182,7 +31182,13 @@
       "video_path": "images/tmr_reels_content20/tmr_d119_remakes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d119_remakes.mp4",
       "when": "2026-09-18T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1071894131912740",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-18T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T18:40:28+00:00"
     },
     {
       "id": "tmr-reel-tmr_d120_production_design",
@@ -33190,7 +33196,13 @@
       "video_path": "images/wisdom_reels_content14/dw_d14_choosing_peace_over_being_right.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d14_choosing_peace_over_being_right.mp4",
       "when": "2026-09-18T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1117219407322418",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-18T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T18:40:28+00:00"
     },
     {
       "id": "dw-reel-dw_d14_most_advice_is_autobiography",
@@ -34766,7 +34778,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_1_protein_leftover_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_1_protein_leftover_myth.mp4",
       "when": "2026-09-11T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1412512974400643",
+        "permalink": "/reel/1412512974400643/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T18:41:19+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_1_protein_leftover_myth-ig",
@@ -34776,7 +34794,11 @@
       "message": "Reheated chicken isn't 'worse' protein 🍗\n\nProtein is heat-stable, it survives the microwave just fine. Some B-vitamins fade slightly, but the protein content barely changes.\n\n💚 Bookmark this if you meal-prep.\n\n💬 Meal-prepping this week?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_1_protein_leftover_myth.mp4",
       "when": "2026-09-11T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18069840698746518"
+      },
+      "posted_at": "2026-09-11T18:42:03+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_2_fruit_juice_whole_fruit-fb",
@@ -34787,7 +34809,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_2_fruit_juice_whole_fruit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_2_fruit_juice_whole_fruit.mp4",
       "when": "2026-09-11T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "934314389729736",
+        "permalink": "/reel/934314389729736/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T18:42:40+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_2_fruit_juice_whole_fruit-ig",
