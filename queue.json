@@ -34825,7 +34825,11 @@
       "message": "Orange juice ≠ an orange 🍊\n\nJuicing removes most of the fiber that slows sugar absorption. Whole fruit fills you up faster and hits your blood sugar more gently.\n\n💚 Bookmark this for your next grocery run.\n\n💬 Juice or whole fruit — which do you reach for?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_2_fruit_juice_whole_fruit.mp4",
       "when": "2026-09-11T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18132362749636160"
+      },
+      "posted_at": "2026-09-11T18:47:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_3_late_night_eating_metabolism-fb",
@@ -34836,7 +34840,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_3_late_night_eating_metabolism.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_3_late_night_eating_metabolism.mp4",
       "when": "2026-09-11T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "28562276603410974",
+        "permalink": "/reel/28562276603410974/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T18:47:41+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_3_late_night_eating_metabolism-ig",
@@ -34846,7 +34856,11 @@
       "message": "Late-night eating doesn't 'turn into fat' 🌙\n\nYour body doesn't have a fat-storage switch that flips at 8pm. What matters more is your total intake for the day — late eating is usually just extra, mindless eating.\n\n💚 Bookmark this if you snack late.\n\n💬 Are you a late-night snacker?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_3_late_night_eating_metabolism.mp4",
       "when": "2026-09-11T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17868949284643284"
+      },
+      "posted_at": "2026-09-11T18:48:27+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_4_hydration_thirst_lag-fb",
