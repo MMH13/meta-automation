@@ -33156,7 +33156,13 @@
       "video_path": "images/wisdom_reels_content14/dw_d14_the_unexamined_pattern.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d14_the_unexamined_pattern.mp4",
       "when": "2026-09-18T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "28424307143890028",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-18T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T14:31:05+00:00"
     },
     {
       "id": "dw-reel-dw_d14_cognitive_dissonance",
