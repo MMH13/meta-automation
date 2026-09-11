@@ -34871,7 +34871,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_4_hydration_thirst_lag.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_4_hydration_thirst_lag.mp4",
       "when": "2026-09-11T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1469912488297378",
+        "permalink": "/reel/1469912488297378/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T20:05:52+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_4_hydration_thirst_lag-ig",
@@ -34881,7 +34887,11 @@
       "message": "You're thirsty AFTER you're already dehydrated 💧\n\nThirst lags behind your actual fluid loss, sometimes by an hour. Sipping on a schedule beats waiting for the signal.\n\n💚 Bookmark this as your hydration reminder.\n\n💬 How much water have you had today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_4_hydration_thirst_lag.mp4",
       "when": "2026-09-11T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18115174124076235"
+      },
+      "posted_at": "2026-09-11T20:06:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_5_gut_lining_barrier-fb",
@@ -34892,7 +34902,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_5_gut_lining_barrier.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_5_gut_lining_barrier.mp4",
       "when": "2026-09-11T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1397671181790777",
+        "permalink": "/reel/1397671181790777/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T20:07:09+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_5_gut_lining_barrier-ig",
@@ -34997,7 +35013,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_10_sugar_crash_cycle.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_10_sugar_crash_cycle.mp4",
       "when": "2026-09-11T22:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1568622420865915",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-11T22:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_10_sugar_crash_cycle-ig",
@@ -35018,7 +35040,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_1_eating_slowly_satiety.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_1_eating_slowly_satiety.mp4",
       "when": "2026-09-12T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1592488438915514",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_1_eating_slowly_satiety-ig",
@@ -35039,7 +35067,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_2_dehydration_brain_fog.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_2_dehydration_brain_fog.mp4",
       "when": "2026-09-12T02:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1594330462096825",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T02:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_2_dehydration_brain_fog-ig",
@@ -35060,7 +35094,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_3_gut_bacteria_diversity.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_3_gut_bacteria_diversity.mp4",
       "when": "2026-09-12T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "3602688176558608",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_3_gut_bacteria_diversity-ig",
@@ -35081,7 +35121,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_4_frozen_vs_fresh_produce.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_4_frozen_vs_fresh_produce.mp4",
       "when": "2026-09-12T07:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1064984422827250",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T07:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_4_frozen_vs_fresh_produce-ig",
@@ -35102,7 +35148,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_5_electrolyte_myth_sports_drinks.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_5_electrolyte_myth_sports_drinks.mp4",
       "when": "2026-09-12T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "28342316882055888",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_5_electrolyte_myth_sports_drinks-ig",
@@ -35123,7 +35175,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_6_skipping_meals_metabolism.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_6_skipping_meals_metabolism.mp4",
       "when": "2026-09-12T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4465373470372872",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_6_skipping_meals_metabolism-ig",
@@ -35144,7 +35202,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_7_fiber_gut_bacteria_food.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_7_fiber_gut_bacteria_food.mp4",
       "when": "2026-09-12T14:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2620389165056383",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T14:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_7_fiber_gut_bacteria_food-ig",
@@ -35165,7 +35229,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_8_coffee_hydration_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_8_coffee_hydration_myth.mp4",
       "when": "2026-09-12T16:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1078630891722300",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T16:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_8_coffee_hydration_myth-ig",
@@ -35186,7 +35256,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_9_food_order_blood_sugar.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_9_food_order_blood_sugar.mp4",
       "when": "2026-09-12T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1073347765418869",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T19:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_9_food_order_blood_sugar-ig",
@@ -35207,7 +35283,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d2_10_leaky_gut_explained.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_10_leaky_gut_explained.mp4",
       "when": "2026-09-12T22:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1064155373015312",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-12T22:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_10_leaky_gut_explained-ig",
@@ -35228,7 +35310,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_1_reading_nutrition_labels.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_1_reading_nutrition_labels.mp4",
       "when": "2026-09-13T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2647018929069725",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_1_reading_nutrition_labels-ig",
@@ -35249,7 +35337,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_2_water_temperature_digestion.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_2_water_temperature_digestion.mp4",
       "when": "2026-09-13T02:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1747603596547873",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T02:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_2_water_temperature_digestion-ig",
@@ -35270,7 +35364,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_3_gut_health_mood_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_3_gut_health_mood_link.mp4",
       "when": "2026-09-13T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1472597381342023",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_3_gut_health_mood_link-ig",
@@ -35291,7 +35391,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_4_healthy_fat_sources.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_4_healthy_fat_sources.mp4",
       "when": "2026-09-13T07:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1607751614323597",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T07:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_4_healthy_fat_sources-ig",
@@ -35312,7 +35418,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_5_sparkling_water_hydration.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_5_sparkling_water_hydration.mp4",
       "when": "2026-09-13T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2146715446256410",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_5_sparkling_water_hydration-ig",
@@ -35333,7 +35445,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_6_meal_timing_workout.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_6_meal_timing_workout.mp4",
       "when": "2026-09-13T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2098895314054211",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_6_meal_timing_workout-ig",
@@ -35354,7 +35472,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_7_fermented_foods_variety.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_7_fermented_foods_variety.mp4",
       "when": "2026-09-13T14:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1746102963365643",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T14:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_7_fermented_foods_variety-ig",
@@ -35375,7 +35499,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_8_sodium_hidden_sources.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_8_sodium_hidden_sources.mp4",
       "when": "2026-09-13T16:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1027940970211274",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T16:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_8_sodium_hidden_sources-ig",
@@ -35396,7 +35526,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_9_plant_protein_complete.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_9_plant_protein_complete.mp4",
       "when": "2026-09-13T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "950208750841151",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T19:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_9_plant_protein_complete-ig",
@@ -35417,7 +35553,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d3_10_gut_healing_foods.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_10_gut_healing_foods.mp4",
       "when": "2026-09-13T22:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1399440882361779",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-13T22:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_10_gut_healing_foods-ig",
@@ -35438,7 +35580,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_1_snack_ingredient_list.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_1_snack_ingredient_list.mp4",
       "when": "2026-09-14T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2345669556242609",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_1_snack_ingredient_list-ig",
@@ -35459,7 +35607,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_2_hydration_skin_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_2_hydration_skin_myth.mp4",
       "when": "2026-09-14T02:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1092826083114904",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T02:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_2_hydration_skin_myth-ig",
@@ -35480,7 +35634,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_3_digestive_enzymes_basics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_3_digestive_enzymes_basics.mp4",
       "when": "2026-09-14T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1595837142193004",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_3_digestive_enzymes_basics-ig",
@@ -35501,7 +35661,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_4_added_sugar_names.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_4_added_sugar_names.mp4",
       "when": "2026-09-14T07:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4158569184443789",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T07:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_4_added_sugar_names-ig",
@@ -35522,7 +35688,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_5_water_intake_formula_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_5_water_intake_formula_myth.mp4",
       "when": "2026-09-14T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1585814016575775",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_5_water_intake_formula_myth-ig",
@@ -35543,7 +35715,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_6_gut_immune_connection.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_6_gut_immune_connection.mp4",
       "when": "2026-09-14T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1555942332879481",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_6_gut_immune_connection-ig",
@@ -35564,7 +35742,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_7_healthy_carbs_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_7_healthy_carbs_myth.mp4",
       "when": "2026-09-14T14:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "947044288450150",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T14:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_7_healthy_carbs_myth-ig",
@@ -35585,7 +35769,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_8_dehydration_headache_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_8_dehydration_headache_link.mp4",
       "when": "2026-09-14T16:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2099975610606356",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T16:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_8_dehydration_headache_link-ig",
@@ -35606,7 +35796,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_9_probiotics_vs_prebiotics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_9_probiotics_vs_prebiotics.mp4",
       "when": "2026-09-14T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1071902698766621",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T19:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_9_probiotics_vs_prebiotics-ig",
@@ -35627,7 +35823,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d4_10_mindless_snacking_triggers.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_10_mindless_snacking_triggers.mp4",
       "when": "2026-09-14T22:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1549015493132445",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-14T22:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_10_mindless_snacking_triggers-ig",
@@ -35648,7 +35850,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_2_hydration_exercise_timing.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_2_hydration_exercise_timing.mp4",
       "when": "2026-09-15T02:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1576789583378907",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T02:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_2_hydration_exercise_timing-ig",
@@ -35669,7 +35877,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_3_gut_reset_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_3_gut_reset_myth.mp4",
       "when": "2026-09-15T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "3027050360973137",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_3_gut_reset_myth-ig",
@@ -35690,7 +35904,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_4_omega6_omega3_balance.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_4_omega6_omega3_balance.mp4",
       "when": "2026-09-15T07:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1829039541870296",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T07:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_4_omega6_omega3_balance-ig",
@@ -35711,7 +35931,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_5_water_vs_other_drinks.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_5_water_vs_other_drinks.mp4",
       "when": "2026-09-15T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1718796276069571",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_5_water_vs_other_drinks-ig",
@@ -35732,7 +35958,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_6_digestion_time_foods.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_6_digestion_time_foods.mp4",
       "when": "2026-09-15T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1352426869992577",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_6_digestion_time_foods-ig",
@@ -35753,7 +35985,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_7_nutrient_timing_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_7_nutrient_timing_myth.mp4",
       "when": "2026-09-15T14:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1370179504829662",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T14:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_7_nutrient_timing_myth-ig",
@@ -35774,7 +36012,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_8_bloating_carbonation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_8_bloating_carbonation.mp4",
       "when": "2026-09-15T16:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1071821548783842",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T16:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_8_bloating_carbonation-ig",
@@ -35795,7 +36039,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_9_gut_brain_axis_stress.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_9_gut_brain_axis_stress.mp4",
       "when": "2026-09-15T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1076445324746509",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T19:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_9_gut_brain_axis_stress-ig",
@@ -35816,7 +36066,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d5_10_eating_mindfully_habit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_10_eating_mindfully_habit.mp4",
       "when": "2026-09-15T22:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2623804888074393",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-15T22:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T19:59:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_10_eating_mindfully_habit-ig",
