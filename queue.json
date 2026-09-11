@@ -31199,7 +31199,13 @@
       "video_path": "images/tmr_reels_content20/tmr_d120_production_design.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d120_production_design.mp4",
       "when": "2026-09-18T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1067009546356844",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-18T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "tmr-reel-tmr_d121_british",
@@ -33213,7 +33219,13 @@
       "video_path": "images/wisdom_reels_content14/dw_d14_most_advice_is_autobiography.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d14_most_advice_is_autobiography.mp4",
       "when": "2026-09-18T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1417238429800437",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-18T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "dw-reel-dw_d14_stoic_the_archer",
@@ -34918,7 +34930,11 @@
       "message": "Your gut lining is just ONE cell thick 🦠\n\nThat thin layer is the checkpoint for what enters your bloodstream. Fiber and fermented foods help keep it strong.\n\n💚 Bookmark this gut-health basic.\n\n💬 Do you eat fermented foods regularly?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_5_gut_lining_barrier.mp4",
       "when": "2026-09-11T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18123551896855352"
+      },
+      "posted_at": "2026-09-11T21:25:13+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_6_cooking_veggies_nutrients-fb",
@@ -34929,7 +34945,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_6_cooking_veggies_nutrients.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_6_cooking_veggies_nutrients.mp4",
       "when": "2026-09-11T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2068840887085351",
+        "permalink": "/reel/2068840887085351/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T21:25:55+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_6_cooking_veggies_nutrients-ig",
@@ -34939,7 +34961,11 @@
       "message": "Cooking your veggies can boost nutrients 🥕\n\nHeat breaks down plant cell walls, freeing up nutrients like lycopene and beta-carotene. Some vitamins like C do drop with long cooking though.\n\n💚 Bookmark this before your next meal prep.\n\n💬 Raw or cooked veggies — which do you prefer?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_6_cooking_veggies_nutrients.mp4",
       "when": "2026-09-11T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17983257972072988"
+      },
+      "posted_at": "2026-09-11T21:26:41+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_7_bloating_food_combos-fb",
@@ -36093,7 +36119,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d6_1_sleep_cycles_90min.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_1_sleep_cycles_90min.mp4",
       "when": "2026-09-16T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1607483467399408",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T00:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_1_sleep_cycles_90min-ig",
@@ -36114,7 +36146,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d6_2_rem_dreams_memory.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_2_rem_dreams_memory.mp4",
       "when": "2026-09-16T02:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1801704721006503",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T02:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_2_rem_dreams_memory-ig",
@@ -36135,7 +36173,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d6_3_circadian_clock_basics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_3_circadian_clock_basics.mp4",
       "when": "2026-09-16T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1785279319463781",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_3_circadian_clock_basics-ig",
@@ -36156,7 +36200,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d6_4_sleep_pressure_adenosine.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_4_sleep_pressure_adenosine.mp4",
       "when": "2026-09-16T07:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1121662457096864",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T07:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_4_sleep_pressure_adenosine-ig",
@@ -36177,7 +36227,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d6_5_nap_before_3pm_rule.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_5_nap_before_3pm_rule.mp4",
       "when": "2026-09-16T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1422813319727983",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_5_nap_before_3pm_rule-ig",
@@ -36198,7 +36254,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d6_6_cold_bedroom_deep_sleep.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_6_cold_bedroom_deep_sleep.mp4",
       "when": "2026-09-16T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1252099447046366",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-16T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T21:22:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_6_cold_bedroom_deep_sleep-ig",
