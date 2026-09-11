@@ -33173,7 +33173,13 @@
       "video_path": "images/wisdom_reels_content14/dw_d14_cognitive_dissonance.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d14_cognitive_dissonance.mp4",
       "when": "2026-09-18T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2607854019669518",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-18T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-11T15:16:25+00:00"
     },
     {
       "id": "dw-reel-dw_d14_choosing_peace_over_being_right",
