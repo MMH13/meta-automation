@@ -35023,7 +35023,11 @@
       "message": "Water before coffee, every morning ☀️\n\nYou lose fluid overnight just through breathing. A glass of water first thing kickstarts digestion and wakes your system up gently.\n\n💚 Bookmark this morning reminder.\n\n💬 Do you drink water before coffee?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_8_water_first_thing_morning.mp4",
       "when": "2026-09-11T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18077274203385389"
+      },
+      "posted_at": "2026-09-11T23:34:51+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_9_probiotic_food_sources-fb",
@@ -35034,7 +35038,13 @@
       "video_path": "images/health_reels_hd10_batch01/hd10_d1_9_probiotic_food_sources.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_9_probiotic_food_sources.mp4",
       "when": "2026-09-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2342081389876290",
+        "permalink": "/reel/2342081389876290/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-11T23:35:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_9_probiotic_food_sources-ig",
@@ -35044,7 +35054,11 @@
       "message": "You don't need a pill for probiotics 🥣\n\nYogurt, kimchi, and kefir all carry live, beneficial cultures naturally. Check the label for 'live active cultures' to know it's genuine.\n\n💚 Bookmark this before your next grocery trip.\n\n💬 What's your favorite fermented food?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_9_probiotic_food_sources.mp4",
       "when": "2026-09-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17888247378458273"
+      },
+      "posted_at": "2026-09-11T23:36:59+00:00"
     },
     {
       "id": "hd-cadence-hd10_d1_10_sugar_crash_cycle-fb",
