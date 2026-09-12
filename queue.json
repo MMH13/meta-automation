@@ -31267,7 +31267,13 @@
       "video_path": "images/tmr_reels_content21/tmr_d124_class.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d124_class.mp4",
       "when": "2026-09-19T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2330908691066658",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T11:17:43+00:00"
     },
     {
       "id": "tmr-reel-tmr_d125_anthology",
@@ -35301,7 +35307,11 @@
       "message": "One skipped meal won't wreck your metabolism 🍽️\n\nYour body just adjusts and moves on. The real risk is overeating later because you got too hungry to think clearly.\n\n💚 Bookmark this for busy days.\n\n💬 Do you ever accidentally skip meals?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_6_skipping_meals_metabolism.mp4",
       "when": "2026-09-12T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18103401776210527"
+      },
+      "posted_at": "2026-09-12T11:18:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_7_fiber_gut_bacteria_food-fb",
