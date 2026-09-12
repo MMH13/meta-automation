@@ -31233,7 +31233,13 @@
       "video_path": "images/tmr_reels_content21/tmr_d122_martial_arts.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d122_martial_arts.mp4",
       "when": "2026-09-19T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1077459754997074",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T05:57:28+00:00"
     },
     {
       "id": "tmr-reel-tmr_d123_vampires",
@@ -35153,7 +35159,11 @@
       "message": "That brain fog might just be dehydration 🧠\n\nLosing just 1-2% of your body's water can measurably affect focus and mood. Urine color is a rough, easy gauge.\n\n💚 Bookmark this for your next slow afternoon.\n\n💬 Ever mistake thirst for tiredness?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_2_dehydration_brain_fog.mp4",
       "when": "2026-09-12T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18442245664123388"
+      },
+      "posted_at": "2026-09-12T05:58:11+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_3_gut_bacteria_diversity-fb",
@@ -35180,7 +35190,11 @@
       "message": "Aim for 20-30 different plants a week 🌱\n\nMore plant variety feeds more species of gut bacteria. It's not about perfection, it's about variety.\n\n💚 Bookmark this weekly goal.\n\n💬 How many different plants did you eat this week?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_3_gut_bacteria_diversity.mp4",
       "when": "2026-09-12T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17958371954998814"
+      },
+      "posted_at": "2026-09-12T05:59:24+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_4_frozen_vs_fresh_produce-fb",
