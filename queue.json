@@ -35085,7 +35085,11 @@
       "message": "That 3pm crash? Look at what you had for lunch 📉\n\nA sugar spike is almost always followed by a dip. Pairing carbs with protein or fat at the same meal smooths the whole curve out.\n\n💚 Bookmark this before lunch tomorrow.\n\n💬 Do you get an afternoon energy crash?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d1_10_sugar_crash_cycle.mp4",
       "when": "2026-09-11T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17879881536689793"
+      },
+      "posted_at": "2026-09-12T00:24:12+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_1_eating_slowly_satiety-fb",
@@ -35112,7 +35116,11 @@
       "message": "It takes 20 minutes to actually feel full ⏱️\n\nFullness hormones travel slower than most people finish a meal. Putting your fork down between bites naturally slows things down.\n\n💚 Bookmark this before your next meal.\n\n💬 Do you eat fast or slow?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_1_eating_slowly_satiety.mp4",
       "when": "2026-09-12T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17933539713395550"
+      },
+      "posted_at": "2026-09-12T00:24:55+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_2_dehydration_brain_fog-fb",
