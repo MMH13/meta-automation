@@ -33248,7 +33248,13 @@
       "video_path": "images/wisdom_reels_content14/dw_d14_stoic_the_archer.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d14_stoic_the_archer.mp4",
       "when": "2026-09-19T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1394624415567336",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T08:00:15+00:00"
     },
     {
       "id": "dw-reel-dw_d14_outgrowing_old_dreams",
@@ -35221,7 +35227,11 @@
       "message": "Frozen veggies aren't the 'lesser' option ❄️\n\nThey're picked and frozen at peak ripeness. 'Fresh' produce can actually sit in transit for days before reaching you.\n\n💚 Bookmark this before your next grocery run.\n\n💬 Do you keep frozen veggies on hand?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_4_frozen_vs_fresh_produce.mp4",
       "when": "2026-09-12T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17913910518261698"
+      },
+      "posted_at": "2026-09-12T08:00:54+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_5_electrolyte_myth_sports_drinks-fb",
