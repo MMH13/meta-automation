@@ -33334,7 +33334,13 @@
       "video_path": "images/wisdom_reels_content15/dw_d15_emotional_availability.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d15_emotional_availability.mp4",
       "when": "2026-09-19T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1799326594400663",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T19:29:31+00:00"
     },
     {
       "id": "dw-reel-dw_d15_closure_from_yourself",
@@ -35418,7 +35424,11 @@
       "message": "Eat your veggies FIRST, carbs last 🥗\n\nThis order blunts your blood sugar spike. Fiber and protein slow down how fast sugar from carbs hits your bloodstream.\n\n💚 Bookmark this for your next meal.\n\n💬 Ever tried eating your veggies first?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_9_food_order_blood_sugar.mp4",
       "when": "2026-09-12T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17897401809668108"
+      },
+      "posted_at": "2026-09-12T19:30:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_10_leaky_gut_explained-fb",
