@@ -31301,7 +31301,13 @@
       "video_path": "images/tmr_reels_content21/tmr_d126_against_type.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d126_against_type.mp4",
       "when": "2026-09-19T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1610005410525621",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T21:42:44+00:00"
     },
     {
       "id": "tmr-reel-tmr_d127_australian",
@@ -33351,7 +33357,13 @@
       "video_path": "images/wisdom_reels_content15/dw_d15_closure_from_yourself.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d15_closure_from_yourself.mp4",
       "when": "2026-09-19T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2086923249365307",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T21:42:44+00:00"
     },
     {
       "id": "dw-reel-dw_d15_stoic_amor_of_task",
