@@ -33294,7 +33294,13 @@
       "video_path": "images/wisdom_reels_content15/dw_d15_meaning_over_pleasure.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d15_meaning_over_pleasure.mp4",
       "when": "2026-09-19T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1402467591991332",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T14:19:18+00:00"
     },
     {
       "id": "dw-reel-dw_d15_anchoring_bias",
@@ -35338,7 +35344,11 @@
       "message": "Fiber is food for your gut bacteria, not you 🌾\n\nYour body can't digest fiber, but your gut bacteria can. In return, they make compounds that protect your gut lining.\n\n💚 Bookmark this fiber fact.\n\n💬 Are you getting enough fiber?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_7_fiber_gut_bacteria_food.mp4",
       "when": "2026-09-12T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18194687074385935"
+      },
+      "posted_at": "2026-09-12T14:20:49+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_8_coffee_hydration_myth-fb",
