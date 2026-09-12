@@ -31284,7 +31284,13 @@
       "video_path": "images/tmr_reels_content21/tmr_d125_anthology.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d125_anthology.mp4",
       "when": "2026-09-19T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2198434750733224",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T17:17:47+00:00"
     },
     {
       "id": "tmr-reel-tmr_d126_against_type",
@@ -33311,7 +33317,13 @@
       "video_path": "images/wisdom_reels_content15/dw_d15_anchoring_bias.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d15_anchoring_bias.mp4",
       "when": "2026-09-19T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2078558216363436",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-19T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-12T17:17:47+00:00"
     },
     {
       "id": "dw-reel-dw_d15_emotional_availability",
@@ -35375,7 +35387,11 @@
       "message": "Coffee doesn't dehydrate you like you think ☕\n\nCaffeine is a mild diuretic, sure. But the fluid in your coffee still counts toward your daily total overall.\n\n💚 Bookmark this coffee myth-buster.\n\n💬 How many cups of coffee do you drink daily?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d2_8_coffee_hydration_myth.mp4",
       "when": "2026-09-12T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18082335287339245"
+      },
+      "posted_at": "2026-09-12T17:18:38+00:00"
     },
     {
       "id": "hd-cadence-hd10_d2_9_food_order_blood_sugar-fb",
