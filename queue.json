@@ -31403,7 +31403,13 @@
       "video_path": "images/tmr_reels_content22/tmr_d132_costume.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d132_costume.mp4",
       "when": "2026-09-20T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "27070623009214137",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T21:47:47+00:00"
     },
     {
       "id": "tmr-reel-tmr_d133_eastern_europe",
@@ -33489,7 +33495,13 @@
       "video_path": "images/wisdom_reels_content16/dw_d16_nobody_thinking_about_you.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d16_nobody_thinking_about_you.mp4",
       "when": "2026-09-20T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1546712320107711",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T21:47:47+00:00"
     },
     {
       "id": "dw-reel-dw_d16_stoic_control_your_response",
