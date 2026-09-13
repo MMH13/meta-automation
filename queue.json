@@ -31352,7 +31352,13 @@
       "video_path": "images/tmr_reels_content22/tmr_d129_games.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d129_games.mp4",
       "when": "2026-09-20T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1620461279866804",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T12:11:28+00:00"
     },
     {
       "id": "tmr-reel-tmr_d130_fathers",
@@ -31363,7 +31369,13 @@
       "video_path": "images/tmr_reels_content22/tmr_d130_fathers.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d130_fathers.mp4",
       "when": "2026-09-20T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "970089612812677",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T12:11:28+00:00"
     },
     {
       "id": "tmr-reel-tmr_d131_flops",
@@ -33403,7 +33415,13 @@
       "video_path": "images/wisdom_reels_content15/dw_d15_weight_of_unspoken_apology.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d15_weight_of_unspoken_apology.mp4",
       "when": "2026-09-20T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2206303240101073",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T12:11:28+00:00"
     },
     {
       "id": "dw-reel-dw_d16_certainty_is_a_trap",
@@ -35640,7 +35658,11 @@
       "message": "Sparkling water hydrates just as well as still 🫧\n\nThe bubbles are just carbon dioxide. Just watch flavored versions for sneaky added sugar.\n\n💚 Bookmark this hydration myth-buster.\n\n💬 Do you drink sparkling water?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_5_sparkling_water_hydration.mp4",
       "when": "2026-09-13T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18037097180837519"
+      },
+      "posted_at": "2026-09-13T12:12:24+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_6_meal_timing_workout-fb",
@@ -35667,7 +35689,11 @@
       "message": "Big meal right before a workout? Bad idea 🏋️\n\nDigestion and working muscles compete for the same blood flow. A light meal 1-2 hours before works best.\n\n💚 Bookmark this before your next gym session.\n\n💬 Do you eat before or after workouts?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_6_meal_timing_workout.mp4",
       "when": "2026-09-13T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17879707101689263"
+      },
+      "posted_at": "2026-09-13T12:13:04+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_7_fermented_foods_variety-fb",
