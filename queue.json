@@ -31386,7 +31386,13 @@
       "video_path": "images/tmr_reels_content22/tmr_d131_flops.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d131_flops.mp4",
       "when": "2026-09-20T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1053625157653030",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T19:00:21+00:00"
     },
     {
       "id": "tmr-reel-tmr_d132_costume",
@@ -33466,7 +33472,13 @@
       "video_path": "images/wisdom_reels_content16/dw_d16_choosing_peace_family.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d16_choosing_peace_family.mp4",
       "when": "2026-09-20T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1633637778149610",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T19:00:21+00:00"
     },
     {
       "id": "dw-reel-dw_d16_nobody_thinking_about_you",
@@ -35794,7 +35806,11 @@
       "message": "You don't need meat at every meal for protein 🌾\n\nQuinoa, soy, and buckwheat are complete proteins on their own. Rice and beans together also cover the full set.\n\n💚 Bookmark this for meatless Monday.\n\n💬 Have you tried a plant-based meal this week?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_9_plant_protein_complete.mp4",
       "when": "2026-09-13T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18065719193769348"
+      },
+      "posted_at": "2026-09-13T19:01:41+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_10_gut_healing_foods-fb",
