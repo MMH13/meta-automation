@@ -31335,7 +31335,13 @@
       "video_path": "images/tmr_reels_content22/tmr_d128_giallo.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d128_giallo.mp4",
       "when": "2026-09-20T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1612494273905104",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T06:21:03+00:00"
     },
     {
       "id": "tmr-reel-tmr_d129_games",
@@ -35535,7 +35541,11 @@
       "message": "Cold water doesn't slow digestion, that's a myth 🧊\n\nYour body warms any liquid to body temperature fast, cold or not. Drink whatever temperature you actually enjoy.\n\n💚 Bookmark this myth-buster.\n\n💬 Cold water or room temp — what's your go-to?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_2_water_temperature_digestion.mp4",
       "when": "2026-09-13T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18101609489111882"
+      },
+      "posted_at": "2026-09-13T06:21:58+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_3_gut_health_mood_link-fb",
@@ -35562,7 +35572,11 @@
       "message": "90% of your serotonin is made in your GUT 🧠\n\nNot your brain. That's part of why a healthier, more balanced gut may support a steadier mood overall.\n\n💚 Bookmark this gut-mood connection.\n\n💬 Ever noticed food affecting your mood?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_3_gut_health_mood_link.mp4",
       "when": "2026-09-13T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18133006300633472"
+      },
+      "posted_at": "2026-09-13T06:22:42+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_4_healthy_fat_sources-fb",
