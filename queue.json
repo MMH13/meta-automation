@@ -33386,7 +33386,13 @@
       "video_path": "images/wisdom_reels_content15/dw_d15_stoic_amor_of_task.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d15_stoic_amor_of_task.mp4",
       "when": "2026-09-20T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1603230134802320",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T08:24:59+00:00"
     },
     {
       "id": "dw-reel-dw_d15_weight_of_unspoken_apology",
@@ -35603,7 +35609,11 @@
       "message": "Fat isn't the enemy it was made out to be 🥑\n\nAvocado, nuts, olive oil, and fatty fish help you absorb vitamins A, D, E, and K from your food.\n\n💚 Bookmark this before your next grocery run.\n\n💬 What's your favorite healthy fat source?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_4_healthy_fat_sources.mp4",
       "when": "2026-09-13T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18088394933234999"
+      },
+      "posted_at": "2026-09-13T08:25:39+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_5_sparkling_water_hydration-fb",
