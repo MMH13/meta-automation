@@ -31318,7 +31318,13 @@
       "video_path": "images/tmr_reels_content22/tmr_d127_australian.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d127_australian.mp4",
       "when": "2026-09-20T01:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1047106251653642",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-20T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-13T01:12:01+00:00"
     },
     {
       "id": "tmr-reel-tmr_d128_giallo",
@@ -35498,7 +35504,11 @@
       "message": "That 'one bag' might actually be 3 servings 📦\n\nServing size is the first thing to check on a label. Multiply the numbers if you know you'll eat the whole thing.\n\n💚 Bookmark this before your next snack.\n\n💬 Do you check serving sizes on labels?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d3_1_reading_nutrition_labels.mp4",
       "when": "2026-09-13T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18352241164175268"
+      },
+      "posted_at": "2026-09-13T01:12:42+00:00"
     },
     {
       "id": "hd-cadence-hd10_d3_2_water_temperature_digestion-fb",
