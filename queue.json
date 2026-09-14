@@ -31471,7 +31471,13 @@
       "video_path": "images/tmr_reels_content23/tmr_d136_mothers.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d136_mothers.mp4",
       "when": "2026-09-21T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2478712785983862",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T14:16:32+00:00"
     },
     {
       "id": "tmr-reel-tmr_d137_banned",
@@ -33547,7 +33553,13 @@
       "video_path": "images/wisdom_reels_content16/dw_d16_missing_who_you_used_to_be.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d16_missing_who_you_used_to_be.mp4",
       "when": "2026-09-21T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1432590412053668",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T14:16:32+00:00"
     },
     {
       "id": "dw-reel-dw_d17_the_life_you_ignore",
@@ -33558,7 +33570,13 @@
       "video_path": "images/wisdom_reels_content17/dw_d17_the_life_you_ignore.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d17_the_life_you_ignore.mp4",
       "when": "2026-09-21T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1411738680285745",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T14:16:32+00:00"
     },
     {
       "id": "dw-reel-dw_d17_loss_aversion",
@@ -36059,7 +36077,11 @@
       "message": "70% of your immune cells live in your GUT 🛡️\n\nA balanced, diverse gut may support a more responsive immune system overall.\n\n💚 Bookmark this immune-gut connection.\n\n💬 Did you know your gut was that connected to immunity?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_6_gut_immune_connection.mp4",
       "when": "2026-09-14T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18163536325483547"
+      },
+      "posted_at": "2026-09-14T14:17:39+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_7_healthy_carbs_myth-fb",
@@ -36086,7 +36108,11 @@
       "message": "Carbs aren't the enemy 🍞\n\nWhole grains and refined carbs affect your body very differently. Fiber content is the real thing to check.\n\n💚 Bookmark this carb myth-buster.\n\n💬 Whole grain or refined — which do you usually pick?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_7_healthy_carbs_myth.mp4",
       "when": "2026-09-14T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18115519838008671"
+      },
+      "posted_at": "2026-09-14T14:18:12+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_8_dehydration_headache_link-fb",
