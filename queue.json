@@ -31437,7 +31437,13 @@
       "video_path": "images/tmr_reels_content23/tmr_d134_kaiju.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d134_kaiju.mp4",
       "when": "2026-09-21T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1413703430716078",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T06:30:00+00:00"
     },
     {
       "id": "tmr-reel-tmr_d135_gambling",
@@ -35917,7 +35923,11 @@
       "message": "Water alone won't fix dry skin 💧\n\nBeing hydrated helps your whole body, but skin also needs an actual moisture barrier on the surface. Hydrate inside and out.\n\n💚 Bookmark this skin-health myth-buster.\n\n💬 What's your go-to for dry skin?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_2_hydration_skin_myth.mp4",
       "when": "2026-09-14T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18093568799644970"
+      },
+      "posted_at": "2026-09-14T06:31:09+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_3_digestive_enzymes_basics-fb",
@@ -35944,7 +35954,11 @@
       "message": "Your saliva starts digesting food before you swallow 🦷\n\nYour body already makes its own digestive enzymes. Chewing thoroughly gives them more surface area to work with.\n\n💚 Bookmark this before your next meal.\n\n💬 Do you rush your meals?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_3_digestive_enzymes_basics.mp4",
       "when": "2026-09-14T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18068546726767306"
+      },
+      "posted_at": "2026-09-14T06:32:02+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_4_added_sugar_names-fb",
