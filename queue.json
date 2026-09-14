@@ -31454,7 +31454,13 @@
       "video_path": "images/tmr_reels_content23/tmr_d135_gambling.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d135_gambling.mp4",
       "when": "2026-09-21T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "960557323754316",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T09:04:52+00:00"
     },
     {
       "id": "tmr-reel-tmr_d136_mothers",
@@ -33524,7 +33530,13 @@
       "video_path": "images/wisdom_reels_content16/dw_d16_stoic_control_your_response.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d16_stoic_control_your_response.mp4",
       "when": "2026-09-21T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1392493979040051",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T09:04:52+00:00"
     },
     {
       "id": "dw-reel-dw_d16_missing_who_you_used_to_be",
@@ -36016,7 +36028,11 @@
       "message": "'8 glasses a day' isn't actually science 🚱\n\nIt traces back to a vague, misquoted recommendation. Your real needs vary by body size, climate, and activity level.\n\n💚 Bookmark this hydration myth-buster.\n\n💬 Do you track your water intake?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_5_water_intake_formula_myth.mp4",
       "when": "2026-09-14T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17907371661508787"
+      },
+      "posted_at": "2026-09-14T09:05:46+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_6_gut_immune_connection-fb",
