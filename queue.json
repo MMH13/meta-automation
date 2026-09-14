@@ -31505,7 +31505,13 @@
       "video_path": "images/tmr_reels_content23/tmr_d138_colour.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d138_colour.mp4",
       "when": "2026-09-21T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1092036316705514",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T22:46:48+00:00"
     },
     {
       "id": "tmr-reel-tmr_d139_chinese",
@@ -33627,7 +33633,13 @@
       "video_path": "images/wisdom_reels_content17/dw_d17_growth_requires_discomfort.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d17_growth_requires_discomfort.mp4",
       "when": "2026-09-21T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1393787872267569",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T22:46:48+00:00"
     },
     {
       "id": "dw-reel-dw_d17_stoic_the_gift_of_a_bad_day",
@@ -36219,7 +36231,11 @@
       "message": "The 'would an apple sound good?' test 🍎\n\nIf the answer is no, you're probably bored or stressed, not actually hungry. Name the feeling before the fridge.\n\n💚 Bookmark this snacking check-in.\n\n💬 Do you snack out of boredom?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_10_mindless_snacking_triggers.mp4",
       "when": "2026-09-14T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18116393858516830"
+      },
+      "posted_at": "2026-09-14T22:47:53+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_2_hydration_exercise_timing-fb",
