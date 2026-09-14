@@ -31488,7 +31488,13 @@
       "video_path": "images/tmr_reels_content23/tmr_d137_banned.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d137_banned.mp4",
       "when": "2026-09-21T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1072633368720508",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T19:30:05+00:00"
     },
     {
       "id": "tmr-reel-tmr_d138_colour",
@@ -33587,7 +33593,13 @@
       "video_path": "images/wisdom_reels_content17/dw_d17_loss_aversion.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d17_loss_aversion.mp4",
       "when": "2026-09-21T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1616073369903056",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T19:30:05+00:00"
     },
     {
       "id": "dw-reel-dw_d17_actions_show_priority",
@@ -33598,7 +33610,13 @@
       "video_path": "images/wisdom_reels_content17/dw_d17_actions_show_priority.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d17_actions_show_priority.mp4",
       "when": "2026-09-21T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2326896427849980",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-21T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-14T19:30:05+00:00"
     },
     {
       "id": "dw-reel-dw_d17_growth_requires_discomfort",
@@ -36139,7 +36157,11 @@
       "message": "That afternoon headache might just be water 🤕\n\nEven mild fluid loss can trigger tension headaches. Try a full glass and wait 20 minutes before reaching for meds.\n\n💚 Bookmark this for your next headache.\n\n💬 Do you drink water before taking painkillers?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_8_dehydration_headache_link.mp4",
       "when": "2026-09-14T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18151968457517178"
+      },
+      "posted_at": "2026-09-14T19:31:20+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_9_probiotics_vs_prebiotics-fb",
@@ -36166,7 +36188,11 @@
       "message": "Probiotics ≠ Prebiotics — know the difference 🧬\n\nProbiotics are the live bacteria (yogurt, kefir). Prebiotics are the fiber that feeds them (garlic, onions). You need both.\n\n💚 Bookmark this before your next grocery trip.\n\n💬 Did you know the difference before this?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d4_9_probiotics_vs_prebiotics.mp4",
       "when": "2026-09-14T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18086515787692592"
+      },
+      "posted_at": "2026-09-14T19:32:28+00:00"
     },
     {
       "id": "hd-cadence-hd10_d4_10_mindless_snacking_triggers-fb",
