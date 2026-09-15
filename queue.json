@@ -33622,7 +33622,13 @@
       "video_path": "images/wisdom_reels_content17/dw_d17_stoic_the_gift_of_a_bad_day.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d17_stoic_the_gift_of_a_bad_day.mp4",
       "when": "2026-09-22T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2027918914528985",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-22T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-15T08:47:51+00:00"
     },
     {
       "id": "dw-reel-dw_d17_love_in_small_actions",
