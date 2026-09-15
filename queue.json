@@ -31535,7 +31535,13 @@
       "video_path": "images/tmr_reels_content24/tmr_d141_boxing.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d141_boxing.mp4",
       "when": "2026-09-22T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "886421491069462",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-22T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-15T12:14:42+00:00"
     },
     {
       "id": "tmr-reel-tmr_d142_friendship",
@@ -31546,7 +31552,13 @@
       "video_path": "images/tmr_reels_content24/tmr_d142_friendship.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d142_friendship.mp4",
       "when": "2026-09-22T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1173200892328391",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-22T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-15T12:14:42+00:00"
     },
     {
       "id": "tmr-reel-tmr_d143_made_in_secret",
@@ -33639,7 +33651,13 @@
       "video_path": "images/wisdom_reels_content17/dw_d17_love_in_small_actions.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d17_love_in_small_actions.mp4",
       "when": "2026-09-22T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1287959333395238",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-22T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-15T12:14:42+00:00"
     },
     {
       "id": "dw-reel-dw_d18_your_standards_are_your_life",
@@ -36298,7 +36316,11 @@
       "message": "Not every drink hydrates you equally 🥤\n\nAlcohol and very sugary drinks can pull water out faster than they put it in. Water, milk, and herbal tea are reliable choices.\n\n💚 Bookmark this hydration guide.\n\n💬 What's your most-consumed drink besides water?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_5_water_vs_other_drinks.mp4",
       "when": "2026-09-15T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18351699610222023"
+      },
+      "posted_at": "2026-09-15T12:16:10+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_6_digestion_time_foods-fb",
@@ -36324,7 +36346,11 @@
       "message": "Fruit digests in 30 min, a heavy meal takes hours ⏳\n\nFatty, protein-heavy meals take several hours to move through your system. That's why some meals sit heavier.\n\n💚 Bookmark this digestion timing fact.\n\n💬 Ever notice some meals sit heavier than others?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_6_digestion_time_foods.mp4",
       "when": "2026-09-15T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18105426083607474"
+      },
+      "posted_at": "2026-09-15T12:16:57+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_7_nutrient_timing_myth-fb",
