@@ -31539,7 +31539,13 @@
       "video_path": "images/tmr_reels_content24/tmr_d140_slashers.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d140_slashers.mp4",
       "when": "2026-09-22T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2857098561343116",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-22T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-15T06:47:12+00:00"
     },
     {
       "id": "tmr-reel-tmr_d141_boxing",
@@ -36268,7 +36274,11 @@
       "message": "Hydration starts BEFORE your workout, not during 💦\n\nA glass or two 1-2 hours beforehand sets you up better. Small sips during beat big gulps.\n\n💚 Bookmark this before your next workout.\n\n💬 When do you usually drink water around workouts?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_2_hydration_exercise_timing.mp4",
       "when": "2026-09-15T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18083737661312329"
+      },
+      "posted_at": "2026-09-15T06:47:54+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_3_gut_reset_myth-fb",
@@ -36295,7 +36305,11 @@
       "message": "There's no such thing as a 3-day 'gut reset' 🚫\n\nGut bacteria shift meaningfully over weeks of consistent eating, not days. Consistency beats any quick cleanse.\n\n💚 Bookmark this before buying a 'cleanse'.\n\n💬 Have you ever tried a 'gut reset' program?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_3_gut_reset_myth.mp4",
       "when": "2026-09-15T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18114622771798228"
+      },
+      "posted_at": "2026-09-15T06:49:13+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_4_omega6_omega3_balance-fb",
