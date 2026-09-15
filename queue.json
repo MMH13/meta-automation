@@ -31569,7 +31569,13 @@
       "video_path": "images/tmr_reels_content24/tmr_d143_made_in_secret.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d143_made_in_secret.mp4",
       "when": "2026-09-22T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1651363209875320",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-22T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-15T17:19:03+00:00"
     },
     {
       "id": "tmr-reel-tmr_d144_monologues",
@@ -33685,7 +33691,13 @@
       "video_path": "images/wisdom_reels_content18/dw_d18_imposter_syndrome.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d18_imposter_syndrome.mp4",
       "when": "2026-09-22T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1412119537541924",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-22T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-15T17:19:03+00:00"
     },
     {
       "id": "dw-reel-dw_d18_the_right_person_wrong_time",
@@ -36382,7 +36394,11 @@
       "message": "The post-workout 'anabolic window' is overhyped ⏱️\n\nYour muscles stay receptive to protein for hours, not minutes. Total daily protein matters far more than exact timing.\n\n💚 Bookmark this fitness myth-buster.\n\n💬 Do you rush a protein shake after workouts?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_7_nutrient_timing_myth.mp4",
       "when": "2026-09-15T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17958601530213973"
+      },
+      "posted_at": "2026-09-15T17:19:56+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_8_bloating_carbonation-fb",
@@ -36408,7 +36424,11 @@
       "message": "Carbonated drinks trap gas fast if you gulp them 🫧\n\nEach sip adds tiny bubbles that need to escape. Sipping slowly gives that gas time to escape gradually.\n\n💚 Bookmark this before your next fizzy drink.\n\n💬 Do carbonated drinks bloat you?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_8_bloating_carbonation.mp4",
       "when": "2026-09-15T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17875594977631892"
+      },
+      "posted_at": "2026-09-15T17:21:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_9_gut_brain_axis_stress-fb",
