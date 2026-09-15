@@ -31204,8 +31204,7 @@
         "video_id": "1067009546356844",
         "status": "scheduled",
         "publish_at_utc": "2026-09-18T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d121_british",
@@ -31221,8 +31220,7 @@
         "video_id": "1743590100213293",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T01:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T01:36:57+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d122_martial_arts",
@@ -31238,8 +31236,7 @@
         "video_id": "1077459754997074",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T05:57:28+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d123_vampires",
@@ -31255,8 +31252,7 @@
         "video_id": "2007107786661981",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T10:58:56+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d124_class",
@@ -31272,8 +31268,7 @@
         "video_id": "2330908691066658",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T11:17:43+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d125_anthology",
@@ -31289,8 +31284,7 @@
         "video_id": "2198434750733224",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T17:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T17:17:47+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d126_against_type",
@@ -31306,8 +31300,7 @@
         "video_id": "1610005410525621",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T21:42:44+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d127_australian",
@@ -31323,8 +31316,7 @@
         "video_id": "1047106251653642",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T01:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T01:12:01+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d128_giallo",
@@ -31340,8 +31332,7 @@
         "video_id": "1612494273905104",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T06:21:03+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d129_games",
@@ -31357,8 +31348,7 @@
         "video_id": "1620461279866804",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T12:11:28+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d130_fathers",
@@ -31374,8 +31364,7 @@
         "video_id": "970089612812677",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T12:11:28+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d131_flops",
@@ -31391,8 +31380,7 @@
         "video_id": "1053625157653030",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T17:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T19:00:21+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d132_costume",
@@ -31408,8 +31396,7 @@
         "video_id": "27070623009214137",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T21:47:47+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d133_eastern_europe",
@@ -31425,8 +31412,7 @@
         "video_id": "980791575044263",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T01:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T01:15:47+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d134_kaiju",
@@ -31442,8 +31428,7 @@
         "video_id": "1413703430716078",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T06:30:00+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d135_gambling",
@@ -31459,8 +31444,7 @@
         "video_id": "960557323754316",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T09:04:52+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d136_mothers",
@@ -31476,8 +31460,7 @@
         "video_id": "2478712785983862",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T14:16:32+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d137_banned",
@@ -31493,8 +31476,7 @@
         "video_id": "1072633368720508",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T17:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T19:30:05+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d138_colour",
@@ -31510,8 +31492,7 @@
         "video_id": "1092036316705514",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T22:46:48+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d139_chinese",
@@ -31527,8 +31508,7 @@
         "video_id": "1108386701618128",
         "status": "scheduled",
         "publish_at_utc": "2026-09-22T01:00:00Z"
-      },
-      "scheduled_at": "2026-09-15T01:35:56+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d140_slashers",
@@ -31544,8 +31524,7 @@
         "video_id": "2857098561343116",
         "status": "scheduled",
         "publish_at_utc": "2026-09-22T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-15T06:47:12+00:00"
+      }
     },
     {
       "id": "tmr-reel-tmr_d141_boxing",
@@ -33344,8 +33323,7 @@
         "video_id": "1417238429800437",
         "status": "scheduled",
         "publish_at_utc": "2026-09-18T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d14_stoic_the_archer",
@@ -33361,8 +33339,7 @@
         "video_id": "1394624415567336",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T08:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T08:00:15+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d14_outgrowing_old_dreams",
@@ -33378,8 +33355,7 @@
         "video_id": "1382539026814714",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T10:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T10:58:56+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d15_meaning_over_pleasure",
@@ -33395,8 +33371,7 @@
         "video_id": "1402467591991332",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T13:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T14:19:18+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d15_anchoring_bias",
@@ -33412,8 +33387,7 @@
         "video_id": "2078558216363436",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T15:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T17:17:47+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d15_emotional_availability",
@@ -33429,8 +33403,7 @@
         "video_id": "1799326594400663",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T18:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T19:29:31+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d15_closure_from_yourself",
@@ -33446,8 +33419,7 @@
         "video_id": "2086923249365307",
         "status": "scheduled",
         "publish_at_utc": "2026-09-19T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-12T21:42:44+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d15_stoic_amor_of_task",
@@ -33463,8 +33435,7 @@
         "video_id": "1603230134802320",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T08:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T08:24:59+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d15_weight_of_unspoken_apology",
@@ -33480,8 +33451,7 @@
         "video_id": "2206303240101073",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T10:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T12:11:28+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d16_certainty_is_a_trap",
@@ -33497,8 +33467,7 @@
         "video_id": "1357749456342146",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T13:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T16:29:45+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d16_fundamental_attribution_error",
@@ -33514,8 +33483,7 @@
         "video_id": "2820395818328601",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T15:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T16:29:45+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d16_choosing_peace_family",
@@ -33531,8 +33499,7 @@
         "video_id": "1633637778149610",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T18:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T19:00:21+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d16_nobody_thinking_about_you",
@@ -33548,8 +33515,7 @@
         "video_id": "1546712320107711",
         "status": "scheduled",
         "publish_at_utc": "2026-09-20T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-13T21:47:47+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d16_stoic_control_your_response",
@@ -33565,8 +33531,7 @@
         "video_id": "1392493979040051",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T08:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T09:04:52+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d16_missing_who_you_used_to_be",
@@ -33582,8 +33547,7 @@
         "video_id": "1432590412053668",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T10:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T14:16:32+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d17_the_life_you_ignore",
@@ -33599,8 +33563,7 @@
         "video_id": "1411738680285745",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T13:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T14:16:32+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d17_loss_aversion",
@@ -33616,8 +33579,7 @@
         "video_id": "1616073369903056",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T15:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T19:30:05+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d17_actions_show_priority",
@@ -33633,8 +33595,7 @@
         "video_id": "2326896427849980",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T18:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T19:30:05+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d17_growth_requires_discomfort",
@@ -33650,8 +33611,7 @@
         "video_id": "1393787872267569",
         "status": "scheduled",
         "publish_at_utc": "2026-09-21T21:00:00Z"
-      },
-      "scheduled_at": "2026-09-14T22:46:48+00:00"
+      }
     },
     {
       "id": "dw-reel-dw_d17_stoic_the_gift_of_a_bad_day",
@@ -35302,8 +35262,7 @@
         "video_id": "1568622420865915",
         "status": "scheduled",
         "publish_at_utc": "2026-09-11T22:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d1_10_sugar_crash_cycle-ig",
@@ -35333,8 +35292,7 @@
         "video_id": "1592488438915514",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T00:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_1_eating_slowly_satiety-ig",
@@ -35364,8 +35322,7 @@
         "video_id": "1594330462096825",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T02:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_2_dehydration_brain_fog-ig",
@@ -35395,8 +35352,7 @@
         "video_id": "3602688176558608",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_3_gut_bacteria_diversity-ig",
@@ -35426,8 +35382,7 @@
         "video_id": "1064984422827250",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T07:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_4_frozen_vs_fresh_produce-ig",
@@ -35457,8 +35412,7 @@
         "video_id": "28342316882055888",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_5_electrolyte_myth_sports_drinks-ig",
@@ -35488,8 +35442,7 @@
         "video_id": "4465373470372872",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_6_skipping_meals_metabolism-ig",
@@ -35519,8 +35472,7 @@
         "video_id": "2620389165056383",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T14:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_7_fiber_gut_bacteria_food-ig",
@@ -35550,8 +35502,7 @@
         "video_id": "1078630891722300",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T16:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_8_coffee_hydration_myth-ig",
@@ -35581,8 +35532,7 @@
         "video_id": "1073347765418869",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T19:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_9_food_order_blood_sugar-ig",
@@ -35612,8 +35562,7 @@
         "video_id": "1064155373015312",
         "status": "scheduled",
         "publish_at_utc": "2026-09-12T22:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d2_10_leaky_gut_explained-ig",
@@ -35643,8 +35592,7 @@
         "video_id": "2647018929069725",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T00:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_1_reading_nutrition_labels-ig",
@@ -35674,8 +35622,7 @@
         "video_id": "1747603596547873",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T02:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_2_water_temperature_digestion-ig",
@@ -35705,8 +35652,7 @@
         "video_id": "1472597381342023",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_3_gut_health_mood_link-ig",
@@ -35736,8 +35682,7 @@
         "video_id": "1607751614323597",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T07:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_4_healthy_fat_sources-ig",
@@ -35767,8 +35712,7 @@
         "video_id": "2146715446256410",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_5_sparkling_water_hydration-ig",
@@ -35798,8 +35742,7 @@
         "video_id": "2098895314054211",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_6_meal_timing_workout-ig",
@@ -35829,8 +35772,7 @@
         "video_id": "1746102963365643",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T14:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_7_fermented_foods_variety-ig",
@@ -35860,8 +35802,7 @@
         "video_id": "1027940970211274",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T16:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_8_sodium_hidden_sources-ig",
@@ -35891,8 +35832,7 @@
         "video_id": "950208750841151",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T19:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_9_plant_protein_complete-ig",
@@ -35922,8 +35862,7 @@
         "video_id": "1399440882361779",
         "status": "scheduled",
         "publish_at_utc": "2026-09-13T22:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d3_10_gut_healing_foods-ig",
@@ -35953,8 +35892,7 @@
         "video_id": "2345669556242609",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T00:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_1_snack_ingredient_list-ig",
@@ -35984,8 +35922,7 @@
         "video_id": "1092826083114904",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T02:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_2_hydration_skin_myth-ig",
@@ -36015,8 +35952,7 @@
         "video_id": "1595837142193004",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_3_digestive_enzymes_basics-ig",
@@ -36046,8 +35982,7 @@
         "video_id": "4158569184443789",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T07:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_4_added_sugar_names-ig",
@@ -36077,8 +36012,7 @@
         "video_id": "1585814016575775",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_5_water_intake_formula_myth-ig",
@@ -36108,8 +36042,7 @@
         "video_id": "1555942332879481",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_6_gut_immune_connection-ig",
@@ -36139,8 +36072,7 @@
         "video_id": "947044288450150",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T14:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_7_healthy_carbs_myth-ig",
@@ -36170,8 +36102,7 @@
         "video_id": "2099975610606356",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T16:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_8_dehydration_headache_link-ig",
@@ -36201,8 +36132,7 @@
         "video_id": "1071902698766621",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T19:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_9_probiotics_vs_prebiotics-ig",
@@ -36232,8 +36162,7 @@
         "video_id": "1549015493132445",
         "status": "scheduled",
         "publish_at_utc": "2026-09-14T22:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d4_10_mindless_snacking_triggers-ig",
@@ -36263,8 +36192,7 @@
         "video_id": "1576789583378907",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T02:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_2_hydration_exercise_timing-ig",
@@ -36294,8 +36222,7 @@
         "video_id": "3027050360973137",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_3_gut_reset_myth-ig",
@@ -36325,8 +36252,7 @@
         "video_id": "1829039541870296",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T07:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_4_omega6_omega3_balance-ig",
@@ -36352,8 +36278,7 @@
         "video_id": "1718796276069571",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_5_water_vs_other_drinks-ig",
@@ -36379,8 +36304,7 @@
         "video_id": "1352426869992577",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_6_digestion_time_foods-ig",
@@ -36406,8 +36330,7 @@
         "video_id": "1370179504829662",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T14:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_7_nutrient_timing_myth-ig",
@@ -36433,8 +36356,7 @@
         "video_id": "1071821548783842",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T16:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_8_bloating_carbonation-ig",
@@ -36460,8 +36382,7 @@
         "video_id": "1076445324746509",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T19:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_9_gut_brain_axis_stress-ig",
@@ -36487,8 +36408,7 @@
         "video_id": "2623804888074393",
         "status": "scheduled",
         "publish_at_utc": "2026-09-15T22:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T19:59:01+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d5_10_eating_mindfully_habit-ig",
@@ -36514,8 +36434,7 @@
         "video_id": "1607483467399408",
         "status": "scheduled",
         "publish_at_utc": "2026-09-16T00:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d6_1_sleep_cycles_90min-ig",
@@ -36541,8 +36460,7 @@
         "video_id": "1801704721006503",
         "status": "scheduled",
         "publish_at_utc": "2026-09-16T02:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d6_2_rem_dreams_memory-ig",
@@ -36568,8 +36486,7 @@
         "video_id": "1785279319463781",
         "status": "scheduled",
         "publish_at_utc": "2026-09-16T05:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d6_3_circadian_clock_basics-ig",
@@ -36595,8 +36512,7 @@
         "video_id": "1121662457096864",
         "status": "scheduled",
         "publish_at_utc": "2026-09-16T07:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d6_4_sleep_pressure_adenosine-ig",
@@ -36622,8 +36538,7 @@
         "video_id": "1422813319727983",
         "status": "scheduled",
         "publish_at_utc": "2026-09-16T09:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d6_5_nap_before_3pm_rule-ig",
@@ -36649,8 +36564,7 @@
         "video_id": "1252099447046366",
         "status": "scheduled",
         "publish_at_utc": "2026-09-16T11:00:00Z"
-      },
-      "scheduled_at": "2026-09-11T21:22:32+00:00"
+      }
     },
     {
       "id": "hd-cadence-hd10_d6_6_cold_bedroom_deep_sleep-ig",
@@ -36660,6 +36574,720 @@
       "message": "A cool bedroom helps you reach deep sleep faster ❄️\n\nYour core temperature naturally needs to drop to fall asleep. 18-20°C works well for most people.\n\n💚 Bookmark this before bedtime tonight.\n\n💬 Do you sleep with the room warm or cool?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_6_cold_bedroom_deep_sleep.mp4",
       "when": "2026-09-16T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d5_1_calorie_quality_myth-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "200 calories of soda ≠ 200 calories of almonds 🥜\n\nFiber, protein, and fat slow absorption and fill you up. Calorie quality shapes how they actually behave in your body.\n\n💚 Bookmark this nutrition myth-buster.\n\n💬 Do you think about calorie quality or just the number?",
+      "video_path": "images/health_reels_hd10_batch01/hd10_d5_1_calorie_quality_myth.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_1_calorie_quality_myth.mp4",
+      "when": "2026-09-15T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d5_1_calorie_quality_myth-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "200 calories of soda ≠ 200 calories of almonds 🥜\n\nFiber, protein, and fat slow absorption and fill you up. Calorie quality shapes how they actually behave in your body.\n\n💚 Bookmark this nutrition myth-buster.\n\n💬 Do you think about calorie quality or just the number?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d5_1_calorie_quality_myth.mp4",
+      "when": "2026-09-15T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_1_consistent_wake_time-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your wake-up time matters more than bedtime ⏰\n\nYour body clock anchors around when you wake, not sleep. Keep it within an hour, even on weekends.\n\n💚 Bookmark this sleep consistency tip.\n\n💬 Do you wake up at the same time daily?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_1_consistent_wake_time.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_1_consistent_wake_time.mp4",
+      "when": "2026-09-17T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_1_consistent_wake_time-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your wake-up time matters more than bedtime ⏰\n\nYour body clock anchors around when you wake, not sleep. Keep it within an hour, even on weekends.\n\n💚 Bookmark this sleep consistency tip.\n\n💬 Do you wake up at the same time daily?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_1_consistent_wake_time.mp4",
+      "when": "2026-09-17T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_2_sleep_debt_cant_fully_repay-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You can't fully 'pay back' a week of lost sleep 💤\n\nSome brain functions take several nights to recover. Small, consistent extra sleep beats one big catch-up.\n\n💚 Bookmark this sleep debt reality check.\n\n💬 Do you try to 'catch up' on sleep over weekends?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_2_sleep_debt_cant_fully_repay.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_2_sleep_debt_cant_fully_repay.mp4",
+      "when": "2026-09-17T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_2_sleep_debt_cant_fully_repay-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "You can't fully 'pay back' a week of lost sleep 💤\n\nSome brain functions take several nights to recover. Small, consistent extra sleep beats one big catch-up.\n\n💚 Bookmark this sleep debt reality check.\n\n💬 Do you try to 'catch up' on sleep over weekends?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_2_sleep_debt_cant_fully_repay.mp4",
+      "when": "2026-09-17T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_3_bedroom_darkness_melatonin-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Even small light can suppress your melatonin 🌑\n\nMelatonin is the hormone that signals 'time to sleep'. Blackout curtains or an eye mask make a real difference.\n\n💚 Bookmark this before tonight.\n\n💬 How dark is your bedroom at night?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_3_bedroom_darkness_melatonin.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_3_bedroom_darkness_melatonin.mp4",
+      "when": "2026-09-17T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_3_bedroom_darkness_melatonin-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Even small light can suppress your melatonin 🌑\n\nMelatonin is the hormone that signals 'time to sleep'. Blackout curtains or an eye mask make a real difference.\n\n💚 Bookmark this before tonight.\n\n💬 How dark is your bedroom at night?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_3_bedroom_darkness_melatonin.mp4",
+      "when": "2026-09-17T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_4_caffeine_half_life_sleep-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your 3pm coffee is still active at midnight ☕\n\nCaffeine's half-life is 5-6 hours. Cutting it off by early-to-mid afternoon protects your sleep that night.\n\n💚 Bookmark this caffeine timing fact.\n\n💬 What time do you usually stop drinking caffeine?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_4_caffeine_half_life_sleep.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_4_caffeine_half_life_sleep.mp4",
+      "when": "2026-09-17T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_4_caffeine_half_life_sleep-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your 3pm coffee is still active at midnight ☕\n\nCaffeine's half-life is 5-6 hours. Cutting it off by early-to-mid afternoon protects your sleep that night.\n\n💚 Bookmark this caffeine timing fact.\n\n💬 What time do you usually stop drinking caffeine?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_4_caffeine_half_life_sleep.mp4",
+      "when": "2026-09-17T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_5_sleep_and_memory_consolidation-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your brain files away memories mostly while you sleep 🧠\n\nThis is called memory consolidation. Pulling an all-nighter to study can genuinely backfire the next day.\n\n💚 Bookmark this before exam season.\n\n💬 Have you ever pulled an all-nighter to study?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_5_sleep_and_memory_consolidation.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_5_sleep_and_memory_consolidation.mp4",
+      "when": "2026-09-17T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_5_sleep_and_memory_consolidation-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your brain files away memories mostly while you sleep 🧠\n\nThis is called memory consolidation. Pulling an all-nighter to study can genuinely backfire the next day.\n\n💚 Bookmark this before exam season.\n\n💬 Have you ever pulled an all-nighter to study?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_5_sleep_and_memory_consolidation.mp4",
+      "when": "2026-09-17T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_6_weekend_sleep_shift_effect-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Sleeping in on weekends creates a mini jet lag 🛫\n\nResearchers call it 'social jet lag', a real, documented pattern. Keep wake time within an hour to avoid the Monday slump.\n\n💚 Bookmark this before your next weekend.\n\n💬 Do you sleep in a lot on weekends?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_6_weekend_sleep_shift_effect.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_6_weekend_sleep_shift_effect.mp4",
+      "when": "2026-09-17T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_6_weekend_sleep_shift_effect-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Sleeping in on weekends creates a mini jet lag 🛫\n\nResearchers call it 'social jet lag', a real, documented pattern. Keep wake time within an hour to avoid the Monday slump.\n\n💚 Bookmark this before your next weekend.\n\n💬 Do you sleep in a lot on weekends?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_6_weekend_sleep_shift_effect.mp4",
+      "when": "2026-09-17T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_1_light_therapy_morning-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Ten minutes of morning light can lift your whole day ☀️\n\nIt helps anchor your circadian rhythm earlier. Even a short walk outside soon after waking makes a difference.\n\n💚 Bookmark this morning habit.\n\n💬 Do you get outside soon after waking up?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_1_light_therapy_morning.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_1_light_therapy_morning.mp4",
+      "when": "2026-09-18T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_1_light_therapy_morning-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Ten minutes of morning light can lift your whole day ☀️\n\nIt helps anchor your circadian rhythm earlier. Even a short walk outside soon after waking makes a difference.\n\n💚 Bookmark this morning habit.\n\n💬 Do you get outside soon after waking up?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_1_light_therapy_morning.mp4",
+      "when": "2026-09-18T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_2_sleep_apnea_awareness-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Loud snoring can be more than just annoying 😴\n\nIt can be a sign of sleep apnea, where breathing briefly stops many times a night. Worth mentioning to a doctor.\n\n💚 Bookmark this and share if it applies to someone you know.\n\n💬 Have you ever been told you snore loudly?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_2_sleep_apnea_awareness.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_2_sleep_apnea_awareness.mp4",
+      "when": "2026-09-18T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_2_sleep_apnea_awareness-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Loud snoring can be more than just annoying 😴\n\nIt can be a sign of sleep apnea, where breathing briefly stops many times a night. Worth mentioning to a doctor.\n\n💚 Bookmark this and share if it applies to someone you know.\n\n💬 Have you ever been told you snore loudly?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_2_sleep_apnea_awareness.mp4",
+      "when": "2026-09-18T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_3_white_noise_sleep_quality-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "It's not silence that matters, it's consistency 🌀\n\nA steady hum like a fan masks random noises that would otherwise wake you. Consistency beats total silence.\n\n💚 Bookmark this before tonight.\n\n💬 Do you sleep with any background noise?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_3_white_noise_sleep_quality.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_3_white_noise_sleep_quality.mp4",
+      "when": "2026-09-18T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_3_white_noise_sleep_quality-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "It's not silence that matters, it's consistency 🌀\n\nA steady hum like a fan masks random noises that would otherwise wake you. Consistency beats total silence.\n\n💚 Bookmark this before tonight.\n\n💬 Do you sleep with any background noise?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_3_white_noise_sleep_quality.mp4",
+      "when": "2026-09-18T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_4_sleep_growth_hormone_release-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Growth hormone is released mostly during deep sleep 💪\n\nIt helps repair tissue and build muscle overnight. Skimping on sleep can blunt workout recovery noticeably.\n\n💚 Bookmark this if you train regularly.\n\n💬 Do you prioritize sleep around workout days?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_4_sleep_growth_hormone_release.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_4_sleep_growth_hormone_release.mp4",
+      "when": "2026-09-18T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_4_sleep_growth_hormone_release-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Growth hormone is released mostly during deep sleep 💪\n\nIt helps repair tissue and build muscle overnight. Skimping on sleep can blunt workout recovery noticeably.\n\n💚 Bookmark this if you train regularly.\n\n💬 Do you prioritize sleep around workout days?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_4_sleep_growth_hormone_release.mp4",
+      "when": "2026-09-18T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_5_pre_sleep_routine_signal-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your brain learns to associate cues with sleep 🕯️\n\nDimming lights, reading, or stretching before bed all work as signals. Same cues, easier wind-down over time.\n\n💚 Bookmark this before building a routine.\n\n💬 Do you have a wind-down routine before bed?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_5_pre_sleep_routine_signal.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_5_pre_sleep_routine_signal.mp4",
+      "when": "2026-09-18T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_5_pre_sleep_routine_signal-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your brain learns to associate cues with sleep 🕯️\n\nDimming lights, reading, or stretching before bed all work as signals. Same cues, easier wind-down over time.\n\n💚 Bookmark this before building a routine.\n\n💬 Do you have a wind-down routine before bed?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_5_pre_sleep_routine_signal.mp4",
+      "when": "2026-09-18T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_6_exercise_timing_sleep-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Evening workouts usually help sleep, with one catch ⚡\n\nVery intense sessions right before bed can raise alertness for some people. A small buffer usually solves it.\n\n💚 Bookmark this before your next evening workout.\n\n💬 Do you work out in the evening?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_6_exercise_timing_sleep.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_6_exercise_timing_sleep.mp4",
+      "when": "2026-09-18T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_6_exercise_timing_sleep-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Evening workouts usually help sleep, with one catch ⚡\n\nVery intense sessions right before bed can raise alertness for some people. A small buffer usually solves it.\n\n💚 Bookmark this before your next evening workout.\n\n💬 Do you work out in the evening?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_6_exercise_timing_sleep.mp4",
+      "when": "2026-09-18T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_3_sleep_quality_vs_quantity-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "8 broken hours ≠ 8 solid hours of sleep 🌙\n\nFrequent waking disrupts deep and REM sleep the most. How rested you feel matters more than the raw number.\n\n💚 Bookmark this sleep quality reminder.\n\n💬 Do you track your sleep quality or just hours?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d9_3_sleep_quality_vs_quantity.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_3_sleep_quality_vs_quantity.mp4",
+      "when": "2026-09-19T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_3_sleep_quality_vs_quantity-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "8 broken hours ≠ 8 solid hours of sleep 🌙\n\nFrequent waking disrupts deep and REM sleep the most. How rested you feel matters more than the raw number.\n\n💚 Bookmark this sleep quality reminder.\n\n💬 Do you track your sleep quality or just hours?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_3_sleep_quality_vs_quantity.mp4",
+      "when": "2026-09-19T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_4_sleep_and_immune_repair-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your immune system does its best work while you sleep 🛡️\n\nProtective proteins called cytokines are released mostly during sleep. That's why your body craves rest when you're sick.\n\n💚 Bookmark this before cold season.\n\n💬 Do you sleep more when you're getting sick?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d9_4_sleep_and_immune_repair.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_4_sleep_and_immune_repair.mp4",
+      "when": "2026-09-19T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_4_sleep_and_immune_repair-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your immune system does its best work while you sleep 🛡️\n\nProtective proteins called cytokines are released mostly during sleep. That's why your body craves rest when you're sick.\n\n💚 Bookmark this before cold season.\n\n💬 Do you sleep more when you're getting sick?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_4_sleep_and_immune_repair.mp4",
+      "when": "2026-09-19T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_5_napping_workplace_stigma-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A 15-minute nap isn't laziness, it's strategy 😴\n\nSome elite teams and pilots use scheduled naps for performance. 10-20 minutes avoids the groggy after-effect.\n\n💚 Bookmark this if you feel guilty about napping.\n\n💬 Do you ever nap during the day?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d9_5_napping_workplace_stigma.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_5_napping_workplace_stigma.mp4",
+      "when": "2026-09-19T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_5_napping_workplace_stigma-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "A 15-minute nap isn't laziness, it's strategy 😴\n\nSome elite teams and pilots use scheduled naps for performance. 10-20 minutes avoids the groggy after-effect.\n\n💚 Bookmark this if you feel guilty about napping.\n\n💬 Do you ever nap during the day?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_5_napping_workplace_stigma.mp4",
+      "when": "2026-09-19T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_6_screen_time_before_bed-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "It's not just the blue light keeping you up 📱\n\nScrolling stimulating content keeps your brain alert. A calm book beats a fast-moving feed before bed.\n\n💚 Bookmark this before tonight.\n\n💬 What's the last thing you look at before sleeping?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d9_6_screen_time_before_bed.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_6_screen_time_before_bed.mp4",
+      "when": "2026-09-19T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d9_6_screen_time_before_bed-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "It's not just the blue light keeping you up 📱\n\nScrolling stimulating content keeps your brain alert. A calm book beats a fast-moving feed before bed.\n\n💚 Bookmark this before tonight.\n\n💬 What's the last thing you look at before sleeping?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_6_screen_time_before_bed.mp4",
+      "when": "2026-09-19T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_1_zone2_cardio_basics-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "You don't need to sprint for real cardio benefits 🏃\n\nEasy-paced cardio, where you can still talk, builds a strong aerobic base and trains fat-burning efficiency.\n\n💚 Bookmark this before your next cardio session.\n\n💬 Do you always push hard when you exercise?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d10_1_zone2_cardio_basics.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_1_zone2_cardio_basics.mp4",
+      "when": "2026-09-20T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_1_zone2_cardio_basics-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "You don't need to sprint for real cardio benefits 🏃\n\nEasy-paced cardio, where you can still talk, builds a strong aerobic base and trains fat-burning efficiency.\n\n💚 Bookmark this before your next cardio session.\n\n💬 Do you always push hard when you exercise?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_1_zone2_cardio_basics.mp4",
+      "when": "2026-09-20T00:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_2_muscle_soreness_normal-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Sore muscles don't mean a 'better' workout 💪\n\nSoreness comes from unfamiliar movement, not just intensity. Consistent training builds results, sore or not.\n\n💚 Bookmark this fitness myth-buster.\n\n💬 Do you judge a workout by how sore you get?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d10_2_muscle_soreness_normal.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_2_muscle_soreness_normal.mp4",
+      "when": "2026-09-20T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_2_muscle_soreness_normal-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Sore muscles don't mean a 'better' workout 💪\n\nSoreness comes from unfamiliar movement, not just intensity. Consistent training builds results, sore or not.\n\n💚 Bookmark this fitness myth-buster.\n\n💬 Do you judge a workout by how sore you get?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_2_muscle_soreness_normal.mp4",
+      "when": "2026-09-20T02:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_3_walking_pace_health_marker-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your walking pace reflects your overall fitness 🚶\n\nResearchers use walking speed as a simple health marker. Picking up the pace on daily walks builds real fitness.\n\n💚 Bookmark this before your next walk.\n\n💬 What's your usual walking pace like?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d10_3_walking_pace_health_marker.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_3_walking_pace_health_marker.mp4",
+      "when": "2026-09-20T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_3_walking_pace_health_marker-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your walking pace reflects your overall fitness 🚶\n\nResearchers use walking speed as a simple health marker. Picking up the pace on daily walks builds real fitness.\n\n💚 Bookmark this before your next walk.\n\n💬 What's your usual walking pace like?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_3_walking_pace_health_marker.mp4",
+      "when": "2026-09-20T05:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_4_strength_training_bone_density-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Lifting weights protects your bones, not just muscle 🦴\n\nResistance training stimulates bones to stay denser. This matters even more as bone loss naturally speeds up with age.\n\n💚 Bookmark this before your next workout.\n\n💬 Do you include strength training in your week?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d10_4_strength_training_bone_density.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_4_strength_training_bone_density.mp4",
+      "when": "2026-09-20T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_4_strength_training_bone_density-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Lifting weights protects your bones, not just muscle 🦴\n\nResistance training stimulates bones to stay denser. This matters even more as bone loss naturally speeds up with age.\n\n💚 Bookmark this before your next workout.\n\n💬 Do you include strength training in your week?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_4_strength_training_bone_density.mp4",
+      "when": "2026-09-20T07:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_5_exercise_snack_micro_movement-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "'Exercise snacks' are a real, researched thing 🍎\n\nA minute of squats or a quick set of stairs a few times a day genuinely adds up. No gym required.\n\n💚 Bookmark this for busy days.\n\n💬 Do you sneak in movement during your day?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d10_5_exercise_snack_micro_movement.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_5_exercise_snack_micro_movement.mp4",
+      "when": "2026-09-20T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_5_exercise_snack_micro_movement-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "'Exercise snacks' are a real, researched thing 🍎\n\nA minute of squats or a quick set of stairs a few times a day genuinely adds up. No gym required.\n\n💚 Bookmark this for busy days.\n\n💬 Do you sneak in movement during your day?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_5_exercise_snack_micro_movement.mp4",
+      "when": "2026-09-20T09:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_6_recovery_active_vs_rest-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A rest day doesn't have to mean zero movement 🚶\n\nLight activity like an easy walk clears soreness faster than sitting still, by boosting blood flow to tired muscles.\n\n💚 Bookmark this for your next rest day.\n\n💬 What does your rest day usually look like?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d10_6_recovery_active_vs_rest.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_6_recovery_active_vs_rest.mp4",
+      "when": "2026-09-20T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d10_6_recovery_active_vs_rest-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "A rest day doesn't have to mean zero movement 🚶\n\nLight activity like an easy walk clears soreness faster than sitting still, by boosting blood flow to tired muscles.\n\n💚 Bookmark this for your next rest day.\n\n💬 What does your rest day usually look like?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_6_recovery_active_vs_rest.mp4",
+      "when": "2026-09-20T11:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_7_exercise_warmup_injury_prevention-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Skipping the warm-up is a top injury trigger 🔥\n\nCold muscles are stiffer and more prone to strains. Just 5-10 minutes of light movement prepares your body well.\n\n💚 Bookmark this before your next workout.\n\n💬 Do you skip warm-ups sometimes?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d6_7_exercise_warmup_injury_prevention.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_7_exercise_warmup_injury_prevention.mp4",
+      "when": "2026-09-16T14:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_7_exercise_warmup_injury_prevention-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Skipping the warm-up is a top injury trigger 🔥\n\nCold muscles are stiffer and more prone to strains. Just 5-10 minutes of light movement prepares your body well.\n\n💚 Bookmark this before your next workout.\n\n💬 Do you skip warm-ups sometimes?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_7_exercise_warmup_injury_prevention.mp4",
+      "when": "2026-09-16T14:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_8_heart_rate_zones_basics-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Not every workout needs your max heart rate ❤️\n\nDifferent heart rate zones train different systems. Mixing easy and hard days trains your body more completely.\n\n💚 Bookmark this training basic.\n\n💬 Do you track your heart rate during workouts?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d6_8_heart_rate_zones_basics.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_8_heart_rate_zones_basics.mp4",
+      "when": "2026-09-16T16:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_8_heart_rate_zones_basics-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Not every workout needs your max heart rate ❤️\n\nDifferent heart rate zones train different systems. Mixing easy and hard days trains your body more completely.\n\n💚 Bookmark this training basic.\n\n💬 Do you track your heart rate during workouts?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_8_heart_rate_zones_basics.mp4",
+      "when": "2026-09-16T16:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_9_mental_health_movement_link-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A 10-minute walk can measurably lift your mood 🚶\n\nMovement changes brain chemistry and lowers stress hormones. One of the most researched tools we have.\n\n💚 Bookmark this for a tough day.\n\n💬 Does exercise change your mood noticeably?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d6_9_mental_health_movement_link.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_9_mental_health_movement_link.mp4",
+      "when": "2026-09-16T19:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_9_mental_health_movement_link-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "A 10-minute walk can measurably lift your mood 🚶\n\nMovement changes brain chemistry and lowers stress hormones. One of the most researched tools we have.\n\n💚 Bookmark this for a tough day.\n\n💬 Does exercise change your mood noticeably?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_9_mental_health_movement_link.mp4",
+      "when": "2026-09-16T19:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_10_stretching_before_after_debate-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Static stretching before a workout? Rethink it 🤸\n\nIt's linked to a brief dip in muscle power. Dynamic warm-ups before, static stretches after, works better.\n\n💚 Bookmark this before your next session.\n\n💬 When do you usually stretch?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d6_10_stretching_before_after_debate.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_10_stretching_before_after_debate.mp4",
+      "when": "2026-09-16T22:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d6_10_stretching_before_after_debate-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Static stretching before a workout? Rethink it 🤸\n\nIt's linked to a brief dip in muscle power. Dynamic warm-ups before, static stretches after, works better.\n\n💚 Bookmark this before your next session.\n\n💬 When do you usually stretch?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_10_stretching_before_after_debate.mp4",
+      "when": "2026-09-16T22:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_7_resting_heart_rate_fitness_marker-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Your resting heart rate says a lot about your fitness ❤️\n\nA lower resting rate often means a more efficient heart. Checking it weekly reveals real fitness trends over time.\n\n💚 Bookmark this and check yours tomorrow morning.\n\n💬 Do you know your resting heart rate?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_7_resting_heart_rate_fitness_marker.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_7_resting_heart_rate_fitness_marker.mp4",
+      "when": "2026-09-17T14:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_7_resting_heart_rate_fitness_marker-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Your resting heart rate says a lot about your fitness ❤️\n\nA lower resting rate often means a more efficient heart. Checking it weekly reveals real fitness trends over time.\n\n💚 Bookmark this and check yours tomorrow morning.\n\n💬 Do you know your resting heart rate?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_7_resting_heart_rate_fitness_marker.mp4",
+      "when": "2026-09-17T14:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_8_exercise_mood_endorphins-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "The 'runner's high' is real brain chemistry 🏃\n\nEndorphins genuinely rise during sustained exercise. You don't need a marathon, moderate exercise triggers it too.\n\n💚 Bookmark this before your next run.\n\n💬 Have you felt a 'runner's high' before?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_8_exercise_mood_endorphins.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_8_exercise_mood_endorphins.mp4",
+      "when": "2026-09-17T16:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_8_exercise_mood_endorphins-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "The 'runner's high' is real brain chemistry 🏃\n\nEndorphins genuinely rise during sustained exercise. You don't need a marathon, moderate exercise triggers it too.\n\n💚 Bookmark this before your next run.\n\n💬 Have you felt a 'runner's high' before?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_8_exercise_mood_endorphins.mp4",
+      "when": "2026-09-17T16:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_9_overtraining_warning_signs-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "More exercise isn't always better exercise ⚠️\n\nPersistent fatigue, irritability, and worse performance are warning signs. A planned lighter week prevents burnout.\n\n💚 Bookmark this if you train hard often.\n\n💬 Have you ever pushed through overtraining signs?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_9_overtraining_warning_signs.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_9_overtraining_warning_signs.mp4",
+      "when": "2026-09-17T19:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_9_overtraining_warning_signs-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "More exercise isn't always better exercise ⚠️\n\nPersistent fatigue, irritability, and worse performance are warning signs. A planned lighter week prevents burnout.\n\n💚 Bookmark this if you train hard often.\n\n💬 Have you ever pushed through overtraining signs?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_9_overtraining_warning_signs.mp4",
+      "when": "2026-09-17T19:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_10_functional_strength_daily_life-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Strength training pays off far beyond the gym 🏋️\n\nCarrying groceries, stairs, getting off the floor — all draw on functional strength. More valuable as you age, not less.\n\n💚 Bookmark this long-term reminder.\n\n💬 Do you think about strength training for daily life?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d7_10_functional_strength_daily_life.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_10_functional_strength_daily_life.mp4",
+      "when": "2026-09-17T22:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d7_10_functional_strength_daily_life-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Strength training pays off far beyond the gym 🏋️\n\nCarrying groceries, stairs, getting off the floor — all draw on functional strength. More valuable as you age, not less.\n\n💚 Bookmark this long-term reminder.\n\n💬 Do you think about strength training for daily life?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_10_functional_strength_daily_life.mp4",
+      "when": "2026-09-17T22:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_8_exercise_consistency_over_intensity-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "A workout you finish beats one you dread 🎯\n\nConsistency compounds over months in a way intensity alone can't match. Pick a level you can repeat, not survive once.\n\n💚 Bookmark this before your next routine.\n\n💬 Do you go too hard and then burn out?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_8_exercise_consistency_over_intensity.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_8_exercise_consistency_over_intensity.mp4",
+      "when": "2026-09-18T16:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_8_exercise_consistency_over_intensity-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "A workout you finish beats one you dread 🎯\n\nConsistency compounds over months in a way intensity alone can't match. Pick a level you can repeat, not survive once.\n\n💚 Bookmark this before your next routine.\n\n💬 Do you go too hard and then burn out?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_8_exercise_consistency_over_intensity.mp4",
+      "when": "2026-09-18T16:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_9_mental_health_exercise_prescription-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Some doctors now prescribe exercise for mental health 🩺\n\nStudies show it can be comparably effective for some people, as a support tool alongside professional care.\n\n💚 Bookmark this and share if it might help someone.\n\n💬 Has exercise ever helped your mental health?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_9_mental_health_exercise_prescription.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_9_mental_health_exercise_prescription.mp4",
+      "when": "2026-09-18T19:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_9_mental_health_exercise_prescription-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Some doctors now prescribe exercise for mental health 🩺\n\nStudies show it can be comparably effective for some people, as a support tool alongside professional care.\n\n💚 Bookmark this and share if it might help someone.\n\n💬 Has exercise ever helped your mental health?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_9_mental_health_exercise_prescription.mp4",
+      "when": "2026-09-18T19:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_10_flexibility_aging_maintenance-fb",
+      "account": "health-daily",
+      "network": "facebook",
+      "type": "reel",
+      "message": "Flexibility doesn't have to decline sharply with age 🧘\n\nRegular, gentle stretching maintains range of motion for decades and helps prevent falls later in life.\n\n💚 Bookmark this long-term mobility reminder.\n\n💬 Do you do any regular stretching?",
+      "video_path": "images/health_reels_hd10_batch02/hd10_d8_10_flexibility_aging_maintenance.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_10_flexibility_aging_maintenance.mp4",
+      "when": "2026-09-18T22:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "hd-cadence-hd10_d8_10_flexibility_aging_maintenance-ig",
+      "account": "health-daily",
+      "network": "instagram",
+      "type": "reel",
+      "message": "Flexibility doesn't have to decline sharply with age 🧘\n\nRegular, gentle stretching maintains range of motion for decades and helps prevent falls later in life.\n\n💚 Bookmark this long-term mobility reminder.\n\n💬 Do you do any regular stretching?",
+      "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_10_flexibility_aging_maintenance.mp4",
+      "when": "2026-09-18T22:00:00+00:00",
       "status": "pending"
     }
   ]
