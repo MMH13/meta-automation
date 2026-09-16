@@ -33846,7 +33846,13 @@
       "video_path": "images/wisdom_reels_content19/dw_d19_the_expiration_of_friendship.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_the_expiration_of_friendship.mp4",
       "when": "2026-09-23T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2300584784128873",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-23T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-16T20:16:13+00:00"
     },
     {
       "id": "dw-reel-dw_d19_effort_is_a_language",
@@ -37451,7 +37457,11 @@
       "message": "A 10-minute walk can measurably lift your mood 🚶\n\nMovement changes brain chemistry and lowers stress hormones. One of the most researched tools we have.\n\n💚 Bookmark this for a tough day.\n\n💬 Does exercise change your mood noticeably?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_9_mental_health_movement_link.mp4",
       "when": "2026-09-16T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18142550140575011"
+      },
+      "posted_at": "2026-09-16T20:17:41+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_10_stretching_before_after_debate-fb",
