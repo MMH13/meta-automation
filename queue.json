@@ -31620,7 +31620,13 @@
       "video_path": "images/tmr_reels_content25/tmr_d146_racing.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d146_racing.mp4",
       "when": "2026-09-23T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "950333907473634",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-23T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-16T06:12:21+00:00"
     },
     {
       "id": "tmr-reel-tmr_d147_mentors",
@@ -36568,7 +36574,11 @@
       "message": "REM sleep looks like being awake, brain-wise 🧠\n\nThis stage plays a real role in filing away memories from your day. Cutting sleep short cuts REM the most.\n\n💚 Bookmark this REM sleep fact.\n\n💬 Do you remember your dreams often?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_2_rem_dreams_memory.mp4",
       "when": "2026-09-16T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18478001275114828"
+      },
+      "posted_at": "2026-09-16T06:13:16+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_3_circadian_clock_basics-fb",
@@ -36594,7 +36604,8 @@
       "message": "You have a master clock in your brain ⏰\n\nMorning sunlight is the strongest signal that resets it daily. Irregular sleep and late-night light confuse the signal.\n\n💚 Bookmark this circadian rhythm basic.\n\n💬 Do you get sunlight soon after waking up?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_3_circadian_clock_basics.mp4",
       "when": "2026-09-16T05:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "IG container 18375608881224015 failed processing: {'status_code': 'ERROR', 'id': '18375608881224015'}"
     },
     {
       "id": "hd-cadence-hd10_d6_4_sleep_pressure_adenosine-fb",
