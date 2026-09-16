@@ -31637,7 +31637,13 @@
       "video_path": "images/tmr_reels_content25/tmr_d147_mentors.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d147_mentors.mp4",
       "when": "2026-09-23T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2257320155053573",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-23T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-16T11:51:10+00:00"
     },
     {
       "id": "tmr-reel-tmr_d148_dual_roles",
@@ -31648,7 +31654,13 @@
       "video_path": "images/tmr_reels_content25/tmr_d148_dual_roles.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d148_dual_roles.mp4",
       "when": "2026-09-23T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4412631812282044",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-23T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-16T11:51:10+00:00"
     },
     {
       "id": "tmr-reel-tmr_d149_mexican",
@@ -33777,7 +33789,13 @@
       "video_path": "images/wisdom_reels_content18/dw_d18_grief_no_timeline.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d18_grief_no_timeline.mp4",
       "when": "2026-09-23T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "956307404194127",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-23T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-16T11:51:10+00:00"
     },
     {
       "id": "dw-reel-dw_d19_the_map_is_not_the_territory",
@@ -36667,7 +36685,11 @@
       "message": "That late nap might be wrecking your night's sleep 😴\n\nNaps after 3pm eat into the sleep pressure you need for bedtime. A short nap before 3pm rarely causes issues.\n\n💚 Bookmark this before your next nap.\n\n💬 What time do you usually nap?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_5_nap_before_3pm_rule.mp4",
       "when": "2026-09-16T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18033713327850002"
+      },
+      "posted_at": "2026-09-16T11:52:30+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_6_cold_bedroom_deep_sleep-fb",
@@ -36693,7 +36715,11 @@
       "message": "A cool bedroom helps you reach deep sleep faster ❄️\n\nYour core temperature naturally needs to drop to fall asleep. 18-20°C works well for most people.\n\n💚 Bookmark this before bedtime tonight.\n\n💬 Do you sleep with the room warm or cool?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_6_cold_bedroom_deep_sleep.mp4",
       "when": "2026-09-16T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18092871767393663"
+      },
+      "posted_at": "2026-09-16T11:53:22+00:00"
     },
     {
       "id": "hd-cadence-hd10_d5_1_calorie_quality_myth-fb",
