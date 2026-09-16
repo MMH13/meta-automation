@@ -33760,7 +33760,13 @@
       "video_path": "images/wisdom_reels_content18/dw_d18_stoic_the_short_life.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d18_stoic_the_short_life.mp4",
       "when": "2026-09-23T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1761173004914906",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-23T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-16T08:42:06+00:00"
     },
     {
       "id": "dw-reel-dw_d18_grief_no_timeline",
@@ -36631,7 +36637,11 @@
       "message": "Caffeine doesn't remove sleep pressure, it just blocks it ☕\n\nAdenosine keeps building up in the background. Once caffeine wears off, that pressure catches up all at once.\n\n💚 Bookmark this caffeine science.\n\n💬 Do you get a crash after your caffeine wears off?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_4_sleep_pressure_adenosine.mp4",
       "when": "2026-09-16T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18658269070030046"
+      },
+      "posted_at": "2026-09-16T08:42:52+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_5_nap_before_3pm_rule-fb",
