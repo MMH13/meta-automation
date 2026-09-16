@@ -36532,7 +36532,11 @@
       "message": "Sleep happens in ~90 minute cycles 🌙\n\nEach cycle moves through light, deep, and REM sleep. Waking mid-cycle is why some mornings feel rougher than others.\n\n💚 Bookmark this sleep-cycle basic.\n\n💬 Do you wake up groggy some mornings?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d6_1_sleep_cycles_90min.mp4",
       "when": "2026-09-16T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18090802085670822"
+      },
+      "posted_at": "2026-09-16T00:33:41+00:00"
     },
     {
       "id": "hd-cadence-hd10_d6_2_rem_dreams_memory-fb",
