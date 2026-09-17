@@ -31739,7 +31739,13 @@
       "video_path": "images/tmr_reels_content26/tmr_d153_shakespeare.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d153_shakespeare.mp4",
       "when": "2026-09-24T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1600047288514743",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-24T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-17T12:12:59+00:00"
     },
     {
       "id": "tmr-reel-tmr_d154_snubs",
@@ -31750,7 +31756,13 @@
       "video_path": "images/tmr_reels_content26/tmr_d154_snubs.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d154_snubs.mp4",
       "when": "2026-09-24T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1064969669685367",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-24T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-17T12:12:59+00:00"
     },
     {
       "id": "tmr-reel-tmr_d155_real_people",
@@ -33915,7 +33927,13 @@
       "video_path": "images/wisdom_reels_content19/dw_d19_the_last_conversation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d19_the_last_conversation.mp4",
       "when": "2026-09-24T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "3408140062722341",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-24T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-17T12:12:59+00:00"
     },
     {
       "id": "dw-reel-dw_d20_freedom_from_needing_to_win",
@@ -36955,7 +36973,11 @@
       "message": "Your brain files away memories mostly while you sleep 🧠\n\nThis is called memory consolidation. Pulling an all-nighter to study can genuinely backfire the next day.\n\n💚 Bookmark this before exam season.\n\n💬 Have you ever pulled an all-nighter to study?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_5_sleep_and_memory_consolidation.mp4",
       "when": "2026-09-17T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18087553196695502"
+      },
+      "posted_at": "2026-09-17T12:14:42+00:00"
     },
     {
       "id": "hd-cadence-hd10_d7_6_weekend_sleep_shift_effect-fb",
@@ -36982,7 +37004,11 @@
       "message": "Sleeping in on weekends creates a mini jet lag 🛫\n\nResearchers call it 'social jet lag', a real, documented pattern. Keep wake time within an hour to avoid the Monday slump.\n\n💚 Bookmark this before your next weekend.\n\n💬 Do you sleep in a lot on weekends?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_6_weekend_sleep_shift_effect.mp4",
       "when": "2026-09-17T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18103955344965625"
+      },
+      "posted_at": "2026-09-17T12:15:30+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_1_light_therapy_morning-fb",
