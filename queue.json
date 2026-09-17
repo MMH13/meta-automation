@@ -31722,7 +31722,13 @@
       "video_path": "images/tmr_reels_content26/tmr_d152_betrayal.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d152_betrayal.mp4",
       "when": "2026-09-24T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "960708876341854",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-24T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-17T06:45:42+00:00"
     },
     {
       "id": "tmr-reel-tmr_d153_shakespeare",
@@ -36850,7 +36856,11 @@
       "message": "You can't fully 'pay back' a week of lost sleep 💤\n\nSome brain functions take several nights to recover. Small, consistent extra sleep beats one big catch-up.\n\n💚 Bookmark this sleep debt reality check.\n\n💬 Do you try to 'catch up' on sleep over weekends?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_2_sleep_debt_cant_fully_repay.mp4",
       "when": "2026-09-17T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18418275085145059"
+      },
+      "posted_at": "2026-09-17T06:47:04+00:00"
     },
     {
       "id": "hd-cadence-hd10_d7_3_bedroom_darkness_melatonin-fb",
@@ -36877,7 +36887,11 @@
       "message": "Even small light can suppress your melatonin 🌑\n\nMelatonin is the hormone that signals 'time to sleep'. Blackout curtains or an eye mask make a real difference.\n\n💚 Bookmark this before tonight.\n\n💬 How dark is your bedroom at night?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_3_bedroom_darkness_melatonin.mp4",
       "when": "2026-09-17T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18140631082592647"
+      },
+      "posted_at": "2026-09-17T06:47:49+00:00"
     },
     {
       "id": "hd-cadence-hd10_d7_4_caffeine_half_life_sleep-fb",
