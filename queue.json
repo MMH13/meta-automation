@@ -31705,7 +31705,13 @@
       "video_path": "images/tmr_reels_content26/tmr_d151_aviation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d151_aviation.mp4",
       "when": "2026-09-24T01:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1376491961319180",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-24T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-17T01:32:53+00:00"
     },
     {
       "id": "tmr-reel-tmr_d152_betrayal",
@@ -36813,7 +36819,11 @@
       "message": "Your wake-up time matters more than bedtime ⏰\n\nYour body clock anchors around when you wake, not sleep. Keep it within an hour, even on weekends.\n\n💚 Bookmark this sleep consistency tip.\n\n💬 Do you wake up at the same time daily?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_1_consistent_wake_time.mp4",
       "when": "2026-09-17T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18485315563111948"
+      },
+      "posted_at": "2026-09-17T01:33:43+00:00"
     },
     {
       "id": "hd-cadence-hd10_d7_2_sleep_debt_cant_fully_repay-fb",
