@@ -36918,7 +36918,11 @@
       "message": "Your 3pm coffee is still active at midnight ☕\n\nCaffeine's half-life is 5-6 hours. Cutting it off by early-to-mid afternoon protects your sleep that night.\n\n💚 Bookmark this caffeine timing fact.\n\n💬 What time do you usually stop drinking caffeine?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_4_caffeine_half_life_sleep.mp4",
       "when": "2026-09-17T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18091258991174494"
+      },
+      "posted_at": "2026-09-17T07:50:52+00:00"
     },
     {
       "id": "hd-cadence-hd10_d7_5_sleep_and_memory_consolidation-fb",
