@@ -31773,7 +31773,13 @@
       "video_path": "images/tmr_reels_content26/tmr_d155_real_people.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d155_real_people.mp4",
       "when": "2026-09-24T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1071627128824977",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-24T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-17T17:18:13+00:00"
     },
     {
       "id": "tmr-reel-tmr_d156_argentine",
@@ -33961,7 +33967,13 @@
       "video_path": "images/wisdom_reels_content20/dw_d20_the_ikea_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_the_ikea_effect.mp4",
       "when": "2026-09-24T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1138103898882775",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-24T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-17T17:18:13+00:00"
     },
     {
       "id": "dw-reel-dw_d20_the_person_you_became_for_them",
@@ -37597,7 +37609,11 @@
       "message": "Your resting heart rate says a lot about your fitness ❤️\n\nA lower resting rate often means a more efficient heart. Checking it weekly reveals real fitness trends over time.\n\n💚 Bookmark this and check yours tomorrow morning.\n\n💬 Do you know your resting heart rate?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_7_resting_heart_rate_fitness_marker.mp4",
       "when": "2026-09-17T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18028144220885687"
+      },
+      "posted_at": "2026-09-17T17:19:34+00:00"
     },
     {
       "id": "hd-cadence-hd10_d7_8_exercise_mood_endorphins-fb",
@@ -37624,7 +37640,11 @@
       "message": "The 'runner's high' is real brain chemistry 🏃\n\nEndorphins genuinely rise during sustained exercise. You don't need a marathon, moderate exercise triggers it too.\n\n💚 Bookmark this before your next run.\n\n💬 Have you felt a 'runner's high' before?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_8_exercise_mood_endorphins.mp4",
       "when": "2026-09-17T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18486638752107191"
+      },
+      "posted_at": "2026-09-17T17:20:28+00:00"
     },
     {
       "id": "hd-cadence-hd10_d7_9_overtraining_warning_signs-fb",
