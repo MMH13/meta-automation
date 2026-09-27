@@ -31841,7 +31841,13 @@
       "video_path": "images/tmr_reels_content27/tmr_d159_forgiveness.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d159_forgiveness.mp4",
       "when": "2026-09-25T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2196900807843071",
+        "permalink": "/reel/2196900807843071/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T19:24:14+00:00"
     },
     {
       "id": "tmr-reel-tmr_d160_king",
@@ -31852,7 +31858,13 @@
       "video_path": "images/tmr_reels_content27/tmr_d160_king.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d160_king.mp4",
       "when": "2026-09-25T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1731098878584583",
+        "permalink": "/reel/1731098878584583/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T19:24:50+00:00"
     },
     {
       "id": "tmr-reel-tmr_d161_palme",
@@ -31863,7 +31875,13 @@
       "video_path": "images/tmr_reels_content27/tmr_d161_palme.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d161_palme.mp4",
       "when": "2026-09-25T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1116464597986845",
+        "permalink": "/reel/1116464597986845/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T19:25:45+00:00"
     },
     {
       "id": "tmr-reel-tmr_d162_wordless",
@@ -34097,7 +34115,8 @@
       "video_path": "images/wisdom_reels_content21/dw_d21_the_quality_of_your_questions.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_the_quality_of_your_questions.mp4",
       "when": "2026-09-25T13:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetA2Rqei5Qyv2pptVm9bnTVA8DBZxjbo2QjEorbbi-un0tyypsVpWHECM4I9u3843ZtqBWJX-kT6v2C4Pix4I876-CDr3Zr4NnEz4hmhhoFziEYcQ_atus6VI0pKo3tkWKofVBVcFVVdyYoxRK5WsuSKlVOI15IkSVO3yMZx5cireQL4Qa_RCMKbaJDOKssEUjKutJu6krR4RnftaaaVxrg5hFZaxWSEsP6WbzbMJQlIgI71xXW2P46_dM1IC-8nwyQW4NZ61bLBvRW5CKzcQ2vNoNSfDU5dnlacH1HNTyFbEVKygZlL8fgfSQfYdcRMKI\",\"help_cente"
     },
     {
       "id": "dw-reel-dw_d21_catastrophizing",
@@ -34108,7 +34127,8 @@
       "video_path": "images/wisdom_reels_content21/dw_d21_catastrophizing.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_catastrophizing.mp4",
       "when": "2026-09-25T15:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes_wBilgrx01LxOxFnxrXrrj4HKnn6GD9cO5nlHBouCZbn6pDyN9UimFNsPq8i4ZPqB_NYzj9e5PEFvbpWIb3eZ2qDw6ahu3Bh0M06yxxvNoedNpQtjpuS7JiAHWSPZrRzhPSLnJBt_JPQDlViFRap0V2cx87SVgd3zsBxvf9DMMs9Mz_Atbwm5FP6MxzcCEyhgYj9o4r2UUPZlznF5QHawGVLBfmW8jpNXMktSBcewX4Wr439Km6BtQzVrF3LOz76DfmlUlXioVIKY4Th-bIwLRrp-GoCwGz0YU-ORZZtoRGhbbtcSb7-Rk-hov-0HaO0\",\"help_cente"
     },
     {
       "id": "dw-reel-dw_d21_choosing_yourself_isnt_selfish",
@@ -34119,7 +34139,8 @@
       "video_path": "images/wisdom_reels_content21/dw_d21_choosing_yourself_isnt_selfish.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d21_choosing_yourself_isnt_selfish.mp4",
       "when": "2026-09-25T18:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet07PZQHft7dUCR2wUcEPbhFzMiRQJqn6eTTcq2XZXLcznle_ZtiY-O1tQ6FQA-lAaaSZT7ikPV1qoAk9lH0zCykldMalj6uvb9YggMA1shiaiy2AtBYSzxUXGYYGN6PdaRhWH2JEgPUSstPNT7VLzhumLRllxqs5Oy0YvVP3uIo2RPSYdYFeMxZ9XNlnKFYzjtg3g79tsqwNjqxiUp_ZRFZjxK0VN6lY_dCFHRtArRvm6gxN__Xi-NpcQENa7Ag4bzyQRfuuxOev-u2bfFXa54LZ6yxLprgEQhHFfxE-_0w16y2JArpnSXhdccysBzmYc\",\"help_cente"
     },
     {
       "id": "dw-reel-dw_d21_most_regrets_are_inaction",
@@ -34705,7 +34726,7 @@
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d27_the_bravery_of_asking_are_you_okay.mp4",
       "when": "2026-10-02T10:00:00+00:00",
       "status": "pending",
-      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLMmmjCxLs21zFlpGeyQBbwE"
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeuiziI4WW2XwPuqEgi4ghcEcS"
     },
     {
       "id": "dw-reel-dw_d28_the_shape_of_your_attention",
@@ -34717,7 +34738,7 @@
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_shape_of_your_attention.mp4",
       "when": "2026-10-02T13:00:00+00:00",
       "status": "pending",
-      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev96IUndUvDh0TibIm2oU_y-j"
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aes_-X9iHyPVpIbmGUXtpe9wOl"
     },
     {
       "id": "dw-reel-dw_d28_the_illusion_of_the_highlight_reel",
@@ -34729,7 +34750,7 @@
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_illusion_of_the_highlight_reel.mp4",
       "when": "2026-10-02T15:00:00+00:00",
       "status": "pending",
-      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevNEt5DpljQncD_rui6XRMYYW"
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevBN_blhrNspGOcgkmGPFTw6k"
     },
     {
       "id": "dw-reel-dw_d28_the_relationships_you_water",
@@ -34741,7 +34762,7 @@
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_relationships_you_water.mp4",
       "when": "2026-10-02T18:00:00+00:00",
       "status": "pending",
-      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevSASJGiyijjBfFOxWpz9CUin"
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeu6wB4fIf2O8eKYILzGrT2cV-"
     },
     {
       "id": "dw-reel-dw_d28_no_one_is_thinking_about_your_flaws",
@@ -34753,7 +34774,7 @@
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_no_one_is_thinking_about_your_flaws.mp4",
       "when": "2026-10-02T21:00:00+00:00",
       "status": "pending",
-      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUccgxPxWu1Lxuas9o8CDfyW"
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetnthdyyxU42ubw8-8XVHxQ6b"
     },
     {
       "id": "dw-reel-dw_d28_stoic_your_own_mortality",
@@ -34765,7 +34786,7 @@
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_stoic_your_own_mortality.mp4",
       "when": "2026-10-03T08:00:00+00:00",
       "status": "pending",
-      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesyikFdJ7io2eYyTfwGqtw6uR"
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetsHFdF_w1Ym8vGqe9tR4ebtl"
     },
     {
       "id": "dw-reel-dw_d28_the_quiet_ones_carrying_the_most",
@@ -34777,7 +34798,7 @@
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_quiet_ones_carrying_the_most.mp4",
       "when": "2026-10-03T10:00:00+00:00",
       "status": "pending",
-      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetHy57OteuV7i2Q47pCTpDM41"
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesjA2ox1g9vPqUcqCdUxBKaug"
     },
     {
       "id": "dw-reel-dw_d29_the_life_you_perform_vs_live",
@@ -34788,7 +34809,8 @@
       "video_path": "images/wisdom_reels_content29/dw_d29_the_life_you_perform_vs_live.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d29_the_life_you_perform_vs_live.mp4",
       "when": "2026-10-03T13:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aet6z7gxN6eKrhSQr56UZtkWOt"
     },
     {
       "id": "dw-reel-dw_d29_the_stories_your_body_believes",
@@ -34799,7 +34821,8 @@
       "video_path": "images/wisdom_reels_content29/dw_d29_the_stories_your_body_believes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d29_the_stories_your_body_believes.mp4",
       "when": "2026-10-03T15:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetG41q9nWg8LOp9Q49eL-J444"
     },
     {
       "id": "dw-reel-dw_d29_showing_up_consistently",
@@ -34810,7 +34833,8 @@
       "video_path": "images/wisdom_reels_content29/dw_d29_showing_up_consistently.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d29_showing_up_consistently.mp4",
       "when": "2026-10-03T18:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev5QlDNBQhRpz7Zj3Ql6WH-8S"
     },
     {
       "id": "dw-reel-dw_d29_the_myth_of_deserving",
@@ -34821,7 +34845,8 @@
       "video_path": "images/wisdom_reels_content29/dw_d29_the_myth_of_deserving.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d29_the_myth_of_deserving.mp4",
       "when": "2026-10-03T21:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeui3kP-ELy9JD6VzbJgEmq4F5"
     },
     {
       "id": "dw-reel-dw_d29_stoic_the_whole_is_enough",
@@ -34832,7 +34857,8 @@
       "video_path": "images/wisdom_reels_content29/dw_d29_stoic_the_whole_is_enough.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d29_stoic_the_whole_is_enough.mp4",
       "when": "2026-10-04T08:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeufIyHzA-orqaceKByw3F37Lg"
     },
     {
       "id": "dw-reel-dw_d29_the_parent_who_never_asked_for_thanks",
@@ -34843,7 +34869,8 @@
       "video_path": "images/wisdom_reels_content29/dw_d29_the_parent_who_never_asked_for_thanks.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d29_the_parent_who_never_asked_for_thanks.mp4",
       "when": "2026-10-04T10:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetRnpWmA9au_aElhB-IzW-tAp"
     },
     {
       "id": "dw-reel-dw_d30_the_life_youre_already_living",
@@ -34854,7 +34881,8 @@
       "video_path": "images/wisdom_reels_content30/dw_d30_the_life_youre_already_living.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d30_the_life_youre_already_living.mp4",
       "when": "2026-10-04T13:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aeva6cX276uA_yVj6C6c8i6j7n"
     },
     {
       "id": "dw-reel-dw_d30_the_narratives_that_run_you",
@@ -34865,7 +34893,8 @@
       "video_path": "images/wisdom_reels_content30/dw_d30_the_narratives_that_run_you.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d30_the_narratives_that_run_you.mp4",
       "when": "2026-10-04T15:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesUQYGCnxl4l1rQkSqzy2VR9e"
     },
     {
       "id": "dw-reel-dw_d30_the_people_who_stayed",
@@ -34876,7 +34905,8 @@
       "video_path": "images/wisdom_reels_content30/dw_d30_the_people_who_stayed.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d30_the_people_who_stayed.mp4",
       "when": "2026-10-04T18:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevLtaUHuWGPXKwZXjTTWrwHPK"
     },
     {
       "id": "dw-reel-dw_d30_you_get_to_decide_what_this_meant",
@@ -37347,7 +37377,11 @@
       "message": "It's not silence that matters, it's consistency 🌀\n\nA steady hum like a fan masks random noises that would otherwise wake you. Consistency beats total silence.\n\n💚 Bookmark this before tonight.\n\n💬 Do you sleep with any background noise?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_3_white_noise_sleep_quality.mp4",
       "when": "2026-09-18T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17954345532287505"
+      },
+      "posted_at": "2026-09-27T19:21:34+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_4_sleep_growth_hormone_release-fb",
@@ -37374,7 +37408,11 @@
       "message": "Growth hormone is released mostly during deep sleep 💪\n\nIt helps repair tissue and build muscle overnight. Skimping on sleep can blunt workout recovery noticeably.\n\n💚 Bookmark this if you train regularly.\n\n💬 Do you prioritize sleep around workout days?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_4_sleep_growth_hormone_release.mp4",
       "when": "2026-09-18T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18111670154585971"
+      },
+      "posted_at": "2026-09-27T19:22:55+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_5_pre_sleep_routine_signal-fb",
@@ -37401,7 +37439,11 @@
       "message": "Your brain learns to associate cues with sleep 🕯️\n\nDimming lights, reading, or stretching before bed all work as signals. Same cues, easier wind-down over time.\n\n💚 Bookmark this before building a routine.\n\n💬 Do you have a wind-down routine before bed?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_5_pre_sleep_routine_signal.mp4",
       "when": "2026-09-18T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17932375332144821"
+      },
+      "posted_at": "2026-09-27T19:23:38+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_6_exercise_timing_sleep-fb",
