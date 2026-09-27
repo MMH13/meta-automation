@@ -23,12 +23,14 @@ VOICES = {
         "voice_id": "bm_lewis",
         "tone": "deep, ominous, deliberate horror narrator — distinct from Onyx (movie page)",
     },
-    # Warm and calm; health advice has to sound trustworthy, not salesy.
+    # 2026-09-28: switched from Bella to Onyx (plain, unprocessed) - Mamun asked
+    # for a similarly good voice as the recent social-automation SS/PT upgrades.
+    # Shares a narrator with top-movie-reviews now (both am_onyx).
     "health-daily": {
-        "profile": "HD-Narrator-Bella",
+        "profile": "HD-Narrator-Onyx",
         "engine": "kokoro",
-        "voice_id": "af_bella",
-        "tone": "warm, unhurried, reassuring",
+        "voice_id": "am_onyx",
+        "tone": "deep, measured, trustworthy",
     },
     # Reflective and soft — matches the calm-music mandate for that page.
     "psychology-tube": {

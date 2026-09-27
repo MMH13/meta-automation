@@ -19,10 +19,15 @@ FADE, TAIL = 0.28, 0.5
 
 _RENDER = {"hook": hd_hook, "beat": hd_beat, "end": hd_end}
 
-VOICE_PROFILE = "HD-Narrator-Bella"
+# 2026-09-28: switched from Bella to Onyx, plain/unprocessed (no pitch effect) -
+# Mamun asked for a similarly good voice as the recent social-automation upgrades
+# and picked the raw (unprocessed) am_onyx take. Note: top-movie-reviews (this
+# same repo, see voice_profiles.py) already uses am_onyx - these two pages now
+# share a narrator voice.
+VOICE_PROFILE = "HD-Narrator-Onyx"
 VOICE_ENGINE = "kokoro"
-VOICE_ID = "af_bella"
-VOICE_DESC = "warm, unhurried, reassuring"
+VOICE_ID = "am_onyx"
+VOICE_DESC = "deep, measured, trustworthy"
 
 
 def _acquire_lock(lock_path):
