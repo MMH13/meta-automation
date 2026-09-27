@@ -31943,7 +31943,13 @@
       "video_path": "images/tmr_reels_content28/tmr_d165_loneliness.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d165_loneliness.mp4",
       "when": "2026-09-26T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1375042234714080",
+        "permalink": "/reel/1375042234714080/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T22:39:13+00:00"
     },
     {
       "id": "tmr-reel-tmr_d166_comics",
@@ -31954,7 +31960,13 @@
       "video_path": "images/tmr_reels_content28/tmr_d166_comics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d166_comics.mp4",
       "when": "2026-09-26T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2064267780941154",
+        "permalink": "/reel/2064267780941154/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T22:39:48+00:00"
     },
     {
       "id": "tmr-reel-tmr_d167_debut_performances",
@@ -31965,7 +31977,13 @@
       "video_path": "images/tmr_reels_content28/tmr_d167_debut_performances.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d167_debut_performances.mp4",
       "when": "2026-09-26T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1673457841457773",
+        "permalink": "/reel/1673457841457773/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T22:40:51+00:00"
     },
     {
       "id": "tmr-reel-tmr_d168_one_night",
@@ -34219,7 +34237,8 @@
       "video_path": "images/wisdom_reels_content22/dw_d22_nothing_stays_the_same.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_nothing_stays_the_same.mp4",
       "when": "2026-09-26T13:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetIyWy7t9osj70zGQu1sD_wpB2RuubDRONzafTWnmN1CXxZl8ulcRD-xtoWg2A9ngRtI_-NNsfHY4gKwahqmGdBmHusvWN8p0JTQvhHY6sluUO5mK8lUzP_m5Tg6QCNUX6kpo-1UoM1e_i2Ni6iGk6azZhM-2G1AkRsPu6eJkHbuZ526tR7_Dl6WCwQ4-apclaopJNaomr8Jr2UjuTpBvW9f24R3k5gb6D4yFJ2jqvWI10773aEQfzXGgywRmqVfZvEluuncUhyVNTRqgZ8N4wpGuFCbbTM3-Poy25jx8jqtbgWcGfXXqFlqNXsfA-0jQ8\",\"help_cente"
     },
     {
       "id": "dw-reel-dw_d22_learned_helplessness",
@@ -34230,7 +34249,8 @@
       "video_path": "images/wisdom_reels_content22/dw_d22_learned_helplessness.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_learned_helplessness.mp4",
       "when": "2026-09-26T15:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aevxazq3OaldJcdqgzqAodADCCGxeAzrqOwYMktuytSjWAxnI3_hRTTlNJuHOQxiRA-JW8iADSzq-Yv7XtPCqvax4Z9aXGd_MyoMzkXiYaduMo0qD6LpIHRRDk9C6jE3j8OK_BxwlkwRZhxGQsh1HTOWX0qVpLstvr064Jr7IY9l9KkqYIX7K25znqjihSmqFcVYWnDuoTCc6d3VKn7R8NyFkO_kTKWZae1K-rckjCMJit5NcQ4KNWsOn2Bh-gtRYPaqELyu4j6C95Pjfz0dXnJlJo19Y9s3jCnV4l48Txh6CS5YWeF5LtAXob5PkyDMSxc\",\"help_cente"
     },
     {
       "id": "dw-reel-dw_d22_the_difference_love_and_habit",
@@ -34241,7 +34261,8 @@
       "video_path": "images/wisdom_reels_content22/dw_d22_the_difference_love_and_habit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_the_difference_love_and_habit.mp4",
       "when": "2026-09-26T18:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeucTrti5ZeUCvGIVAZVUGdouwqKHGkImymnkAr_mcozbEyTSRoATSlYzKa0vRY8qbAd0sHSo01sjz_cZRc39tYZ2qwDx_5FTUgtUNLqmRRkokziuaqVvH6PcqO3Bz8PGBsBXOeeAd8KmLVrT8bm2BbkXdc_xQSc6yEdPB0qWB0-ICzdrlieDTJiTcVvP3Pwgr5RTdnBdt4P0aUpw4j1dC2f7Fbe0mSuYbHUOAuwwCxYsaG_lauByIUJMeQ9eQ65N5CEuHSzyLxFZFyk7Pgdsg1fPDgsJrnLTk0_8zpdifu9ews9e_wbgILFj8NBjaWn8EMt\",\"help_cent"
     },
     {
       "id": "dw-reel-dw_d22_you_will_outgrow_people",
@@ -37638,7 +37659,11 @@
       "message": "8 broken hours ≠ 8 solid hours of sleep 🌙\n\nFrequent waking disrupts deep and REM sleep the most. How rested you feel matters more than the raw number.\n\n💚 Bookmark this sleep quality reminder.\n\n💬 Do you track your sleep quality or just hours?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_3_sleep_quality_vs_quantity.mp4",
       "when": "2026-09-19T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18109331030183474"
+      },
+      "posted_at": "2026-09-27T22:37:04+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_4_sleep_and_immune_repair-fb",
@@ -37665,7 +37690,11 @@
       "message": "Your immune system does its best work while you sleep 🛡️\n\nProtective proteins called cytokines are released mostly during sleep. That's why your body craves rest when you're sick.\n\n💚 Bookmark this before cold season.\n\n💬 Do you sleep more when you're getting sick?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_4_sleep_and_immune_repair.mp4",
       "when": "2026-09-19T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17938361328372168"
+      },
+      "posted_at": "2026-09-27T22:38:39+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_5_napping_workplace_stigma-fb",
@@ -38218,7 +38247,11 @@
       "message": "Flexibility doesn't have to decline sharply with age 🧘\n\nRegular, gentle stretching maintains range of motion for decades and helps prevent falls later in life.\n\n💚 Bookmark this long-term mobility reminder.\n\n💬 Do you do any regular stretching?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_10_flexibility_aging_maintenance.mp4",
       "when": "2026-09-18T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18130783219826998"
+      },
+      "posted_at": "2026-09-27T22:36:30+00:00"
     }
   ]
 }
