@@ -31790,7 +31790,13 @@
       "video_path": "images/tmr_reels_content26/tmr_d156_argentine.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d156_argentine.mp4",
       "when": "2026-09-24T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1861755568139963",
+        "permalink": "/reel/1861755568139963/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T19:06:13+00:00"
     },
     {
       "id": "tmr-reel-tmr_d157_turkish",
@@ -31801,7 +31807,13 @@
       "video_path": "images/tmr_reels_content27/tmr_d157_turkish.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d157_turkish.mp4",
       "when": "2026-09-25T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2061218604756639",
+        "permalink": "/reel/2061218604756639/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T19:07:04+00:00"
     },
     {
       "id": "tmr-reel-tmr_d158_techno_thriller",
@@ -31812,7 +31824,13 @@
       "video_path": "images/tmr_reels_content27/tmr_d158_techno_thriller.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d158_techno_thriller.mp4",
       "when": "2026-09-25T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1075628621775586",
+        "permalink": "/reel/1075628621775586/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-27T19:07:39+00:00"
     },
     {
       "id": "tmr-reel-tmr_d159_forgiveness",
@@ -31988,7 +32006,13 @@
       "video_path": "images/tmr_reels_content29/tmr_d174_filmmaking.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d174_filmmaking.mp4",
       "when": "2026-09-27T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "3795340190607146",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-27T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d175_southeast_asian",
@@ -31999,7 +32023,13 @@
       "video_path": "images/tmr_reels_content30/tmr_d175_southeast_asian.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d175_southeast_asian.mp4",
       "when": "2026-09-28T01:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1077603608583583",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T01:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d176_whodunnits",
@@ -32010,7 +32040,13 @@
       "video_path": "images/tmr_reels_content30/tmr_d176_whodunnits.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d176_whodunnits.mp4",
       "when": "2026-09-28T05:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1065413549620769",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T05:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d177_guilt",
@@ -32021,7 +32057,13 @@
       "video_path": "images/tmr_reels_content30/tmr_d177_guilt.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d177_guilt.mp4",
       "when": "2026-09-28T09:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1856566665226493",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T09:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d178_final_films",
@@ -32032,7 +32074,13 @@
       "video_path": "images/tmr_reels_content30/tmr_d178_final_films.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d178_final_films.mp4",
       "when": "2026-09-28T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1340464241302799",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T11:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d179_writers",
@@ -32043,7 +32091,13 @@
       "video_path": "images/tmr_reels_content30/tmr_d179_writers.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d179_writers.mp4",
       "when": "2026-09-28T17:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1812964740128697",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T17:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "tmr-reel-tmr_d180_final_shots",
@@ -32054,7 +32108,13 @@
       "video_path": "images/tmr_reels_content30/tmr_d180_final_shots.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d180_final_shots.mp4",
       "when": "2026-09-28T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1406873934243877",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d1_explaining",
@@ -34001,7 +34061,8 @@
       "video_path": "images/wisdom_reels_content20/dw_d20_most_fear_is_imagined.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_most_fear_is_imagined.mp4",
       "when": "2026-09-24T21:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevTXpfazoqyfpJ6Qj6CnJz3x1E2AB-A3Z3FRQmgEikTLaC3w689JNgbNiajVuXW8esxVjQlUZWEcZVmTzzqzGNjPm1uclJ14oiUqsYieGAwSlF3_gyV9p6pdSrS2vh6ffwnAUBN6A-xwxsadVL9v0F3UtUdmuMCeDH8XPDc0I4WDWu4mU0Fgx-_qdKEtBscammQG1u8QJuHaBerbXZOfcdD0gpHXkBz9Xll01ezD8us_gNdh1lowrcsYlTdoJoY51MZ2-3dhqaLjrVLu70JM55ChoFOQ67m-OEanIW0QB1puO0vdGHRFp2mXHCb7PE2CER4\",\"help_cent"
     },
     {
       "id": "dw-reel-dw_d20_stoic_the_two_lists",
@@ -34012,7 +34073,8 @@
       "video_path": "images/wisdom_reels_content20/dw_d20_stoic_the_two_lists.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_stoic_the_two_lists.mp4",
       "when": "2026-09-25T08:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AeulKFR5QRu5fKFMXy0c4qa6s324_VS2v0xg1ntBW8RjwBBsmgpVTnmCVQvDXe-q72k_DIJacLsBHnxzCInaYnWSBk25_BpKYo6oJfddVd1daqrN88886f8OMv_QmeFEZBIvpf7cir9RHBNCC3VADIEIYu4Dug5ChFlloLaPvHEG47Avb7_435jH7IrSYb8xPQ1Fex-OwZ8Ze2H_r_EN3evK6aGZZ4Qiy3v6DjOy5qlQNorBDYPOI2Z0fzolQfopL3rHcWSCYOrPpYsoIOKtc2ArUblM1AUVPDwB6syhJ6E9xfoaHebVG5t1fHRYC5OMjNkg\",\"help_cent"
     },
     {
       "id": "dw-reel-dw_d20_the_courage_to_be_needed_less",
@@ -34023,7 +34085,8 @@
       "video_path": "images/wisdom_reels_content20/dw_d20_the_courage_to_be_needed_less.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d20_the_courage_to_be_needed_less.mp4",
       "when": "2026-09-25T10:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aesr3EijfEN64zWIDIOWa9pKW68dNN1bbcGrw7RZtzMYs6TTiTpRc4Qmk7qdqjKPkGCxXjrdPNRR2Weoj2MxnTXrpHFzy92jf9-wsBwO18jWkv25ZK_qqQmQcw0cbreoK6OwHgU1uDmmuI9e79_vnGqDfVJ5lFj_UiiwnbihsFqKQA62cCURbtH1kLbnK24AqUN1Jl8SUdohJsU6Iu0RIjSZMybF9J6k0p8wHLxwHSf8v1KcVf_vhIauUd3bK55OYC_HhoNAQUpKBxqRfnLGJsVCaIHz9X_0GGFlkz_ZsFri9neq4tiDWKieDQIrWTOXRisF\",\"help_cent"
     },
     {
       "id": "dw-reel-dw_d21_the_quality_of_your_questions",
@@ -34199,7 +34262,13 @@
       "video_path": "images/wisdom_reels_content24/dw_d24_the_evening_review.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_evening_review.mp4",
       "when": "2026-09-27T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1023897770707142",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-27T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d24_the_bystander_effect",
@@ -34210,7 +34279,13 @@
       "video_path": "images/wisdom_reels_content24/dw_d24_the_bystander_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_bystander_effect.mp4",
       "when": "2026-09-28T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1085076574171786",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d24_love_isnt_ownership",
@@ -34221,7 +34296,13 @@
       "video_path": "images/wisdom_reels_content24/dw_d24_love_isnt_ownership.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_love_isnt_ownership.mp4",
       "when": "2026-09-28T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1114510967728206",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d24_the_myth_of_the_right_time",
@@ -34232,7 +34313,13 @@
       "video_path": "images/wisdom_reels_content24/dw_d24_the_myth_of_the_right_time.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_myth_of_the_right_time.mp4",
       "when": "2026-09-28T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1092585189848934",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d24_stoic_virtue_the_only_good",
@@ -34243,7 +34330,13 @@
       "video_path": "images/wisdom_reels_content24/dw_d24_stoic_virtue_the_only_good.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_stoic_virtue_the_only_good.mp4",
       "when": "2026-09-29T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1345874244291058",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-29T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d24_the_quiet_grief_of_change",
@@ -34254,7 +34347,13 @@
       "video_path": "images/wisdom_reels_content24/dw_d24_the_quiet_grief_of_change.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d24_the_quiet_grief_of_change.mp4",
       "when": "2026-09-29T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1600084688276079",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-29T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d25_you_are_not_your_thoughts",
@@ -34265,7 +34364,13 @@
       "video_path": "images/wisdom_reels_content25/dw_d25_you_are_not_your_thoughts.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d25_you_are_not_your_thoughts.mp4",
       "when": "2026-09-29T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4368853503369494",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-29T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d25_the_pygmalion_effect",
@@ -34276,7 +34381,13 @@
       "video_path": "images/wisdom_reels_content25/dw_d25_the_pygmalion_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d25_the_pygmalion_effect.mp4",
       "when": "2026-09-29T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1344518034225804",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-29T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d25_the_right_kind_of_alone",
@@ -34287,7 +34398,13 @@
       "video_path": "images/wisdom_reels_content25/dw_d25_the_right_kind_of_alone.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d25_the_right_kind_of_alone.mp4",
       "when": "2026-09-29T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1644995757055608",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-29T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d25_success_isnt_a_finish_line",
@@ -34298,7 +34415,13 @@
       "video_path": "images/wisdom_reels_content25/dw_d25_success_isnt_a_finish_line.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d25_success_isnt_a_finish_line.mp4",
       "when": "2026-09-29T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1980915492865511",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-29T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d25_stoic_kinship_with_others",
@@ -34309,7 +34432,13 @@
       "video_path": "images/wisdom_reels_content25/dw_d25_stoic_kinship_with_others.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d25_stoic_kinship_with_others.mp4",
       "when": "2026-09-30T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1670214858480522",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-30T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d25_the_courage_of_ordinary_days",
@@ -34320,7 +34449,13 @@
       "video_path": "images/wisdom_reels_content25/dw_d25_the_courage_of_ordinary_days.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d25_the_courage_of_ordinary_days.mp4",
       "when": "2026-09-30T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1390661026382364",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-30T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d26_the_stories_we_inherit",
@@ -34331,7 +34466,13 @@
       "video_path": "images/wisdom_reels_content26/dw_d26_the_stories_we_inherit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d26_the_stories_we_inherit.mp4",
       "when": "2026-09-30T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2164059424548433",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-30T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d26_the_paradox_of_choice",
@@ -34342,7 +34483,13 @@
       "video_path": "images/wisdom_reels_content26/dw_d26_the_paradox_of_choice.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d26_the_paradox_of_choice.mp4",
       "when": "2026-09-30T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1105669121906821",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-30T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d23_comfort_isnt_the_goal",
@@ -34353,7 +34500,13 @@
       "video_path": "images/wisdom_reels_content23/dw_d23_comfort_isnt_the_goal.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_comfort_isnt_the_goal.mp4",
       "when": "2026-09-28T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2138323803715172",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d26_respect_before_love",
@@ -34364,7 +34517,13 @@
       "video_path": "images/wisdom_reels_content26/dw_d26_respect_before_love.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d26_respect_before_love.mp4",
       "when": "2026-09-30T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1668893881237476",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-30T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d23_stoic_training_like_an_athlete",
@@ -34375,7 +34534,13 @@
       "video_path": "images/wisdom_reels_content23/dw_d23_stoic_training_like_an_athlete.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_stoic_training_like_an_athlete.mp4",
       "when": "2026-09-28T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1130077262681133",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d26_most_people_wont_change",
@@ -34386,7 +34551,13 @@
       "video_path": "images/wisdom_reels_content26/dw_d26_most_people_wont_change.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d26_most_people_wont_change.mp4",
       "when": "2026-09-30T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2397071867763821",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-30T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d23_the_weight_leaders_carry",
@@ -34397,7 +34568,13 @@
       "video_path": "images/wisdom_reels_content23/dw_d23_the_weight_leaders_carry.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_the_weight_leaders_carry.mp4",
       "when": "2026-09-28T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1507555338084680",
+        "status": "scheduled",
+        "publish_at_utc": "2026-09-28T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d26_stoic_legacy_doesnt_need_permanence",
@@ -34408,7 +34585,13 @@
       "video_path": "images/wisdom_reels_content26/dw_d26_stoic_legacy_doesnt_need_permanence.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d26_stoic_legacy_doesnt_need_permanence.mp4",
       "when": "2026-10-01T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1787271665622255",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-01T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d26_the_loneliness_of_a_crowded_room",
@@ -34419,7 +34602,13 @@
       "video_path": "images/wisdom_reels_content26/dw_d26_the_loneliness_of_a_crowded_room.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d26_the_loneliness_of_a_crowded_room.mp4",
       "when": "2026-10-01T10:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1417523053667846",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-01T10:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d27_the_gap_between_stimulus_and_response",
@@ -34430,7 +34619,13 @@
       "video_path": "images/wisdom_reels_content27/dw_d27_the_gap_between_stimulus_and_response.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d27_the_gap_between_stimulus_and_response.mp4",
       "when": "2026-10-01T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1788661975514000",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-01T13:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d27_the_mirror_of_criticism",
@@ -34441,7 +34636,13 @@
       "video_path": "images/wisdom_reels_content27/dw_d27_the_mirror_of_criticism.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d27_the_mirror_of_criticism.mp4",
       "when": "2026-10-01T15:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4156547011309191",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-01T15:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d27_choosing_your_circle",
@@ -34452,7 +34653,13 @@
       "video_path": "images/wisdom_reels_content27/dw_d27_choosing_your_circle.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d27_choosing_your_circle.mp4",
       "when": "2026-10-01T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1365730935328203",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-01T18:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d27_discipline_over_motivation",
@@ -34463,7 +34670,13 @@
       "video_path": "images/wisdom_reels_content27/dw_d27_discipline_over_motivation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d27_discipline_over_motivation.mp4",
       "when": "2026-10-01T21:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1853096459374076",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-01T21:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d27_stoic_gratitude_for_what_remains",
@@ -34474,7 +34687,13 @@
       "video_path": "images/wisdom_reels_content27/dw_d27_stoic_gratitude_for_what_remains.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d27_stoic_gratitude_for_what_remains.mp4",
       "when": "2026-10-02T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2891995661171616",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-02T08:00:00Z"
+      },
+      "scheduled_at": "2026-09-27T18:57:40+00:00"
     },
     {
       "id": "dw-reel-dw_d27_the_bravery_of_asking_are_you_okay",
@@ -34485,7 +34704,8 @@
       "video_path": "images/wisdom_reels_content27/dw_d27_the_bravery_of_asking_are_you_okay.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d27_the_bravery_of_asking_are_you_okay.mp4",
       "when": "2026-10-02T10:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesLMmmjCxLs21zFlpGeyQBbwE"
     },
     {
       "id": "dw-reel-dw_d28_the_shape_of_your_attention",
@@ -34496,7 +34716,8 @@
       "video_path": "images/wisdom_reels_content28/dw_d28_the_shape_of_your_attention.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_shape_of_your_attention.mp4",
       "when": "2026-10-02T13:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"Aev96IUndUvDh0TibIm2oU_y-j"
     },
     {
       "id": "dw-reel-dw_d28_the_illusion_of_the_highlight_reel",
@@ -34507,7 +34728,8 @@
       "video_path": "images/wisdom_reels_content28/dw_d28_the_illusion_of_the_highlight_reel.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_illusion_of_the_highlight_reel.mp4",
       "when": "2026-10-02T15:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevNEt5DpljQncD_rui6XRMYYW"
     },
     {
       "id": "dw-reel-dw_d28_the_relationships_you_water",
@@ -34518,7 +34740,8 @@
       "video_path": "images/wisdom_reels_content28/dw_d28_the_relationships_you_water.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_relationships_you_water.mp4",
       "when": "2026-10-02T18:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AevSASJGiyijjBfFOxWpz9CUin"
     },
     {
       "id": "dw-reel-dw_d28_no_one_is_thinking_about_your_flaws",
@@ -34529,7 +34752,8 @@
       "video_path": "images/wisdom_reels_content28/dw_d28_no_one_is_thinking_about_your_flaws.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_no_one_is_thinking_about_your_flaws.mp4",
       "when": "2026-10-02T21:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetUccgxPxWu1Lxuas9o8CDfyW"
     },
     {
       "id": "dw-reel-dw_d28_stoic_your_own_mortality",
@@ -34540,7 +34764,8 @@
       "video_path": "images/wisdom_reels_content28/dw_d28_stoic_your_own_mortality.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_stoic_your_own_mortality.mp4",
       "when": "2026-10-03T08:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AesyikFdJ7io2eYyTfwGqtw6uR"
     },
     {
       "id": "dw-reel-dw_d28_the_quiet_ones_carrying_the_most",
@@ -34551,7 +34776,8 @@
       "video_path": "images/wisdom_reels_content28/dw_d28_the_quiet_ones_carrying_the_most.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d28_the_quiet_ones_carrying_the_most.mp4",
       "when": "2026-10-03T10:00:00+00:00",
-      "status": "pending"
+      "status": "pending",
+      "error": "HTTP 400: {\"error\":{\"message\":\"We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More\",\"type\":\"OAuthException\",\"code\":368,\"error_data\":{\"sentry_block_data\":\"AetHy57OteuV7i2Q47pCTpDM41"
     },
     {
       "id": "dw-reel-dw_d29_the_life_you_perform_vs_live",
@@ -37059,7 +37285,11 @@
       "message": "Ten minutes of morning light can lift your whole day ☀️\n\nIt helps anchor your circadian rhythm earlier. Even a short walk outside soon after waking makes a difference.\n\n💚 Bookmark this morning habit.\n\n💬 Do you get outside soon after waking up?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_1_light_therapy_morning.mp4",
       "when": "2026-09-18T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17954568531266342"
+      },
+      "posted_at": "2026-09-27T19:04:06+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_2_sleep_apnea_awareness-fb",
@@ -37086,7 +37316,11 @@
       "message": "Loud snoring can be more than just annoying 😴\n\nIt can be a sign of sleep apnea, where breathing briefly stops many times a night. Worth mentioning to a doctor.\n\n💚 Bookmark this and share if it applies to someone you know.\n\n💬 Have you ever been told you snore loudly?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_2_sleep_apnea_awareness.mp4",
       "when": "2026-09-18T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18185196067413261"
+      },
+      "posted_at": "2026-09-27T19:05:38+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_3_white_noise_sleep_quality-fb",
@@ -37708,7 +37942,11 @@
       "message": "Strength training pays off far beyond the gym 🏋️\n\nCarrying groceries, stairs, getting off the floor — all draw on functional strength. More valuable as you age, not less.\n\n💚 Bookmark this long-term reminder.\n\n💬 Do you think about strength training for daily life?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d7_10_functional_strength_daily_life.mp4",
       "when": "2026-09-17T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18046034927817219"
+      },
+      "posted_at": "2026-09-27T19:03:23+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_8_exercise_consistency_over_intensity-fb",
