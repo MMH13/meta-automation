@@ -32045,7 +32045,13 @@
       "video_path": "images/tmr_reels_content29/tmr_d171_greed.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d171_greed.mp4",
       "when": "2026-09-27T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1423186559782762",
+        "permalink": "/reel/1423186559782762/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:51:34+00:00"
     },
     {
       "id": "tmr-reel-tmr_d172_foreign_oscar",
@@ -32056,7 +32062,13 @@
       "video_path": "images/tmr_reels_content29/tmr_d172_foreign_oscar.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d172_foreign_oscar.mp4",
       "when": "2026-09-27T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "945068234817353",
+        "permalink": "/reel/945068234817353/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:52:15+00:00"
     },
     {
       "id": "tmr-reel-tmr_d173_trilogy_enders",
@@ -32067,7 +32079,13 @@
       "video_path": "images/tmr_reels_content29/tmr_d173_trilogy_enders.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d173_trilogy_enders.mp4",
       "when": "2026-09-27T17:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2102161730428315",
+        "permalink": "/reel/2102161730428315/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:54:20+00:00"
     },
     {
       "id": "tmr-reel-tmr_d174_filmmaking",
@@ -34342,7 +34360,13 @@
       "video_path": "images/wisdom_reels_content23/dw_d23_the_container_of_your_life.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_the_container_of_your_life.mp4",
       "when": "2026-09-27T13:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1555738739166996",
+        "permalink": "/reel/1555738739166996/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:52:56+00:00"
     },
     {
       "id": "dw-reel-dw_d23_emotional_contagion",
@@ -34353,7 +34377,13 @@
       "video_path": "images/wisdom_reels_content23/dw_d23_emotional_contagion.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_emotional_contagion.mp4",
       "when": "2026-09-27T15:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1144408881582768",
+        "permalink": "/reel/1144408881582768/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:53:34+00:00"
     },
     {
       "id": "dw-reel-dw_d23_love_that_requires_shrinking",
@@ -34364,7 +34394,13 @@
       "video_path": "images/wisdom_reels_content23/dw_d23_love_that_requires_shrinking.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d23_love_that_requires_shrinking.mp4",
       "when": "2026-09-27T18:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1446390034094177",
+        "permalink": "/reel/1446390034094177/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:55:06+00:00"
     },
     {
       "id": "dw-reel-dw_d24_the_evening_review",
@@ -37850,7 +37886,11 @@
       "message": "Sore muscles don't mean a 'better' workout 💪\n\nSoreness comes from unfamiliar movement, not just intensity. Consistent training builds results, sore or not.\n\n💚 Bookmark this fitness myth-buster.\n\n💬 Do you judge a workout by how sore you get?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_2_muscle_soreness_normal.mp4",
       "when": "2026-09-20T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18025041971880796"
+      },
+      "posted_at": "2026-09-28T01:48:42+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_3_walking_pace_health_marker-fb",
@@ -37877,7 +37917,11 @@
       "message": "Your walking pace reflects your overall fitness 🚶\n\nResearchers use walking speed as a simple health marker. Picking up the pace on daily walks builds real fitness.\n\n💚 Bookmark this before your next walk.\n\n💬 What's your usual walking pace like?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_3_walking_pace_health_marker.mp4",
       "when": "2026-09-20T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17905869876592509"
+      },
+      "posted_at": "2026-09-28T01:49:49+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_4_strength_training_bone_density-fb",
@@ -37904,7 +37948,11 @@
       "message": "Lifting weights protects your bones, not just muscle 🦴\n\nResistance training stimulates bones to stay denser. This matters even more as bone loss naturally speeds up with age.\n\n💚 Bookmark this before your next workout.\n\n💬 Do you include strength training in your week?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_4_strength_training_bone_density.mp4",
       "when": "2026-09-20T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18434353267182969"
+      },
+      "posted_at": "2026-09-28T01:50:54+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_5_exercise_snack_micro_movement-fb",
