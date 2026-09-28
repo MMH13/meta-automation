@@ -31994,7 +31994,13 @@
       "video_path": "images/tmr_reels_content28/tmr_d168_one_night.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d168_one_night.mp4",
       "when": "2026-09-26T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1073512271964872",
+        "permalink": "/reel/1073512271964872/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:16:56+00:00"
     },
     {
       "id": "tmr-reel-tmr_d169_african",
@@ -32005,7 +32011,13 @@
       "video_path": "images/tmr_reels_content29/tmr_d169_african.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d169_african.mp4",
       "when": "2026-09-27T01:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1500156471873438",
+        "permalink": "/reel/1500156471873438/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:18:23+00:00"
     },
     {
       "id": "tmr-reel-tmr_d170_video_games",
@@ -32016,7 +32028,13 @@
       "video_path": "images/tmr_reels_content29/tmr_d170_video_games.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/tmr_d170_video_games.mp4",
       "when": "2026-09-27T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2427166437808949",
+        "permalink": "/reel/2427166437808949/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:18:58+00:00"
     },
     {
       "id": "tmr-reel-tmr_d171_greed",
@@ -34273,7 +34291,13 @@
       "video_path": "images/wisdom_reels_content22/dw_d22_you_will_outgrow_people.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_you_will_outgrow_people.mp4",
       "when": "2026-09-26T21:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1075798862017987",
+        "permalink": "/reel/1075798862017987/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:17:49+00:00"
     },
     {
       "id": "dw-reel-dw_d22_stoic_impermanence_of_things",
@@ -34284,7 +34308,13 @@
       "video_path": "images/wisdom_reels_content22/dw_d22_stoic_impermanence_of_things.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_stoic_impermanence_of_things.mp4",
       "when": "2026-09-27T08:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "4092920897677580",
+        "permalink": "/reel/4092920897677580/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:19:57+00:00"
     },
     {
       "id": "dw-reel-dw_d22_the_strength_in_softness",
@@ -34295,7 +34325,13 @@
       "video_path": "images/wisdom_reels_content22/dw_d22_the_strength_in_softness.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d22_the_strength_in_softness.mp4",
       "when": "2026-09-27T10:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1456235553079566",
+        "permalink": "/reel/1456235553079566/",
+        "status": "ready"
+      },
+      "posted_at": "2026-09-28T01:20:50+00:00"
     },
     {
       "id": "dw-reel-dw_d23_the_container_of_your_life",
@@ -37721,7 +37757,11 @@
       "message": "A 15-minute nap isn't laziness, it's strategy 😴\n\nSome elite teams and pilots use scheduled naps for performance. 10-20 minutes avoids the groggy after-effect.\n\n💚 Bookmark this if you feel guilty about napping.\n\n💬 Do you ever nap during the day?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_5_napping_workplace_stigma.mp4",
       "when": "2026-09-19T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18130508314767489"
+      },
+      "posted_at": "2026-09-28T01:14:57+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_6_screen_time_before_bed-fb",
@@ -37748,7 +37788,11 @@
       "message": "It's not just the blue light keeping you up 📱\n\nScrolling stimulating content keeps your brain alert. A calm book beats a fast-moving feed before bed.\n\n💚 Bookmark this before tonight.\n\n💬 What's the last thing you look at before sleeping?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_6_screen_time_before_bed.mp4",
       "when": "2026-09-19T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18105506642255993"
+      },
+      "posted_at": "2026-09-28T01:15:40+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_1_zone2_cardio_basics-fb",
@@ -37775,7 +37819,11 @@
       "message": "You don't need to sprint for real cardio benefits 🏃\n\nEasy-paced cardio, where you can still talk, builds a strong aerobic base and trains fat-burning efficiency.\n\n💚 Bookmark this before your next cardio session.\n\n💬 Do you always push hard when you exercise?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_1_zone2_cardio_basics.mp4",
       "when": "2026-09-20T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17992797428848216"
+      },
+      "posted_at": "2026-09-28T01:16:19+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_2_muscle_soreness_normal-fb",
