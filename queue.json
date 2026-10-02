@@ -38583,7 +38583,8 @@
       "message": "Rest days aren't just for your muscles 🧠\n\nStepping back from a strict routine lowers mental fatigue too. A rest day is progress, not a pause from it.\n\n💚 Bookmark this for your next rest day.\n\n💬 Do you feel guilty on rest days?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_7_rest_day_mental_benefit.mp4",
       "when": "2026-09-20T14:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d10_8_exercise_outdoors_vs_indoors-fb",
@@ -38594,7 +38595,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d10_8_exercise_outdoors_vs_indoors.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_8_exercise_outdoors_vs_indoors.mp4",
       "when": "2026-09-20T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1104925452397735",
+        "permalink": "/reel/1104925452397735/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T22:37:46+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_8_exercise_outdoors_vs_indoors-ig",
@@ -38604,7 +38611,8 @@
       "message": "The same workout can feel easier outdoors 🌳\n\nSome studies link outdoor exercise to lower perceived effort, plus natural light and fresh air on top.\n\n💚 Bookmark this before your next workout.\n\n💬 Do you prefer outdoor or indoor workouts?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_8_exercise_outdoors_vs_indoors.mp4",
       "when": "2026-09-20T16:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d10_9_balance_training_importance-fb",
