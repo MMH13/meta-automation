@@ -38452,7 +38452,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d9_7_cardio_strength_combo_benefits.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_7_cardio_strength_combo_benefits.mp4",
       "when": "2026-09-19T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2172677686984657",
+        "permalink": "/reel/2172677686984657/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T13:58:38+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_7_cardio_strength_combo_benefits-ig",
@@ -38462,7 +38468,11 @@
       "message": "You don't have to choose cardio OR strength 🔀\n\nCombining both across a week covers more health markers than either alone. Even 2 strength + 2-3 cardio days works.\n\n💚 Bookmark this weekly structure idea.\n\n💬 Do you mix cardio and strength, or stick to one?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_7_cardio_strength_combo_benefits.mp4",
       "when": "2026-09-19T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18002912459991008"
+      },
+      "posted_at": "2026-10-02T13:59:46+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_8_exercise_habit_formation-fb",
@@ -38473,7 +38483,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d9_8_exercise_habit_formation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_8_exercise_habit_formation.mp4",
       "when": "2026-09-19T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1145816751683912",
+        "permalink": "/reel/1145816751683912/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T14:00:25+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_8_exercise_habit_formation-ig",
