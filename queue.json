@@ -38623,7 +38623,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d10_9_balance_training_importance.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_9_balance_training_importance.mp4",
       "when": "2026-09-20T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1495973062356661",
+        "permalink": "/reel/1495973062356661/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T23:52:46+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_9_balance_training_importance-ig",
@@ -38633,7 +38639,8 @@
       "message": "Balance is trainable, not just a fixed trait ⚖️\n\nStanding on one leg for 30 seconds a few times a week can build real balance and lower fall risk over time.\n\n💚 Bookmark this simple drill.\n\n💬 Have you ever tried a balance drill?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_9_balance_training_importance.mp4",
       "when": "2026-09-20T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d10_10_exercise_motivation_environment_design-fb",
@@ -38644,7 +38651,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d10_10_exercise_motivation_environment_design.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_10_exercise_motivation_environment_design.mp4",
       "when": "2026-09-20T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "961795200314010",
+        "permalink": "/reel/961795200314010/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T23:53:29+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_10_exercise_motivation_environment_design-ig",
