@@ -38499,7 +38499,8 @@
       "message": "Motivation fades, but a scheduled habit sticks 📅\n\nPairing exercise with something you already do daily makes it far easier to start and keep.\n\n💚 Bookmark this habit-building tip.\n\n💬 Do you anchor habits to existing routines?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_8_exercise_habit_formation.mp4",
       "when": "2026-09-19T16:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d9_9_heart_rate_recovery_fitness-fb",
@@ -38510,7 +38511,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d9_9_heart_rate_recovery_fitness.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_9_heart_rate_recovery_fitness.mp4",
       "when": "2026-09-19T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "4378143155829833",
+        "permalink": "/reel/4378143155829833/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T18:45:15+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_9_heart_rate_recovery_fitness-ig",
@@ -38520,7 +38527,8 @@
       "message": "How fast your heart rate recovers matters ❤️\n\nA faster drop in the first minute after exercise often means a fitter heart. Regular cardio improves this over weeks.\n\n💚 Bookmark this fitness marker.\n\n💬 Have you ever checked your heart rate recovery?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_9_heart_rate_recovery_fitness.mp4",
       "when": "2026-09-19T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d9_10_posture_exercise_core_strength-fb",
