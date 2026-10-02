@@ -38539,7 +38539,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d9_10_posture_exercise_core_strength.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_10_posture_exercise_core_strength.mp4",
       "when": "2026-09-19T22:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1769230237552217",
+        "permalink": "/reel/1769230237552217/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T19:25:28+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_10_posture_exercise_core_strength-ig",
@@ -38549,7 +38555,8 @@
       "message": "Your core does more than help with 'abs' 💪\n\nIt stabilizes your spine during nearly every daily movement and genuinely supports better posture.\n\n💚 Bookmark this before your next core workout.\n\n💬 Do you train your core regularly?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_10_posture_exercise_core_strength.mp4",
       "when": "2026-09-19T22:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d10_7_rest_day_mental_benefit-fb",
@@ -38560,7 +38567,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d10_7_rest_day_mental_benefit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_7_rest_day_mental_benefit.mp4",
       "when": "2026-09-20T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1119277633884778",
+        "permalink": "/reel/1119277633884778/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T19:26:17+00:00"
     },
     {
       "id": "hd-cadence-hd10_d10_7_rest_day_mental_benefit-ig",
