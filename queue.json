@@ -38359,7 +38359,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d9_1_sleep_temperature_drop_body.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d9_1_sleep_temperature_drop_body.mp4",
       "when": "2026-09-19T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1719215156290535",
+        "permalink": "/reel/1719215156290535/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T10:00:12+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_1_sleep_temperature_drop_body-ig",
@@ -38401,7 +38407,13 @@
       "video_path": "images/health_reels_hd10_batch02/hd10_d8_7_heart_health_walking_minutes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_7_heart_health_walking_minutes.mp4",
       "when": "2026-09-18T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1626839385516303",
+        "permalink": "/reel/1626839385516303/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-02T09:59:00+00:00"
     },
     {
       "id": "hd-cadence-hd10_d8_7_heart_health_walking_minutes-ig",
@@ -38411,7 +38423,11 @@
       "message": "30 minutes of walking a day supports real heart health ❤️\n\nIt helps manage blood pressure and cholesterol over time. Splitting it into shorter walks still counts fully.\n\n💚 Bookmark this daily heart-health goal.\n\n💬 Do you hit 30 minutes of walking most days?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d8_7_heart_health_walking_minutes.mp4",
       "when": "2026-09-18T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18145411780576063"
+      },
+      "posted_at": "2026-10-02T09:59:37+00:00"
     },
     {
       "id": "hd-cadence-hd10_d9_7_cardio_strength_combo_benefits-fb",
@@ -38842,7 +38858,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d38_s1_venus_day.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d38_s1_venus_day.mp4",
       "when": "2026-10-02T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "986095103864679",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-02T12:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d38_s2_antikythera_mechanism-fb",
@@ -38853,7 +38875,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d38_s2_antikythera_mechanism.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d38_s2_antikythera_mechanism.mp4",
       "when": "2026-10-02T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1618232090096068",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-02T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d38_s3_octopus_three_hearts-fb",
@@ -38864,7 +38892,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d38_s3_octopus_three_hearts.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d38_s3_octopus_three_hearts.mp4",
       "when": "2026-10-03T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2040260903323027",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-03T00:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d38_s4_brain_no_pain_receptors-fb",
@@ -38875,7 +38909,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d38_s4_brain_no_pain_receptors.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d38_s4_brain_no_pain_receptors.mp4",
       "when": "2026-10-03T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2636198506869112",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-03T06:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d39_s1_ocean_vs_mars_mapped-fb",
@@ -38886,7 +38926,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d39_s1_ocean_vs_mars_mapped.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d39_s1_ocean_vs_mars_mapped.mp4",
       "when": "2026-10-03T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1622685359654723",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-03T12:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d39_s2_immortal_jellyfish-fb",
@@ -38897,7 +38943,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d39_s2_immortal_jellyfish.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d39_s2_immortal_jellyfish.mp4",
       "when": "2026-10-03T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1716195576142166",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-03T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d39_s3_crow_face_memory-fb",
@@ -38908,7 +38960,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d39_s3_crow_face_memory.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d39_s3_crow_face_memory.mp4",
       "when": "2026-10-04T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1081870784646086",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-04T00:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d39_s4_zeigarnik_unfinished_tasks-fb",
@@ -38919,7 +38977,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d39_s4_zeigarnik_unfinished_tasks.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d39_s4_zeigarnik_unfinished_tasks.mp4",
       "when": "2026-10-04T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1570138064265166",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-04T06:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d40_s1_neutron_star_density-fb",
@@ -38930,7 +38994,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d40_s1_neutron_star_density.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d40_s1_neutron_star_density.mp4",
       "when": "2026-10-04T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1122552613524592",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-04T12:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d40_s2_pantheon_self_healing_concrete-fb",
@@ -38941,7 +39011,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d40_s2_pantheon_self_healing_concrete.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d40_s2_pantheon_self_healing_concrete.mp4",
       "when": "2026-10-04T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1560591972418047",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-04T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d40_s3_tardigrade_space_survival-fb",
@@ -38952,7 +39028,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d40_s3_tardigrade_space_survival.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d40_s3_tardigrade_space_survival.mp4",
       "when": "2026-10-05T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1368426282153495",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-05T00:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d40_s4_flamingos_born_gray-fb",
@@ -38963,7 +39045,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d40_s4_flamingos_born_gray.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d40_s4_flamingos_born_gray.mp4",
       "when": "2026-10-05T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "937163919033264",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-05T06:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d41_s1_saturn_floats_water-fb",
@@ -38974,7 +39062,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d41_s1_saturn_floats_water.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d41_s1_saturn_floats_water.mp4",
       "when": "2026-10-05T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1408125758060776",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-05T12:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d41_s2_voynich_manuscript-fb",
@@ -38985,7 +39079,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d41_s2_voynich_manuscript.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d41_s2_voynich_manuscript.mp4",
       "when": "2026-10-05T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2226778744557400",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-05T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d41_s3_giant_squid_eyes-fb",
@@ -38996,7 +39096,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d41_s3_giant_squid_eyes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d41_s3_giant_squid_eyes.mp4",
       "when": "2026-10-06T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1632103228519993",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-06T00:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d41_s4_smell_memory_link-fb",
@@ -39007,7 +39113,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d41_s4_smell_memory_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d41_s4_smell_memory_link.mp4",
       "when": "2026-10-06T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2159756428221089",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-06T06:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d42_s1_paper_fold_moon_math-fb",
@@ -39018,7 +39130,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d42_s1_paper_fold_moon_math.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d42_s1_paper_fold_moon_math.mp4",
       "when": "2026-10-06T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4561340947482195",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-06T12:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d42_s2_banana_radioactive-fb",
@@ -39029,7 +39147,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d42_s2_banana_radioactive.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d42_s2_banana_radioactive.mp4",
       "when": "2026-10-06T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1417663787101089",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-06T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d42_s3_glass_amorphous_debate-fb",
@@ -39040,7 +39164,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d42_s3_glass_amorphous_debate.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d42_s3_glass_amorphous_debate.mp4",
       "when": "2026-10-07T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1072653845393394",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-07T00:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d42_s4_lightning_hotter_than_sun-fb",
@@ -39051,7 +39181,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d42_s4_lightning_hotter_than_sun.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d42_s4_lightning_hotter_than_sun.mp4",
       "when": "2026-10-07T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2148309862708455",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-07T06:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d43_s1_blobfish_pressure-fb",
@@ -39062,7 +39198,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d43_s1_blobfish_pressure.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d43_s1_blobfish_pressure.mp4",
       "when": "2026-10-07T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1943242449970539",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-07T12:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d43_s2_great_pyramid_tallest_record-fb",
@@ -39073,7 +39215,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d43_s2_great_pyramid_tallest_record.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d43_s2_great_pyramid_tallest_record.mp4",
       "when": "2026-10-07T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "921635500767138",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-07T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d43_s3_morning_height_taller-fb",
@@ -39084,7 +39232,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d43_s3_morning_height_taller.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d43_s3_morning_height_taller.mp4",
       "when": "2026-10-08T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2204368800294675",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-08T00:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d43_s4_old_tjikko_ancient_root-fb",
@@ -39095,7 +39249,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d43_s4_old_tjikko_ancient_root.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d43_s4_old_tjikko_ancient_root.mp4",
       "when": "2026-10-08T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2102247400394245",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-08T06:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d44_s1_wood_frog_freezing-fb",
@@ -39106,7 +39266,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d44_s1_wood_frog_freezing.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d44_s1_wood_frog_freezing.mp4",
       "when": "2026-10-08T12:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1100108239187204",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-08T12:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d44_s2_ancient_honey_edible-fb",
@@ -39117,7 +39283,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d44_s2_ancient_honey_edible.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d44_s2_ancient_honey_edible.mp4",
       "when": "2026-10-08T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1614374563809771",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-08T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d44_s3_frisbee_pie_tin_origin-fb",
@@ -39128,7 +39300,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d44_s3_frisbee_pie_tin_origin.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d44_s3_frisbee_pie_tin_origin.mp4",
       "when": "2026-10-09T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1407013331613547",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-09T00:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     },
     {
       "id": "sa-cadence-sa_d44_s4_stars_vs_sand_estimate-fb",
@@ -39139,7 +39317,13 @@
       "video_path": "images/suspense_reels_suspense_facts_content1/sa_d44_s4_stars_vs_sand_estimate.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d44_s4_stars_vs_sand_estimate.mp4",
       "when": "2026-10-09T06:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1405967417718105",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-09T06:00:00Z"
+      },
+      "scheduled_at": "2026-10-02T09:54:29+00:00"
     }
   ]
 }
