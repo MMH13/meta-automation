@@ -38875,7 +38875,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_8_comparison_social_media_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_8_comparison_social_media_effect.mp4",
       "when": "2026-09-21T16:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "2304735530380399",
+        "permalink": "/reel/2304735530380399/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T12:46:48+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_8_comparison_social_media_effect-ig",
@@ -38885,7 +38891,8 @@
       "message": "You're comparing your life to someone's highlight reel 📱\n\nScrolling edited best moments can quietly lower your mood. Noticing this pattern alone can soften its effect.\n\n💚 Bookmark this before your next scroll session.\n\n💬 Do you notice comparison creeping in while scrolling?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_8_comparison_social_media_effect.mp4",
       "when": "2026-09-21T16:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_9_setting_boundaries_stress_relief-fb",
@@ -38896,7 +38903,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_9_setting_boundaries_stress_relief.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_9_setting_boundaries_stress_relief.mp4",
       "when": "2026-09-21T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1818142562944115",
+        "permalink": "/reel/1818142562944115/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T12:47:39+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_9_setting_boundaries_stress_relief-ig",
