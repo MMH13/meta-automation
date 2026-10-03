@@ -38791,7 +38791,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_5_gratitude_practice_brain.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_5_gratitude_practice_brain.mp4",
       "when": "2026-09-21T09:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1073025595503058",
+        "permalink": "/reel/1073025595503058/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T09:17:19+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_5_gratitude_practice_brain-ig",
@@ -38801,7 +38807,8 @@
       "message": "Naming 3 things you're grateful for shifts your mood 🙏\n\nGratitude practice is linked to lower stress hormone levels. Small things count just as much as big ones.\n\n💚 Bookmark this and try it right now.\n\n💬 What are 3 things you're grateful for today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_5_gratitude_practice_brain.mp4",
       "when": "2026-09-21T09:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_6_boredom_creativity_link-fb",
@@ -38812,7 +38819,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_6_boredom_creativity_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_6_boredom_creativity_link.mp4",
       "when": "2026-09-21T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1609684670902247",
+        "permalink": "/reel/1609684670902247/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T09:18:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_6_boredom_creativity_link-ig",
