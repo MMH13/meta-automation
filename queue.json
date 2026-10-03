@@ -38959,7 +38959,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_2_sodium_blood_pressure_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_2_sodium_blood_pressure_link.mp4",
       "when": "2026-09-22T02:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1400801431624045",
+        "permalink": "/reel/1400801431624045/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T16:47:44+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_2_sodium_blood_pressure_link-ig",
@@ -38969,7 +38975,8 @@
       "message": "Cutting sodium is one of the simplest heart moves ❤️\n\nExcess sodium makes your body retain fluid, raising blood pressure. Processed and restaurant food carry far more than home cooking.\n\n💚 Bookmark this before your next meal.\n\n💬 Do you cook most of your meals at home?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_2_sodium_blood_pressure_link.mp4",
       "when": "2026-09-22T02:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d12_3_stairs_vs_elevator_heart-fb",
@@ -38980,7 +38987,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_3_stairs_vs_elevator_heart.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_3_stairs_vs_elevator_heart.mp4",
       "when": "2026-09-22T05:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1662067455348817",
+        "permalink": "/reel/1662067455348817/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T16:48:26+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_3_stairs_vs_elevator_heart-ig",
