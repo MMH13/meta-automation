@@ -38751,7 +38751,8 @@
       "message": "Writing down a worry for 5 minutes actually quiets it 📝\n\nPutting feelings into words engages a part of your brain linked to emotional regulation. No structure needed.\n\n💚 Bookmark this for a stressful moment.\n\n💬 Do you journal when stressed?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_3_journaling_stress_release.mp4",
       "when": "2026-09-21T05:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_4_social_connection_longevity-fb",
@@ -38762,7 +38763,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_4_social_connection_longevity.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_4_social_connection_longevity.mp4",
       "when": "2026-09-21T07:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1082935747847732",
+        "permalink": "/reel/1082935747847732/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T07:09:00+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_4_social_connection_longevity-ig",
@@ -38772,7 +38779,8 @@
       "message": "Relationships predict a long life more than diet alone 🤝\n\nDecades-long studies rank social connection above diet or exercise alone. A short check-in counts more than it feels like.\n\n💚 Bookmark this and text someone today.\n\n💬 Who could you check in with today?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_4_social_connection_longevity.mp4",
       "when": "2026-09-21T07:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_5_gratitude_practice_brain-fb",
