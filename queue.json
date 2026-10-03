@@ -38667,7 +38667,8 @@
       "message": "Your environment decides workouts more than willpower 🎽\n\nLaying out clothes the night before lowers the morning barrier. Make the healthy choice the easy choice.\n\n💚 Bookmark this before tonight.\n\n💬 Do you prep your workout gear the night before?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d10_10_exercise_motivation_environment_design.mp4",
       "when": "2026-09-20T22:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_1_physiological_sigh_stress-fb",
@@ -38678,7 +38679,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_1_physiological_sigh_stress.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_1_physiological_sigh_stress.mp4",
       "when": "2026-09-21T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1727356475019119",
+        "permalink": "/reel/1727356475019119/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T01:30:11+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_1_physiological_sigh_stress-ig",
@@ -38688,7 +38695,8 @@
       "message": "This breathing trick calms you in under a minute 🌬️\n\nTwo short inhales, one long exhale. It's called a physiological sigh, and it activates your calming nervous system.\n\n💚 Bookmark this and try it next time you're stressed.\n\n💬 Have you tried this breathing pattern before?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_1_physiological_sigh_stress.mp4",
       "when": "2026-09-21T00:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_2_stress_vs_anxiety_difference-fb",
