@@ -38919,7 +38919,8 @@
       "message": "Saying no to one thing is saying yes to yourself 🛑\n\nOver-commitment is strongly linked to higher stress. A short pause before answering gives you room to actually decide.\n\n💚 Bookmark this before your next request.\n\n💬 Do you struggle to say no?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_9_setting_boundaries_stress_relief.mp4",
       "when": "2026-09-21T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d12_1_heart_disease_silent_risk-fb",
@@ -38930,7 +38931,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_1_heart_disease_silent_risk.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_1_heart_disease_silent_risk.mp4",
       "when": "2026-09-22T00:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1133652519089342",
+        "permalink": "/reel/1133652519089342/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T16:33:10+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_1_heart_disease_silent_risk-ig",
@@ -38940,7 +38947,8 @@
       "message": "Heart disease often builds quietly for years 🫀\n\nBlood pressure and cholesterol can run high without you feeling anything. Regular checkups catch what symptoms alone would miss.\n\n💚 Bookmark this and book that checkup.\n\n💬 When did you last check your blood pressure?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_1_heart_disease_silent_risk.mp4",
       "when": "2026-09-22T00:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d12_2_sodium_blood_pressure_link-fb",
