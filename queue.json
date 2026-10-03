@@ -38835,7 +38835,8 @@
       "message": "Boredom isn't the enemy people think it is 💭\n\nLetting your mind wander sparks more creative thinking. Constantly filling every gap with a screen removes that space.\n\n💚 Bookmark this and try sitting with boredom today.\n\n💬 When did you last let yourself be truly bored?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_6_boredom_creativity_link.mp4",
       "when": "2026-09-21T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_7_grounding_technique_54321-fb",
@@ -38846,7 +38847,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_7_grounding_technique_54321.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_7_grounding_technique_54321.mp4",
       "when": "2026-09-21T14:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "video_id": "1778544663391957",
+        "permalink": "/reel/1778544663391957/",
+        "status": "ready"
+      },
+      "posted_at": "2026-10-03T11:51:26+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_7_grounding_technique_54321-ig",
@@ -38856,7 +38863,8 @@
       "message": "The 5-4-3-2-1 grounding trick, explained 🌿\n\n5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste. It pulls your focus back to the present.\n\n💚 Bookmark this for an overwhelming moment.\n\n💬 Have you tried a grounding technique before?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_7_grounding_technique_54321.mp4",
       "when": "2026-09-21T14:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: User access is restricted (type=OAuthException, code=25, subcode=2207050)"
     },
     {
       "id": "hd-cadence-hd10_d11_8_comparison_social_media_effect-fb",
