@@ -39481,6 +39481,83 @@
         "publish_at_utc": "2026-10-09T06:00:00Z"
       },
       "scheduled_at": "2026-10-02T09:54:29+00:00"
+    },
+    {
+      "id": "sa-cadence-sa_d45_s1_vance_missing_violin-fb",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "reel",
+      "message": "🕵️ THE VANCE FILES · Case #1: The Fake Violin (original fiction)\n\nA priceless violin turned out to be a copy, and nobody knew since when. Inspector Vance found the answer in its strings.\n\n👇 Who do you think swapped it: the curator, the conductor, or the caterer?\n\n🎭 SUSPENSE AHEAD — a new case every day.",
+      "video_path": "images/suspense_reels_cases_content1/sa_d45_s1_vance_missing_violin.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d45_s1_vance_missing_violin.mp4",
+      "when": "2026-10-25T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "sa-cadence-sa_d46_s1_vance_dark_lighthouse-fb",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "reel",
+      "message": "🕵️ THE VANCE FILES · Case #2: The Dark Lighthouse (original fiction)\n\nA lighthouse went dark three nights running and a ship nearly wrecked. The keeper swore he never left the tower. His boots said otherwise.\n\n👇 Would you have checked the keeper's boots?\n\n🎭 SUSPENSE AHEAD — a new case every day.",
+      "video_path": "images/suspense_reels_cases_content1/sa_d46_s1_vance_dark_lighthouse.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d46_s1_vance_dark_lighthouse.mp4",
+      "when": "2026-10-26T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "sa-cadence-sa_d47_s1_vance_torn_map-fb",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "reel",
+      "message": "🕵️ THE VANCE FILES · Case #3: The Torn Map (original fiction)\n\nTwo siblings dug for a treasure for weeks and found nothing. Inspector Vance solved the riddle in one afternoon.\n\n👇 Where would you have dug?\n\n🎭 SUSPENSE AHEAD — a new case every day.",
+      "video_path": "images/suspense_reels_cases_content1/sa_d47_s1_vance_torn_map.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d47_s1_vance_torn_map.mp4",
+      "when": "2026-10-27T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "sa-cadence-sa_d48_s1_vance_wrong_alibi-fb",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "reel",
+      "message": "🕵️ THE VANCE FILES · Case #4: The Perfect Alibi (original fiction)\n\nA ticket stub, a witness, and a film he described perfectly. Inspector Vance found the one detail he couldn't have known.\n\n👇 Did the ending give him away for you?\n\n🎭 SUSPENSE AHEAD — a new case every day.",
+      "video_path": "images/suspense_reels_cases_content1/sa_d48_s1_vance_wrong_alibi.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d48_s1_vance_wrong_alibi.mp4",
+      "when": "2026-10-28T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "sa-cadence-sa_d49_s1_vance_newspaper_cipher-fb",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "reel",
+      "message": "🕵️ THE VANCE FILES · Case #5: The Newspaper Cipher (original fiction)\n\nA note of numbers on a locked desk, and a newspaper left beside it. Inspector Vance worked out what the numbers pointed to.\n\n👇 Did you crack the code before she did?\n\n🎭 SUSPENSE AHEAD — a new case every day.",
+      "video_path": "images/suspense_reels_cases_content1/sa_d49_s1_vance_newspaper_cipher.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d49_s1_vance_newspaper_cipher.mp4",
+      "when": "2026-10-29T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "sa-cadence-sa_d50_s1_vance_snow_footprints-fb",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "reel",
+      "message": "🕵️ THE VANCE FILES · Case #6: Footprints in the Snow (original fiction)\n\nFootprints led into a cabin and none led out, and the cash was gone. Inspector Vance read the story the prints were telling.\n\n👇 Would you have noticed the toes?\n\n🎭 SUSPENSE AHEAD — a new case every day.",
+      "video_path": "images/suspense_reels_cases_content1/sa_d50_s1_vance_snow_footprints.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d50_s1_vance_snow_footprints.mp4",
+      "when": "2026-10-30T18:00:00+00:00",
+      "status": "pending"
+    },
+    {
+      "id": "sa-cadence-sa_d51_s1_vance_midnight_auction-fb",
+      "account": "suspense-ahead",
+      "network": "facebook",
+      "type": "reel",
+      "message": "🕵️ THE VANCE FILES · Case #7: The Midnight Auction (original fiction)\n\nOne bidder won every best lot and nobody ever saw him bid. Inspector Vance listened for the one sound that gave it away.\n\n👇 Did you spot the clue before the reveal?\n\n🎭 SUSPENSE AHEAD — a new case every day.",
+      "video_path": "images/suspense_reels_cases_content1/sa_d51_s1_vance_midnight_auction.mp4",
+      "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d51_s1_vance_midnight_auction.mp4",
+      "when": "2026-10-31T18:00:00+00:00",
+      "status": "pending"
     }
   ]
 }

@@ -59,8 +59,11 @@ def _slot_for(slug):
 def main(module_name):
     mod = importlib.import_module(module_name)
     reels = mod.REELS
+    build_fn = build_reel
+    if getattr(mod, "STYLE", "") == "photo":  # stills + Ken Burns motion episodes
+        from video_suspense_cases import build as build_fn
 
-    out_dir = _HERE / "images" / f"suspense_reels_{module_name.replace('suspense_reel_', '')}"
+    out_dir = _HERE / "images" / f"suspense_reels_{module_name.replace('suspense_reel_', '').replace('suspense_cases_', 'cases_')}"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     have = {i.get("id") for i in load()["items"]}
@@ -78,8 +81,8 @@ def main(module_name):
 
         if not video_path.is_file():
             print(f"\n=== building {slug} ({len(beats)} beats) ===")
-            build_reel(beats, str(video_path), str(work_dir), str(video_state), str(lock),
-                      VOICE_PROFILE, VOICE_ENGINE, VOICE_ID, VOICE_DESC)
+            build_fn(beats, str(video_path), str(work_dir), str(video_state), str(lock),
+                     VOICE_PROFILE, VOICE_ENGINE, VOICE_ID, VOICE_DESC)
 
         when = _slot_for(slug)
 

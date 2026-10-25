@@ -17,9 +17,12 @@ can never collide with a post Meta has already locked in.
 """
 from datetime import datetime, timedelta, timezone
 
+import os
+
 from aug_common import load, save
 
-SLOTS = [0, 6, 12, 18]          # UTC hours — see docstring
+# SA_SLOTS=18 lays pending reels one per day at 18:00 UTC (the case-solving pilot).
+SLOTS = [int(h) for h in os.environ.get("SA_SLOTS", "0,6,12,18").split(",")]  # UTC hours
 PER_DAY = len(SLOTS)
 
 
