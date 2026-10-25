@@ -39491,7 +39491,13 @@
       "video_path": "images/suspense_reels_cases_content1/sa_d45_s1_vance_missing_violin.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d45_s1_vance_missing_violin.mp4",
       "when": "2026-10-25T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2095115615210542",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-25T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-25T12:39:05+00:00"
     },
     {
       "id": "sa-cadence-sa_d46_s1_vance_dark_lighthouse-fb",
@@ -39502,7 +39508,13 @@
       "video_path": "images/suspense_reels_cases_content1/sa_d46_s1_vance_dark_lighthouse.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d46_s1_vance_dark_lighthouse.mp4",
       "when": "2026-10-26T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1426293122902066",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-26T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-25T12:39:05+00:00"
     },
     {
       "id": "sa-cadence-sa_d47_s1_vance_torn_map-fb",
@@ -39513,7 +39525,13 @@
       "video_path": "images/suspense_reels_cases_content1/sa_d47_s1_vance_torn_map.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d47_s1_vance_torn_map.mp4",
       "when": "2026-10-27T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1135514185653943",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-27T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-25T12:39:05+00:00"
     },
     {
       "id": "sa-cadence-sa_d48_s1_vance_wrong_alibi-fb",
@@ -39524,7 +39542,13 @@
       "video_path": "images/suspense_reels_cases_content1/sa_d48_s1_vance_wrong_alibi.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d48_s1_vance_wrong_alibi.mp4",
       "when": "2026-10-28T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1037783889316427",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-28T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-25T12:39:05+00:00"
     },
     {
       "id": "sa-cadence-sa_d49_s1_vance_newspaper_cipher-fb",
@@ -39535,7 +39559,13 @@
       "video_path": "images/suspense_reels_cases_content1/sa_d49_s1_vance_newspaper_cipher.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d49_s1_vance_newspaper_cipher.mp4",
       "when": "2026-10-29T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1721411669548235",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-29T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-25T12:39:05+00:00"
     },
     {
       "id": "sa-cadence-sa_d50_s1_vance_snow_footprints-fb",
@@ -39546,7 +39576,13 @@
       "video_path": "images/suspense_reels_cases_content1/sa_d50_s1_vance_snow_footprints.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d50_s1_vance_snow_footprints.mp4",
       "when": "2026-10-30T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1599267734795655",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-30T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-25T12:39:05+00:00"
     },
     {
       "id": "sa-cadence-sa_d51_s1_vance_midnight_auction-fb",
@@ -39557,7 +39593,13 @@
       "video_path": "images/suspense_reels_cases_content1/sa_d51_s1_vance_midnight_auction.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/sa_d51_s1_vance_midnight_auction.mp4",
       "when": "2026-10-31T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1102317749185993",
+        "status": "scheduled",
+        "publish_at_utc": "2026-10-31T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-25T12:39:05+00:00"
     }
   ]
 }
