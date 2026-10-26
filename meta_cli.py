@@ -290,11 +290,13 @@ def schedule_ahead(dry_run: bool, horizon: timedelta = SCHEDULE_HORIZON,
           f"(due between {lo:%Y-%m-%d %H:%M} and {hi:%Y-%m-%d %H:%M})")
 
     done = 0
-    for item in cand:
+    for n, item in enumerate(cand):
         label = f"{item['id']} [{item.get('type')}] -> {item.get('account')} @ {item['when'][:16]}"
         if dry_run:
             print("WOULD SCHEDULE:", label)
             continue
+        if n:  # same pacing as run_queue: back-to-back uploads tripped Meta's block (code 368)
+            time.sleep(8)
         try:
             result = _schedule_one(item)
             # Only now is it Meta's job. run_queue skips anything not "pending",

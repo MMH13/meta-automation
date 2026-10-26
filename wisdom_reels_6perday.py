@@ -14,11 +14,14 @@ grid from today forward. Slots already committed to Facebook (status
 "scheduled" or "posted") are treated as taken so a re-lay can never collide
 with a post Meta has already locked in.
 """
+import os
 from datetime import datetime, timedelta, timezone
 
 from aug_common import load, save
 
-SLOTS = [8, 10, 13, 15, 18, 21]          # UTC hours — see docstring
+# Arc 2 runs 3 reels/day (was 6/day in arc 1: 8, 10, 13, 15, 18, 21). Override
+# with WISDOM_SLOTS="8,10,13,15,18,21" to go back.
+SLOTS = [int(h) for h in os.environ.get("WISDOM_SLOTS", "8,13,18").split(",")]  # UTC hours
 PER_DAY = len(SLOTS)
 
 
