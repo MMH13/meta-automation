@@ -173,11 +173,11 @@ REELS = [
 ], "Your metabolism doesn't just 'stall' from dieting 🔥\n\nIt slows somewhat as your body adapts, but it's not broken. Strength training helps preserve muscle and keeps it higher.\n\n💚 Bookmark this metabolism myth-buster.\n\n💬 Do you strength train while trying to eat less?"),
 
 ("hd10_d18_5_blood_sugar_rollercoaster", [
- {"kind": "hook", "text": "A sharp blood\nsugar spike almost\nguarantees a sharp dip after.", "narration": "A sharp blood sugar spike almost always guarantees an equally sharp, uncomfortable dip afterward.", "query": "blood sugar chart health"},
+ {"kind": "hook", "text": "A sharp blood\nsugar spike can be\nfollowed by a sharp dip.", "narration": "A sharp blood sugar spike can often be followed by an equally sharp, uncomfortable dip.", "query": "blood sugar chart health"},
  {"kind": "beat", "kicker": "DID YOU KNOW", "text": "That dip is often\nwhat triggers sudden\ncravings an hour or two later.", "narration": "That dip is genuinely often what triggers sudden, intense cravings an hour or two after the initial spike.", "query": "person craving sugar snack"},
  {"kind": "beat", "kicker": "SIMPLE FIX", "text": "Pairing sugar with\nprotein or fiber\nsmooths the whole curve out.", "narration": "Pairing anything sugary with some protein or fiber genuinely smooths that whole rollercoaster curve out.", "query": "balanced snack protein fiber"},
- {"kind": "end", "text": "Smooth the curve,\nskip the crash.", "question": "Do you notice cravings after sugary snacks?", "narration": "Smooth the curve at the source, and skip the crash entirely.", "query": "healthy balanced meal snack"},
-], "A sugar spike almost guarantees a dip after 🎢\n\nThat dip is often what triggers cravings an hour later. Pairing sugar with protein or fiber smooths the whole curve.\n\n💚 Bookmark this before your next sweet craving.\n\n💬 Do you notice cravings after sugary snacks?"),
+ {"kind": "end", "text": "Smooth the curve,\nsoften the crash.", "question": "Do you notice cravings after sugary snacks?", "narration": "Smooth the curve at the source, and you may soften the crash.", "query": "healthy balanced meal snack"},
+], "A sugar spike can be followed by a dip 🎢\n\nThat dip is often what triggers cravings an hour later. Pairing sugar with protein or fiber smooths the whole curve.\n\n💚 Bookmark this before your next sweet craving.\n\n💬 Do you notice cravings after sugary snacks?"),
 
 ("hd10_d18_6_leptin_ghrelin_hunger_hormones", [
  {"kind": "hook", "text": "Two hormones do\nmost of the talking\nbehind your hunger and fullness.", "narration": "Two specific hormones do most of the behind-the-scenes talking that controls your hunger and fullness.", "query": "hunger fullness hormones health"},

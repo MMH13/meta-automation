@@ -152,11 +152,11 @@ REELS = [
 ], "Shrink any habit down to under 2 minutes ⏱️\n\n'Read before bed' becomes 'read one page'. Showing up consistently matters more than doing a lot at once.\n\n💚 Bookmark this before starting a new habit.\n\n💬 What habit could you shrink to 2 minutes?"),
 
 ("hd10_d13_2_habit_stacking_technique", [
- {"kind": "hook", "text": "Stacking a new\nhabit onto an old\none makes it stick faster.", "narration": "Stacking a brand new habit right onto an existing one makes it genuinely stick faster.", "query": "person morning routine stacking"},
+ {"kind": "hook", "text": "Stacking a new\nhabit onto an old\none can help it stick.", "narration": "Stacking a brand new habit right onto an existing one can help it stick.", "query": "person morning routine stacking"},
  {"kind": "beat", "kicker": "HOW IT WORKS", "text": "'After I pour coffee,\nI'll stretch for a minute'\nis a simple stack.", "narration": "A simple example is 'after I pour my coffee, I'll stretch for one minute', linking new to old directly.", "query": "person stretching after coffee"},
- {"kind": "beat", "kicker": "WHY IT WORKS", "text": "The existing habit\nacts as a built-in\nreminder you never forget.", "narration": "The existing habit acts as a built-in reminder you genuinely never forget, since you're already doing it.", "query": "person routine reminder cue"},
+ {"kind": "beat", "kicker": "WHY IT WORKS", "text": "The existing habit\nacts as a built-in\nreminder you rarely miss.", "narration": "The existing habit acts as a built-in reminder, since you're already doing it.", "query": "person routine reminder cue"},
  {"kind": "end", "query": "person routine reminder cue", "text": "Anchor it to\nsomething automatic.", "question": "What existing habit could you stack a new one onto?", "narration": "Anchor it to something already automatic, and it becomes automatic too."},
-], "Stack a new habit onto an old one to make it stick 🔗\n\n'After I pour coffee, I'll stretch for a minute.' The old habit becomes a built-in reminder you never forget.\n\n💚 Bookmark this habit-building trick.\n\n💬 What existing habit could you stack a new one onto?"),
+], "Stack a new habit onto an old one to help it stick 🔗\n\n'After I pour coffee, I'll stretch for a minute.' The old habit becomes a built-in reminder.\n\n💚 Bookmark this habit-building trick.\n\n💬 What existing habit could you stack a new one onto?"),
 
 ("hd10_d13_3_environment_design_willpower", [
  {"kind": "hook", "text": "Willpower is\nunreliable, your\nenvironment doesn't have to be.", "narration": "Willpower is genuinely unreliable day to day, but your environment can be designed to not depend on it.", "query": "person kitchen organized healthy"},
@@ -168,7 +168,7 @@ REELS = [
 ("hd10_d13_4_progress_not_perfection_mindset", [
  {"kind": "hook", "text": "Missing one day\ndoesn't erase weeks\nof consistent progress.", "narration": "Missing a single day genuinely does not erase weeks of otherwise consistent progress.", "query": "person calendar streak habit"},
  {"kind": "beat", "kicker": "DID YOU KNOW", "text": "The 'never miss\ntwice' rule keeps\none slip from becoming a spiral.", "narration": "A simple rule, never miss twice in a row, keeps one small slip from snowballing into a full spiral.", "query": "person getting back on track"},
- {"kind": "beat", "kicker": "WHY IT WORKS", "text": "It removes the\nall-or-nothing trap\nthat derails most habits.", "narration": "It removes the all-or-nothing trap that quietly derails most people's habits within the first few weeks.", "query": "person resilient consistent routine"},
+ {"kind": "beat", "kicker": "WHY IT WORKS", "text": "It removes the\nall-or-nothing trap\nthat derails many habits.", "narration": "It removes the all-or-nothing trap that quietly derails many people's habits.", "query": "person resilient consistent routine"},
  {"kind": "end", "query": "person resilient consistent routine", "text": "Miss once,\nnever twice.", "question": "Do you tend to give up after one missed day?", "narration": "Miss once if you must, just never let it become twice in a row."},
 ], "Missing one day doesn't erase weeks of progress 📆\n\nThe 'never miss twice' rule keeps one slip from becoming a spiral. It removes the all-or-nothing trap.\n\n💚 Bookmark this if you're building a new habit.\n\n💬 Do you tend to give up after one missed day?"),
 
@@ -286,9 +286,9 @@ REELS = [
 
 ("hd10_d15_1_afternoon_headache_causes", [
  {"kind": "hook", "text": "That predictable\nafternoon headache\nusually has a few common causes.", "narration": "That predictable, recurring afternoon headache usually traces back to a few very common, fixable causes.", "query": "person headache afternoon desk"},
- {"kind": "beat", "kicker": "USUAL SUSPECTS", "text": "Dehydration, screen\nstrain, and skipped\nmeals are the top three.", "narration": "Dehydration, prolonged screen strain, and a skipped meal are consistently the top three usual suspects.", "query": "person tired screen eye strain"},
+ {"kind": "beat", "kicker": "USUAL SUSPECTS", "text": "Dehydration, screen\nstrain, and skipped\nmeals are three common ones.", "narration": "Dehydration, prolonged screen strain, and a skipped meal are three of the most common usual suspects.", "query": "person tired screen eye strain"},
  {"kind": "beat", "kicker": "QUICK CHECK", "text": "Water, a short\neye break, and a\nsnack cover all three at once.", "narration": "A glass of water, a short break from the screen, and a small snack actually cover all three causes at once.", "query": "person drinking water break"},
- {"kind": "end", "query": "person drinking water break", "text": "Three checks,\none headache prevented.", "question": "Do you get a recurring afternoon headache?", "narration": "Three quick checks can prevent one recurring headache."},
+ {"kind": "end", "query": "person drinking water break", "text": "Three checks\nworth trying.", "question": "Do you get a recurring afternoon headache?", "narration": "Three quick checks are worth trying against a recurring headache."},
 ], "That afternoon headache usually has 3 common causes 🤕\n\nDehydration, screen strain, and a skipped meal. Water, an eye break, and a snack cover all three at once.\n\n💚 Bookmark this before your next headache.\n\n💬 Do you get a recurring afternoon headache?"),
 
 ("hd10_d15_2_eye_strain_20_20_20", [
@@ -306,11 +306,11 @@ REELS = [
 ], "Teeth grinding at night is often a stress signal 🦷\n\nMany people don't realize they do it until a dentist notices. Addressing daytime stress can ease nighttime grinding.\n\n💚 Bookmark this before your next dental checkup.\n\n💬 Have you ever been told you grind your teeth?"),
 
 ("hd10_d15_4_screen_posture_neck_strain", [
- {"kind": "hook", "text": "Looking down at\na phone adds real,\nmeasurable weight to your neck.", "narration": "Looking down at a phone adds real, measurably more weight and strain onto your neck than looking straight ahead.", "query": "person looking down phone neck"},
- {"kind": "beat", "kicker": "DID YOU KNOW", "text": "A 45-degree tilt\ncan roughly quadruple\nthe effective load on your neck.", "narration": "A forty-five degree forward tilt can roughly quadruple the effective load your neck muscles have to support.", "query": "neck posture illustration strain"},
+ {"kind": "hook", "text": "Looking down at\na phone adds real,\nextra load to your neck.", "narration": "Looking down at a phone adds extra weight and strain to your neck compared with looking straight ahead.", "query": "person looking down phone neck"},
+ {"kind": "beat", "kicker": "DID YOU KNOW", "text": "A 45-degree tilt\nis estimated to roughly\nquadruple the load on your neck.", "narration": "A forty-five degree forward tilt is estimated to roughly quadruple the effective load your neck muscles have to support.", "query": "neck posture illustration strain"},
  {"kind": "beat", "kicker": "SIMPLE FIX", "text": "Raising your phone\ncloser to eye level\ncuts that load significantly.", "narration": "Simply raising your phone closer to eye level cuts that extra load significantly, almost instantly.", "query": "person holding phone eye level"},
  {"kind": "end", "query": "person holding phone eye level", "text": "Raise it up,\nyour neck notices.", "question": "Do you notice neck strain from your phone?", "narration": "Raise it up a little, your neck genuinely notices the difference."},
-], "Looking down at your phone quadruples the load on your neck 📱\n\nA 45-degree tilt roughly quadruples the strain. Raising your phone to eye level cuts that load significantly.\n\n💚 Bookmark this and check your posture right now.\n\n💬 Do you notice neck strain from your phone?"),
+], "Looking down at your phone can multiply the load on your neck 📱\n\nA 45-degree tilt is estimated to roughly quadruple the strain. Raising your phone to eye level cuts that load significantly.\n\n💚 Bookmark this and check your posture right now.\n\n💬 Do you notice neck strain from your phone?"),
 
 ("hd10_d15_5_overtraining_fatigue_check", [
  {"kind": "hook", "text": "Persistent fatigue\nthat rest doesn't fix\nis worth paying attention to.", "narration": "Fatigue that lingers even after a full night's rest is genuinely worth paying closer attention to.", "query": "person exhausted persistent fatigue"},

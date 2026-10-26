@@ -16,6 +16,7 @@ Usage:
     python hd_reel_enqueue.py health_reel_cadence2 --stock   # real Pexels B-roll pipeline
 """
 import importlib
+import os
 import re
 import sys
 from datetime import date, timedelta
@@ -34,6 +35,11 @@ START_DATE = date(2026, 9, 11)
 REEL_HOURS = [0, 2, 5, 7, 9, 11, 14, 16, 19, 22]  # UTC
 
 _SLUG_RE = re.compile(r"_d(\d+)_(\d+)_")
+
+# HD_MAX_BUILD=N stops after N newly-rendered reels (counted across every
+# module this process runs), so a long refill can be pushed in checkpoints.
+_MAX_BUILD = int(os.environ.get("HD_MAX_BUILD", "0"))
+_BUILT_NOW = 0
 
 
 def _slot_for(slug):
@@ -71,10 +77,16 @@ def main(module_name, stock=False):
         video_state = out_dir / f"{slug}_state.json"
         lock = out_dir / f"{slug}.lock"
 
+        global _BUILT_NOW
+        if not video_path.is_file() and _MAX_BUILD and _BUILT_NOW >= _MAX_BUILD:
+            print(f"  HD_MAX_BUILD={_MAX_BUILD} reached - stopping this run")
+            break
+
         try:
             if not video_path.is_file():
                 print(f"\n=== building {slug} ===")
                 build_reel(beats, str(video_path), str(work_dir), str(video_state), str(lock))
+                _BUILT_NOW += 1
 
             when = _slot_for(slug)
             video_url = None

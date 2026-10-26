@@ -21,10 +21,10 @@ REELS = [
 
 ("hd10_d26_3_vitamin_c_immune_myth", [
  {"kind": "hook", "text": "Vitamin C won't\nprevent a cold\nthe way it's often marketed.", "narration": "Vitamin C genuinely won't prevent a cold from happening, despite how it's often aggressively marketed.", "query": "citrus fruit vitamin c health"},
- {"kind": "beat", "kicker": "WHAT RESEARCH SHOWS", "text": "Studies show it\nmay slightly shorten\na cold's duration, not prevent it.", "narration": "Research genuinely shows it may slightly shorten a cold's duration once you're sick, but it doesn't prevent one.", "query": "citrus orange vitamin c food"},
+ {"kind": "beat", "kicker": "WHAT RESEARCH SHOWS", "text": "Research suggests\nregular intake may\nslightly shorten a cold.", "narration": "Research suggests that taking it regularly may slightly shorten a cold, but it doesn't prevent one.", "query": "citrus orange vitamin c food"},
  {"kind": "beat", "kicker": "WHERE TO GET IT", "text": "Citrus, peppers,\nand broccoli all\noffer plenty of real vitamin C.", "narration": "Citrus fruit, bell peppers, and broccoli all offer genuinely plenty of real, absorbable vitamin C.", "query": "peppers broccoli citrus food"},
- {"kind": "end", "text": "Helpful once sick,\nnot a shield.", "question": "Do you load up on vitamin C when you feel a cold coming?", "narration": "Genuinely helpful once you're sick, but it's not a shield against getting sick.", "query": "healthy food immune support"},
-], "Vitamin C won't prevent a cold, despite the marketing 🍊\n\nStudies show it may shorten a cold's duration, not prevent it. Citrus, peppers, and broccoli offer plenty naturally.\n\n💚 Bookmark this immune myth-buster.\n\n💬 Do you load up on vitamin C when you feel a cold coming?"),
+ {"kind": "end", "text": "Not a shield\nagainst colds.", "question": "Do you load up on vitamin C when you feel a cold coming?", "narration": "It's not a shield against getting sick.", "query": "healthy food immune support"},
+], "Vitamin C won't prevent a cold, despite the marketing 🍊\n\nResearch suggests regular intake may slightly shorten a cold, not prevent it. Citrus, peppers, and broccoli offer plenty naturally.\n\n💚 Bookmark this immune myth-buster.\n\n💬 Do you load up on vitamin C when you feel a cold coming?"),
 
 ("hd10_d26_4_magnesium_common_deficiency", [
  {"kind": "hook", "text": "Magnesium is one\nof the more commonly\nunder-consumed minerals.", "narration": "Magnesium is genuinely one of the more commonly under-consumed minerals in typical modern diets.", "query": "nuts seeds magnesium food"},
@@ -203,10 +203,10 @@ REELS = [
 
 ("hd10_d28_9_tick_removal_correct_method", [
  {"kind": "hook", "text": "How you remove\na tick actually\nmatters for reducing infection risk.", "narration": "How you actually remove a tick genuinely matters for reducing the risk of infection afterward.", "query": "outdoor hiking tick awareness"},
- {"kind": "beat", "kicker": "WHAT TO AVOID", "text": "Burning it or using\npetroleum jelly can\nmake the tick release more saliva.", "narration": "Burning it or using petroleum jelly can actually make a stressed tick release more saliva, raising infection risk.", "query": "outdoor safety tick prevention"},
+ {"kind": "beat", "kicker": "WHAT TO AVOID", "text": "Burning it or using\npetroleum jelly isn't\nrecommended and may raise risk.", "narration": "Burning it or using petroleum jelly isn't recommended, and may raise the risk of infection.", "query": "outdoor safety tick prevention"},
  {"kind": "beat", "kicker": "THE CORRECT METHOD", "text": "Fine tweezers,\npulled straight up\nsteadily, is the recommended approach.", "narration": "Fine-tipped tweezers, pulling straight upward steadily and slowly, is genuinely the recommended, correct approach.", "query": "tweezers first aid careful removal"},
  {"kind": "end", "text": "Steady and\nstraight, not twisted or burned.", "question": "Did you know the correct tick removal method?", "narration": "Steady and straight, genuinely, never twisted or burned.", "query": "outdoor safety awareness hiking"},
-], "How you remove a tick actually matters 🪲\n\nBurning it or petroleum jelly can raise infection risk. Fine tweezers, pulled straight up steadily, is correct.\n\n💚 Bookmark this before your next hike.\n\n💬 Did you know the correct tick removal method?"),
+], "How you remove a tick actually matters 🪲\n\nBurning it or using petroleum jelly isn't recommended. Fine tweezers, pulled straight up steadily, is correct.\n\n💚 Bookmark this before your next hike.\n\n💬 Did you know the correct tick removal method?"),
 
 ("hd10_d28_10_choking_heimlich_awareness", [
  {"kind": "hook", "text": "Knowing the signs\nof real choking can\nhelp you respond fast when it counts.", "narration": "Knowing the real signs of genuine choking can help you respond fast, exactly when it counts most.", "query": "emergency awareness first aid dinner"},

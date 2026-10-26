@@ -55,7 +55,7 @@ REELS = [
 
 ("hd10_d21_8_spine_disc_hydration", [
  {"kind": "hook", "text": "The discs in your\nspine actually change\nsize slightly throughout your day.", "narration": "The discs cushioning your spine actually change in size slightly throughout the course of a normal day.", "query": "spine back health illustration"},
- {"kind": "beat", "kicker": "DID YOU KNOW", "text": "You're literally a\nfew millimeters taller\nin the morning than at night.", "narration": "You're genuinely a few millimeters taller first thing in the morning than you are by the end of the day.", "query": "person height measurement morning"},
+ {"kind": "beat", "kicker": "DID YOU KNOW", "text": "You're actually a\nlittle taller in the\nmorning than at night.", "narration": "You're genuinely a little taller first thing in the morning than you are by the end of the day.", "query": "person height measurement morning"},
  {"kind": "beat", "kicker": "WHY IT HAPPENS", "text": "Gravity compresses\nthose fluid-filled\ndiscs a little as the day goes on.", "narration": "Gravity gradually compresses those fluid-filled spinal discs a little more as the day goes on.", "query": "posture standing spine health"},
  {"kind": "end", "text": "A tiny daily\ncycle you never noticed.", "question": "Did you know you're taller in the morning?", "narration": "A tiny daily cycle happening in your body that you genuinely never noticed.", "query": "person healthy spine posture"},
 ], "You're literally taller in the morning than at night 📏\n\nGravity compresses your spinal discs a little as the day goes on. A tiny daily cycle you never noticed.\n\n💚 Bookmark this fun body fact.\n\n💬 Did you know you're taller in the morning?"),
