@@ -39893,7 +39893,13 @@
       "video_path": "images/wisdom_reels_content33/dw_d35_everything_is_on_loan.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d35_everything_is_on_loan.mp4",
       "when": "2026-11-03T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2444806926050150",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-03T08:00:00Z"
+      },
+      "scheduled_at": "2026-10-27T09:09:37+00:00"
     },
     {
       "id": "dw-reel-dw_d36_the_planning_fallacy",
