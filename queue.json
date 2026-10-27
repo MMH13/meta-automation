@@ -39910,7 +39910,13 @@
       "video_path": "images/wisdom_reels_content33/dw_d36_the_planning_fallacy.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d36_the_planning_fallacy.mp4",
       "when": "2026-11-03T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2211606253105539",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-03T13:00:00Z"
+      },
+      "scheduled_at": "2026-10-27T13:24:12+00:00"
     },
     {
       "id": "dw-reel-dw_d36_the_conversation_you_keep_avoiding",
