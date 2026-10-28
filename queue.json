@@ -39978,7 +39978,13 @@
       "video_path": "images/wisdom_reels_content34/dw_d37_repair_matters_more_than_rupture.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d37_repair_matters_more_than_rupture.mp4",
       "when": "2026-11-04T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1820935622493906",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-04T18:00:00Z"
+      },
+      "scheduled_at": "2026-10-28T18:57:19+00:00"
     },
     {
       "id": "dw-reel-dw_d37_the_judgement_makes_the_wound",
