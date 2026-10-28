@@ -39944,7 +39944,13 @@
       "video_path": "images/wisdom_reels_content33/dw_d36_grief_for_a_version_of_your_life.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d36_grief_for_a_version_of_your_life.mp4",
       "when": "2026-11-04T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2756942044703540",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-04T08:00:00Z"
+      },
+      "scheduled_at": "2026-10-28T09:50:28+00:00"
     },
     {
       "id": "dw-reel-dw_d37_doubt_means_youre_thinking",
