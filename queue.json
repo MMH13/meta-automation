@@ -40063,7 +40063,13 @@
       "video_path": "images/wisdom_reels_content35/dw_d39_the_ship_of_theseus_you.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d39_the_ship_of_theseus_you.mp4",
       "when": "2026-11-06T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1124602640319632",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-06T13:00:00Z"
+      },
+      "scheduled_at": "2026-10-30T16:03:17+00:00"
     },
     {
       "id": "dw-reel-dw_d39_love_when_inconvenient",
