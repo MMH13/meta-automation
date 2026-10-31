@@ -40097,7 +40097,13 @@
       "video_path": "images/wisdom_reels_content35/dw_d39_live_as_if_watched.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d39_live_as_if_watched.mp4",
       "when": "2026-11-07T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "982655638239311",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-07T08:00:00Z"
+      },
+      "scheduled_at": "2026-10-31T09:48:16+00:00"
     },
     {
       "id": "dw-reel-dw_d40_the_frequency_illusion",
