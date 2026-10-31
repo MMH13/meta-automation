@@ -40114,7 +40114,13 @@
       "video_path": "images/wisdom_reels_content35/dw_d40_the_frequency_illusion.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d40_the_frequency_illusion.mp4",
       "when": "2026-11-07T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4396383117267424",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-07T13:00:00Z"
+      },
+      "scheduled_at": "2026-10-31T13:44:55+00:00"
     },
     {
       "id": "dw-reel-dw_d40_not_everyone_will_like_you",
