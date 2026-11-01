@@ -40182,7 +40182,13 @@
       "video_path": "images/wisdom_reels_content36/dw_d41_the_friend_who_celebrates_you.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d41_the_friend_who_celebrates_you.mp4",
       "when": "2026-11-08T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1853215206033146",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-08T18:00:00Z"
+      },
+      "scheduled_at": "2026-11-01T19:54:50+00:00"
     },
     {
       "id": "dw-reel-dw_d41_the_next_right_action",
