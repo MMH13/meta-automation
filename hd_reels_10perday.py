@@ -31,6 +31,16 @@ def run():
         m = _RE.match(i.get("id", ""))
         if m:
             pairs.setdefault(m.group(1), (int(m.group(2)), int(m.group(3)), []))[2].append(i)
+    # Once CI hands a reel's FB item to Meta (status "scheduled"), its IG twin is
+    # still "pending" until due. Leave those reels exactly where they are: moving
+    # the IG item would split it from its FB slot.
+    held = set()
+    for i in q["items"]:
+        m = _RE.match(i.get("id", ""))
+        if (m and i.get("account") == "health-daily" and i.get("network") == "facebook"
+                and i.get("status") != "pending"):
+            held.add(m.group(1))
+    pairs = {k: v for k, v in pairs.items() if k not in held}
     if not pairs:
         print("no pending hd10 reels")
         return
