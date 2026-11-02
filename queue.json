@@ -40211,7 +40211,13 @@
       "video_path": "images/wisdom_reels_content36/dw_d42_your_excuses_are_comfortable.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d42_your_excuses_are_comfortable.mp4",
       "when": "2026-11-09T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1789159595638000",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-09T18:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "dw-reel-dw_d42_the_people_who_taught_you_quietly",
@@ -40299,7 +40305,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d11_10_mood_reset_short_walk.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d11_10_mood_reset_short_walk.mp4",
       "when": "2026-11-02T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1087886060675322",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-02T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_10_mood_reset_short_walk-ig",
@@ -40320,7 +40332,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_4_fiber_cholesterol_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_4_fiber_cholesterol_link.mp4",
       "when": "2026-11-03T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2718591431944432",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-03T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_4_fiber_cholesterol_link-ig",
@@ -40341,7 +40359,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_5_smoking_secondhand_heart_risk.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_5_smoking_secondhand_heart_risk.mp4",
       "when": "2026-11-03T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1126108509805407",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-03T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_5_smoking_secondhand_heart_risk-ig",
@@ -40362,7 +40386,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_6_heart_healthy_snack_swaps.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_6_heart_healthy_snack_swaps.mp4",
       "when": "2026-11-03T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1133942782332102",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-03T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_6_heart_healthy_snack_swaps-ig",
@@ -40383,7 +40413,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_7_deep_breathing_blood_pressure.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_7_deep_breathing_blood_pressure.mp4",
       "when": "2026-11-04T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1660609998949334",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-04T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_7_deep_breathing_blood_pressure-ig",
@@ -40404,7 +40440,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_8_heart_rate_variability_basics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_8_heart_rate_variability_basics.mp4",
       "when": "2026-11-04T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "3004304583252723",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-04T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_8_heart_rate_variability_basics-ig",
@@ -40425,7 +40467,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_9_dark_chocolate_heart_benefit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_9_dark_chocolate_heart_benefit.mp4",
       "when": "2026-11-04T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1122986577376223",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-04T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_9_dark_chocolate_heart_benefit-ig",
@@ -40446,7 +40494,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d12_10_laughter_heart_health.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_10_laughter_heart_health.mp4",
       "when": "2026-11-05T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1672472334240623",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-05T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_10_laughter_heart_health-ig",
@@ -40467,7 +40521,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_1_two_minute_rule_habits.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_1_two_minute_rule_habits.mp4",
       "when": "2026-11-05T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1326163882923624",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-05T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_1_two_minute_rule_habits-ig",
@@ -40488,7 +40548,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_2_habit_stacking_technique.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_2_habit_stacking_technique.mp4",
       "when": "2026-11-05T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1477376677789114",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-05T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_2_habit_stacking_technique-ig",
@@ -40509,7 +40575,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_3_environment_design_willpower.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_3_environment_design_willpower.mp4",
       "when": "2026-11-06T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1426824022764083",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-06T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_3_environment_design_willpower-ig",
@@ -40530,7 +40602,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_4_progress_not_perfection_mindset.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_4_progress_not_perfection_mindset.mp4",
       "when": "2026-11-06T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4419833314936721",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-06T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_4_progress_not_perfection_mindset-ig",
@@ -40551,7 +40629,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_5_habit_identity_shift.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_5_habit_identity_shift.mp4",
       "when": "2026-11-06T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4580007902326633",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-06T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_5_habit_identity_shift-ig",
@@ -40572,7 +40656,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_6_batch_cooking_consistency.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_6_batch_cooking_consistency.mp4",
       "when": "2026-11-07T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1667453724772233",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-07T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_6_batch_cooking_consistency-ig",
@@ -40593,7 +40683,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_7_replace_not_remove_habits.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_7_replace_not_remove_habits.mp4",
       "when": "2026-11-07T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1133220922524511",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-07T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-02T18:35:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_7_replace_not_remove_habits-ig",
