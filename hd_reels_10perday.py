@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Re-lay every PENDING Health Daily hd10 reel onto the 10-reels/day grid,
-starting from the next free slot (at least 30 min out).
+"""Re-lay every PENDING Health Daily hd10 reel onto the daily grid (3 reels per
+24h since 2026-11-02, was 10/day), starting from the next free slot (30+ min out).
 
 hd_reel_enqueue.py stamps each reel with a slot derived from its day number
 against START_DATE (2026-09-11), so reels built after that date come out
@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 
 from aug_common import load, save
 
-SLOTS = [int(h) for h in os.environ.get("HD_SLOTS", "0,2,5,7,9,11,14,16,19,22").split(",")]
+SLOTS = [int(h) for h in os.environ.get("HD_SLOTS", "3,11,19").split(",")]
 LEAD = timedelta(minutes=30)
 _RE = re.compile(r"^hd-cadence-(hd10_d(\d+)_(\d+)_.+)-(fb|ig)$")
 
