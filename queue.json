@@ -40262,7 +40262,13 @@
       "video_path": "images/wisdom_reels_content37/dw_d43_boundaries_are_not_walls.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d43_boundaries_are_not_walls.mp4",
       "when": "2026-11-10T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2326716647868145",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-10T18:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T21:20:25+00:00"
     },
     {
       "id": "dw-reel-dw_d43_the_present_is_enough",
@@ -40426,7 +40432,11 @@
       "message": "A few simple swaps quietly protect your heart 🥜\n\nNuts instead of chips, sparkling water instead of soda. Small swaps compound into real protection over time.\n\n💚 Bookmark this before your next snack.\n\n💬 What's one snack swap you could try?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_6_heart_healthy_snack_swaps.mp4",
       "when": "2026-11-03T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18031812353910311"
+      },
+      "posted_at": "2026-11-03T21:21:26+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_7_deep_breathing_blood_pressure-fb",
@@ -40977,7 +40987,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_7_comparing_to_past_self.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_7_comparing_to_past_self.mp4",
       "when": "2026-11-10T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1424097013172696",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-10T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T21:20:25+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_7_comparing_to_past_self-ig",
