@@ -40389,7 +40389,11 @@
       "message": "Secondhand smoke carries real heart risk too 🚭\n\nEven brief exposure can affect blood vessel function temporarily. Heart health isn't only about your own habits.\n\n💚 Bookmark this and share if it's relevant to someone.\n\n💬 Are you often around secondhand smoke?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_5_smoking_secondhand_heart_risk.mp4",
       "when": "2026-11-03T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17914231812507807"
+      },
+      "posted_at": "2026-11-03T11:02:38+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_6_heart_healthy_snack_swaps-fb",
@@ -40940,7 +40944,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_6_evening_wind_down_stress.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_6_evening_wind_down_stress.mp4",
       "when": "2026-11-10T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1789811255645554",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-10T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T11:01:55+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_6_evening_wind_down_stress-ig",
