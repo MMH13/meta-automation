@@ -40352,7 +40352,11 @@
       "message": "Fiber can literally help pull cholesterol out of your body 🥣\n\nOats, beans, and apples are rich in soluble fiber. Even a daily bowl of oats can make a measurable difference.\n\n💚 Bookmark this before your next grocery run.\n\n💬 Do you eat oats regularly?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_4_fiber_cholesterol_link.mp4",
       "when": "2026-11-03T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17971751004190723"
+      },
+      "posted_at": "2026-11-03T06:02:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_5_smoking_secondhand_heart_risk-fb",
@@ -40714,7 +40718,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_8_ninety_second_urge_rule.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_8_ninety_second_urge_rule.mp4",
       "when": "2026-11-07T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1148280634822077",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-07T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_8_ninety_second_urge_rule-ig",
@@ -40735,7 +40745,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_9_clutter_stress_connection.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_9_clutter_stress_connection.mp4",
       "when": "2026-11-08T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1740949787000867",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-08T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_9_clutter_stress_connection-ig",
@@ -40756,7 +40772,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d13_10_small_wins_motivation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_10_small_wins_motivation.mp4",
       "when": "2026-11-08T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1408212534628953",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-08T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_10_small_wins_motivation-ig",
@@ -40777,7 +40799,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_1_body_scan_relaxation.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_1_body_scan_relaxation.mp4",
       "when": "2026-11-08T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1449987500532578",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-08T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_1_body_scan_relaxation-ig",
@@ -40798,7 +40826,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_2_forehead_tension_stress_sign.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_2_forehead_tension_stress_sign.mp4",
       "when": "2026-11-09T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1732664861819012",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-09T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_2_forehead_tension_stress_sign-ig",
@@ -40819,7 +40853,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_3_overthinking_action_loop.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_3_overthinking_action_loop.mp4",
       "when": "2026-11-09T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1803413494205501",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-09T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_3_overthinking_action_loop-ig",
@@ -40840,7 +40880,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_4_self_talk_tone_matters.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_4_self_talk_tone_matters.mp4",
       "when": "2026-11-09T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1928001621514188",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-09T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_4_self_talk_tone_matters-ig",
@@ -40861,7 +40907,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_5_single_tasking_focus_benefit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_5_single_tasking_focus_benefit.mp4",
       "when": "2026-11-10T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "983903510879708",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-10T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-03T05:58:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_5_single_tasking_focus_benefit-ig",
