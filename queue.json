@@ -40463,7 +40463,11 @@
       "message": "Slow breathing can measurably lower blood pressure 🌬️\n\nSlowing to about 6 breaths a minute activates your body's calming response. Even 5 minutes a day builds real impact.\n\n💚 Bookmark this and try it right now.\n\n💬 Have you tried slow breathing for stress?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_7_deep_breathing_blood_pressure.mp4",
       "when": "2026-11-04T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18078097871774023"
+      },
+      "posted_at": "2026-11-04T06:45:34+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_8_heart_rate_variability_basics-fb",
@@ -41014,7 +41018,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_8_silence_mental_reset.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_8_silence_mental_reset.mp4",
       "when": "2026-11-11T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "4781250192018351",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-11T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-04T06:44:35+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_8_silence_mental_reset-ig",
