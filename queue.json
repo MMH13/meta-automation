@@ -40296,7 +40296,13 @@
       "video_path": "images/wisdom_reels_content37/dw_d44_implementation_intentions.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d44_implementation_intentions.mp4",
       "when": "2026-11-11T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2094157271218918",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-11T13:00:00Z"
+      },
+      "scheduled_at": "2026-11-04T15:35:19+00:00"
     },
     {
       "id": "dw-reel-dw_d44_you_cant_skip_the_beginner_phase",
