@@ -40313,7 +40313,13 @@
       "video_path": "images/wisdom_reels_content37/dw_d44_you_cant_skip_the_beginner_phase.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d44_you_cant_skip_the_beginner_phase.mp4",
       "when": "2026-11-11T18:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2960493567642926",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-11T18:00:00Z"
+      },
+      "scheduled_at": "2026-11-04T21:59:29+00:00"
     },
     {
       "id": "dw-reel-dw_d44_you_made_it_through_every_hard_day",
@@ -40537,7 +40543,11 @@
       "message": "A small square of dark chocolate may support your heart 🍫\n\nFlavanol compounds may support blood vessel flexibility. It needs to be high cocoa content, not sugary milk chocolate.\n\n💚 Bookmark this sweet heart-health fact.\n\n💬 Do you enjoy dark chocolate?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_9_dark_chocolate_heart_benefit.mp4",
       "when": "2026-11-04T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17950088868346269"
+      },
+      "posted_at": "2026-11-04T22:01:28+00:00"
     },
     {
       "id": "hd-cadence-hd10_d12_10_laughter_heart_health-fb",
@@ -41088,7 +41098,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d14_10_self_compare_relax_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_10_self_compare_relax_myth.mp4",
       "when": "2026-11-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1021638357629743",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-11T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-04T21:59:29+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_10_self_compare_relax_myth-ig",
