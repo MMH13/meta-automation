@@ -40279,7 +40279,13 @@
       "video_path": "images/wisdom_reels_content37/dw_d43_the_present_is_enough.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d43_the_present_is_enough.mp4",
       "when": "2026-11-11T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1882204119617792",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-11T08:00:00Z"
+      },
+      "scheduled_at": "2026-11-04T08:08:35+00:00"
     },
     {
       "id": "dw-reel-dw_d44_implementation_intentions",
