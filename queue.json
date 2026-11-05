@@ -40642,7 +40642,11 @@
       "message": "Stack a new habit onto an old one to help it stick 🔗\n\n'After I pour coffee, I'll stretch for a minute.' The old habit becomes a built-in reminder.\n\n💚 Bookmark this habit-building trick.\n\n💬 What existing habit could you stack a new one onto?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_2_habit_stacking_technique.mp4",
       "when": "2026-11-05T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18000024509825767"
+      },
+      "posted_at": "2026-11-05T23:52:19+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_3_environment_design_willpower-fb",
@@ -41193,7 +41197,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_3_teeth_grinding_stress_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_3_teeth_grinding_stress_link.mp4",
       "when": "2026-11-12T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2028940964733515",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-12T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-05T23:51:35+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_3_teeth_grinding_stress_link-ig",
