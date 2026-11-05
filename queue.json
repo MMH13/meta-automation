@@ -40330,7 +40330,13 @@
       "video_path": "images/wisdom_reels_content37/dw_d44_you_made_it_through_every_hard_day.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/dw_d44_you_made_it_through_every_hard_day.mp4",
       "when": "2026-11-12T08:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1440577504917137",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-12T08:00:00Z"
+      },
+      "scheduled_at": "2026-11-05T10:02:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d11_10_mood_reset_short_walk-fb",
@@ -40574,7 +40580,11 @@
       "message": "A genuine laugh can improve blood vessel function 😄\n\nLaughter causes blood vessels to relax and expand slightly. One more reason to make time for real joy.\n\n💚 Bookmark this and go laugh at something today.\n\n💬 What made you genuinely laugh recently?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d12_10_laughter_heart_health.mp4",
       "when": "2026-11-05T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18170883031467554"
+      },
+      "posted_at": "2026-11-05T10:03:42+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_1_two_minute_rule_habits-fb",
@@ -41125,7 +41135,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_1_afternoon_headache_causes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_1_afternoon_headache_causes.mp4",
       "when": "2026-11-12T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2242179869661887",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-12T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-05T10:02:21+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_1_afternoon_headache_causes-ig",
