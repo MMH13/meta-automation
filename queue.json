@@ -40611,7 +40611,11 @@
       "message": "Shrink any habit down to under 2 minutes ⏱️\n\n'Read before bed' becomes 'read one page'. Showing up consistently matters more than doing a lot at once.\n\n💚 Bookmark this before starting a new habit.\n\n💬 What habit could you shrink to 2 minutes?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_1_two_minute_rule_habits.mp4",
       "when": "2026-11-05T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18119600047772248"
+      },
+      "posted_at": "2026-11-05T11:11:24+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_2_habit_stacking_technique-fb",
@@ -41162,7 +41166,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_2_eye_strain_20_20_20.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_2_eye_strain_20_20_20.mp4",
       "when": "2026-11-12T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1888725315821469",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-12T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-05T11:10:41+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_2_eye_strain_20_20_20-ig",
