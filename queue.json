@@ -40735,7 +40735,11 @@
       "message": "'I'm becoming healthier' beats 'I'm on a diet' 🗳️\n\nHabits tied to identity outlast habits tied to strict rules. Each choice is a vote for who you're becoming.\n\n💚 Bookmark this mindset shift.\n\n💬 How do you talk to yourself about your habits?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_5_habit_identity_shift.mp4",
       "when": "2026-11-06T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18117701749818698"
+      },
+      "posted_at": "2026-11-06T21:41:03+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_6_batch_cooking_consistency-fb",
@@ -41259,7 +41263,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_6_desk_lighting_eye_comfort.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_6_desk_lighting_eye_comfort.mp4",
       "when": "2026-11-13T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1180791490944180",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-13T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-06T21:39:28+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_6_desk_lighting_eye_comfort-ig",
