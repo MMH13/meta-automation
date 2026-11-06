@@ -40673,7 +40673,11 @@
       "message": "Willpower is unreliable, your environment doesn't have to be 🍎\n\nKeeping fruit visible and snacks out of sight quietly changes what you grab. Design the space, not just discipline.\n\n💚 Bookmark this before rearranging your kitchen.\n\n💬 Is your kitchen set up to support healthy choices?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_3_environment_design_willpower.mp4",
       "when": "2026-11-06T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17957184294292323"
+      },
+      "posted_at": "2026-11-06T03:45:19+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_4_progress_not_perfection_mindset-fb",
@@ -41224,7 +41228,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_4_screen_posture_neck_strain.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_4_screen_posture_neck_strain.mp4",
       "when": "2026-11-13T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "982929317670244",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-13T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-06T03:44:36+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_4_screen_posture_neck_strain-ig",
