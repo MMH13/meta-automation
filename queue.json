@@ -40704,7 +40704,11 @@
       "message": "Missing one day doesn't erase weeks of progress 📆\n\nThe 'never miss twice' rule keeps one slip from becoming a spiral. It removes the all-or-nothing trap.\n\n💚 Bookmark this if you're building a new habit.\n\n💬 Do you tend to give up after one missed day?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_4_progress_not_perfection_mindset.mp4",
       "when": "2026-11-06T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17927580612434098"
+      },
+      "posted_at": "2026-11-06T11:10:12+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_5_habit_identity_shift-fb",
@@ -41528,7 +41532,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_5_overtraining_fatigue_check.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_5_overtraining_fatigue_check.mp4",
       "when": "2026-11-13T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1153696780455867",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-13T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-06T11:08:32+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_5_overtraining_fatigue_check-ig",
