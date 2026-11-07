@@ -40766,7 +40766,11 @@
       "message": "One hour of Sunday cooking carries your whole week 🍲\n\nDecision fatigue by dinnertime is why people default to fast food. Batch-cooking one base removes a lot of friction.\n\n💚 Bookmark this before your next Sunday.\n\n💬 Do you meal prep on weekends?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_6_batch_cooking_consistency.mp4",
       "when": "2026-11-07T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17912152563477702"
+      },
+      "posted_at": "2026-11-07T03:17:51+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_7_replace_not_remove_habits-fb",
@@ -41290,7 +41294,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_7_hobbies_mental_health_buffer.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_7_hobbies_mental_health_buffer.mp4",
       "when": "2026-11-14T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1482759530508298",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-14T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-07T03:16:58+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_7_hobbies_mental_health_buffer-ig",
