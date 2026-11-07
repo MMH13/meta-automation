@@ -40797,7 +40797,11 @@
       "message": "Removing a habit leaves a gap, replacing it fills it 🔄\n\nJust stopping cold often fails without a substitute. Swapping soda for sparkling water keeps the ritual, changes the content.\n\n💚 Bookmark this before your next habit change.\n\n💬 Have you tried swapping instead of quitting cold?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_7_replace_not_remove_habits.mp4",
       "when": "2026-11-07T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18098263391440004"
+      },
+      "posted_at": "2026-11-07T15:48:00+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_8_ninety_second_urge_rule-fb",
@@ -41321,7 +41325,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_8_positive_environment_people.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_8_positive_environment_people.mp4",
       "when": "2026-11-14T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1113224861478638",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-14T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-07T15:47:16+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_8_positive_environment_people-ig",
