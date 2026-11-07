@@ -40828,7 +40828,11 @@
       "message": "Cravings usually peak and fade within 90 seconds 🌊\n\nThe intense feeling is a wave, not a permanent state. Naming it and waiting it out works better than fighting it.\n\n💚 Bookmark this for your next craving.\n\n💬 Have you tried just waiting out a craving?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_8_ninety_second_urge_rule.mp4",
       "when": "2026-11-07T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18118396769468810"
+      },
+      "posted_at": "2026-11-07T20:21:09+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_9_clutter_stress_connection-fb",
@@ -41352,7 +41356,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_9_daily_checkin_habit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_9_daily_checkin_habit.mp4",
       "when": "2026-11-14T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1111576271770397",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-14T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-07T20:20:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_9_daily_checkin_habit-ig",
