@@ -40921,7 +40921,11 @@
       "message": "You're probably tensing your jaw right now 😮\n\nMost people carry unconscious tension in their jaw, shoulders, and hands. A quick body scan takes under 2 minutes.\n\n💚 Bookmark this and check in with your body now.\n\n💬 Are your shoulders tense right now?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_1_body_scan_relaxation.mp4",
       "when": "2026-11-08T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18102439169407837"
+      },
+      "posted_at": "2026-11-08T19:13:53+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_2_forehead_tension_stress_sign-fb",
@@ -41445,7 +41449,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_2_sun_damage_cumulative_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_2_sun_damage_cumulative_effect.mp4",
       "when": "2026-11-15T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1123040173827343",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-15T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-08T19:12:04+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_2_sun_damage_cumulative_effect-ig",
