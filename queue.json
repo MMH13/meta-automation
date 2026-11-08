@@ -40890,7 +40890,11 @@
       "message": "Small wins trigger real reward chemistry in your brain 🏆\n\nEven tiny completed tasks release a dopamine signal. A visible checklist or streak counter taps right into that.\n\n💚 Bookmark this and start a small streak today.\n\n💬 Do you track small daily wins?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_10_small_wins_motivation.mp4",
       "when": "2026-11-08T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18139587286748093"
+      },
+      "posted_at": "2026-11-08T13:45:12+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_1_body_scan_relaxation-fb",
@@ -41414,7 +41418,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_1_skin_barrier_function_basics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_1_skin_barrier_function_basics.mp4",
       "when": "2026-11-15T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1740924813669988",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-15T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-08T13:44:24+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_1_skin_barrier_function_basics-ig",
