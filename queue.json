@@ -40859,7 +40859,11 @@
       "message": "A cluttered space quietly raises your baseline stress 🧹\n\nVisual clutter competes for your brain's limited attention. Clearing just one surface creates real, noticeable calm.\n\n💚 Bookmark this and clear one surface today.\n\n💬 Does clutter affect your mood?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d13_9_clutter_stress_connection.mp4",
       "when": "2026-11-08T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17920548651455025"
+      },
+      "posted_at": "2026-11-08T06:23:11+00:00"
     },
     {
       "id": "hd-cadence-hd10_d13_10_small_wins_motivation-fb",
@@ -41383,7 +41387,13 @@
       "video_path": "images/health_reels_hd10_batch03/hd10_d15_10_month_reflection_progress.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_10_month_reflection_progress.mp4",
       "when": "2026-11-15T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1018518331272859",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-15T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-08T06:22:19+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_10_month_reflection_progress-ig",
