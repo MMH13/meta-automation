@@ -41014,7 +41014,11 @@
       "message": "Your self-talk affects your body like outside criticism 🗣️\n\nHarsh self-talk activates a real stress response. Try talking to yourself the way you'd talk to a friend.\n\n💚 Bookmark this and notice your inner voice today.\n\n💬 Is your self-talk usually kind or harsh?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_4_self_talk_tone_matters.mp4",
       "when": "2026-11-09T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18147492211590855"
+      },
+      "posted_at": "2026-11-09T22:34:17+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_5_single_tasking_focus_benefit-fb",
@@ -41538,7 +41542,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_5_gum_disease_heart_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_5_gum_disease_heart_link.mp4",
       "when": "2026-11-16T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1454853056034492",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-16T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-09T22:33:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_5_gum_disease_heart_link-ig",
