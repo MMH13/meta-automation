@@ -40952,7 +40952,11 @@
       "message": "Your forehead might be tense right now 😌\n\nWe clench this area during focus without realizing it. Consciously softening it signals calm to your whole body.\n\n💚 Bookmark this and try it right now.\n\n💬 Is your forehead tense as you read this?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_2_forehead_tension_stress_sign.mp4",
       "when": "2026-11-09T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18398506567164694"
+      },
+      "posted_at": "2026-11-09T03:03:59+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_3_overthinking_action_loop-fb",
@@ -41476,7 +41480,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_3_hair_growth_cycle_phases.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_3_hair_growth_cycle_phases.mp4",
       "when": "2026-11-16T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1109795701846181",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-16T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-09T03:03:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_3_hair_growth_cycle_phases-ig",
