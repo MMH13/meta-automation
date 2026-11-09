@@ -40983,7 +40983,11 @@
       "message": "Overthinking feels like progress but rarely is 🌀\n\nA tiny physical action can interrupt the loop fast. Ask 'what's one small next step?' to shift into motion.\n\n💚 Bookmark this for your next overthinking spiral.\n\n💬 Do you catch yourself overthinking often?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_3_overthinking_action_loop.mp4",
       "when": "2026-11-09T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17989356210083774"
+      },
+      "posted_at": "2026-11-09T11:50:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_4_self_talk_tone_matters-fb",
@@ -41507,7 +41511,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_4_dry_eyes_screen_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_4_dry_eyes_screen_link.mp4",
       "when": "2026-11-16T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1803657477449133",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-16T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-09T11:49:12+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_4_dry_eyes_screen_link-ig",
