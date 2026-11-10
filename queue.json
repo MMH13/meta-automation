@@ -41045,7 +41045,11 @@
       "message": "Multitasking is mostly just fast switching 🔀\n\nEach switch carries a small mental cost that adds up. 20 focused minutes on one task beats an hour of switching.\n\n💚 Bookmark this before your next work block.\n\n💬 Do you multitask often during the day?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_5_single_tasking_focus_benefit.mp4",
       "when": "2026-11-10T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18458532673125830"
+      },
+      "posted_at": "2026-11-10T04:23:23+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_6_evening_wind_down_stress-fb",
@@ -41569,7 +41573,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_6_tongue_scraping_benefit.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_6_tongue_scraping_benefit.mp4",
       "when": "2026-11-17T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1131715859594543",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-17T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-10T04:22:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_6_tongue_scraping_benefit-ig",
