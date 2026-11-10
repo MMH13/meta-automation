@@ -41076,7 +41076,11 @@
       "message": "Your last hour awake shapes your whole next day 🌙\n\nStimulating content or stressful tasks late can carry into your sleep. Save calmer activities for that final hour.\n\n💚 Bookmark this before tonight.\n\n💬 How do you usually spend your last hour before bed?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_6_evening_wind_down_stress.mp4",
       "when": "2026-11-10T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18128403973931146"
+      },
+      "posted_at": "2026-11-10T11:25:11+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_7_comparing_to_past_self-fb",
@@ -41600,7 +41604,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_7_sunglasses_uv_protection.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_7_sunglasses_uv_protection.mp4",
       "when": "2026-11-17T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2083185018990819",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-17T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-10T11:24:11+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_7_sunglasses_uv_protection-ig",
