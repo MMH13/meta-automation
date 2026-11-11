@@ -41138,7 +41138,11 @@
       "message": "5 minutes of true silence resets an overstimulated brain 🤫\n\nMost days involve constant noise and notifications. Sitting with no input at all gives your brain genuinely real rest.\n\n💚 Bookmark this and try it today.\n\n💬 When did you last sit in true silence?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_8_silence_mental_reset.mp4",
       "when": "2026-11-11T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18105230438161470"
+      },
+      "posted_at": "2026-11-11T07:56:10+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_9_worry_time_scheduling-fb",
@@ -41689,7 +41693,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_9_acne_diet_link_nuance.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_9_acne_diet_link_nuance.mp4",
       "when": "2026-11-18T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2048347595873643",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-18T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-11T07:55:24+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_9_acne_diet_link_nuance-ig",
