@@ -41200,7 +41200,11 @@
       "message": "'Just relax' doesn't actually work, here's why 🧠\n\nYour nervous system needs a real physical signal, not just words. Slow exhales or cold water genuinely help.\n\n💚 Bookmark this next time someone says 'just relax'.\n\n💬 What actually helps you calm down?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_10_self_compare_relax_myth.mp4",
       "when": "2026-11-11T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18101494232678959"
+      },
+      "posted_at": "2026-11-11T23:08:26+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_1_afternoon_headache_causes-fb",
@@ -41751,7 +41755,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_1_dandruff_common_causes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_1_dandruff_common_causes.mp4",
       "when": "2026-11-18T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1445592867683082",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-18T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-11T23:07:38+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_1_dandruff_common_causes-ig",
