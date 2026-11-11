@@ -41169,7 +41169,11 @@
       "message": "Try scheduling a set 'worry time' each day 📋\n\nWhen a worry pops up, jot it down and save it. It gives anxious thoughts a container instead of letting them roam free.\n\n💚 Bookmark this and try it tomorrow.\n\n💬 Would a scheduled 'worry time' help you?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d14_9_worry_time_scheduling.mp4",
       "when": "2026-11-11T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18000167822830671"
+      },
+      "posted_at": "2026-11-11T11:12:26+00:00"
     },
     {
       "id": "hd-cadence-hd10_d14_10_self_compare_relax_myth-fb",
@@ -41720,7 +41724,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d16_10_nose_breathing_benefits.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_10_nose_breathing_benefits.mp4",
       "when": "2026-11-18T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1786279306008977",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-18T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-11T11:11:39+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_10_nose_breathing_benefits-ig",
