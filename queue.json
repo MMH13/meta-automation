@@ -41262,7 +41262,11 @@
       "message": "The 20-20-20 rule for tired eyes 👀\n\nEvery 20 minutes, look at something 20 feet away for 20 seconds. It relaxes the tiny focusing muscles in your eyes.\n\n💚 Bookmark this before your next work session.\n\n💬 Do you take regular breaks from screens?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_2_eye_strain_20_20_20.mp4",
       "when": "2026-11-12T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18004505886002036"
+      },
+      "posted_at": "2026-11-12T11:30:01+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_3_teeth_grinding_stress_link-fb",
@@ -41813,7 +41817,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_3_earwax_natural_function.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_3_earwax_natural_function.mp4",
       "when": "2026-11-19T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1426395796336290",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-19T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-12T11:29:17+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_3_earwax_natural_function-ig",
