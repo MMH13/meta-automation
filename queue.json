@@ -41231,7 +41231,11 @@
       "message": "That afternoon headache usually has 3 common causes 🤕\n\nDehydration, screen strain, and a skipped meal. Water, an eye break, and a snack cover all three at once.\n\n💚 Bookmark this before your next headache.\n\n💬 Do you get a recurring afternoon headache?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_1_afternoon_headache_causes.mp4",
       "when": "2026-11-12T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17888269734504777"
+      },
+      "posted_at": "2026-11-12T04:24:14+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_2_eye_strain_20_20_20-fb",
@@ -41782,7 +41786,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_2_nail_ridges_meaning.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_2_nail_ridges_meaning.mp4",
       "when": "2026-11-19T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1485410630352841",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-19T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-12T04:23:16+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_2_nail_ridges_meaning-ig",
