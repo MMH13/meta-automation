@@ -41293,7 +41293,11 @@
       "message": "Teeth grinding at night is often a stress signal 🦷\n\nMany people don't realize they do it until a dentist notices. Addressing daytime stress can ease nighttime grinding.\n\n💚 Bookmark this before your next dental checkup.\n\n💬 Have you ever been told you grind your teeth?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_3_teeth_grinding_stress_link.mp4",
       "when": "2026-11-12T19:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17896077186436855"
+      },
+      "posted_at": "2026-11-12T21:10:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_4_screen_posture_neck_strain-fb",
@@ -41844,7 +41848,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_4_lip_balm_dependency_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_4_lip_balm_dependency_myth.mp4",
       "when": "2026-11-19T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1082368241513920",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-19T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-12T21:09:30+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_4_lip_balm_dependency_myth-ig",
