@@ -41324,7 +41324,11 @@
       "message": "Looking down at your phone can multiply the load on your neck 📱\n\nA 45-degree tilt is estimated to roughly quadruple the strain. Raising your phone to eye level cuts that load significantly.\n\n💚 Bookmark this and check your posture right now.\n\n💬 Do you notice neck strain from your phone?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_4_screen_posture_neck_strain.mp4",
       "when": "2026-11-13T03:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "18139051702768521"
+      },
+      "posted_at": "2026-11-13T03:28:51+00:00"
     },
     {
       "id": "hd-cadence-hd10_d15_6_desk_lighting_eye_comfort-fb",
@@ -41875,7 +41879,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_5_cold_sores_trigger_stress.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_5_cold_sores_trigger_stress.mp4",
       "when": "2026-11-20T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2186223085349318",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-20T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-13T03:27:34+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_5_cold_sores_trigger_stress-ig",
