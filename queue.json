@@ -41706,7 +41706,11 @@
       "message": "Fatigue that rest doesn't fix is worth checking on 🩺\n\nNormal tiredness improves with a good night's sleep. If it lingers for weeks despite that, see a doctor.\n\n💚 Bookmark this and share if it's relevant to you.\n\n💬 Does rest usually fix your tiredness?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_5_overtraining_fatigue_check.mp4",
       "when": "2026-11-13T11:00:00+00:00",
-      "status": "pending"
+      "status": "posted",
+      "result": {
+        "media_id": "17916747048493138"
+      },
+      "posted_at": "2026-11-13T11:14:42+00:00"
     },
     {
       "id": "hd-cadence-hd10_d16_9_acne_diet_link_nuance-fb",
@@ -41906,7 +41910,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_6_skin_hydration_humectants.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_6_skin_hydration_humectants.mp4",
       "when": "2026-11-20T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1555985873217144",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-20T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-13T11:13:57+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_6_skin_hydration_humectants-ig",
