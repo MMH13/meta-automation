@@ -41439,7 +41439,8 @@
       "message": "A 60-second daily check-in catches small issues early ✅\n\nSmall shifts in energy or mood are easier to notice with a routine. Just ask 'how am I really doing?' once a day.\n\n💚 Bookmark this and try it today.\n\n💬 Do you check in with yourself daily?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_9_daily_checkin_habit.mp4",
       "when": "2026-11-14T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d15_10_month_reflection_progress-fb",
@@ -42021,7 +42022,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_10_hair_washing_frequency_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_10_hair_washing_frequency_myth.mp4",
       "when": "2026-11-21T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1802513711000996",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-21T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-14T19:30:40+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_10_hair_washing_frequency_myth-ig",
