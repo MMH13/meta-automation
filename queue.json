@@ -41411,7 +41411,8 @@
       "message": "Health habits genuinely spread through social circles 👥\n\nWho you spend time with shapes your own habits and mood. Notice who lifts you up versus who drains you.\n\n💚 Bookmark this and reflect on your circle today.\n\n💬 Do the people around you support your habits?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_8_positive_environment_people.mp4",
       "when": "2026-11-14T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d15_9_daily_checkin_habit-fb",
@@ -41993,7 +41994,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d17_9_dry_skin_winter_causes.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_9_dry_skin_winter_causes.mp4",
       "when": "2026-11-21T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2407658503306085",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-21T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-14T14:33:17+00:00"
     },
     {
       "id": "hd-cadence-hd10_d17_9_dry_skin_winter_causes-ig",
