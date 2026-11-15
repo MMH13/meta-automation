@@ -41467,7 +41467,8 @@
       "message": "Day to day change is invisible, month to month it's obvious 📅\n\nA quick note on the first of each month is an easy way to actually see your real progress.\n\n💚 Bookmark this and start your monthly check-in today.\n\n💬 How would you rate this past month for your health?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d15_10_month_reflection_progress.mp4",
       "when": "2026-11-15T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d16_1_skin_barrier_function_basics-fb",
@@ -42049,7 +42050,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d18_1_insulin_resistance_basics.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_1_insulin_resistance_basics.mp4",
       "when": "2026-11-22T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1825280355289014",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-22T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-15T03:11:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d18_1_insulin_resistance_basics-ig",
