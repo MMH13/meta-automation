@@ -41579,7 +41579,8 @@
       "message": "You blink way less while staring at a screen 👁️\n\nBlink rate can drop by more than half during focused screen time. Consciously blinking keeps eyes lubricated.\n\n💚 Bookmark this before your next work session.\n\n💬 Do your eyes feel dry after screen time?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_4_dry_eyes_screen_link.mp4",
       "when": "2026-11-16T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d16_5_gum_disease_heart_link-fb",
@@ -42161,7 +42162,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d18_5_blood_sugar_rollercoaster.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_5_blood_sugar_rollercoaster.mp4",
       "when": "2026-11-23T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1599311511943491",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-23T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-16T11:43:24+00:00"
     },
     {
       "id": "hd-cadence-hd10_d18_5_blood_sugar_rollercoaster-ig",
