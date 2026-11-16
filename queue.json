@@ -41607,7 +41607,8 @@
       "message": "Gum health may be connected to heart health 🦷\n\nChronic gum inflammation is linked to higher cardiovascular risk. Daily flossing does more than protect your teeth.\n\n💚 Bookmark this and floss tonight.\n\n💬 Do you floss daily?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_5_gum_disease_heart_link.mp4",
       "when": "2026-11-16T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d16_6_tongue_scraping_benefit-fb",
@@ -42189,7 +42190,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d18_6_leptin_ghrelin_hunger_hormones.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_6_leptin_ghrelin_hunger_hormones.mp4",
       "when": "2026-11-23T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1108392815568829",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-23T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-16T22:34:19+00:00"
     },
     {
       "id": "hd-cadence-hd10_d18_6_leptin_ghrelin_hunger_hormones-ig",
