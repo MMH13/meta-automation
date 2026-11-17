@@ -41635,7 +41635,8 @@
       "message": "A quick tongue scrape freshens your whole mouth 😁\n\nBacteria build up on your tongue's surface overnight. A gentle scrape takes under 15 seconds.\n\n💚 Bookmark this for tomorrow morning.\n\n💬 Have you tried tongue scraping?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_6_tongue_scraping_benefit.mp4",
       "when": "2026-11-17T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d16_7_sunglasses_uv_protection-fb",
@@ -42217,7 +42218,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d18_7_metabolic_rate_muscle_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_7_metabolic_rate_muscle_link.mp4",
       "when": "2026-11-24T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1640280317830084",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-24T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-17T04:49:28+00:00"
     },
     {
       "id": "hd-cadence-hd10_d18_7_metabolic_rate_muscle_link-ig",
