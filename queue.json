@@ -41691,7 +41691,8 @@
       "message": "Sudden tooth sensitivity usually has a specific cause ❄️\n\nBrushing too hard wears down enamel over time. A softer brush and gentler pressure protects it long-term.\n\n💚 Bookmark this before your next brush.\n\n💬 Do you brush firmly or gently?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d16_8_teeth_sensitivity_causes.mp4",
       "when": "2026-11-17T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d15_5_overtraining_fatigue_check-fb",
@@ -42273,7 +42274,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d18_9_pcos_awareness_basic.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_9_pcos_awareness_basic.mp4",
       "when": "2026-11-24T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2150837345539913",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-24T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-17T21:07:44+00:00"
     },
     {
       "id": "hd-cadence-hd10_d18_9_pcos_awareness_basic-ig",
