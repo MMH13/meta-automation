@@ -41834,7 +41834,8 @@
       "message": "Vertical nail ridges are usually harmless 💅\n\nThey tend to become more visible naturally with age. Sudden new ridges or discoloration are worth checking though.\n\n💚 Bookmark this and check your nails.\n\n💬 Have you noticed ridges on your nails?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_2_nail_ridges_meaning.mp4",
       "when": "2026-11-19T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d17_3_earwax_natural_function-fb",
@@ -42385,7 +42386,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d19_3_hormone_balance_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_3_hormone_balance_myth.mp4",
       "when": "2026-11-26T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1182112217665285",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-26T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-19T10:47:48+00:00"
     },
     {
       "id": "hd-cadence-hd10_d19_3_hormone_balance_myth-ig",
