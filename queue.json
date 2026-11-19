@@ -41890,7 +41890,8 @@
       "message": "'Lip balm addiction' isn't really chemical 💋\n\nSome ingredients mildly irritate, creating a reapply cycle. A simple, fragrance-free balm usually breaks it.\n\n💚 Bookmark this before your next lip balm purchase.\n\n💬 Do you feel like you reapply lip balm constantly?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_4_lip_balm_dependency_myth.mp4",
       "when": "2026-11-19T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d17_5_cold_sores_trigger_stress-fb",
@@ -42441,7 +42442,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d19_5_stress_hormone_weight_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_5_stress_hormone_weight_link.mp4",
       "when": "2026-11-26T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1147524598013890",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-26T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-19T19:11:46+00:00"
     },
     {
       "id": "hd-cadence-hd10_d19_5_stress_hormone_weight_link-ig",
