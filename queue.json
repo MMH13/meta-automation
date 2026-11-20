@@ -41946,7 +41946,8 @@
       "message": "This skincare ingredient pulls water INTO your skin 💧\n\nHyaluronic acid can hold many times its weight in water. Apply it to slightly damp skin for better absorption.\n\n💚 Bookmark this before your next skincare routine.\n\n💬 Do you apply skincare to damp or dry skin?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_6_skin_hydration_humectants.mp4",
       "when": "2026-11-20T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d17_7_hair_loss_stress_link-fb",
@@ -42497,7 +42498,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d19_7_hormone_healthy_fats_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_7_hormone_healthy_fats_link.mp4",
       "when": "2026-11-27T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1629883921951556",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-27T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-20T11:54:07+00:00"
     },
     {
       "id": "hd-cadence-hd10_d19_7_hormone_healthy_fats_link-ig",
