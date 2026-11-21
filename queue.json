@@ -42002,7 +42002,8 @@
       "message": "That random eyelid twitch is almost always harmless 😌\n\nCaffeine, fatigue, and eye strain are the top culprits. More sleep and less caffeine usually fix it within days.\n\n💚 Bookmark this next time it happens.\n\n💬 Do you get eyelid twitches?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_8_eye_twitching_causes.mp4",
       "when": "2026-11-21T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d17_9_dry_skin_winter_causes-fb",
@@ -42553,7 +42554,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d19_9_blood_sugar_stress_response.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_9_blood_sugar_stress_response.mp4",
       "when": "2026-11-28T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "2420645235406001",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-28T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-21T07:45:40+00:00"
     },
     {
       "id": "hd-cadence-hd10_d19_9_blood_sugar_stress_response-ig",
