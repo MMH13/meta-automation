@@ -42058,7 +42058,8 @@
       "message": "There's no 'correct' number of hair washes a week 🚿\n\nOil production varies a lot person to person. Wash when your scalp actually feels oily, not on a fixed schedule.\n\n💚 Bookmark this hair-care myth-buster.\n\n💬 How often do you wash your hair?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d17_10_hair_washing_frequency_myth.mp4",
       "when": "2026-11-21T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d18_1_insulin_resistance_basics-fb",
@@ -42609,7 +42610,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d20_1_metabolism_muscle_vs_fat.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d20_1_metabolism_muscle_vs_fat.mp4",
       "when": "2026-11-28T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1178265431390607",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-28T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-21T19:33:03+00:00"
     },
     {
       "id": "hd-cadence-hd10_d20_1_metabolism_muscle_vs_fat-ig",
