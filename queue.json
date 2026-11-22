@@ -42142,7 +42142,8 @@
       "message": "Your thyroid is like a thermostat for your metabolism 🦋\n\nIt's a small gland with a surprisingly large body-wide effect. Unexplained fatigue can sometimes trace back to it.\n\n💚 Bookmark this and mention it at your next checkup.\n\n💬 Have you ever had your thyroid checked?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_3_thyroid_metabolism_role.mp4",
       "when": "2026-11-22T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d18_4_metabolism_doesnt_stall_diet-fb",
@@ -42693,7 +42694,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d20_4_thyroid_symptoms_awareness.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d20_4_thyroid_symptoms_awareness.mp4",
       "when": "2026-11-29T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1528971715956791",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-29T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-22T22:36:45+00:00"
     },
     {
       "id": "hd-cadence-hd10_d20_4_thyroid_symptoms_awareness-ig",
