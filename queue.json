@@ -42114,7 +42114,8 @@
       "message": "Chronic stress and belly fat are genuinely linked 😮\n\nCortisol can influence where fat gets stored, but it's about chronic long-term stress, not one bad day.\n\n💚 Bookmark this stress-body connection.\n\n💬 Do you manage stress consistently or only in crisis?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_2_cortisol_belly_fat_myth.mp4",
       "when": "2026-11-22T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d18_3_thyroid_metabolism_role-fb",
@@ -42665,7 +42666,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d20_3_metabolism_breakfast_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d20_3_metabolism_breakfast_myth.mp4",
       "when": "2026-11-29T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1740571954155941",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-29T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-22T11:39:47+00:00"
     },
     {
       "id": "hd-cadence-hd10_d20_3_metabolism_breakfast_myth-ig",
