@@ -42310,7 +42310,8 @@
       "message": "PCOS is common, yet often missed for years 🎗️\n\nIt can affect periods, skin, and blood sugar all at once. Many people live with symptoms for years before diagnosis.\n\n💚 Bookmark this and share to raise awareness.\n\n💬 Have you heard of PCOS before?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_9_pcos_awareness_basic.mp4",
       "when": "2026-11-24T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d18_10_blood_sugar_morning_spike-fb",
@@ -42861,7 +42862,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d20_10_hormone_consistency_wins.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d20_10_hormone_consistency_wins.mp4",
       "when": "2026-12-01T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1490445642969420",
+        "status": "scheduled",
+        "publish_at_utc": "2026-12-01T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-24T21:33:33+00:00"
     },
     {
       "id": "hd-cadence-hd10_d20_10_hormone_consistency_wins-ig",
