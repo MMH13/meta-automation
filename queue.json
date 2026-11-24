@@ -42254,7 +42254,8 @@
       "message": "Muscle burns more calories at rest than fat 💪\n\nMore muscle mass means a slightly higher resting metabolic rate around the clock. One reason strength training helps.\n\n💚 Bookmark this before your next workout.\n\n💬 Do you include strength training for this reason?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_7_metabolic_rate_muscle_link.mp4",
       "when": "2026-11-24T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d18_8_metabolism_age_myth-fb",
@@ -42281,7 +42282,8 @@
       "message": "Metabolism doesn't crash at 30 or 40, that's a myth 🎂\n\nSome research shows it stays fairly stable through your 60s. Muscle mass and activity level are what actually decline.\n\n💚 Bookmark this age myth-buster.\n\n💬 Do you believe metabolism 'crashes' with age?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_8_metabolism_age_myth.mp4",
       "when": "2026-11-24T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d18_9_pcos_awareness_basic-fb",
@@ -42805,7 +42807,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d20_8_metabolic_flexibility_concept.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d20_8_metabolic_flexibility_concept.mp4",
       "when": "2026-12-01T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "978330421665044",
+        "status": "scheduled",
+        "publish_at_utc": "2026-12-01T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-24T11:40:09+00:00"
     },
     {
       "id": "hd-cadence-hd10_d20_8_metabolic_flexibility_concept-ig",
@@ -42826,7 +42834,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d20_9_hormone_alcohol_effect.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d20_9_hormone_alcohol_effect.mp4",
       "when": "2026-12-01T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1170154005375497",
+        "status": "scheduled",
+        "publish_at_utc": "2026-12-01T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-24T11:40:09+00:00"
     },
     {
       "id": "hd-cadence-hd10_d20_9_hormone_alcohol_effect-ig",
