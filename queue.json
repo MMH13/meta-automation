@@ -42226,7 +42226,8 @@
       "message": "Two hormones control your hunger and fullness 🍽️\n\nGhrelin says 'time to eat', leptin says 'you've had enough'. Poor sleep can throw both of these off balance.\n\n💚 Bookmark this hunger-hormone basic.\n\n💬 Did you know these hormones had names?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_6_leptin_ghrelin_hunger_hormones.mp4",
       "when": "2026-11-23T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d18_7_metabolic_rate_muscle_link-fb",
@@ -42777,7 +42778,13 @@
       "video_path": "images/health_reels_hd10_batch04/hd10_d20_7_hormone_fiber_gut_link.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d20_7_hormone_fiber_gut_link.mp4",
       "when": "2026-11-30T19:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1680239400167238",
+        "status": "scheduled",
+        "publish_at_utc": "2026-11-30T19:00:00Z"
+      },
+      "scheduled_at": "2026-11-24T01:17:03+00:00"
     },
     {
       "id": "hd-cadence-hd10_d20_7_hormone_fiber_gut_link-ig",
