@@ -42366,7 +42366,8 @@
       "message": "Energy can shift predictably across your cycle 🌙\n\nRising estrogen can coincide with feeling more energetic. Tracking your own pattern helps you plan strategically.\n\n💚 Bookmark this and start tracking your pattern.\n\n💬 Do you track energy shifts across your cycle?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_1_estrogen_cycle_energy.mp4",
       "when": "2026-11-25T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d19_2_testosterone_sleep_link-fb",
@@ -42917,7 +42918,13 @@
       "video_path": "images/health_reels_hd10_batch05/hd10_d21_2_joint_cracking_myth.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d21_2_joint_cracking_myth.mp4",
       "when": "2026-12-02T11:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "29112838861676394",
+        "status": "scheduled",
+        "publish_at_utc": "2026-12-02T11:00:00Z"
+      },
+      "scheduled_at": "2026-11-25T13:11:28+00:00"
     },
     {
       "id": "hd-cadence-hd10_d21_2_joint_cracking_myth-ig",
