@@ -42338,7 +42338,8 @@
       "message": "Your blood sugar naturally rises a bit each morning 🌅\n\nIt's called the dawn effect, driven by hormones preparing you to wake. A totally normal biological process.\n\n💚 Bookmark this morning biology fact.\n\n💬 Did you know about the dawn effect before?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d18_10_blood_sugar_morning_spike.mp4",
       "when": "2026-11-25T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d19_1_estrogen_cycle_energy-fb",
@@ -42889,7 +42890,13 @@
       "video_path": "images/health_reels_hd10_batch05/hd10_d21_1_bone_density_peak_age.mp4",
       "video_src": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d21_1_bone_density_peak_age.mp4",
       "when": "2026-12-02T03:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "result": {
+        "video_id": "1297978262495902",
+        "status": "scheduled",
+        "publish_at_utc": "2026-12-02T03:00:00Z"
+      },
+      "scheduled_at": "2026-11-25T04:37:23+00:00"
     },
     {
       "id": "hd-cadence-hd10_d21_1_bone_density_peak_age-ig",
