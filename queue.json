@@ -42450,7 +42450,8 @@
       "message": "A single workout improves insulin sensitivity for hours 🏃\n\nWorking muscles pull in blood sugar without needing as much insulin. Even a walk after a meal blunts the spike.\n\n💚 Bookmark this and try a walk after your next meal.\n\n💬 Do you walk after meals?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_4_insulin_sensitivity_exercise.mp4",
       "when": "2026-11-26T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d19_5_stress_hormone_weight_link-fb",
