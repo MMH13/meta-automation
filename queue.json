@@ -42562,7 +42562,8 @@
       "message": "Metabolic syndrome is a cluster, not one disease 📊\n\nIt includes blood pressure, blood sugar, and waist size together. Catching a few markers early gives you real room to act.\n\n💚 Bookmark this and book a checkup.\n\n💬 Do you get regular checkups with these markers?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_8_metabolic_syndrome_basics.mp4",
       "when": "2026-11-27T19:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d19_9_blood_sugar_stress_response-fb",
