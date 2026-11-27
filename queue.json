@@ -42534,7 +42534,8 @@
       "message": "Your body needs fat to make key hormones 🥑\n\nCholesterol is actually a building block for hormone production. Very low-fat diets can disrupt that process.\n\n💚 Bookmark this before your next meal plan.\n\n💬 Do you include healthy fats in your meals?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_7_hormone_healthy_fats_link.mp4",
       "when": "2026-11-27T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d19_8_metabolic_syndrome_basics-fb",
