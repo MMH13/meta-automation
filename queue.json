@@ -42506,7 +42506,8 @@
       "message": "Metabolic shifts around menopause are real but manageable 🌸\n\nShifting hormones can affect where fat is stored. Strength training becomes even more valuable during this transition.\n\n💚 Bookmark this and share if it's relevant to someone.\n\n💬 Have you adjusted your routine around this life stage?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_6_menopause_metabolism_shift.mp4",
       "when": "2026-11-27T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d19_7_hormone_healthy_fats_link-fb",
