@@ -42618,7 +42618,8 @@
       "message": "Hormones aren't supposed to stay flat all day 📉\n\nMany follow a natural daily rhythm, rising and falling predictably. Fluctuation is the normal, healthy pattern.\n\n💚 Bookmark this reassuring hormone fact.\n\n💬 Did this change how you think about hormone changes?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_10_hormone_fluctuation_normal.mp4",
       "when": "2026-11-28T11:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d20_1_metabolism_muscle_vs_fat-fb",
