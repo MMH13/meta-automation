@@ -42590,7 +42590,8 @@
       "message": "Stress can raise blood sugar without eating anything 📈\n\nStress hormones signal your liver to release stored sugar. An old survival response meeting a modern, non-physical stressor.\n\n💚 Bookmark this stress-body connection.\n\n💬 Do you notice stress affecting your energy or hunger?",
       "video_url": "https://github.com/MMH13/ig-video-assets/releases/download/videos/hd10_d19_9_blood_sugar_stress_response.mp4",
       "when": "2026-11-28T03:00:00+00:00",
-      "status": "pending"
+      "status": "failed",
+      "error": "Graph API 400: Unsupported post request. Object with ID '17841406720438592' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api (type=GraphMethodException, code=100, subcode=33)"
     },
     {
       "id": "hd-cadence-hd10_d19_10_hormone_fluctuation_normal-fb",
